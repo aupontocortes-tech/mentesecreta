@@ -9,8 +9,8 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter
 W, H, FPS = 1080, 1920, 30
 HERE = os.path.dirname(os.path.abspath(__file__))
 CACHE = os.environ.get('MS_CACHE', '/tmp/ms_cache')
-OURO = (232, 168, 64); VERM = (235, 40, 70); CIANO = (60, 225, 215); MAG = (225, 60, 200); BRANCO = (255, 255, 255)
-CORES = [VERM, CIANO, OURO, MAG]
+OURO = (232, 168, 64); VERM = (226, 26, 38); CIANO = (60, 225, 215); MAG = (225, 60, 200); BRANCO = (255, 255, 255)
+CORES = [VERM, BRANCO, CIANO, VERM]  # identidade vermelha (logo); destaque sempre vermelho
 
 def fpath(n):
     for p in (os.path.join(HERE, 'fonts', n), os.path.join(HERE, n)):
@@ -47,8 +47,8 @@ def cena_mp4(i, sc, dur, out):
     dx = ['iw/2-(iw/zoom/2)', 'iw/2-(iw/zoom/2)+on*0.4', 'iw/2-(iw/zoom/2)-on*0.4'][i % 3]
     vf = (f"crop={cw}:{ch}:{x}:{y},scale={int(W*1.3)//2*2}:{int(H*1.3)//2*2}:flags=lanczos,"
           f"zoompan=z='1+({z}-1)*on/{n}':x='{dx}':y='ih/2-(ih/zoom/2)':d=1:s={W}x{H}:fps={FPS},"
-          f"eq=contrast=1.10:brightness=-0.06:saturation=0.62,"
-          f"colorbalance=rs=0.07:gs=0.02:bs=-0.09:rm=0.06:gm=0.01:bm=-0.07:rh=0.04:bh=-0.05,"
+          f"eq=contrast=1.14:brightness=-0.07:saturation=0.50,"
+          f"colorbalance=rs=0.05:gs=-0.02:bs=0.01:rm=0.04:gm=-0.02:bm=-0.01,"
           f"vignette=PI/3.6,fade=t=in:st=0:d=0.35,setsar=1")
     o = os.path.join(out, f'part{i:02d}.mp4')
     run(['ffmpeg', '-y', '-loglevel', 'error', '-loop', '1', '-i', p, '-t', f'{dur:.3f}', '-an', '-vf', vf,
@@ -114,7 +114,7 @@ def main():
         ws = [limpa(x['w']) for x in c]
         alvo = next((j for j, w in enumerate(ws) if w in dest), None)
         if alvo is None: alvo = max(range(len(ws)), key=lambda j: len(ws[j]))
-        cor = OURO if ws[alvo] in dest else CORES[ncor % len(CORES)]; ncor += 1
+        cor = VERM if ws[alvo] in dest else CORES[ncor % len(CORES)]; ncor += 1
         CH.append((c[0]['s'] - 0.05, c[-1]['e'] + 0.12, c, cor, alvo))
     for j in range(len(CH) - 1):  # emenda blocos próximos para não piscar
         if CH[j + 1][0] - CH[j][1] < 0.35: CH[j] = (CH[j][0], CH[j + 1][0], *CH[j][2:])
@@ -139,10 +139,10 @@ def main():
         if len(raw) < fs: raw = last
         last = raw; t = i / FPS
         im = Image.frombytes('RGB', (W, H), raw).convert('RGBA'); im.alpha_composite(GRAD); d = ImageDraw.Draw(im)
-        d.text((W / 2, 120), 'MENTE SECRETA', font=M8, fill=OURO + (200,), anchor='mm')
+        d.text((W / 2, 120), 'MENTE SECRETA', font=M8, fill=VERM + (220,), anchor='mm')
         for (cs, ce, c, cor, alvo) in CH:
             if cs <= t < ce: desenha_legenda(im, c, cor, alvo, (t - cs) / 0.18); break
-        d.rectangle((0, H - 10, W * t / DUR, H), fill=OURO)
+        d.rectangle((0, H - 10, W * t / DUR, H), fill=VERM)
         enc.stdin.write(im.convert('RGB').tobytes())
     enc.stdin.close(); enc.wait(); dec.terminate()
     print('ok', final, round(os.path.getsize(final) / 1e6, 1), 'MB', round(DUR, 1), 's')
