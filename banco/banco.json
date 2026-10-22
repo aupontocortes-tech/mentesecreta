@@ -1,0 +1,618 @@
+[
+ {
+  "arquivo": "banco/poder/KMS3927.jpg",
+  "emocao": "poder",
+  "titulo": "Portrait of the Danish King Christian II",
+  "autor": "Ubekendt nederlandsk første fjerdedel af 1500-tallet",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 54
+ },
+ {
+  "arquivo": "banco/poder/KMS184.jpg",
+  "emocao": "poder",
+  "titulo": "Portrait of a Man",
+  "autor": "Gossaert, Jan",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 67
+ },
+ {
+  "arquivo": "banco/poder/KMSsp789.jpg",
+  "emocao": "poder",
+  "titulo": "Portrait of the Danish King Christian II",
+  "autor": "Sittow, Michiel",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 89
+ },
+ {
+  "arquivo": "banco/poder/KMSsp723.jpg",
+  "emocao": "poder",
+  "titulo": "Portrait of a Man. Probably Erik Eriksen Banner.",
+  "autor": "Cranach (I), Lucas",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 60
+ },
+ {
+  "arquivo": "banco/poder/KMS1351.jpg",
+  "emocao": "poder",
+  "titulo": "Industrimanden og politikeren I.C. Drewsen",
+  "autor": "Roed, Jørgen",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 51
+ },
+ {
+  "arquivo": "banco/poder/KMSsp428.jpg",
+  "emocao": "poder",
+  "titulo": "Portrait of a Woman",
+  "autor": "Bol, Ferdinand",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 44
+ },
+ {
+  "arquivo": "banco/poder/KMSsp384.jpg",
+  "emocao": "poder",
+  "titulo": "Portrait of a 22-Year-Old Woman",
+  "autor": "Voort, Cornelis van der",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 45
+ },
+ {
+  "arquivo": "banco/poder/KMS6703.jpg",
+  "emocao": "poder",
+  "titulo": "Portrait of a Young Woman",
+  "autor": "Keyser, Thomas de",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 56
+ },
+ {
+  "arquivo": "banco/poder/DEP15.jpg",
+  "emocao": "poder",
+  "titulo": "Portrait of Giovanni Bellini or Andrea di Nicolò Loredan?, Portrait of Giovanni Bellini or Andrea di Nicolò Loredan?",
+  "autor": "Tizian",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 67
+ },
+ {
+  "arquivo": "banco/poder/KMS185.jpg",
+  "emocao": "poder",
+  "titulo": "Portrait of a Man",
+  "autor": "Piazza, Callisto",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 69
+ },
+ {
+  "arquivo": "banco/poder/KMS3782.jpg",
+  "emocao": "poder",
+  "titulo": "Portrait of the Nuremburg Merchant and Collector Willibald Imhoff the Elder (1519-1580)",
+  "autor": "Tizian",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 85
+ },
+ {
+  "arquivo": "banco/poder/KMSsp465.jpg",
+  "emocao": "poder",
+  "titulo": "Portrait of a Lady",
+  "autor": "Victors, Jan",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 45
+ },
+ {
+  "arquivo": "banco/segredo/KMS1242c.jpg",
+  "emocao": "segredo",
+  "titulo": "Dame med sort kappe over hovedet og maske i hånden",
+  "autor": "Møller, Andreas",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 63
+ },
+ {
+  "arquivo": "banco/segredo/KMSsp474.jpg",
+  "emocao": "segredo",
+  "titulo": "Portrait of a Lady in a Veil",
+  "autor": "Mathisen, Thomas",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 35
+ },
+ {
+  "arquivo": "banco/segredo/KMS3465.jpg",
+  "emocao": "segredo",
+  "titulo": "En ung pige beder landsbyens gamle postbud besørge et brev",
+  "autor": "Dalsgaard, Christen",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 62
+ },
+ {
+  "arquivo": "banco/segredo/KMS3004.jpg",
+  "emocao": "segredo",
+  "titulo": "The Artist's Sisters Signe and Henriette Reading a Book",
+  "autor": "Hansen, Constantin",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 76
+ },
+ {
+  "arquivo": "banco/segredo/KMS1390.jpg",
+  "emocao": "segredo",
+  "titulo": "Laughing Girl Showing a Small Picture of a Nude Woman Seen from Behind",
+  "autor": "Bijlert, Jan van",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 84
+ },
+ {
+  "arquivo": "banco/segredo/KMSst387.jpg",
+  "emocao": "segredo",
+  "titulo": "Incostanza. An Allegory of Fickleness",
+  "autor": "Janssens, Abraham I",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 79
+ },
+ {
+  "arquivo": "banco/segredo/KMSsp413.jpg",
+  "emocao": "segredo",
+  "titulo": "Self-Portrait",
+  "autor": "Lievens, Jan",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 49
+ },
+ {
+  "arquivo": "banco/segredo/KMS7133.jpg",
+  "emocao": "segredo",
+  "titulo": "Portræt af den franske maler Alfred Guillou",
+  "autor": "Krøyer, P.S.",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 39
+ },
+ {
+  "arquivo": "banco/olhar/KMS1634.jpg",
+  "emocao": "olhar",
+  "titulo": "Portrait of Rembrandt with Gorget",
+  "autor": "Rembrandt van Rijn (værksted)",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 57
+ },
+ {
+  "arquivo": "banco/olhar/KMS6793.jpg",
+  "emocao": "olhar",
+  "titulo": "Jens Ferdinand Willumsen. Study for Five Portraits",
+  "autor": "Hammershøi, Vilhelm",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 74
+ },
+ {
+  "arquivo": "banco/olhar/KMShm9.jpg",
+  "emocao": "olhar",
+  "titulo": "Self-Portrait",
+  "autor": "Pissarro, Camille",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 85
+ },
+ {
+  "arquivo": "banco/olhar/KMS6693.jpg",
+  "emocao": "olhar",
+  "titulo": "Thora Bendix, née Anne Victoria Sundberg",
+  "autor": "Hammershøi, Vilhelm",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 92
+ },
+ {
+  "arquivo": "banco/olhar/KMS7037.jpg",
+  "emocao": "olhar",
+  "titulo": "Portrait of the Painter P.C. Skovgaard",
+  "autor": "Frølich, Lorenz",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 51
+ },
+ {
+  "arquivo": "banco/olhar/KMS4559.jpg",
+  "emocao": "olhar",
+  "titulo": "Portrait of Emilie Henriette Massmann, Betrothed of Frederik Wilhelm Caspar von Benzon",
+  "autor": "Eckersberg, C.W.",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 91
+ },
+ {
+  "arquivo": "banco/olhar/KMS6648.jpg",
+  "emocao": "olhar",
+  "titulo": "The Artist's Wife Esther, née Winther",
+  "autor": "Denner, Balthasar",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 79
+ },
+ {
+  "arquivo": "banco/olhar/KMSsp406.jpg",
+  "emocao": "olhar",
+  "titulo": "A Young Woman Resting her Hands on the Picture Frame",
+  "autor": "Rembrandt van Rijn (værksted)",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 47
+ },
+ {
+  "arquivo": "banco/olhar/KMSsp220.jpg",
+  "emocao": "olhar",
+  "titulo": "David with the Head of Goliath",
+  "autor": "Grebber, Pieter de",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 84
+ },
+ {
+  "arquivo": "banco/olhar/KMS1279.jpg",
+  "emocao": "olhar",
+  "titulo": "Violinspilleren",
+  "autor": "Jensen, C.A.",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 84
+ },
+ {
+  "arquivo": "banco/medo/KMS7660.jpg",
+  "emocao": "medo",
+  "titulo": "Skull and Hourglass",
+  "autor": "Jensen, C.A.",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 43
+ },
+ {
+  "arquivo": "banco/medo/KMS1884.jpg",
+  "emocao": "medo",
+  "titulo": "Vanitas Still Life",
+  "autor": "Willigen, Pieter van der",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 44
+ },
+ {
+  "arquivo": "banco/medo/KMSsp147.jpg",
+  "emocao": "medo",
+  "titulo": "A Young Woman Contemplating a Skull",
+  "autor": "Casolani, Alessandro",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 68
+ },
+ {
+  "arquivo": "banco/medo/KMSsp532.jpg",
+  "emocao": "medo",
+  "titulo": "Gale off Rocky Coast",
+  "autor": "Blanckerhoff, Jan Theunisz",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 68
+ },
+ {
+  "arquivo": "banco/medo/KMS8817.jpg",
+  "emocao": "medo",
+  "titulo": "After the Storm",
+  "autor": "Friedrich, Caspar David",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 85
+ },
+ {
+  "arquivo": "banco/medo/KMS216.jpg",
+  "emocao": "medo",
+  "titulo": "A Shipwreck on the Coast of Norway",
+  "autor": "Dahl, J.C.",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 80
+ },
+ {
+  "arquivo": "banco/medo/KMS585.jpg",
+  "emocao": "medo",
+  "titulo": "En dansk korvet i rum sø efter en storm",
+  "autor": "Melbye, Anton",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 55
+ },
+ {
+  "arquivo": "banco/medo/KMS3468.jpg",
+  "emocao": "medo",
+  "titulo": "The Most Terrible Night. View of Kongens Nytorv in Copenhagen During the English Bombardement of Copenhagen at Night between 4 and 5 September 1807",
+  "autor": "Lorentzen, C.A.",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 71
+ },
+ {
+  "arquivo": "banco/medo/KMSsp446.jpg",
+  "emocao": "medo",
+  "titulo": "Fire at Amsterdam by Night",
+  "autor": "Neer, Aert van der",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 71
+ },
+ {
+  "arquivo": "banco/medo/KMS3042.jpg",
+  "emocao": "medo",
+  "titulo": "Shipwreck against a Rock",
+  "autor": "Wieringen, Cornelis Claesz van",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 91
+ },
+ {
+  "arquivo": "banco/medo/KMS3270.jpg",
+  "emocao": "medo",
+  "titulo": "The Execution of Emperor Maximilian",
+  "autor": "Manet, Édouard",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 88
+ },
+ {
+  "arquivo": "banco/solidao/KMSsp194.jpg",
+  "emocao": "solidao",
+  "titulo": "The Apostle Peter",
+  "autor": "Rubens, Peter Paul",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 64
+ },
+ {
+  "arquivo": "banco/solidao/KMS1636.jpg",
+  "emocao": "solidao",
+  "titulo": "Study of an Old Man in Profile",
+  "autor": "Rembrandt van Rijn",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 75
+ },
+ {
+  "arquivo": "banco/solidao/KMSsp120.jpg",
+  "emocao": "solidao",
+  "titulo": "The Penitent St Mary Magdalene",
+  "autor": "Troppa, Girolamo",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 65
+ },
+ {
+  "arquivo": "banco/solidao/KMS1990.jpg",
+  "emocao": "solidao",
+  "titulo": "The Seamstress",
+  "autor": "Krohg, Christian",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 76
+ },
+ {
+  "arquivo": "banco/solidao/KMS4088.jpg",
+  "emocao": "solidao",
+  "titulo": "Den gamle mand ved spedelyset",
+  "autor": "Brendekilde, H.A.",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 91
+ },
+ {
+  "arquivo": "banco/solidao/KMS1667.jpg",
+  "emocao": "solidao",
+  "titulo": "Portrait of Inger Margrethe Høyen, née Schrøder, the Mother of the Art Historian N.L. Høyen",
+  "autor": "Købke, Christen",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 75
+ },
+ {
+  "arquivo": "banco/solidao/KMS7284.jpg",
+  "emocao": "solidao",
+  "titulo": "Langebro, Copenhagen, in the Moonlight with Running Figures",
+  "autor": "Eckersberg, C.W.",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 73
+ },
+ {
+  "arquivo": "banco/solidao/KMS3684.jpg",
+  "emocao": "solidao",
+  "titulo": "A Young Girl in Jutland Writing her Beloved's Name on a Misty Window",
+  "autor": "Dalsgaard, Christen",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 95
+ },
+ {
+  "arquivo": "banco/solidao/KMS3483.jpg",
+  "emocao": "solidao",
+  "titulo": "Portrait of the Artist´s Mother, Cecilia Margrethe Købke, née Petersen",
+  "autor": "Købke, Christen",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 80
+ },
+ {
+  "arquivo": "banco/solidao/KMS1881.jpg",
+  "emocao": "solidao",
+  "titulo": "Head of an African",
+  "autor": "Dou, Gerard",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 42
+ },
+ {
+  "arquivo": "banco/dinheiro/KMSst270.jpg",
+  "emocao": "dinheiro",
+  "titulo": "An Old Man Counting his Money",
+  "autor": "Koninck, Salomon",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 60
+ },
+ {
+  "arquivo": "banco/dinheiro/KMSsp380.jpg",
+  "emocao": "dinheiro",
+  "titulo": "An Old Woman",
+  "autor": "Honthorst, Gerard van",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 55
+ },
+ {
+  "arquivo": "banco/dinheiro/KMSsp564.jpg",
+  "emocao": "dinheiro",
+  "titulo": "Sending the Boy for Beer",
+  "autor": "Mieris (I), Frans van",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 55
+ },
+ {
+  "arquivo": "banco/engano/KMS3734.jpg",
+  "emocao": "engano",
+  "titulo": "The ill-matched lovers",
+  "autor": "Massijs, Jan",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 70
+ },
+ {
+  "arquivo": "banco/engano/KMS114.jpg",
+  "emocao": "engano",
+  "titulo": "Lot and His Daughters",
+  "autor": "Vignon, Claude",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 56
+ },
+ {
+  "arquivo": "banco/engano/KMS1274.jpg",
+  "emocao": "engano",
+  "titulo": "The Repentant Magdalene",
+  "autor": "Ubekendt kunstner",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 93
+ },
+ {
+  "arquivo": "banco/engano/KMS1476.jpg",
+  "emocao": "engano",
+  "titulo": "Judith med Holofernes' hoved",
+  "autor": "Storch, F.L.",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 50
+ },
+ {
+  "arquivo": "banco/engano/KMS7380.jpg",
+  "emocao": "engano",
+  "titulo": "A Visit to a Cobbler's Workshop",
+  "autor": "Ring, L.A.",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 59
+ },
+ {
+  "arquivo": "banco/mente/KMSsp54.jpg",
+  "emocao": "mente",
+  "titulo": "The Penitent St. Jerome",
+  "autor": "Collantes, Francisco",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 75
+ },
+ {
+  "arquivo": "banco/mente/KMSsp824.jpg",
+  "emocao": "mente",
+  "titulo": "The Scholar and Death",
+  "autor": "Gelton, Toussaint",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 63
+ },
+ {
+  "arquivo": "banco/mente/KMS3884.jpg",
+  "emocao": "mente",
+  "titulo": "Dominican Friar",
+  "autor": "Rubens, Peter Paul",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 51
+ },
+ {
+  "arquivo": "banco/mente/KMS2042.jpg",
+  "emocao": "mente",
+  "titulo": "The Artist's Son Holger at the Age of Ten",
+  "autor": "Roed, Jørgen",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 82
+ },
+ {
+  "arquivo": "banco/mente/KMS280.jpg",
+  "emocao": "mente",
+  "titulo": "A Young Artist (Ditlev Blunck) Examining a Sketch in a Mirror",
+  "autor": "Bendz, Wilhelm",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 66
+ },
+ {
+  "arquivo": "banco/mente/KMS985.jpg",
+  "emocao": "mente",
+  "titulo": "King Christian II in Prison",
+  "autor": "Bloch, Carl",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 73
+ },
+ {
+  "arquivo": "banco/grupo/KMS952.jpg",
+  "emocao": "grupo",
+  "titulo": "Sinful Mankind Surprised by the Day of Judgment",
+  "autor": "Barendsz., Dirck",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 79
+ },
+ {
+  "arquivo": "banco/grupo/KMS737.jpg",
+  "emocao": "grupo",
+  "titulo": "A Country Dance in the Hedebo District, Zealand",
+  "autor": "Exner, Julius",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 70
+ },
+ {
+  "arquivo": "banco/grupo/KMS1564.jpg",
+  "emocao": "grupo",
+  "titulo": "The Grandparents' Sunday",
+  "autor": "Ring, L.A.",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 66
+ },
+ {
+  "arquivo": "banco/grupo/KMS3733.jpg",
+  "emocao": "grupo",
+  "titulo": "Interior of a Dutch Church",
+  "autor": "Langevelt, Rutger van",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 87
+ },
+ {
+  "arquivo": "banco/grupo/KMSsp717.jpg",
+  "emocao": "grupo",
+  "titulo": "The Raising of Lazarus",
+  "autor": "Mesteren for Skt. Maria Magdalena-Legenden",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 88
+ },
+ {
+  "arquivo": "banco/grupo/KMSsp378.jpg",
+  "emocao": "grupo",
+  "titulo": "Musical Group by Candlelight",
+  "autor": "Honthorst, Gerard van",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 51
+ },
+ {
+  "arquivo": "banco/grupo/KMS1674.jpg",
+  "emocao": "grupo",
+  "titulo": "The Artist's Wife and Daughter",
+  "autor": "Ring, L.A.",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 57
+ },
+ {
+  "arquivo": "banco/familia/KMSsp251.jpg",
+  "emocao": "familia",
+  "titulo": "The Holy Family",
+  "autor": "Hoecke, Jan van den",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 57
+ },
+ {
+  "arquivo": "banco/familia/DEP12.jpg",
+  "emocao": "familia",
+  "titulo": "The Holy Family",
+  "autor": "Rubens, Peter Paul",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 94
+ },
+ {
+  "arquivo": "banco/familia/KMS3146.jpg",
+  "emocao": "familia",
+  "titulo": "Small-Holders. Sealand",
+  "autor": "Ring, L.A.",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 68
+ },
+ {
+  "arquivo": "banco/familia/KMS1280.jpg",
+  "emocao": "familia",
+  "titulo": "Rubens' sønner",
+  "autor": "Hansen, Hans",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 51
+ },
+ {
+  "arquivo": "banco/familia/KMSsp124.jpg",
+  "emocao": "familia",
+  "titulo": "The Holy Family",
+  "autor": "Tagliasacchi, Giovanni Battista",
+  "fonte": "SMK – Statens Museum for Kunst (domínio público)",
+  "lum": 53
+ }
+]

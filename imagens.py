@@ -87,13 +87,37 @@ def achar(buscas):
                 print(f'  {fonte.__name__} falhou para "{q}": {e}')
     return None
 
+AQUI = os.path.dirname(os.path.abspath(__file__))
+EMOCOES = ['poder', 'segredo', 'olhar', 'medo', 'solidao', 'dinheiro', 'engano', 'mente', 'grupo', 'familia']
+
+def recentes(n=12):
+    """Imagens usadas nos últimos n vídeos publicados (para não repetir)."""
+    pasta = os.path.join(AQUI, 'roteiros', 'publicados'); usados = set()
+    if os.path.isdir(pasta):
+        for f in sorted(os.listdir(pasta))[-n:]:
+            try: usados |= {sc.get('src') for sc in json.load(open(os.path.join(pasta, f), encoding='utf-8'))['scenes']}
+            except Exception: pass
+    return usados
+
+def do_banco(emocao, evitar):
+    banco = json.load(open(os.path.join(AQUI, 'banco', 'banco.json'), encoding='utf-8'))
+    grupo = [b for b in banco if b['emocao'] == emocao] or [b for b in banco if b['emocao'] in ('olhar', 'solidao')]
+    livres = [b for b in grupo if b['arquivo'] not in usadas and b['arquivo'] not in evitar]
+    if not livres: livres = [b for b in grupo if b['arquivo'] not in usadas] or grupo
+    b = random.choice(livres)
+    return b['arquivo'], f"{b['titulo']} — {b['autor']} ({b['fonte']})"
+
 def main():
     arq = sys.argv[1]; spec = json.load(open(arq, encoding='utf-8'))
+    evitar = recentes()
     for sc in spec['scenes']:
         if sc.get('src'): usadas.add(sc['src'])
     reserva = spec.get('busca_reserva', ['dark portrait oil painting', 'renaissance portrait', 'baroque painting shadow'])
     for i, sc in enumerate(spec['scenes']):
         if sc.get('src'): continue
+        if sc.get('emocao') or not sc.get('busca'):   # padrão: banco de pinturas escolhidas a dedo
+            sc['src'], sc['credito'] = do_banco(sc.get('emocao', 'olhar'), evitar); usadas.add(sc['src'])
+            print(f'cena {i}: [{sc.get("emocao")}] {sc["credito"]}'); continue
         b = sc.get('busca') or []
         if isinstance(b, str): b = [b]
         r = achar(b) or achar(random.sample(reserva, len(reserva)))

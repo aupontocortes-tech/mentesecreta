@@ -26,8 +26,10 @@ CREDIBILIDADE (não negociável — protege o canal):
 - Sem diagnósticos, sem "isso prova que alguém é psicopata/narcisista", sem generalizar "todas as pessoas". Use "tende a", "muitas pessoas".
 - Se um estudo foi contestado ou não replicou (ex.: Stanford, ego depletion, power pose), não use como prova — ou diga isso.
 
-IMAGENS: o robô busca sozinho pinturas antigas em domínio público (museus). Em cada cena coloque "busca": 1 a 3 termos em INGLÊS, simples, de coisas que aparecem em PINTURAS (ex.: "king", "jester", "two men arguing", "woman portrait", "crowd", "candlelight", "letter", "storm sea", "skull", "card players", "banquet"). Evite termos modernos (celular, escritório): traduza para a época (escritório -> "merchant counting money", chefe -> "king" ou "nobleman"). Não use "src" a não ser que tenha um link direto de imagem em domínio público confirmado.
-"destaque": a palavra-chave da cena (fica dourada na legenda).
+IMAGENS: o robô usa um banco de pinturas escuras escolhidas a dedo (pasta banco/). Em cada cena coloque "emocao" com UMA destas:
+poder (reis, nobres, autoridade, chefe) | segredo (sussurro, véu, fofoca, carta) | olhar (rosto encarando, julgamento silencioso) | medo (caveira, morte, tempestade, fogo) | solidao (tristeza, velhice, saudade, noite) | dinheiro (ganância, contar moedas) | engano (manipulação, traição, sedução interesseira) | mente (pensar, estudar, refletir, cérebro) | grupo (multidão, festa, pressão social) | familia (infância, pais, filhos).
+Escolha a emoção que combina com a FRASE da cena. Varie: evite a mesma emoção em 3 cenas seguidas. Não use "src" nem "busca".
+"destaque": a palavra-chave da cena (fica vermelha na legenda).
 
 FORMATO de cada arquivo roteiros/fila/NN_tema.json:
 {
@@ -36,7 +38,7 @@ FORMATO de cada arquivo roteiros/fila/NN_tema.json:
  "tags": ["psicologia", "...5 a 8 tags"],
  "hashtags": "#psicologia #mentesecreta #comportamentohumano",
  "fontes": ["Autor (ano), título, revista. link/DOI"],
- "scenes": [ {"text": "frase narrada", "busca": ["termo"], "destaque": ["PALAVRA"]}, ... ]
+ "scenes": [ {"text": "frase narrada", "emocao": "segredo", "destaque": ["PALAVRA"]}, ... ]
 }
 Escreva números por extenso quando forem falados ("vinte por cento"). Pronúncias especiais em "pron": {"Greene": "Grím"}.
 
