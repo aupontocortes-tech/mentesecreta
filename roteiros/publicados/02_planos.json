@@ -22,42 +22,54 @@
    "emocao": "segredo",
    "destaque": [
     "PLANOS"
-   ]
+   ],
+   "src": "banco/segredo/KMS1242c.jpg",
+   "credito": "Dame med sort kappe over hovedet og maske i hånden — Møller, Andreas (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Calma. Não é sobre esconder. É sobre não gastar a motivação antes da hora.",
    "emocao": "mente",
    "destaque": [
     "MOTIVAÇÃO"
-   ]
+   ],
+   "src": "banco/mente/KMSsp54.jpg",
+   "credito": "The Penitent St. Jerome — Collantes, Francisco (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Sabe quando você anuncia que vai mudar de vida, e uma semana depois nada mudou?",
    "emocao": "solidao",
    "destaque": [
     "NADA"
-   ]
+   ],
+   "src": "banco/solidao/KMS1667.jpg",
+   "credito": "Portrait of Inger Margrethe Høyen, née Schrøder, the Mother of the Art Historian N.L. Høyen — Købke, Christen (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Em dois mil e nove, Peter Gollwitzer testou isso com estudantes de direito.",
    "emocao": "mente",
    "destaque": [
     "GOLLWITZER"
-   ]
+   ],
+   "src": "banco/mente/KMS985.jpg",
+   "credito": "King Christian II in Prison — Bloch, Carl (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Todos escreveram uma meta. Pra metade, o pesquisador leu e reconheceu a intenção.",
    "emocao": "olhar",
    "destaque": [
     "RECONHECEU"
-   ]
+   ],
+   "src": "banco/olhar/KMS6693.jpg",
+   "credito": "Thora Bendix, née Anne Victoria Sundberg — Hammershøi, Vilhelm (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Depois, podiam trabalhar até quarenta e cinco minutos em casos de direito.",
    "emocao": "poder",
    "destaque": [
     "QUARENTA"
-   ]
+   ],
+   "src": "banco/poder/KMSsp384.jpg",
+   "credito": "Portrait of a 22-Year-Old Woman — Voort, Cornelis van der (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Quem teve a meta notada trabalhou menos tempo.",
@@ -65,28 +77,37 @@
    "destaque": [
     "MENOS"
    ],
-   "pausa": 0.7
+   "pausa": 0.7,
+   "src": "banco/segredo/KMSsp474.jpg",
+   "credito": "Portrait of a Lady in a Veil — Mathisen, Thomas (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "A psicologia chama isso de autocompletude simbólica: ser reconhecido já parece meio caminho andado.",
    "emocao": "engano",
    "destaque": [
     "SIMBÓLICA"
-   ]
+   ],
+   "src": "banco/engano/KMS1476.jpg",
+   "credito": "Judith med Holofernes' hoved — Storch, F.L. (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "O estudo era pequeno, mas o aplauso pode ocupar o lugar da ação.",
    "emocao": "grupo",
    "destaque": [
     "APLAUSO"
-   ]
+   ],
+   "src": "banco/grupo/KMS1564.jpg",
+   "credito": "The Grandparents' Sunday — Ring, L.A. (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Quem anuncia demais, colhe de menos.",
    "emocao": "poder",
    "destaque": [
     "COLHE"
-   ]
+   ],
+   "src": "banco/poder/KMS185.jpg",
+   "credito": "Portrait of a Man — Piazza, Callisto (SMK – Statens Museum for Kunst (domínio público))"
   }
- ]
+ ],
+ "video_id": "F3lWta-hlxM"
 }
