@@ -28,7 +28,7 @@ jobs:
       - name: Pausa e fila
         id: fila
         run: |
-          if [ "${{ github.event_name }}" = "schedule" ] && sed -n '/^## PAUSAS/,/^## /p' veil/CONFIG_CANAL.md | grep -qiE '^- *(diario|pausado)'; then
+          if [ "${{ github.event_name }}" = "schedule" ] && sed -n '/^## PAUSAS/,/^## /p' veil/CONFIG_CANAL.md | grep -qiE '^- *(18h|pausado)'; then
             echo "Pausado pelo painel."; echo "pular=1" >> $GITHUB_OUTPUT; exit 0
           fi
           prox=$(ls veil/serie/fila/*.json 2>/dev/null | sort | head -1)
