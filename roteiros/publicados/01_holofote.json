@@ -19,63 +19,82 @@
    "destaque": [
     "IMPORTAR"
    ],
-   "emocao": "olhar"
+   "emocao": "olhar",
+   "src": "banco/olhar/KMS7037.jpg",
+   "credito": "Portrait of the Painter P.C. Skovgaard — Frølich, Lorenz (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Calma. Não é sobre não ligar pra ninguém.",
    "destaque": [
     "CALMA"
    ],
-   "emocao": "mente"
+   "emocao": "mente",
+   "src": "banco/mente/KMS2042.jpg",
+   "credito": "The Artist's Son Holger at the Age of Ten — Roed, Jørgen (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "É sobre um erro que o seu cérebro comete todo dia.",
    "destaque": [
     "ERRO"
    ],
-   "emocao": "mente"
+   "emocao": "mente",
+   "src": "banco/mente/KMS280.jpg",
+   "credito": "A Young Artist (Ditlev Blunck) Examining a Sketch in a Mirror — Bendz, Wilhelm (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Na Universidade Cornell, estudantes entraram numa sala vestindo uma camiseta constrangedora.",
    "destaque": [
     "CONSTRANGEDORA"
    ],
-   "emocao": "grupo"
+   "emocao": "grupo",
+   "src": "banco/grupo/KMS3733.jpg",
+   "credito": "Interior of a Dutch Church — Langevelt, Rutger van (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Eles apostaram que metade da sala tinha reparado.",
    "destaque": [
     "METADE"
    ],
-   "emocao": "olhar"
+   "emocao": "olhar",
+   "src": "banco/olhar/KMSsp406.jpg",
+   "credito": "A Young Woman Resting her Hands on the Picture Frame — Rembrandt van Rijn (værksted) (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Na verdade? Pouco mais de vinte por cento.",
    "destaque": [
     "VINTE"
    ],
-   "emocao": "segredo"
+   "emocao": "segredo",
+   "src": "banco/segredo/KMS1390.jpg",
+   "credito": "Laughing Girl Showing a Small Picture of a Nude Woman Seen from Behind — Bijlert, Jan van (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "A psicologia chama isso de efeito holofote.",
    "destaque": [
     "HOLOFOTE"
    ],
-   "emocao": "solidao"
+   "emocao": "solidao",
+   "src": "banco/solidao/KMS1990.jpg",
+   "credito": "The Seamstress — Krohg, Christian (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Você se vê no centro do palco. Mas cada pessoa está presa no próprio holofote.",
    "destaque": [
     "PALCO"
    ],
-   "emocao": "grupo"
+   "emocao": "grupo",
+   "src": "banco/grupo/KMSsp717.jpg",
+   "credito": "The Raising of Lazarus — Mesteren for Skt. Maria Magdalena-Legenden (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Quem vive pro olhar dos outros, vive pra uma plateia que nem está assistindo.",
    "destaque": [
     "PLATEIA"
    ],
-   "emocao": "solidao"
+   "emocao": "solidao",
+   "src": "banco/solidao/KMS1881.jpg",
+   "credito": "Head of an African — Dou, Gerard (SMK – Statens Museum for Kunst (domínio público))"
   }
- ]
+ ],
+ "video_id": "lhtVamORuxo"
 }
