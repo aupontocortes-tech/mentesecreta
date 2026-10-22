@@ -1,0 +1,18 @@
+{
+ "titulo": "Ninguém está olhando pra você (e a ciência provou) #Shorts",
+ "descricao": "Você sente que todo mundo repara em você? Um experimento da Universidade Cornell mostrou que isso é um erro do seu cérebro: o efeito holofote.\n\nQual foi a vez que você achou que todo mundo estava te olhando? Conta aqui.\n\nSegue o @mentesecreta pra conhecer o lado oculto da mente humana.",
+ "tags": ["psicologia", "efeito holofote", "comportamento humano", "mente", "ansiedade social", "curiosidades"],
+ "hashtags": "#psicologia #mentesecreta #comportamentohumano",
+ "fontes": ["Gilovich, Medvec & Savitsky (2000), The spotlight effect in social judgment, Journal of Personality and Social Psychology 78(2), 211-222. https://doi.org/10.1037/0022-3514.78.2.211"],
+ "scenes": [
+  {"text": "Pare de se importar com o que pensam de você.", "busca": ["portrait man dark", "portrait nobleman"], "destaque": ["IMPORTAR"]},
+  {"text": "Calma. Não é sobre não ligar pra ninguém.", "busca": ["two men conversation interior", "gentlemen conversation"], "destaque": ["CALMA"]},
+  {"text": "É sobre um erro que o seu cérebro comete todo dia.", "busca": ["thinker melancholy", "melancholy portrait"], "destaque": ["ERRO"]},
+  {"text": "Na Universidade Cornell, estudantes entraram numa sala vestindo uma camiseta constrangedora.", "busca": ["crowded room people", "assembly hall crowd"], "destaque": ["CONSTRANGEDORA"]},
+  {"text": "Eles apostaram que metade da sala tinha reparado.", "busca": ["people staring", "crowd faces"], "destaque": ["METADE"]},
+  {"text": "Na verdade? Pouco mais de vinte por cento.", "busca": ["card players", "tavern scene"], "destaque": ["VINTE"]},
+  {"text": "A psicologia chama isso de efeito holofote.", "busca": ["theatre stage light", "candlelight portrait"], "destaque": ["HOLOFOTE"]},
+  {"text": "Você se vê no centro do palco. Mas cada pessoa está presa no próprio holofote.", "busca": ["crowd street", "street scene evening"], "destaque": ["PALCO"]},
+  {"text": "Quem vive pro olhar dos outros, vive pra uma plateia que nem está assistindo.", "busca": ["empty theatre", "lonely figure dark"], "destaque": ["PLATEIA"]}
+ ]
+}
