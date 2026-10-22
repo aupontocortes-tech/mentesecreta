@@ -14,8 +14,8 @@ if _extra and os.path.exists(_extra):
 import edge_tts
 
 VOZ = os.environ.get('MS_VOZ', 'pt-BR-AntonioNeural')
-RATE = os.environ.get('MS_RATE', '-8%')
-PITCH = os.environ.get('MS_PITCH', '-6Hz')
+RATE = os.environ.get('MS_RATE', '+6%')
+PITCH = os.environ.get('MS_PITCH', '-14Hz')
 SR = 24000
 PRON = {'Greene': 'Grím', 'Cornell': 'Cornél', 'Stanford': 'Stênford', 'Harvard': 'Rárvard', 'Shorts': 'Xórts'}
 
@@ -58,7 +58,7 @@ def main():
             for w in ws:
                 wd = dur * (len(w) + 1) / tot; words.append({'w': w, 's': round(cur, 3), 'e': round(cur + wd, 3), 'seg': i}); cur += wd
         segs.append([t, t + dur]); audio.append(x); t += dur
-        pausa = float(sc.get('pausa', 0.45)); audio.append(np.zeros(int(SR * pausa), np.float32)); t += pausa
+        pausa = float(sc.get('pausa', 0.22)); audio.append(np.zeros(int(SR * pausa), np.float32)); t += pausa
     audio.append(np.zeros(int(SR * 0.8), np.float32)); t += 0.8
     y = np.concatenate(audio); y = y / np.max(np.abs(y)) * 0.89
     sf.write(os.path.join(out, 'narr.wav'), y, SR)

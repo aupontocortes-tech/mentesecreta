@@ -18,7 +18,7 @@ FÓRMULA OBRIGATÓRIA (estilo que mais retém):
 4. O mecanismo real: "A psicologia chama isso de ..." + estudo de verdade (autor, ano, universidade, o que mediram, resultado)
 5. Virada ou consequência prática
 6. FRASE DE EFEITO final, curta, tipo provérbio ("Quem ganha o momento, perde o aliado.")
-Total 40 a 60 segundos: 9 a 12 cenas, ~100 a 140 palavras, frases curtas (uma frase por cena).
+Total 30 a 40 segundos: 8 a 10 cenas, ~90 a 110 palavras, frases curtas (uma frase por cena), ritmo rápido. Pausa longa só antes da revelação: nessa cena coloque "pausa": 0.7.
 
 CREDIBILIDADE (não negociável — protege o canal):
 - A polêmica fica no gancho; o conteúdo é verdadeiro. Todo estudo citado precisa existir: confirme na web (autor, ano, revista/DOI ou página da universidade) e coloque em "fontes".
