@@ -33,7 +33,10 @@ jobs:
           fi
           prox=$(ls veil/serie/fila/*.json 2>/dev/null | sort | head -1)
           if [ -z "$prox" ]; then echo "::error::Fila do Veil Frequency vazia. Rode a tarefa semanal de roteiros."; exit 1; fi
-          if [ -z "${{ secrets.VF_YT_TOKEN_JSON }}" ]; then echo "::error::Falta o Secret VF_YT_TOKEN_JSON (chave do YouTube do Veil Frequency)."; exit 1; fi
+          if [ -z "${{ secrets.VF_YT_TOKEN_JSON }}" ]; then
+            echo "::warning::Falta o Secret VF_YT_TOKEN_JSON (chave do YouTube do Veil Frequency). Nada publicado."
+            echo "pular=1" >> $GITHUB_OUTPUT; exit 0
+          fi
           echo "ep=$prox" >> $GITHUB_OUTPUT; echo "Episódio: $prox"
 
       - uses: actions/setup-python@v5
