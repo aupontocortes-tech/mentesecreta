@@ -1,0 +1,70 @@
+name: Veil Frequency - gerar chave do YouTube
+
+# Usa o mesmo app do Google do Mente Secreta (client_id/secret de dentro do Secret YT_TOKEN_JSON).
+# etapa=url  -> mostra o link de autorização
+# etapa=fim  -> troca o código pela chave e mostra a chave CRIPTOGRAFADA com a chave pública informada
+#              (o log é público; só quem tem a chave privada consegue abrir)
+on:
+  workflow_dispatch:
+    inputs:
+      etapa:
+        description: 'url ou fim'
+        default: 'url'
+      resposta:
+        description: 'endereço final (http://localhost/?...) — só na etapa fim'
+        default: ''
+      chave_publica:
+        description: 'chave pública RSA em base64 (uma linha) — só na etapa fim'
+        default: ''
+
+permissions:
+  contents: read
+
+jobs:
+  auth:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -q requests
+      - name: Chave
+        env:
+          YT_TOKEN_JSON: ${{ secrets.YT_TOKEN_JSON }}
+          ETAPA: ${{ github.event.inputs.etapa }}
+          RESPOSTA: ${{ github.event.inputs.resposta }}
+          PUB: ${{ github.event.inputs.chave_publica }}
+        run: |
+          python3 - <<'EOF'
+          import os, json, urllib.parse, requests, base64, subprocess
+          t = json.loads(os.environ['YT_TOKEN_JSON'])
+          cid, csec = t['client_id'], t['client_secret']
+          SC = 'https://www.googleapis.com/auth/youtube.upload https://www.googleapis.com/auth/youtube.readonly'
+          if os.environ['ETAPA'] == 'url':
+              q = {'client_id': cid, 'redirect_uri': 'http://localhost', 'response_type': 'code', 'scope': SC,
+                   'access_type': 'offline', 'prompt': 'consent select_account'}
+              print('LINK=https://accounts.google.com/o/oauth2/auth?' + urllib.parse.urlencode(q))
+          else:
+              code = urllib.parse.parse_qs(urllib.parse.urlparse(os.environ['RESPOSTA']).query)['code'][0]
+              r = requests.post('https://oauth2.googleapis.com/token', data={'code': code, 'client_id': cid, 'client_secret': csec,
+                                'redirect_uri': 'http://localhost', 'grant_type': 'authorization_code'}).json()
+              if 'refresh_token' not in r:
+                  raise SystemExit('ERRO: ' + json.dumps({k: v for k, v in r.items() if 'token' not in k}))
+              tok = {'token': r['access_token'], 'refresh_token': r['refresh_token'], 'token_uri': 'https://oauth2.googleapis.com/token',
+                     'client_id': cid, 'client_secret': csec, 'scopes': SC.split()}
+              h = {'Authorization': 'Bearer ' + r['access_token']}
+              ch = requests.get('https://www.googleapis.com/youtube/v3/channels?part=snippet&mine=true', headers=h).json()
+              it = (ch.get('items') or [{}])[0]
+              print('CANAL=', it.get('id'), it.get('snippet', {}).get('title'))
+              open('pub.pem', 'wb').write(base64.b64decode(os.environ['PUB']))
+              open('tok.json', 'w').write(json.dumps(tok))
+              k = os.urandom(32).hex()
+              subprocess.run(['openssl', 'enc', '-aes-256-cbc', '-pbkdf2', '-salt', '-in', 'tok.json', '-out', 'tok.enc', '-pass', 'pass:' + k], check=True)
+              open('k.txt', 'w').write(k)
+              subprocess.run(['openssl', 'pkeyutl', '-encrypt', '-pubin', '-inkey', 'pub.pem', '-pkeyopt', 'rsa_padding_mode:oaep', '-in', 'k.txt', '-out', 'k.enc'], check=True)
+              print('CHAVE_CRIPTO=' + base64.b64encode(open('k.enc', 'rb').read()).decode())
+              print('TOKEN_CRIPTO=' + base64.b64encode(open('tok.enc', 'rb').read()).decode())
+              for f in ('tok.json', 'k.txt'):
+                  os.remove(f)
+          EOF
