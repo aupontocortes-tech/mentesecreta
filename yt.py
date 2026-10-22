@@ -17,7 +17,7 @@ if sys.argv[1] == 'me':
     print(me['id'], me['snippet']['title']); sys.exit()
 
 # trava de segurança: só publica no Mente Secreta
-esperado = os.environ.get('MS_CHANNEL_ID', '').strip()
+esperado = os.environ.get('MS_CHANNEL_ID', '').strip() or 'UCyR9GXiWtZCoHhvhrJZoUzQ'
 if (esperado and me['id'] != esperado) or (not esperado and 'mente secreta' not in me['snippet']['title'].lower()):
     sys.exit('ERRO: a chave não é do canal Mente Secreta (' + me['snippet']['title'] + ')')
 
