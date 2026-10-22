@@ -1,0 +1,92 @@
+{
+ "titulo": "Seus amigos têm mais amigos que você (é matemática) #Shorts",
+ "descricao": "Sentir que todo mundo é mais popular que você tem explicação: o paradoxo da amizade, descrito pelo sociólogo Scott Feld em 1991.\n\nVocê já se comparou com a vida social de alguém pelo feed? Conta aqui.\n\nSegue o @mentesecreta pra conhecer o lado oculto da mente humana.",
+ "tags": [
+  "psicologia",
+  "paradoxo da amizade",
+  "amizade",
+  "inveja",
+  "redes sociais",
+  "comparação social"
+ ],
+ "hashtags": "#psicologia #mentesecreta #comportamentohumano",
+ "fontes": [
+  "Feld, S. L. (1991), Why your friends have more friends than you do, American Journal of Sociology 96(6), 1464-1477. https://doi.org/10.1086/229693"
+ ],
+ "pron": {
+  "Feld": "Féld"
+ },
+ "scenes": [
+  {
+   "text": "Seus amigos são mais populares que você.",
+   "emocao": "grupo",
+   "destaque": [
+    "POPULARES"
+   ]
+  },
+  {
+   "text": "Calma. Não é sobre você ser chato. É matemática.",
+   "emocao": "mente",
+   "destaque": [
+    "MATEMÁTICA"
+   ]
+  },
+  {
+   "text": "Sabe quando você rola o feed e parece que todo mundo tem mais amigos e mais festas?",
+   "emocao": "grupo",
+   "destaque": [
+    "FESTAS"
+   ]
+  },
+  {
+   "text": "Em mil novecentos e noventa e um, o sociólogo Scott Feld explicou o porquê.",
+   "emocao": "mente",
+   "destaque": [
+    "FELD"
+   ]
+  },
+  {
+   "text": "Quem tem muitos amigos aparece em muitas listas de amizade, inclusive na sua.",
+   "emocao": "segredo",
+   "destaque": [
+    "LISTAS"
+   ]
+  },
+  {
+   "text": "Quem tem poucos quase não aparece em lista nenhuma.",
+   "emocao": "solidao",
+   "destaque": [
+    "POUCOS"
+   ]
+  },
+  {
+   "text": "Resultado: a maioria das pessoas tem menos amigos que a média dos próprios amigos.",
+   "emocao": "olhar",
+   "destaque": [
+    "MAIORIA"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "Os cientistas chamam isso de paradoxo da amizade.",
+   "emocao": "mente",
+   "destaque": [
+    "PARADOXO"
+   ]
+  },
+  {
+   "text": "Comparar sua vida com a deles é comparar com uma amostra viciada.",
+   "emocao": "engano",
+   "destaque": [
+    "VICIADA"
+   ]
+  },
+  {
+   "text": "A inveja nasce de uma conta mal feita.",
+   "emocao": "segredo",
+   "destaque": [
+    "INVEJA"
+   ]
+  }
+ ]
+}

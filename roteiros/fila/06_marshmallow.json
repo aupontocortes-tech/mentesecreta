@@ -1,0 +1,95 @@
+{
+ "titulo": "O teste do marshmallow não é o que te contaram #Shorts",
+ "descricao": "O famoso teste do marshmallow foi refeito em 2018 com mais de 900 crianças, e a ligação com o sucesso futuro ficou bem menor do que se dizia.\n\nVocê esperaria pelo segundo doce? Conta aqui.\n\nSegue o @mentesecreta pra conhecer o lado oculto da mente humana.",
+ "tags": [
+  "psicologia",
+  "teste do marshmallow",
+  "infância",
+  "autocontrole",
+  "experimentos famosos",
+  "Walter Mischel"
+ ],
+ "hashtags": "#psicologia #mentesecreta #comportamentohumano",
+ "fontes": [
+  "Mischel, W., Ebbesen, E. B. & Zeiss, A. R. (1972), Cognitive and attentional mechanisms in delay of gratification, Journal of Personality and Social Psychology 21(2), 204-218. https://doi.org/10.1037/h0032198",
+  "Shoda, Y., Mischel, W. & Peake, P. K. (1990), Predicting adolescent cognitive and self-regulatory competencies from preschool delay of gratification, Developmental Psychology 26(6), 978-986. https://doi.org/10.1037/0012-1649.26.6.978",
+  "Watts, T. W., Duncan, G. J. & Quan, H. (2018), Revisiting the Marshmallow Test: A conceptual replication investigating links between early delay of gratification and later outcomes, Psychological Science 29(7), 1159-1177. https://doi.org/10.1177/0956797618761661"
+ ],
+ "pron": {
+  "Mischel": "Míchel",
+  "Watts": "Uóts"
+ },
+ "scenes": [
+  {
+   "text": "O teste do marshmallow te enganou.",
+   "emocao": "engano",
+   "destaque": [
+    "MARSHMALLOW"
+   ]
+  },
+  {
+   "text": "Calma. O teste existiu. Só te contaram metade da história.",
+   "emocao": "mente",
+   "destaque": [
+    "METADE"
+   ]
+  },
+  {
+   "text": "Sabe aquela ideia: a criança que espera pelo doce vira um adulto de sucesso?",
+   "emocao": "familia",
+   "destaque": [
+    "CRIANÇA"
+   ]
+  },
+  {
+   "text": "Ela veio de Walter Mischel, em Stanford, com crianças da creche da própria universidade.",
+   "emocao": "poder",
+   "destaque": [
+    "STANFORD"
+   ]
+  },
+  {
+   "text": "Em dois mil e dezoito, Tyler Watts refez a análise com mais de novecentas crianças.",
+   "emocao": "grupo",
+   "destaque": [
+    "NOVECENTAS"
+   ]
+  },
+  {
+   "text": "A ligação entre esperar e ir bem na escola apareceu, mas bem menor.",
+   "emocao": "mente",
+   "destaque": [
+    "MENOR"
+   ]
+  },
+  {
+   "text": "E quando levaram em conta a família e o ambiente da criança...",
+   "emocao": "familia",
+   "destaque": [
+    "FAMÍLIA"
+   ]
+  },
+  {
+   "text": "A diferença quase sumiu.",
+   "emocao": "segredo",
+   "destaque": [
+    "SUMIU"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "Esperar pelo doce pode dizer mais sobre a vida da criança do que sobre força de vontade.",
+   "emocao": "dinheiro",
+   "destaque": [
+    "VIDA"
+   ]
+  },
+  {
+   "text": "Às vezes, paciência é privilégio.",
+   "emocao": "solidao",
+   "destaque": [
+    "PRIVILÉGIO"
+   ]
+  }
+ ]
+}

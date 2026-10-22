@@ -1,0 +1,92 @@
+{
+ "titulo": "Uma palavra pode mudar a sua memória #Shorts",
+ "descricao": "Em 1974, Elizabeth Loftus mostrou que uma única palavra numa pergunta pode alterar o que as pessoas lembram de um acidente.\n\nVocê já brigou com alguém por lembrar a mesma história de um jeito diferente?\n\nSegue o @mentesecreta pra conhecer o lado oculto da mente humana.",
+ "tags": [
+  "psicologia",
+  "memória",
+  "falsas memórias",
+  "Elizabeth Loftus",
+  "cérebro",
+  "comportamento humano"
+ ],
+ "hashtags": "#psicologia #mentesecreta #comportamentohumano",
+ "fontes": [
+  "Loftus, E. F. & Palmer, J. C. (1974), Reconstruction of automobile destruction: An example of the interaction between language and memory, Journal of Verbal Learning and Verbal Behavior 13(5), 585-589. https://doi.org/10.1016/S0022-5371(74)80011-3"
+ ],
+ "pron": {
+  "Loftus": "Lóftus"
+ },
+ "scenes": [
+  {
+   "text": "Não confie tanto nas suas lembranças.",
+   "emocao": "medo",
+   "destaque": [
+    "LEMBRANÇAS"
+   ]
+  },
+  {
+   "text": "Calma. Não é sobre você mentir. É sobre seu cérebro reescrever.",
+   "emocao": "mente",
+   "destaque": [
+    "REESCREVER"
+   ]
+  },
+  {
+   "text": "Sabe quando você e um amigo lembram da mesma briga de jeitos totalmente diferentes?",
+   "emocao": "olhar",
+   "destaque": [
+    "DIFERENTES"
+   ]
+  },
+  {
+   "text": "Em mil novecentos e setenta e quatro, Elizabeth Loftus mostrou o vídeo de uma batida de carro.",
+   "emocao": "mente",
+   "destaque": [
+    "LOFTUS"
+   ]
+  },
+  {
+   "text": "Pra uns, perguntou a velocidade quando os carros bateram. Pra outros, quando se arrebentaram.",
+   "emocao": "segredo",
+   "destaque": [
+    "ARREBENTARAM"
+   ]
+  },
+  {
+   "text": "Uma semana depois: você viu vidro quebrado?",
+   "emocao": "olhar",
+   "destaque": [
+    "VIDRO"
+   ]
+  },
+  {
+   "text": "Não havia vidro nenhum. Mas trinta e dois por cento do grupo do arrebentaram disse que sim.",
+   "emocao": "medo",
+   "destaque": [
+    "TRINTA"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "No outro grupo, catorze por cento.",
+   "emocao": "mente",
+   "destaque": [
+    "CATORZE"
+   ]
+  },
+  {
+   "text": "A psicologia chama isso de efeito da desinformação: uma palavra mudou a lembrança.",
+   "emocao": "engano",
+   "destaque": [
+    "PALAVRA"
+   ]
+  },
+  {
+   "text": "A memória não grava. Ela reconstrói.",
+   "emocao": "solidao",
+   "destaque": [
+    "RECONSTRÓI"
+   ]
+  }
+ ]
+}
