@@ -1,0 +1,23 @@
+name: Verificar chave do YouTube
+
+# Só confere de qual canal é a chave salva no Secret YT_TOKEN_JSON. Não publica nada.
+on:
+  workflow_dispatch:
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -q google-auth-oauthlib google-api-python-client
+      - name: Canal da chave
+        env:
+          YT_TOKEN_JSON: ${{ secrets.YT_TOKEN_JSON }}
+        run: |
+          CANAL=$(python3 yt.py me)
+          echo "Chave salva é do canal: $CANAL"
+          echo "### Chave salva é do canal: $CANAL" >> $GITHUB_STEP_SUMMARY
+          case "$CANAL" in *UCyR9GXiWtZCoHhvhrJZoUzQ*) echo "OK: chave certa (Mente Secreta)";; *) echo "::error::Chave ERRADA: não é do Mente Secreta"; exit 1;; esac
