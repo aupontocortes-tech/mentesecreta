@@ -1,0 +1,127 @@
+{
+ "episodio": 2,
+ "formato": "estação de números",
+ "titulo": "Transmission #2: The Numbers Station That Knew My Name #Shorts",
+ "titulo_pt": "Transmissão #2: A estação de números que sabia o meu nome",
+ "descricao": "Every night at 3:17 a.m., a dead frequency reads out numbers. Last night, it read something else.\n\nCan you figure out what the numbers mean?\n\nVeil Frequency is a fictional horror series. New transmission every day.",
+ "tags": [
+  "horror",
+  "analog horror",
+  "creepy",
+  "scary stories",
+  "found footage",
+  "mystery",
+  "unexplained",
+  "veil frequency"
+ ],
+ "hashtags": "#horror #analoghorror #creepy #scary #shorts",
+ "artefato": "Os números 44.6 / 123.2 na tela (coordenadas de Hollow Pines).",
+ "pista": "As coordenadas levam a Hollow Pines; a voz se chama 'the Operator'.",
+ "scenes": [
+  {
+   "text": "There's a radio frequency that only talks at three seventeen a.m.",
+   "pt": "Existe uma frequência de rádio que só fala às três e dezessete da manhã.",
+   "voz": "narrador",
+   "imagens": [
+    "old radio dial",
+    "vintage radio night"
+   ],
+   "alerta": "1.317 MHz",
+   "alerta_sub": "SIGNAL DETECTED",
+   "destaque": [
+    "THREE",
+    "SEVENTEEN"
+   ]
+  },
+  {
+   "text": "It's been doing it since nineteen eighty-four. Same voice. Same numbers.",
+   "pt": "Faz isso desde 1984. Mesma voz. Mesmos números.",
+   "voz": "narrador",
+   "imagens": [
+    "radio tower night",
+    "antenna fog"
+   ],
+   "destaque": [
+    "SAME",
+    "VOICE"
+   ]
+  },
+  {
+   "text": "Four four point six. One two three point two.",
+   "pt": "Quatro quatro ponto seis. Um dois três ponto dois.",
+   "voz": "transmissao",
+   "imagens": [
+    "radio static"
+   ],
+   "onda": true,
+   "caixa": [
+    "44.6",
+    "123.2"
+   ],
+   "destaque": [
+    "FOUR",
+    "SIX"
+   ]
+  },
+  {
+   "text": "Those numbers point to a forest in Oregon. There used to be a town there.",
+   "pt": "Esses números apontam para uma floresta no Oregon. Antes existia uma cidade ali.",
+   "voz": "narrador",
+   "imagens": [
+    "pine forest fog",
+    "dark forest"
+   ],
+   "caixa": [
+    "> 44.6 N, 123.2 W",
+    "> HOLLOW PINES, OR",
+    "!> NO STRUCTURES FOUND"
+   ],
+   "destaque": [
+    "OREGON",
+    "TOWN"
+   ]
+  },
+  {
+   "text": "Last night, the numbers stopped. Then the voice said hello.",
+   "pt": "Ontem à noite, os números pararam. Depois a voz disse olá.",
+   "voz": "narrador",
+   "imagens": [
+    "microphone dark",
+    "recording studio dark"
+   ],
+   "destaque": [
+    "HELLO"
+   ],
+   "pausa": 0.8
+  },
+  {
+   "text": "This is the Operator. Thank you for recording, Archivist.",
+   "pt": "Aqui é o Operador. Obrigado por gravar, Arquivista.",
+   "voz": "transmissao",
+   "imagens": [
+    "dark room window"
+   ],
+   "onda": true,
+   "destaque": [
+    "OPERATOR",
+    "ARCHIVIST"
+   ],
+   "respiracao": true,
+   "pausa": 1.6
+  },
+  {
+   "text": "I never told anyone I was recording.",
+   "pt": "Eu nunca contei para ninguém que estava gravando.",
+   "voz": "narrador",
+   "imagens": [
+    "reel to reel tape",
+    "cassette recorder"
+   ],
+   "destaque": [
+    "NEVER",
+    "TOLD"
+   ],
+   "pausa": 1.0
+  }
+ ]
+}

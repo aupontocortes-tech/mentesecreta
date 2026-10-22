@@ -1,0 +1,122 @@
+{
+ "episodio": 6,
+ "formato": "fita VHS achada",
+ "titulo": "Transmission #6: Everyone at the Party Turned to the Camera #Shorts",
+ "titulo_pt": "Transmissão #6: Todo mundo na festa se virou para a câmera",
+ "descricao": "A home video from a 1984 birthday party. At 3:17, everyone stops.\n\nWhat do you think the kid was drawing?\n\nVeil Frequency is a fictional horror series. New transmission every day.",
+ "tags": [
+  "horror",
+  "analog horror",
+  "creepy",
+  "scary stories",
+  "found footage",
+  "mystery",
+  "unexplained",
+  "veil frequency"
+ ],
+ "hashtags": "#horror #analoghorror #creepy #scary #shorts",
+ "artefato": "Desenho infantil de uma torre com '1317' escrito.",
+ "pista": "A torre de rádio desenhada com 1317.",
+ "scenes": [
+  {
+   "text": "This is a birthday party in Hollow Pines. October nineteen eighty-four.",
+   "pt": "Isso é uma festa de aniversário em Hollow Pines. Outubro de 1984.",
+   "voz": "narrador",
+   "imagens": [
+    "birthday cake candles",
+    "1980s living room"
+   ],
+   "alerta": "TAPE 06",
+   "alerta_sub": "HOME VIDEO  //  OCT 1984",
+   "destaque": [
+    "BIRTHDAY"
+   ]
+  },
+  {
+   "text": "Kids laughing. Someone's dad filming. Totally normal.",
+   "pt": "Crianças rindo. O pai de alguém filmando. Tudo normal.",
+   "voz": "narrador",
+   "imagens": [
+    "balloons party",
+    "vintage camcorder"
+   ],
+   "destaque": [
+    "NORMAL"
+   ]
+  },
+  {
+   "text": "At three seventeen in the afternoon, the laughing stops.",
+   "pt": "Às três e dezessete da tarde, as risadas param.",
+   "voz": "narrador",
+   "imagens": [
+    "empty chairs party",
+    "dark living room"
+   ],
+   "caixa": [
+    "!> 15:17:00"
+   ],
+   "destaque": [
+    "STOPS"
+   ],
+   "pausa": 0.8
+  },
+  {
+   "text": "Every single person turns and looks straight at the camera.",
+   "pt": "Todas as pessoas se viram e olham direto para a câmera.",
+   "voz": "narrador",
+   "imagens": [
+    "dark window night",
+    "abandoned house interior"
+   ],
+   "destaque": [
+    "CAMERA"
+   ]
+  },
+  {
+   "text": "Nobody says a word for forty seconds.",
+   "pt": "Ninguém fala nada por quarenta segundos.",
+   "voz": "narrador",
+   "imagens": [
+    "dark hallway",
+    "empty room"
+   ],
+   "destaque": [
+    "FORTY",
+    "SECONDS"
+   ],
+   "pausa": 1.0,
+   "respiracao": true
+  },
+  {
+   "text": "Then a little girl holds up a drawing. A tower. And the numbers one three one seven.",
+   "pt": "Então uma menina levanta um desenho. Uma torre. E os números um três um sete.",
+   "voz": "narrador",
+   "imagens": [
+    "crayon drawing",
+    "radio tower night"
+   ],
+   "caixa": [
+    "> DRAWING: TOWER",
+    "!> \"1317\""
+   ],
+   "destaque": [
+    "TOWER",
+    "1317"
+   ]
+  },
+  {
+   "text": "The person filming whispers my name.",
+   "pt": "A pessoa que está filmando sussurra o meu nome.",
+   "voz": "narrador",
+   "imagens": [
+    "vintage camcorder",
+    "dark room"
+   ],
+   "destaque": [
+    "MY",
+    "NAME"
+   ],
+   "pausa": 1.4
+  }
+ ]
+}

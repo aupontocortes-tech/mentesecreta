@@ -1,0 +1,161 @@
+{
+ "episodio": 1,
+ "formato": "911 de lugar impossível",
+ "titulo": "Transmission #1: The 911 Call From a House That Isn't There #Shorts",
+ "titulo_pt": "Transmissão #1: A ligação de 911 de uma casa que não existe",
+ "descricao": "This 911 call came from a house that burned down in 1984.\n\nWhat do you think she meant by \"he's already listening\"?\n\nVeil Frequency is a fictional horror series. New transmission every day.",
+ "tags": [
+  "horror",
+  "analog horror",
+  "creepy",
+  "scary stories",
+  "found footage",
+  "mystery",
+  "unexplained",
+  "veil frequency"
+ ],
+ "hashtags": "#horror #analoghorror #creepy #scary #shorts",
+ "artefato": "Etiqueta da fita com a data de amanhã; endereço 41 Alder Ln.",
+ "pista": "41 Alder Lane; a fita vem do dia seguinte.",
+ "scenes": [
+  {
+   "text": "This nine-one-one call came from a house that burned down in nineteen eighty-four.",
+   "pt": "Essa ligação de 911 veio de uma casa que pegou fogo em 1984.",
+   "voz": "narrador",
+   "imagens": [
+    "abandoned house",
+    "burnt house ruins"
+   ],
+   "tinta": "fogo",
+   "alerta": "INCOMING CALL",
+   "alerta_sub": "911 DISPATCH  //  03:17 AM",
+   "destaque": [
+    "BURNED",
+    "DOWN"
+   ]
+  },
+  {
+   "text": "Three seventeen a.m. Hollow Pines. A town that isn't on any map anymore.",
+   "pt": "Três e dezessete da manhã. Hollow Pines. Uma cidade que nem está mais no mapa.",
+   "voz": "narrador",
+   "imagens": [
+    "foggy road night",
+    "empty small town street night"
+   ],
+   "caixa": [
+    "> LOCATION TRACE",
+    "> HOLLOW PINES, OR",
+    "> STATUS: UNINCORPORATED 1984",
+    "!> POPULATION: 0"
+   ],
+   "destaque": [
+    "HOLLOW",
+    "PINES"
+   ]
+  },
+  {
+   "text": "The dispatcher asks what the emergency is.",
+   "pt": "A atendente pergunta qual é a emergência.",
+   "voz": "narrador",
+   "imagens": [
+    "old telephone",
+    "telephone switchboard"
+   ],
+   "caixa": [
+    "DISPATCH:",
+    "\"911, what's your",
+    "  emergency?\""
+   ],
+   "destaque": [
+    "EMERGENCY"
+   ]
+  },
+  {
+   "text": "Don't send anyone.",
+   "pt": "Não mandem ninguém.",
+   "voz": "transmissao",
+   "imagens": [
+    "dark hallway"
+   ],
+   "onda": true,
+   "destaque": [
+    "DON'T",
+    "SEND"
+   ]
+  },
+  {
+   "text": "She asks for an address. The woman gives one that hasn't existed in forty years.",
+   "pt": "Ela pede o endereço. A mulher dá um que não existe há quarenta anos.",
+   "voz": "narrador",
+   "imagens": [
+    "fog field",
+    "empty lot fog"
+   ],
+   "caixa": [
+    "> ADDRESS: 41 ALDER LN",
+    "> SEARCHING...",
+    "!> RECORD NOT FOUND",
+    "> LAST RECORD: 1984"
+   ],
+   "destaque": [
+    "FORTY",
+    "YEARS"
+   ]
+  },
+  {
+   "text": "He's already listening.",
+   "pt": "Ele já está ouvindo.",
+   "voz": "transmissao",
+   "imagens": [
+    "abandoned hallway",
+    "dark window night"
+   ],
+   "onda": true,
+   "destaque": [
+    "LISTENING"
+   ],
+   "pausa": 2.2,
+   "respiracao": true
+  },
+  {
+   "text": "I found this tape yesterday, in an unmarked box.",
+   "pt": "Eu achei essa fita ontem, numa caixa sem nome.",
+   "voz": "narrador",
+   "imagens": [
+    "cassette tape",
+    "cardboard box dark"
+   ],
+   "destaque": [
+    "TAPE"
+   ]
+  },
+  {
+   "text": "Someone wrote the recording date on the label.",
+   "pt": "Alguém escreveu a data da gravação na etiqueta.",
+   "voz": "narrador",
+   "imagens": [
+    "cassette tape"
+   ],
+   "zoom": 1.5,
+   "etiqueta": "REC: ________",
+   "destaque": [
+    "DATE"
+   ]
+  },
+  {
+   "text": "It's tomorrow.",
+   "pt": "É amanhã.",
+   "voz": "narrador",
+   "imagens": [
+    "cassette tape"
+   ],
+   "zoom": 1.5,
+   "etiqueta": "REC: {amanha}",
+   "vermelho": true,
+   "destaque": [
+    "TOMORROW"
+   ],
+   "pausa": 1.4
+  }
+ ]
+}

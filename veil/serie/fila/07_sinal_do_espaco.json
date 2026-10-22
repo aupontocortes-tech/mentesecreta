@@ -1,0 +1,119 @@
+{
+ "episodio": 7,
+ "formato": "sinal do espaço",
+ "titulo": "Transmission #7: A Telescope Caught a Lullaby From Earth #Shorts",
+ "titulo_pt": "Transmissão #7: Um telescópio captou uma canção de ninar vinda da Terra",
+ "descricao": "A radio telescope picked up a signal on 1.317 MHz with no source. Decoded, it was a lullaby.\n\nWhere do you think the signal really came from?\n\nVeil Frequency is a fictional horror series. New transmission every day.",
+ "tags": [
+  "horror",
+  "analog horror",
+  "creepy",
+  "scary stories",
+  "found footage",
+  "mystery",
+  "unexplained",
+  "veil frequency"
+ ],
+ "hashtags": "#horror #analoghorror #creepy #scary #shorts",
+ "artefato": "Espectrograma com 'HUSH' e o sinal com '40 YEARS DELAY'.",
+ "pista": "O sinal saiu de Hollow Pines em 1984 e voltou 40 anos depois: a Long Night.",
+ "scenes": [
+  {
+   "text": "A radio telescope picked up a signal with no source.",
+   "pt": "Um radiotelescópio captou um sinal sem origem.",
+   "voz": "narrador",
+   "imagens": [
+    "radio telescope night",
+    "observatory dish"
+   ],
+   "alerta": "SIGNAL",
+   "alerta_sub": "1.317 MHz  //  NO SOURCE",
+   "destaque": [
+    "NO",
+    "SOURCE"
+   ]
+  },
+  {
+   "text": "No star. No satellite. Just empty sky.",
+   "pt": "Nenhuma estrela. Nenhum satélite. Só o céu vazio.",
+   "voz": "narrador",
+   "imagens": [
+    "night sky stars",
+    "dark sky"
+   ],
+   "destaque": [
+    "EMPTY",
+    "SKY"
+   ]
+  },
+  {
+   "text": "When they slowed it down, it was a song.",
+   "pt": "Quando desaceleraram o sinal, era uma música.",
+   "voz": "narrador",
+   "imagens": [
+    "oscilloscope",
+    "audio waveform"
+   ],
+   "destaque": [
+    "SONG"
+   ]
+  },
+  {
+   "text": "Hush now. The pines are listening.",
+   "pt": "Shh, agora. Os pinheiros estão ouvindo.",
+   "voz": "transmissao",
+   "imagens": [
+    "pine forest night"
+   ],
+   "onda": true,
+   "destaque": [
+    "PINES"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "The signal had been traveling for forty years.",
+   "pt": "O sinal estava viajando havia quarenta anos.",
+   "voz": "narrador",
+   "imagens": [
+    "galaxy",
+    "space nebula"
+   ],
+   "caixa": [
+    "> DELAY: 40 YEARS",
+    "!> ORIGIN: EARTH, 1984"
+   ],
+   "destaque": [
+    "FORTY",
+    "YEARS"
+   ]
+  },
+  {
+   "text": "It left Earth the night Hollow Pines disappeared.",
+   "pt": "Ele saiu da Terra na noite em que Hollow Pines desapareceu.",
+   "voz": "narrador",
+   "imagens": [
+    "forest fog night",
+    "abandoned town"
+   ],
+   "destaque": [
+    "HOLLOW",
+    "PINES"
+   ]
+  },
+  {
+   "text": "And now it's coming back.",
+   "pt": "E agora ele está voltando.",
+   "voz": "narrador",
+   "imagens": [
+    "radio telescope night"
+   ],
+   "destaque": [
+    "COMING",
+    "BACK"
+   ],
+   "pausa": 1.4,
+   "respiracao": true
+  }
+ ]
+}

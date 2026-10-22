@@ -1,0 +1,76 @@
+name: Veil Frequency - publicar Short
+
+# Todo dia às 18h de Brasília (21:00 UTC) monta o próximo episódio da fila e AGENDA para 19h de Nova York (23:00 UTC).
+# Botão manual (painel ou aba Actions): modo "agora" publica na hora.
+on:
+  schedule:
+    - cron: '0 21 * * *'
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: 'agora = publica na hora | agendar = agenda para 23:00 UTC'
+        default: 'agora'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: veil-publicar
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pausa e fila
+        id: fila
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ] && sed -n '/^## PAUSAS/,/^## /p' veil/CONFIG_CANAL.md | grep -qiE '^- *(diario|pausado)'; then
+            echo "Pausado pelo painel."; echo "pular=1" >> $GITHUB_OUTPUT; exit 0
+          fi
+          prox=$(ls veil/serie/fila/*.json 2>/dev/null | sort | head -1)
+          if [ -z "$prox" ]; then echo "::error::Fila do Veil Frequency vazia. Rode a tarefa semanal de roteiros."; exit 1; fi
+          if [ -z "${{ secrets.VF_YT_TOKEN_JSON }}" ]; then echo "::error::Falta o Secret VF_YT_TOKEN_JSON (chave do YouTube do Veil Frequency)."; exit 1; fi
+          echo "ep=$prox" >> $GITHUB_OUTPUT; echo "Episódio: $prox"
+
+      - uses: actions/setup-python@v5
+        if: steps.fila.outputs.pular != '1'
+        with:
+          python-version: '3.11'
+
+      - name: Instalar
+        if: steps.fila.outputs.pular != '1'
+        timeout-minutes: 8
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu-core > /dev/null
+          pip install -q edge-tts numpy pillow google-auth-oauthlib google-api-python-client
+
+      - name: Montar vídeo
+        if: steps.fila.outputs.pular != '1'
+        run: |
+          python3 veil/vf.py "${{ steps.fila.outputs.ep }}" out
+          ls -la out/final.mp4
+
+      - name: Enviar para o YouTube
+        if: steps.fila.outputs.pular != '1'
+        env:
+          YT_TOKEN_JSON: ${{ secrets.VF_YT_TOKEN_JSON }}
+          VF_CHANNEL_ID: ${{ vars.VF_CHANNEL_ID }}
+        run: |
+          set -o pipefail
+          E="${{ steps.fila.outputs.ep }}"
+          MODO="${{ github.event.inputs.modo || 'agendar' }}"
+          python3 veil/yt.py up out/final.mp4 "$E" "$MODO" | tee up.log
+          ID=$(grep -o 'VIDEO_ID=[A-Za-z0-9_-]*' up.log | cut -d= -f2)
+          python3 -c "import json,sys; p=sys.argv[1]; d=json.load(open(p)); d['video_id']=sys.argv[2]; json.dump(d,open(p,'w'),ensure_ascii=False,indent=1)" "$E" "$ID"
+          mkdir -p veil/serie/publicados
+          git add "$E"
+          git mv -f "$E" veil/serie/publicados/
+          git add -A veil/serie
+          git config user.name "publicador-vf"
+          git config user.email "actions@users.noreply.github.com"
+          git commit -qm "Veil Frequency: publicado $(basename $E) ($ID)"
+          git pull -q --rebase && git push -q
