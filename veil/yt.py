@@ -18,7 +18,7 @@ if sys.argv[1] == 'me':
     print(me['id'], me['snippet']['title']); sys.exit()
 
 # trava de segurança: só publica no Veil Frequency
-esperado = os.environ.get('VF_CHANNEL_ID', '').strip()
+esperado = os.environ.get('VF_CHANNEL_ID', '').strip() or 'UCoe34hx015k4fnSI9IwwElg'
 if (esperado and me['id'] != esperado) or (not esperado and 'veil' not in me['snippet']['title'].lower()):
     sys.exit('ERRO: a chave não é do canal Veil Frequency (' + me['snippet']['title'] + ')')
 
