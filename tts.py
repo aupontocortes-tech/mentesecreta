@@ -19,8 +19,8 @@ PITCH = os.environ.get('MS_PITCH', '-14Hz')
 SR = 24000
 PRON = {'Greene': 'Grím', 'Cornell': 'Cornél', 'Stanford': 'Stênford', 'Harvard': 'Rárvard', 'Shorts': 'Xórts'}
 
-async def falar(texto, mp3):
-    c = edge_tts.Communicate(texto, VOZ, rate=RATE, pitch=PITCH, boundary='WordBoundary')
+async def falar(texto, mp3, voz=None, rate=None, pitch=None):
+    c = edge_tts.Communicate(texto, voz or VOZ, rate=rate or RATE, pitch=pitch or PITCH, boundary='WordBoundary')
     marcas = []
     with open(mp3, 'wb') as f:
         async for ch in c.stream():
@@ -43,7 +43,7 @@ def main():
         for k, v in pron.items(): falado = falado.replace(k, v)
         mp3 = os.path.join(out, f'v{i:02d}.mp3')
         for tent in range(4):
-            try: marcas = asyncio.run(falar(falado, mp3)); break
+            try: marcas = asyncio.run(falar(falado, mp3, sc.get('voz_edge'), sc.get('rate'), sc.get('pitch'))); break
             except Exception as e:
                 print('TTS falhou, tentando de novo:', e); time.sleep(3 + tent * 3)
         else: sys.exit('ERRO: TTS não respondeu')

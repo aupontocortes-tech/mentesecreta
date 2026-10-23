@@ -15,6 +15,17 @@ RAIZ = os.path.dirname(AQUI)
 ESTILO = ('cinematic horror film still, 35mm photo, dim moody low-key lighting, desaturated cold tones, '
           'film grain, shallow depth of field, photorealistic, unsettling atmosphere, vertical composition, '
           'no text, no watermark, no blood, no gore')
+# Vozes (Edge TTS, grátis). A história escolhe o narrador ("narrador": "mulher" ou "homem")
+# e cada fala pode ter a sua ("voz": "idosa", "crianca", "sombria"...).
+VOZES = {
+    'homem':   ('en-US-AndrewMultilingualNeural', '-4%', '-8Hz'),
+    'mulher':  ('en-US-AvaMultilingualNeural', '-4%', '-2Hz'),
+    'crianca': ('en-US-AnaNeural', '-8%', '+0Hz'),
+    'idosa':   ('en-US-JennyNeural', '-14%', '-18Hz'),
+    'idoso':   ('en-US-GuyNeural', '-14%', '-18Hz'),
+    'sombria': ('en-US-JennyNeural', '-24%', '-34Hz'),
+    'sombrio': ('en-US-GuyNeural', '-24%', '-34Hz'),
+}
 UA = 'Mozilla/5.0 (VeilFrequencyBot/1.0; github.com/aupontocortes-tech)'
 
 
@@ -55,15 +66,22 @@ def main(caminho, out):
     hist = json.load(open(caminho, encoding='utf-8'))
     base = random.Random(hist.get('titulo', '')).randint(1, 10**6)
     spec = {'scenes': [], 'pron': hist.get('pron', {})}
+    narr = hist.get('narrador', 'homem')
+    img = None
     for i, sc in enumerate(hist['scenes']):
-        img = os.path.abspath(f'{out}/cena{i:02d}.jpg')
+        if sc.get('mesma_imagem') and img:   # fala curta que continua na imagem anterior
+            pass
+        else:
+            img = os.path.abspath(f'{out}/cena{i:02d}.jpg')
         if not os.path.exists(img):
             print(f'cena {i}: gerando imagem')
             if not gerar_imagem(sc['visual'], base + i, img):
                 sys.exit(f'ERRO: não consegui gerar a imagem da cena {i}')
             time.sleep(3)
+        voz, rate, pitch = VOZES.get(sc.get('voz') or narr, VOZES['homem'])
         spec['scenes'].append({'text': sc['text'], 'src': img, 'focus': 0.5, 'foco_y': 0.5,
-                               'destaque': sc.get('destaque', []), 'pausa': sc.get('pausa', 0.3)})
+                               'destaque': sc.get('destaque', []), 'pausa': sc.get('pausa', 0.3),
+                               'voz_edge': voz, 'rate': rate, 'pitch': pitch})
     json.dump(spec, open(f'{out}/spec.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     env = dict(os.environ, MS_VOZ=os.environ.get('VF_VOZ', 'en-US-AndrewMultilingualNeural'),
                MS_RATE=os.environ.get('VF_RATE', '-4%'), MS_PITCH=os.environ.get('VF_PITCH', '-8Hz'),
