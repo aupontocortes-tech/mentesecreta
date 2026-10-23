@@ -23,49 +23,63 @@
    "emocao": "engano",
    "destaque": [
     "FAVORZINHO"
-   ]
+   ],
+   "src": "banco/engano/KMS3734.jpg",
+   "credito": "The ill-matched lovers — Massijs, Jan (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Calma. Não é sobre desconfiar de todo mundo. É sobre reconhecer uma técnica.",
    "emocao": "mente",
    "destaque": [
     "TÉCNICA"
-   ]
+   ],
+   "src": "banco/mente/KMSsp54.jpg",
+   "credito": "The Penitent St. Jerome — Collantes, Francisco (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Sabe quando você aceita algo pequeno e, de repente, está fazendo algo enorme?",
    "emocao": "poder",
    "destaque": [
     "ENORME"
-   ]
+   ],
+   "src": "banco/poder/KMSsp465.jpg",
+   "credito": "Portrait of a Lady — Victors, Jan (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Em mil novecentos e sessenta e seis, Freedman e Fraser testaram isso na Califórnia.",
    "emocao": "mente",
    "destaque": [
     "CALIFÓRNIA"
-   ]
+   ],
+   "src": "banco/mente/KMSsp824.jpg",
+   "credito": "The Scholar and Death — Gelton, Toussaint (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Pediram a moradores pra colocar uma placa enorme e feia no jardim: dirija com cuidado.",
    "emocao": "grupo",
    "destaque": [
     "PLACA"
-   ]
+   ],
+   "src": "banco/grupo/KMS737.jpg",
+   "credito": "A Country Dance in the Hedebo District, Zealand — Exner, Julius (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Sem pedido anterior, só dezessete por cento aceitaram.",
    "emocao": "olhar",
    "destaque": [
     "DEZESSETE"
-   ]
+   ],
+   "src": "banco/olhar/KMS6648.jpg",
+   "credito": "The Artist's Wife Esther, née Winther — Denner, Balthasar (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Mas quem, semanas antes, tinha aceitado uma plaquinha na janela...",
    "emocao": "segredo",
    "destaque": [
     "PLAQUINHA"
-   ]
+   ],
+   "src": "banco/segredo/KMSsp413.jpg",
+   "credito": "Self-Portrait — Lievens, Jan (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Setenta e seis por cento disseram sim.",
@@ -73,21 +87,28 @@
    "destaque": [
     "SETENTA"
    ],
-   "pausa": 0.7
+   "pausa": 0.7,
+   "src": "banco/poder/KMS1351.jpg",
+   "credito": "Industrimanden og politikeren I.C. Drewsen — Roed, Jørgen (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "A psicologia chama isso de pé na porta: o primeiro sim muda como você se vê.",
    "emocao": "mente",
    "destaque": [
     "SIM"
-   ]
+   ],
+   "src": "banco/mente/KMS2042.jpg",
+   "credito": "The Artist's Son Holger at the Age of Ten — Roed, Jørgen (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Quem cede no pouco, já assinou o muito.",
    "emocao": "engano",
    "destaque": [
     "POUCO"
-   ]
+   ],
+   "src": "banco/engano/KMS114.jpg",
+   "credito": "Lot and His Daughters — Vignon, Claude (SMK – Statens Museum for Kunst (domínio público))"
   }
- ]
+ ],
+ "video_id": "SKIEJl3hcws"
 }
