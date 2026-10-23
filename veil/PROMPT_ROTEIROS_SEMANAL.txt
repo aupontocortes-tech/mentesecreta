@@ -43,10 +43,11 @@ FORMATO DO ARQUIVO veil/historias/fila/NN_slug.json
  "tags": ["horror story","scary story","creepy","horror shorts","scary"],
  "hashtags": "#horror #scarystories #creepy #shorts",
  "scenes": [
-  {"text": "frase em inglês", "visual": "descrição da imagem em inglês", "destaque": ["PALAVRA"]},
-  {"text": "fala de outro personagem", "voz": "idosa", "mesma_imagem": true, "destaque": ["PALAVRA"], "pausa": 0.6}
+  {"text": "frase em inglês", "pt": "tradução em português", "visual": "descrição da imagem em inglês", "destaque": ["PALAVRA"]},
+  {"text": "fala de outro personagem", "pt": "tradução", "voz": "idosa", "mesma_imagem": true, "destaque": ["PALAVRA"], "pausa": 0.6}
  ]
 }
+"pt": tradução de CADA cena para o Thiago (ele lê o roteiro no painel antes de ir ao ar).
 "destaque": 1 palavra-chave da cena, em MAIÚSCULAS, igual a uma palavra do texto (fica vermelha na legenda).
 
 FINAL

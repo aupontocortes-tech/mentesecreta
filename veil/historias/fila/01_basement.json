@@ -17,28 +17,32 @@
    "destaque": [
     "NEVER",
     "BASEMENT"
-   ]
+   ],
+   "pt": "Minha avó tinha uma regra. Nunca responda se alguém chamar seu nome do porão."
   },
   {
    "text": "I thought it was a joke. Until the night she died.",
    "visual": "elderly woman's empty rocking chair in a dim living room at night, old family photos on the wall",
    "destaque": [
     "DIED"
-   ]
+   ],
+   "pt": "Eu achava que era brincadeira. Até a noite em que ela morreu."
   },
   {
    "text": "I was alone in her house, packing up her things.",
    "visual": "young woman packing cardboard boxes alone in an old house at night, single lamp",
    "destaque": [
     "ALONE"
-   ]
+   ],
+   "pt": "Eu estava sozinha na casa dela, empacotando as coisas."
   },
   {
    "text": "At three a.m., I heard it.",
    "visual": "dark staircase going down into a pitch black basement, view from the top",
    "destaque": [
     "THREE"
-   ]
+   ],
+   "pt": "Às três da manhã, eu ouvi."
   },
   {
    "text": "Emily... come downstairs.",
@@ -47,28 +51,32 @@
    ],
    "voz": "idosa",
    "mesma_imagem": true,
-   "pausa": 0.6
+   "pausa": 0.6,
+   "pt": "Emily... desce aqui."
   },
   {
    "text": "It was her voice. Perfectly her voice.",
    "visual": "close-up of a frightened young woman's face in darkness, eyes wide, lit by moonlight",
    "destaque": [
     "HER"
-   ]
+   ],
+   "pt": "Era a voz dela. Perfeitamente a voz dela."
   },
   {
    "text": "I almost answered. Then my phone lit up.",
    "visual": "smartphone screen glowing on a nightstand in a dark bedroom",
    "destaque": [
     "PHONE"
-   ]
+   ],
+   "pt": "Quase respondi. Aí meu celular acendeu."
   },
   {
    "text": "A text message. From my grandma's number.",
    "visual": "close-up of a hand holding a glowing phone in the dark, face out of focus",
    "destaque": [
     "GRANDMA'S"
-   ]
+   ],
+   "pt": "Uma mensagem. Do número da minha avó."
   },
   {
    "text": "Don't go down there. I'm upstairs with you.",
@@ -77,21 +85,24 @@
     "UPSTAIRS"
    ],
    "voz": "idosa",
-   "pausa": 0.8
+   "pausa": 0.8,
+   "pt": "Não desce. Eu tô aqui em cima com você."
   },
   {
    "text": "I looked up. Her bedroom door was open.",
    "visual": "old bedroom doorway open in darkness, a faint silhouette standing inside",
    "destaque": [
     "OPEN"
-   ]
+   ],
+   "pt": "Olhei pra cima. A porta do quarto dela estava aberta."
   },
   {
    "text": "Then, from the basement, a whisper.",
    "visual": "pitch black basement with a pale hand resting on the bottom step of the stairs",
    "destaque": [
     "WHISPER"
-   ]
+   ],
+   "pt": "Então, do porão, um sussurro."
   },
   {
    "text": "She's lying.",
@@ -100,21 +111,24 @@
    ],
    "voz": "sombria",
    "mesma_imagem": true,
-   "pausa": 0.9
+   "pausa": 0.9,
+   "pt": "Ela está mentindo."
   },
   {
    "text": "I never answered either of them. They both still call my name.",
    "visual": "young woman sitting on the floor of a dark hallway between the stairs, hugging her knees, terrified",
    "destaque": [
     "BOTH"
-   ]
+   ],
+   "pt": "Nunca respondi nenhuma das duas. As duas ainda chamam meu nome."
   },
   {
    "text": "Which one would you trust?",
    "visual": "split view of a dark basement door and a dark bedroom door in an old house",
    "destaque": [
     "TRUST"
-   ]
+   ],
+   "pt": "Em qual você confiaria?"
   }
  ],
  "narrador": "mulher",
