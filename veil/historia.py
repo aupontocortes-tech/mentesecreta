@@ -17,14 +17,14 @@ ESTILO = ('cinematic horror film still, 35mm photo, dim moody low-key lighting, 
           'no text, no watermark, no blood, no gore')
 # Vozes (Edge TTS, grátis). A história escolhe o narrador ("narrador": "mulher" ou "homem")
 # e cada fala pode ter a sua ("voz": "idosa", "crianca", "sombria"...).
-VOZES = {
-    'homem':   ('en-US-AndrewMultilingualNeural', '-4%', '-8Hz'),
-    'mulher':  ('en-US-AvaMultilingualNeural', '-4%', '-2Hz'),
-    'crianca': ('en-US-AnaNeural', '-8%', '+0Hz'),
-    'idosa':   ('en-US-JennyNeural', '-14%', '-18Hz'),
-    'idoso':   ('en-US-GuyNeural', '-14%', '-18Hz'),
-    'sombria': ('en-US-JennyNeural', '-24%', '-34Hz'),
-    'sombrio': ('en-US-GuyNeural', '-24%', '-34Hz'),
+VOZES = {   # vozes naturais: sem mexer muito no tom (tom forçado deixa a voz com cara de robô)
+    'homem':   ('en-US-AndrewMultilingualNeural', '-2%', '+0Hz'),
+    'mulher':  ('en-US-AvaMultilingualNeural', '-2%', '+0Hz'),
+    'crianca': ('en-US-AnaNeural', '-4%', '+0Hz'),
+    'idosa':   ('en-US-JennyNeural', '-8%', '-6Hz'),
+    'idoso':   ('en-US-GuyNeural', '-8%', '-6Hz'),
+    'sombria': ('en-US-JennyNeural', '-18%', '-20Hz'),
+    'sombrio': ('en-US-GuyNeural', '-18%', '-20Hz'),
 }
 UA = 'Mozilla/5.0 (VeilFrequencyBot/1.0; github.com/aupontocortes-tech)'
 
@@ -84,7 +84,7 @@ def main(caminho, out):
                                'voz_edge': voz, 'rate': rate, 'pitch': pitch})
     json.dump(spec, open(f'{out}/spec.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     env = dict(os.environ, MS_VOZ=os.environ.get('VF_VOZ', 'en-US-AndrewMultilingualNeural'),
-               MS_RATE=os.environ.get('VF_RATE', '-4%'), MS_PITCH=os.environ.get('VF_PITCH', '-8Hz'),
+               MS_RATE=os.environ.get('VF_RATE', '-2%'), MS_PITCH=os.environ.get('VF_PITCH', '+0Hz'),
                MS_MARCA='VEIL FREQUENCY')
     for cmd in (['tts.py', f'{out}/spec.json', out], ['musica.py', out], ['render.py', f'{out}/spec.json', out]):
         subprocess.run(['python3', os.path.join(RAIZ, cmd[0]), *cmd[1:]], check=True, env=env)
