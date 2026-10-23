@@ -139,7 +139,7 @@ def main():
         if len(raw) < fs: raw = last
         last = raw; t = i / FPS
         im = Image.frombytes('RGB', (W, H), raw).convert('RGBA'); im.alpha_composite(GRAD); d = ImageDraw.Draw(im)
-        d.text((W / 2, 120), 'MENTE SECRETA', font=M8, fill=VERM + (220,), anchor='mm')
+        d.text((W / 2, 120), os.environ.get('MS_MARCA', 'MENTE SECRETA'), font=M8, fill=VERM + (220,), anchor='mm')
         for (cs, ce, c, cor, alvo) in CH:
             if cs <= t < ce: desenha_legenda(im, c, cor, alvo, (t - cs) / 0.18); break
         d.rectangle((0, H - 10, W * t / DUR, H), fill=VERM)

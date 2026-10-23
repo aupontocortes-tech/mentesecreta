@@ -1,0 +1,21 @@
+{
+ "titulo": "My Grandma Had One Rule About the Basement #Shorts",
+ "titulo_pt": "Minha avó tinha uma regra sobre o porão",
+ "descricao": "She told me never to answer. I finally understand why.\n\nWould you answer? Tell me below.\n\nFollow @VeilFrequency for a new horror story every day.",
+ "tags": ["horror story", "scary story", "creepy", "horror shorts", "scary"],
+ "hashtags": "#horror #scarystories #creepy #shorts",
+ "scenes": [
+  {"text": "My grandma had one rule. Never answer if someone calls your name from the basement.", "visual": "old wooden basement door slightly open in a dark farmhouse hallway, faint light under the door", "destaque": ["NEVER", "BASEMENT"]},
+  {"text": "I thought it was a joke. Until the night she died.", "visual": "elderly woman's empty rocking chair in a dim living room at night, old family photos on the wall", "destaque": ["DIED"]},
+  {"text": "I was alone in her house, packing up her things.", "visual": "young woman packing cardboard boxes alone in an old house at night, single lamp", "destaque": ["ALONE"]},
+  {"text": "At three a.m., I heard it. Emily. Come downstairs.", "visual": "dark staircase going down into a pitch black basement, view from the top", "destaque": ["DOWNSTAIRS"], "pausa": 0.5},
+  {"text": "It was her voice. Perfectly her voice.", "visual": "close-up of a frightened young woman's face in darkness, eyes wide, lit by moonlight", "destaque": ["HER"]},
+  {"text": "I almost answered. Then my phone lit up.", "visual": "smartphone screen glowing on a nightstand in a dark bedroom", "destaque": ["PHONE"]},
+  {"text": "A text message. From my grandma's number.", "visual": "close-up of a hand holding a glowing phone in the dark, face out of focus", "destaque": ["GRANDMA'S"]},
+  {"text": "Don't go down there. I'm upstairs with you.", "visual": "dark upstairs hallway of an old house, a bedroom door at the end slowly opening", "destaque": ["UPSTAIRS"], "pausa": 0.8},
+  {"text": "I looked up. Her bedroom door was open.", "visual": "old bedroom doorway open in darkness, a faint silhouette standing inside", "destaque": ["OPEN"]},
+  {"text": "And from the basement, the voice whispered. She's lying.", "visual": "pitch black basement with a pale hand resting on the bottom step of the stairs", "destaque": ["LYING"], "pausa": 0.8},
+  {"text": "I never answered either of them. They both still call my name.", "visual": "young woman sitting on the floor of a dark hallway between the stairs, hugging her knees, terrified", "destaque": ["BOTH"]},
+  {"text": "Which one would you trust?", "visual": "split view of a dark basement door and a dark bedroom door in an old house", "destaque": ["TRUST"]}
+ ]
+}
