@@ -22,42 +22,54 @@
    "emocao": "grupo",
    "destaque": [
     "POPULARES"
-   ]
+   ],
+   "src": "banco/grupo/KMS952.jpg",
+   "credito": "Sinful Mankind Surprised by the Day of Judgment — Barendsz., Dirck (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Calma. Não é sobre você ser chato. É matemática.",
    "emocao": "mente",
    "destaque": [
     "MATEMÁTICA"
-   ]
+   ],
+   "src": "banco/mente/KMSsp824.jpg",
+   "credito": "The Scholar and Death — Gelton, Toussaint (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Sabe quando você rola o feed e parece que todo mundo tem mais amigos e mais festas?",
    "emocao": "grupo",
    "destaque": [
     "FESTAS"
-   ]
+   ],
+   "src": "banco/grupo/KMSsp378.jpg",
+   "credito": "Musical Group by Candlelight — Honthorst, Gerard van (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Em mil novecentos e noventa e um, o sociólogo Scott Feld explicou o porquê.",
    "emocao": "mente",
    "destaque": [
     "FELD"
-   ]
+   ],
+   "src": "banco/mente/KMS3884.jpg",
+   "credito": "Dominican Friar — Rubens, Peter Paul (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Quem tem muitos amigos aparece em muitas listas de amizade, inclusive na sua.",
    "emocao": "segredo",
    "destaque": [
     "LISTAS"
-   ]
+   ],
+   "src": "banco/segredo/KMS7133.jpg",
+   "credito": "Portræt af den franske maler Alfred Guillou — Krøyer, P.S. (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Quem tem poucos quase não aparece em lista nenhuma.",
    "emocao": "solidao",
    "destaque": [
     "POUCOS"
-   ]
+   ],
+   "src": "banco/solidao/KMS3684.jpg",
+   "credito": "A Young Girl in Jutland Writing her Beloved's Name on a Misty Window — Dalsgaard, Christen (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Resultado: a maioria das pessoas tem menos amigos que a média dos próprios amigos.",
@@ -65,28 +77,37 @@
    "destaque": [
     "MAIORIA"
    ],
-   "pausa": 0.7
+   "pausa": 0.7,
+   "src": "banco/olhar/KMS1634.jpg",
+   "credito": "Portrait of Rembrandt with Gorget — Rembrandt van Rijn (værksted) (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Os cientistas chamam isso de paradoxo da amizade.",
    "emocao": "mente",
    "destaque": [
     "PARADOXO"
-   ]
+   ],
+   "src": "banco/mente/KMS280.jpg",
+   "credito": "A Young Artist (Ditlev Blunck) Examining a Sketch in a Mirror — Bendz, Wilhelm (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Comparar sua vida com a deles é comparar com uma amostra viciada.",
    "emocao": "engano",
    "destaque": [
     "VICIADA"
-   ]
+   ],
+   "src": "banco/engano/KMS1274.jpg",
+   "credito": "The Repentant Magdalene — Ubekendt kunstner (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "A inveja nasce de uma conta mal feita.",
    "emocao": "segredo",
    "destaque": [
     "INVEJA"
-   ]
+   ],
+   "src": "banco/segredo/KMS3004.jpg",
+   "credito": "The Artist's Sisters Signe and Henriette Reading a Book — Hansen, Constantin (SMK – Statens Museum for Kunst (domínio público))"
   }
- ]
+ ],
+ "video_id": "y7Z05Cc-n2k"
 }
