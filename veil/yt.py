@@ -32,9 +32,9 @@ desc += '\n\n' + r.get('hashtags', '#horror #analoghorror #creepy')
 status = {'selfDeclaredMadeForKids': False, 'containsSyntheticMedia': True}
 if modo == 'agora':
     status['privacyStatus'] = 'public'
-else:  # agenda para as 19h de Nova York (23:00 UTC)
+else:  # agenda para as 18h de Brasília (21:00 UTC)
     agora = datetime.datetime.now(datetime.timezone.utc)
-    alvo = agora.replace(hour=23, minute=0, second=0, microsecond=0)
+    alvo = agora.replace(hour=21, minute=0, second=0, microsecond=0)
     if alvo - agora < datetime.timedelta(minutes=20):
         alvo += datetime.timedelta(days=1)
     status['privacyStatus'] = 'private'

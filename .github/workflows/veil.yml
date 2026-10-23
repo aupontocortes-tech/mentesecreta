@@ -1,14 +1,14 @@
 name: Veil Frequency - publicar Short
 
-# Todo dia às 18h de Brasília (21:00 UTC) monta o próximo episódio da fila e AGENDA para 19h de Nova York (23:00 UTC).
+# Todo dia às 16h de Brasília (19:00 UTC) monta o próximo episódio da fila e AGENDA para 18h de Brasília (21:00 UTC).
 # Botão manual (painel ou aba Actions): modo "agora" publica na hora.
 on:
   schedule:
-    - cron: '0 21 * * *'
+    - cron: '0 19 * * *'
   workflow_dispatch:
     inputs:
       modo:
-        description: 'agora = publica na hora | agendar = agenda para 23:00 UTC'
+        description: 'agora = publica na hora | agendar = agenda para 18h de Brasília'
         default: 'agora'
 
 permissions:
