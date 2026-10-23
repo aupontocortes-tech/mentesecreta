@@ -1,0 +1,114 @@
+{
+ "titulo": "Camera Six Shows a Woman Waving at Me #Shorts",
+ "titulo_pt": "A câmera seis mostra uma mulher acenando para mim",
+ "resumo_pt": "Um vigia noturno vê todas as noites, às três da manhã, uma mulher acenando na câmera seis. Ele procura no prédio inteiro onde fica essa câmera e descobre que ela está na própria sala de segurança, apontada para a mesa dele: a mulher acena atrás dele.",
+ "narrador": "homem",
+ "descricao": "Every night at three a.m., she waves. I finally found out where camera six is.\n\nWould you turn around?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "scary",
+  "night shift horror",
+  "security guard story"
+ ],
+ "hashtags": "#horror #scarystories #nightshift #shorts",
+ "scenes": [
+  {
+   "text": "I work night security at an empty office building.",
+   "visual": "security guard desk with a wall of small monitors in a dark office lobby",
+   "destaque": [
+    "SECURITY"
+   ]
+  },
+  {
+   "text": "Every night at three a.m., camera six shows a woman waving.",
+   "visual": "grainy black and white security monitor showing a pale figure raising one hand",
+   "destaque": [
+    "WAVING"
+   ]
+  },
+  {
+   "text": "Just waving. Slowly. Right at the lens.",
+   "visual": "close-up of a security screen, a blurry woman's silhouette with her hand raised",
+   "destaque": [
+    "SLOWLY"
+   ]
+  },
+  {
+   "text": "I checked every hallway. Every office. Every stairwell. Twice.",
+   "visual": "flashlight beam in a long empty office hallway at night",
+   "destaque": [
+    "EVERY"
+   ]
+  },
+  {
+   "text": "Nobody. And no camera labeled six.",
+   "visual": "guard's flashlight pointing at an empty ceiling corner in a dark stairwell",
+   "destaque": [
+    "NOBODY"
+   ]
+  },
+  {
+   "text": "Tonight I asked the day guy where camera six is.",
+   "visual": "guard holding a phone to his ear in a dark security booth",
+   "destaque": [
+    "WHERE"
+   ]
+  },
+  {
+   "text": "Camera six? It's the one in your booth, man.",
+   "destaque": [
+    "BOOTH"
+   ],
+   "voz": "homem",
+   "mesma_imagem": true,
+   "pausa": 0.6
+  },
+  {
+   "text": "I looked up.",
+   "visual": "small dome security camera mounted on the ceiling of a cramped security booth",
+   "destaque": [
+    "UP"
+   ]
+  },
+  {
+   "text": "It's pointed right at my chair. It always has been.",
+   "visual": "overhead security view of an empty office chair in front of glowing monitors",
+   "destaque": [
+    "CHAIR"
+   ]
+  },
+  {
+   "text": "On the monitor, she's standing behind me.",
+   "visual": "grainy security footage of a guard sitting at his desk and a pale woman standing right behind him",
+   "destaque": [
+    "BEHIND"
+   ],
+   "pausa": 0.8
+  },
+  {
+   "text": "Still waving.",
+   "visual": "close-up of a grainy security screen, the pale woman's raised hand inches from the guard's head",
+   "destaque": [
+    "STILL"
+   ],
+   "pausa": 0.9
+  },
+  {
+   "text": "I haven't turned around. I can feel her cold breath on my neck.",
+   "visual": "back of a security guard's head and shoulders, sitting rigid in the dark lit by monitors",
+   "destaque": [
+    "BREATH"
+   ]
+  },
+  {
+   "text": "Would you turn around?",
+   "visual": "empty dark security booth, monitors glowing, chair slightly spinning",
+   "destaque": [
+    "TURN"
+   ]
+  }
+ ]
+}

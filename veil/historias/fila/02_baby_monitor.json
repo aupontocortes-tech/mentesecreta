@@ -1,0 +1,122 @@
+{
+ "titulo": "The Baby Monitor Picked Up a Second Voice #Shorts",
+ "titulo_pt": "A babá eletrônica captou uma segunda voz",
+ "resumo_pt": "Uma babá ouve pela babá eletrônica o menino prometendo a alguém que vai deixá-lo entrar quando ela dormir. Ela finge dormir no sofá, e a segunda voz agradece ao menino, mas vem de dentro da sala, ao lado dela.",
+ "narrador": "mulher",
+ "descricao": "He promised to let someone in once I fell asleep. So I pretended.\n\nWould you have opened your eyes?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "scary",
+  "babysitter horror"
+ ],
+ "hashtags": "#horror #scarystories #babysitter #shorts",
+ "scenes": [
+  {
+   "text": "The Hendersons said their son sleeps through the night. They never said he talks.",
+   "visual": "baby monitor glowing green on a dark suburban kitchen counter at night",
+   "destaque": [
+    "TALKS"
+   ]
+  },
+  {
+   "text": "Around midnight, the baby monitor crackled.",
+   "visual": "close-up of a baby monitor speaker with small green lights in a dark room",
+   "destaque": [
+    "MONITOR"
+   ]
+  },
+  {
+   "text": "Lucas was whispering to someone.",
+   "visual": "dark child's bedroom with a dim night light and a small bed, toys on the floor",
+   "destaque": [
+    "WHISPERING"
+   ]
+  },
+  {
+   "text": "Okay. I'll let you in when she's asleep.",
+   "destaque": [
+    "ASLEEP"
+   ],
+   "voz": "crianca",
+   "mesma_imagem": true,
+   "pausa": 0.6
+  },
+  {
+   "text": "I ran upstairs and checked his room.",
+   "visual": "young woman's hand on the doorknob of a child's bedroom in a dark upstairs hallway",
+   "destaque": [
+    "CHECKED"
+   ]
+  },
+  {
+   "text": "He was fast asleep. The window was locked tight.",
+   "visual": "locked bedroom window with moonlight coming through thin curtains",
+   "destaque": [
+    "LOCKED"
+   ]
+  },
+  {
+   "text": "So I lay on the couch and pretended to sleep.",
+   "visual": "young woman lying on a couch in a dark living room, eyes open, TV off",
+   "destaque": [
+    "PRETENDED"
+   ]
+  },
+  {
+   "text": "The monitor crackled again.",
+   "visual": "baby monitor glowing on a coffee table in a dark living room",
+   "destaque": [
+    "AGAIN"
+   ]
+  },
+  {
+   "text": "She's asleep now.",
+   "destaque": [
+    "NOW"
+   ],
+   "voz": "crianca",
+   "mesma_imagem": true
+  },
+  {
+   "text": "Then a second voice answered. Not from the monitor.",
+   "visual": "dark living room seen from behind the couch, a tall shadow standing in the doorway",
+   "destaque": [
+    "SECOND"
+   ],
+   "pausa": 0.8
+  },
+  {
+   "text": "Thank you, Lucas.",
+   "destaque": [
+    "THANK"
+   ],
+   "voz": "sombria",
+   "mesma_imagem": true,
+   "pausa": 0.9
+  },
+  {
+   "text": "I kept my eyes shut and counted the footsteps on the carpet.",
+   "visual": "close-up of a young woman's closed trembling eyes in the dark",
+   "destaque": [
+    "FOOTSTEPS"
+   ]
+  },
+  {
+   "text": "Four steps. Then nothing. Right beside me.",
+   "visual": "a tall shadow falling across a woman lying on a couch in a dark room",
+   "destaque": [
+    "BESIDE"
+   ]
+  },
+  {
+   "text": "Would you have opened your eyes?",
+   "visual": "empty couch in a dark living room, blanket on the floor, baby monitor glowing",
+   "destaque": [
+    "EYES"
+   ]
+  }
+ ]
+}

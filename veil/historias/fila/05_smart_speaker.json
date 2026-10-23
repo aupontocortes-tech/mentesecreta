@@ -1,0 +1,116 @@
+{
+ "titulo": "My Smart Speaker Says Goodnight to Someone Else #Shorts",
+ "titulo_pt": "Minha caixa de som inteligente dá boa noite para outra pessoa",
+ "resumo_pt": "Uma mulher que mora sozinha ouve a assistente de voz dar boa noite a uma tal de Emma. Ao perguntar quem é Emma, a assistente diz que Emma é a dona da casa, que comprou o imóvel em maio, e que não recebe comandos de mais ninguém. A virada: a narradora é quem está assombrando a casa.",
+ "narrador": "mulher",
+ "descricao": "My speaker keeps talking to a woman named Emma. I live alone. At least, I thought I did.\n\nWhen did you figure it out?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "scary",
+  "smart speaker horror",
+  "plot twist"
+ ],
+ "hashtags": "#horror #scarystories #creepy #shorts",
+ "scenes": [
+  {
+   "text": "Last night, my smart speaker said goodnight to someone named Emma.",
+   "visual": "small smart speaker glowing with a blue ring on a dark kitchen counter",
+   "destaque": [
+    "EMMA"
+   ]
+  },
+  {
+   "text": "Goodnight, Emma. Your alarm is set for seven.",
+   "destaque": [
+    "GOODNIGHT"
+   ],
+   "voz": "mulher",
+   "mesma_imagem": true,
+   "pausa": 0.6
+  },
+  {
+   "text": "I live alone. I've lived here for forty years.",
+   "visual": "old cozy living room at night, armchair, lace curtains, single lamp",
+   "destaque": [
+    "ALONE"
+   ]
+  },
+  {
+   "text": "So I asked it. Who is Emma?",
+   "visual": "woman's wrinkled hand resting next to a glowing smart speaker in the dark",
+   "destaque": [
+    "WHO"
+   ]
+  },
+  {
+   "text": "Emma is the homeowner.",
+   "destaque": [
+    "HOMEOWNER"
+   ],
+   "voz": "mulher",
+   "mesma_imagem": true
+  },
+  {
+   "text": "That's ridiculous. This is my house.",
+   "visual": "old framed photos on a hallway wall, slightly crooked, dim light",
+   "destaque": [
+    "MY"
+   ]
+  },
+  {
+   "text": "I walked to my bedroom.",
+   "visual": "dark hallway leading to a half-open bedroom door, faint light inside",
+   "destaque": [
+    "BEDROOM"
+   ]
+  },
+  {
+   "text": "A young woman was asleep in my bed.",
+   "visual": "young woman sleeping in a bed in a modern bedroom, moonlight, phone charging on nightstand",
+   "destaque": [
+    "ASLEEP"
+   ],
+   "pausa": 0.8
+  },
+  {
+   "text": "My furniture was gone. The walls were a different color.",
+   "visual": "modern minimalist bedroom with fresh paint and moving boxes in the corner",
+   "destaque": [
+    "GONE"
+   ]
+  },
+  {
+   "text": "The speaker spoke again, quietly.",
+   "visual": "smart speaker blue ring pulsing on a modern nightstand",
+   "destaque": [
+    "QUIETLY"
+   ]
+  },
+  {
+   "text": "Sorry. I only take commands from Emma. She bought the house in May.",
+   "destaque": [
+    "MAY"
+   ],
+   "voz": "mulher",
+   "mesma_imagem": true,
+   "pausa": 0.9
+  },
+  {
+   "text": "Emma opened her eyes. She looked right at me. And she screamed.",
+   "visual": "young woman sitting up in bed in the dark, staring at an empty doorway, terrified",
+   "destaque": [
+    "SCREAMED"
+   ]
+  },
+  {
+   "text": "I don't understand why everyone keeps screaming at me.",
+   "visual": "faint transparent silhouette of an old woman standing in a dark doorway",
+   "destaque": [
+    "WHY"
+   ]
+  }
+ ]
+}
