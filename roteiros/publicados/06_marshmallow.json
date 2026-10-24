@@ -25,49 +25,63 @@
    "emocao": "engano",
    "destaque": [
     "MARSHMALLOW"
-   ]
+   ],
+   "src": "banco/engano/KMS1476.jpg",
+   "credito": "Judith med Holofernes' hoved — Storch, F.L. (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Calma. O teste existiu. Só te contaram metade da história.",
    "emocao": "mente",
    "destaque": [
     "METADE"
-   ]
+   ],
+   "src": "banco/mente/KMS280.jpg",
+   "credito": "A Young Artist (Ditlev Blunck) Examining a Sketch in a Mirror — Bendz, Wilhelm (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Sabe aquela ideia: a criança que espera pelo doce vira um adulto de sucesso?",
    "emocao": "familia",
    "destaque": [
     "CRIANÇA"
-   ]
+   ],
+   "src": "banco/familia/KMSsp251.jpg",
+   "credito": "The Holy Family — Hoecke, Jan van den (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Ela veio de Walter Mischel, em Stanford, com crianças da creche da própria universidade.",
    "emocao": "poder",
    "destaque": [
     "STANFORD"
-   ]
+   ],
+   "src": "banco/poder/KMSsp428.jpg",
+   "credito": "Portrait of a Woman — Bol, Ferdinand (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Em dois mil e dezoito, Tyler Watts refez a análise com mais de novecentas crianças.",
    "emocao": "grupo",
    "destaque": [
     "NOVECENTAS"
-   ]
+   ],
+   "src": "banco/grupo/KMS1674.jpg",
+   "credito": "The Artist's Wife and Daughter — Ring, L.A. (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "A ligação entre esperar e ir bem na escola apareceu, mas bem menor.",
    "emocao": "mente",
    "destaque": [
     "MENOR"
-   ]
+   ],
+   "src": "banco/mente/KMSsp824.jpg",
+   "credito": "The Scholar and Death — Gelton, Toussaint (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "E quando levaram em conta a família e o ambiente da criança...",
    "emocao": "familia",
    "destaque": [
     "FAMÍLIA"
-   ]
+   ],
+   "src": "banco/familia/DEP12.jpg",
+   "credito": "The Holy Family — Rubens, Peter Paul (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "A diferença quase sumiu.",
@@ -75,21 +89,28 @@
    "destaque": [
     "SUMIU"
    ],
-   "pausa": 0.7
+   "pausa": 0.7,
+   "src": "banco/segredo/KMS3465.jpg",
+   "credito": "En ung pige beder landsbyens gamle postbud besørge et brev — Dalsgaard, Christen (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Esperar pelo doce pode dizer mais sobre a vida da criança do que sobre força de vontade.",
    "emocao": "dinheiro",
    "destaque": [
     "VIDA"
-   ]
+   ],
+   "src": "banco/dinheiro/KMSst270.jpg",
+   "credito": "An Old Man Counting his Money — Koninck, Salomon (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Às vezes, paciência é privilégio.",
    "emocao": "solidao",
    "destaque": [
     "PRIVILÉGIO"
-   ]
+   ],
+   "src": "banco/solidao/KMSsp194.jpg",
+   "credito": "The Apostle Peter — Rubens, Peter Paul (SMK – Statens Museum for Kunst (domínio público))"
   }
- ]
+ ],
+ "video_id": "xciZ5978aPc"
 }
