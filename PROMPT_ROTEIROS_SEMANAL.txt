@@ -8,7 +8,9 @@ PREPARO:
 - Leia os títulos e temas em roteiros/publicados/ e roteiros/fila/. É PROIBIDO repetir tema ou gancho parecido.
 - Conte os arquivos em roteiros/fila/. Crie só o que falta para chegar a 7. Numere continuando a sequência (ex.: 08_tema.json). O robô publica em ordem alfabética.
 
-TEMAS (você escolhe, puxando para o lado mais polêmico, sem perguntar ao Thiago). Varie entre:
+O QUE O PÚBLICO DO CANAL MAIS GOSTOU (out/2026): temas da VIDA DA PESSOA, que ela já viveu e nunca entendeu (efeito holofote, contar planos, seus amigos têm mais amigos). Os temas "de livro" (experimento famoso, memória técnica, favor) renderam menos.
+Teste antes de escolher: a pessoa vai pensar "isso já aconteceu comigo"? Se não, troque.
+TEMAS (você escolhe, puxando para o lado mais polêmico, sem perguntar ao Thiago). Prefira situações do dia a dia (relacionamentos, ex, amizade, trabalho, celular, conversa, autoestima, como os outros te veem) e varie entre:
 trabalho/chefe/dinheiro, amizade e inveja, relacionamentos e atração, manipulação (como reconhecer), memória e cérebro, infância -> vida adulta, decisões e vieses, experimentos famosos (Milgram, Asch, Stanford, marshmallow — com as ressalvas reais de cada um).
 
 FÓRMULA OBRIGATÓRIA (estilo que mais retém):
