@@ -19,42 +19,54 @@
    "emocao": "segredo",
    "destaque": [
     "DEMONSTRA"
-   ]
+   ],
+   "src": "banco/segredo/KMSsp413.jpg",
+   "credito": "Self-Portrait — Lievens, Jan (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Calma. Não é joguinho. É como a dúvida prende a mente.",
    "emocao": "mente",
    "destaque": [
     "DÚVIDA"
-   ]
+   ],
+   "src": "banco/mente/KMS3884.jpg",
+   "credito": "Dominican Friar — Rubens, Peter Paul (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Sabe quando alguém demora pra responder e você não para de pensar nessa pessoa?",
    "emocao": "solidao",
    "destaque": [
     "PENSAR"
-   ]
+   ],
+   "src": "banco/solidao/KMS1636.jpg",
+   "credito": "Study of an Old Man in Profile — Rembrandt van Rijn (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Em dois mil e onze, pesquisadores mostraram perfis de homens a quarenta e sete universitárias.",
    "emocao": "olhar",
    "destaque": [
     "PERFIS"
-   ]
+   ],
+   "src": "banco/olhar/KMS4559.jpg",
+   "credito": "Portrait of Emilie Henriette Massmann, Betrothed of Frederik Wilhelm Caspar von Benzon — Eckersberg, C.W. (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Pra umas, disseram: eles gostaram muito de você. Pra outras: eles te acharam mediana.",
    "emocao": "grupo",
    "destaque": [
     "MEDIANA"
-   ]
+   ],
+   "src": "banco/grupo/KMS3733.jpg",
+   "credito": "Interior of a Dutch Church — Langevelt, Rutger van (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Um terceiro grupo não sabia o que eles tinham achado.",
    "emocao": "segredo",
    "destaque": [
     "SABIA"
-   ]
+   ],
+   "src": "banco/segredo/KMS3004.jpg",
+   "credito": "The Artist's Sisters Signe and Henriette Reading a Book — Hansen, Constantin (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Esse foi o grupo que mais se sentiu atraído.",
@@ -62,28 +74,37 @@
    "destaque": [
     "ATRAÍDO"
    ],
-   "pausa": 0.7
+   "pausa": 0.7,
+   "src": "banco/engano/KMS1476.jpg",
+   "credito": "Judith med Holofernes' hoved — Storch, F.L. (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "A psicologia chama isso de poder da incerteza: a mente volta ao que não se resolve.",
    "emocao": "mente",
    "destaque": [
     "INCERTEZA"
-   ]
+   ],
+   "src": "banco/mente/KMSsp54.jpg",
+   "credito": "The Penitent St. Jerome — Collantes, Francisco (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "O estudo foi pequeno e só com mulheres, mas o alerta é útil.",
    "emocao": "medo",
    "destaque": [
     "ALERTA"
-   ]
+   ],
+   "src": "banco/medo/KMS3270.jpg",
+   "credito": "The Execution of Emperor Maximilian — Manet, Édouard (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Ansiedade não é o mesmo que paixão.",
    "emocao": "solidao",
    "destaque": [
     "PAIXÃO"
-   ]
+   ],
+   "src": "banco/solidao/KMS7284.jpg",
+   "credito": "Langebro, Copenhagen, in the Moonlight with Running Figures — Eckersberg, C.W. (SMK – Statens Museum for Kunst (domínio público))"
   }
- ]
+ ],
+ "video_id": "wlUy0MGm920"
 }
