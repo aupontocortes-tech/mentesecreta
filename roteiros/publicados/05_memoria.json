@@ -22,42 +22,54 @@
    "emocao": "medo",
    "destaque": [
     "LEMBRANÇAS"
-   ]
+   ],
+   "src": "banco/medo/KMS3468.jpg",
+   "credito": "The Most Terrible Night. View of Kongens Nytorv in Copenhagen During the English Bombardement of Copenhagen at Night between 4 and 5 September 1807 — Lorentzen, C.A. (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Calma. Não é sobre você mentir. É sobre seu cérebro reescrever.",
    "emocao": "mente",
    "destaque": [
     "REESCREVER"
-   ]
+   ],
+   "src": "banco/mente/KMS985.jpg",
+   "credito": "King Christian II in Prison — Bloch, Carl (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Sabe quando você e um amigo lembram da mesma briga de jeitos totalmente diferentes?",
    "emocao": "olhar",
    "destaque": [
     "DIFERENTES"
-   ]
+   ],
+   "src": "banco/olhar/KMSsp220.jpg",
+   "credito": "David with the Head of Goliath — Grebber, Pieter de (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Em mil novecentos e setenta e quatro, Elizabeth Loftus mostrou o vídeo de uma batida de carro.",
    "emocao": "mente",
    "destaque": [
     "LOFTUS"
-   ]
+   ],
+   "src": "banco/mente/KMS280.jpg",
+   "credito": "A Young Artist (Ditlev Blunck) Examining a Sketch in a Mirror — Bendz, Wilhelm (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Pra uns, perguntou a velocidade quando os carros bateram. Pra outros, quando se arrebentaram.",
    "emocao": "segredo",
    "destaque": [
     "ARREBENTARAM"
-   ]
+   ],
+   "src": "banco/segredo/KMSst387.jpg",
+   "credito": "Incostanza. An Allegory of Fickleness — Janssens, Abraham I (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Uma semana depois: você viu vidro quebrado?",
    "emocao": "olhar",
    "destaque": [
     "VIDRO"
-   ]
+   ],
+   "src": "banco/olhar/KMShm9.jpg",
+   "credito": "Self-Portrait — Pissarro, Camille (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Não havia vidro nenhum. Mas trinta e dois por cento do grupo do arrebentaram disse que sim.",
@@ -65,28 +77,37 @@
    "destaque": [
     "TRINTA"
    ],
-   "pausa": 0.7
+   "pausa": 0.7,
+   "src": "banco/medo/KMS3042.jpg",
+   "credito": "Shipwreck against a Rock — Wieringen, Cornelis Claesz van (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "No outro grupo, catorze por cento.",
    "emocao": "mente",
    "destaque": [
     "CATORZE"
-   ]
+   ],
+   "src": "banco/mente/KMS3884.jpg",
+   "credito": "Dominican Friar — Rubens, Peter Paul (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "A psicologia chama isso de efeito da desinformação: uma palavra mudou a lembrança.",
    "emocao": "engano",
    "destaque": [
     "PALAVRA"
-   ]
+   ],
+   "src": "banco/engano/KMS7380.jpg",
+   "credito": "A Visit to a Cobbler's Workshop — Ring, L.A. (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "A memória não grava. Ela reconstrói.",
    "emocao": "solidao",
    "destaque": [
     "RECONSTRÓI"
-   ]
+   ],
+   "src": "banco/solidao/KMS4088.jpg",
+   "credito": "Den gamle mand ved spedelyset — Brendekilde, H.A. (SMK – Statens Museum for Kunst (domínio público))"
   }
- ]
+ ],
+ "video_id": "-_2Ji0xgMMs"
 }
