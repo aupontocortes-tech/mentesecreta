@@ -20,42 +20,48 @@
    "visual": "security guard desk with a wall of small monitors in a dark office lobby",
    "destaque": [
     "SECURITY"
-   ]
+   ],
+   "pt": "Eu trabalho de vigia noturno num prédio de escritórios vazio."
   },
   {
    "text": "Every night at three a.m., camera six shows a woman waving.",
    "visual": "grainy black and white security monitor showing a pale figure raising one hand",
    "destaque": [
     "WAVING"
-   ]
+   ],
+   "pt": "Toda noite, às três da manhã, a câmera seis mostra uma mulher acenando."
   },
   {
    "text": "Just waving. Slowly. Right at the lens.",
    "visual": "close-up of a security screen, a blurry woman's silhouette with her hand raised",
    "destaque": [
     "SLOWLY"
-   ]
+   ],
+   "pt": "Só acenando. Devagar. Direto pra lente."
   },
   {
    "text": "I checked every hallway. Every office. Every stairwell. Twice.",
    "visual": "flashlight beam in a long empty office hallway at night",
    "destaque": [
     "EVERY"
-   ]
+   ],
+   "pt": "Olhei todos os corredores. Todas as salas. Todas as escadas. Duas vezes."
   },
   {
    "text": "Nobody. And no camera labeled six.",
    "visual": "guard's flashlight pointing at an empty ceiling corner in a dark stairwell",
    "destaque": [
     "NOBODY"
-   ]
+   ],
+   "pt": "Ninguém. E nenhuma câmera com o número seis."
   },
   {
    "text": "Tonight I asked the day guy where camera six is.",
    "visual": "guard holding a phone to his ear in a dark security booth",
    "destaque": [
     "WHERE"
-   ]
+   ],
+   "pt": "Hoje perguntei pro vigia do dia onde fica a câmera seis."
   },
   {
    "text": "Camera six? It's the one in your booth, man.",
@@ -64,21 +70,24 @@
    ],
    "voz": "homem",
    "mesma_imagem": true,
-   "pausa": 0.6
+   "pausa": 0.6,
+   "pt": "Câmera seis? É a da sua cabine, cara."
   },
   {
    "text": "I looked up.",
    "visual": "small dome security camera mounted on the ceiling of a cramped security booth",
    "destaque": [
     "UP"
-   ]
+   ],
+   "pt": "Olhei pra cima."
   },
   {
    "text": "It's pointed right at my chair. It always has been.",
    "visual": "overhead security view of an empty office chair in front of glowing monitors",
    "destaque": [
     "CHAIR"
-   ]
+   ],
+   "pt": "Ela está apontada pra minha cadeira. Sempre esteve."
   },
   {
    "text": "On the monitor, she's standing behind me.",
@@ -86,7 +95,8 @@
    "destaque": [
     "BEHIND"
    ],
-   "pausa": 0.8
+   "pausa": 0.8,
+   "pt": "No monitor, ela está em pé atrás de mim."
   },
   {
    "text": "Still waving.",
@@ -94,21 +104,24 @@
    "destaque": [
     "STILL"
    ],
-   "pausa": 0.9
+   "pausa": 0.9,
+   "pt": "Ainda acenando."
   },
   {
    "text": "I haven't turned around. I can feel her cold breath on my neck.",
    "visual": "back of a security guard's head and shoulders, sitting rigid in the dark lit by monitors",
    "destaque": [
     "BREATH"
-   ]
+   ],
+   "pt": "Eu não me virei. Sinto o hálito gelado dela no meu pescoço."
   },
   {
    "text": "Would you turn around?",
    "visual": "empty dark security booth, monitors glowing, chair slightly spinning",
    "destaque": [
     "TURN"
-   ]
+   ],
+   "pt": "Você se viraria?"
   }
  ]
 }

@@ -20,7 +20,8 @@
    "visual": "small smart speaker glowing with a blue ring on a dark kitchen counter",
    "destaque": [
     "EMMA"
-   ]
+   ],
+   "pt": "Ontem à noite, minha caixa de som inteligente deu boa noite pra alguém chamada Emma."
   },
   {
    "text": "Goodnight, Emma. Your alarm is set for seven.",
@@ -29,21 +30,24 @@
    ],
    "voz": "mulher",
    "mesma_imagem": true,
-   "pausa": 0.6
+   "pausa": 0.6,
+   "pt": "Boa noite, Emma. Seu alarme está marcado para as sete."
   },
   {
    "text": "I live alone. I've lived here for forty years.",
    "visual": "old cozy living room at night, armchair, lace curtains, single lamp",
    "destaque": [
     "ALONE"
-   ]
+   ],
+   "pt": "Eu moro sozinha. Moro aqui há quarenta anos."
   },
   {
    "text": "So I asked it. Who is Emma?",
    "visual": "woman's wrinkled hand resting next to a glowing smart speaker in the dark",
    "destaque": [
     "WHO"
-   ]
+   ],
+   "pt": "Então eu perguntei: quem é Emma?"
   },
   {
    "text": "Emma is the homeowner.",
@@ -51,21 +55,24 @@
     "HOMEOWNER"
    ],
    "voz": "mulher",
-   "mesma_imagem": true
+   "mesma_imagem": true,
+   "pt": "Emma é a dona da casa."
   },
   {
    "text": "That's ridiculous. This is my house.",
    "visual": "old framed photos on a hallway wall, slightly crooked, dim light",
    "destaque": [
     "MY"
-   ]
+   ],
+   "pt": "Que absurdo. Essa casa é minha."
   },
   {
    "text": "I walked to my bedroom.",
    "visual": "dark hallway leading to a half-open bedroom door, faint light inside",
    "destaque": [
     "BEDROOM"
-   ]
+   ],
+   "pt": "Fui até o meu quarto."
   },
   {
    "text": "A young woman was asleep in my bed.",
@@ -73,21 +80,24 @@
    "destaque": [
     "ASLEEP"
    ],
-   "pausa": 0.8
+   "pausa": 0.8,
+   "pt": "Uma moça estava dormindo na minha cama."
   },
   {
    "text": "My furniture was gone. The walls were a different color.",
    "visual": "modern minimalist bedroom with fresh paint and moving boxes in the corner",
    "destaque": [
     "GONE"
-   ]
+   ],
+   "pt": "Meus móveis tinham sumido. As paredes eram de outra cor."
   },
   {
    "text": "The speaker spoke again, quietly.",
    "visual": "smart speaker blue ring pulsing on a modern nightstand",
    "destaque": [
     "QUIETLY"
-   ]
+   ],
+   "pt": "A caixa de som falou de novo, baixinho."
   },
   {
    "text": "Sorry. I only take commands from Emma. She bought the house in May.",
@@ -96,21 +106,24 @@
    ],
    "voz": "mulher",
    "mesma_imagem": true,
-   "pausa": 0.9
+   "pausa": 0.9,
+   "pt": "Desculpe. Eu só obedeço a Emma. Ela comprou a casa em maio."
   },
   {
    "text": "Emma opened her eyes. She looked right at me. And she screamed.",
    "visual": "young woman sitting up in bed in the dark, staring at an empty doorway, terrified",
    "destaque": [
     "SCREAMED"
-   ]
+   ],
+   "pt": "A Emma abriu os olhos. Olhou direto pra mim. E gritou."
   },
   {
    "text": "I don't understand why everyone keeps screaming at me.",
    "visual": "faint transparent silhouette of an old woman standing in a dark doorway",
    "destaque": [
     "WHY"
-   ]
+   ],
+   "pt": "Eu não entendo por que todo mundo continua gritando quando me vê."
   }
  ]
 }

@@ -19,21 +19,24 @@
    "visual": "baby monitor glowing green on a dark suburban kitchen counter at night",
    "destaque": [
     "TALKS"
-   ]
+   ],
+   "pt": "Os Henderson disseram que o filho dorme a noite toda. Nunca disseram que ele fala."
   },
   {
    "text": "Around midnight, the baby monitor crackled.",
    "visual": "close-up of a baby monitor speaker with small green lights in a dark room",
    "destaque": [
     "MONITOR"
-   ]
+   ],
+   "pt": "Perto da meia-noite, a babá eletrônica chiou."
   },
   {
    "text": "Lucas was whispering to someone.",
    "visual": "dark child's bedroom with a dim night light and a small bed, toys on the floor",
    "destaque": [
     "WHISPERING"
-   ]
+   ],
+   "pt": "O Lucas estava sussurrando com alguém."
   },
   {
    "text": "Okay. I'll let you in when she's asleep.",
@@ -42,35 +45,40 @@
    ],
    "voz": "crianca",
    "mesma_imagem": true,
-   "pausa": 0.6
+   "pausa": 0.6,
+   "pt": "Tá bom. Eu deixo você entrar quando ela dormir."
   },
   {
    "text": "I ran upstairs and checked his room.",
    "visual": "young woman's hand on the doorknob of a child's bedroom in a dark upstairs hallway",
    "destaque": [
     "CHECKED"
-   ]
+   ],
+   "pt": "Subi correndo e olhei o quarto dele."
   },
   {
    "text": "He was fast asleep. The window was locked tight.",
    "visual": "locked bedroom window with moonlight coming through thin curtains",
    "destaque": [
     "LOCKED"
-   ]
+   ],
+   "pt": "Ele estava dormindo pesado. A janela estava bem trancada."
   },
   {
    "text": "So I lay on the couch and pretended to sleep.",
    "visual": "young woman lying on a couch in a dark living room, eyes open, TV off",
    "destaque": [
     "PRETENDED"
-   ]
+   ],
+   "pt": "Então deitei no sofá e fingi que estava dormindo."
   },
   {
    "text": "The monitor crackled again.",
    "visual": "baby monitor glowing on a coffee table in a dark living room",
    "destaque": [
     "AGAIN"
-   ]
+   ],
+   "pt": "A babá eletrônica chiou de novo."
   },
   {
    "text": "She's asleep now.",
@@ -78,7 +86,8 @@
     "NOW"
    ],
    "voz": "crianca",
-   "mesma_imagem": true
+   "mesma_imagem": true,
+   "pt": "Ela dormiu."
   },
   {
    "text": "Then a second voice answered. Not from the monitor.",
@@ -86,7 +95,8 @@
    "destaque": [
     "SECOND"
    ],
-   "pausa": 0.8
+   "pausa": 0.8,
+   "pt": "Aí uma segunda voz respondeu. Não veio da babá eletrônica."
   },
   {
    "text": "Thank you, Lucas.",
@@ -95,28 +105,32 @@
    ],
    "voz": "sombria",
    "mesma_imagem": true,
-   "pausa": 0.9
+   "pausa": 0.9,
+   "pt": "Obrigado, Lucas."
   },
   {
    "text": "I kept my eyes shut and counted the footsteps on the carpet.",
    "visual": "close-up of a young woman's closed trembling eyes in the dark",
    "destaque": [
     "FOOTSTEPS"
-   ]
+   ],
+   "pt": "Fiquei de olhos fechados e contei os passos no tapete."
   },
   {
    "text": "Four steps. Then nothing. Right beside me.",
    "visual": "a tall shadow falling across a woman lying on a couch in a dark room",
    "destaque": [
     "BESIDE"
-   ]
+   ],
+   "pt": "Quatro passos. Depois nada. Bem do meu lado."
   },
   {
    "text": "Would you have opened your eyes?",
    "visual": "empty couch in a dark living room, blanket on the floor, baby monitor glowing",
    "destaque": [
     "EYES"
-   ]
+   ],
+   "pt": "Você teria aberto os olhos?"
   }
  ]
 }

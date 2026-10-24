@@ -20,7 +20,8 @@
    "visual": "rustic wooden camp cabin interior at night with rows of bunk beds and a flashlight beam",
    "destaque": [
     "TWELVE"
-   ]
+   ],
+   "pt": "No acampamento de verão, o monitor contava a gente toda noite. Doze meninos. Doze camas."
   },
   {
    "text": "One night, he counted thirteen.",
@@ -28,35 +29,40 @@
    "destaque": [
     "THIRTEEN"
    ],
-   "pausa": 0.6
+   "pausa": 0.6,
+   "pt": "Uma noite, ele contou treze."
   },
   {
    "text": "He counted again. Thirteen.",
    "visual": "flashlight beam sweeping across sleeping bags on bunk beds in a dark cabin",
    "destaque": [
     "AGAIN"
-   ]
+   ],
+   "pt": "Contou de novo. Treze."
   },
   {
    "text": "He checked the list. Twelve names.",
    "visual": "hand holding a clipboard under a flashlight beam in a dark cabin",
    "destaque": [
     "LIST"
-   ]
+   ],
+   "pt": "Olhou a lista. Doze nomes."
   },
   {
    "text": "We all looked around. Every face was familiar.",
    "visual": "group of boys sitting up in bunk beds in the dark, faces lit by a single flashlight",
    "destaque": [
     "FAMILIAR"
-   ]
+   ],
+   "pt": "Todo mundo olhou em volta. Todos os rostos eram conhecidos."
   },
   {
    "text": "That night, my best friend Danny whispered from the top bunk.",
    "visual": "view from a lower bunk looking up at the slats of the bed above in darkness",
    "destaque": [
     "DANNY"
-   ]
+   ],
+   "pt": "Naquela noite, meu melhor amigo, o Danny, sussurrou da cama de cima."
   },
   {
    "text": "Don't tell them it's me.",
@@ -65,28 +71,32 @@
    ],
    "voz": "crianca",
    "mesma_imagem": true,
-   "pausa": 0.9
+   "pausa": 0.9,
+   "pt": "Não conta pra eles que sou eu."
   },
   {
    "text": "I didn't. I loved Danny. He was my best friend all summer.",
    "visual": "two kids' sneakers side by side on a wooden cabin floor at night",
    "destaque": [
     "FRIEND"
-   ]
+   ],
+   "pt": "Eu não contei. Eu adorava o Danny. Ele foi meu melhor amigo o verão inteiro."
   },
   {
    "text": "I'm thirty-four now. I still remember every kid from that cabin.",
    "visual": "old faded summer camp group photo on a table, faces too blurry to see",
    "destaque": [
     "REMEMBER"
-   ]
+   ],
+   "pt": "Hoje eu tenho trinta e quatro anos. Ainda lembro de todo menino daquela cabana."
   },
   {
    "text": "Every name. Every face.",
    "visual": "man's hand holding an old faded camp photo under a desk lamp",
    "destaque": [
     "EVERY"
-   ]
+   ],
+   "pt": "Cada nome. Cada rosto."
   },
   {
    "text": "Except Danny's.",
@@ -94,14 +104,16 @@
    "destaque": [
     "EXCEPT"
    ],
-   "pausa": 0.8
+   "pausa": 0.8,
+   "pt": "Menos o do Danny."
   },
   {
    "text": "And last night, I heard him whisper from the top bunk of my son's bed.",
    "visual": "dark child's bedroom with a bunk bed, the top bunk shadowed, a small nightlight",
    "destaque": [
     "SON'S"
-   ]
+   ],
+   "pt": "E ontem à noite eu ouvi ele sussurrar da cama de cima do beliche do meu filho."
   },
   {
    "text": "Don't tell them it's me.",
@@ -110,7 +122,8 @@
    ],
    "voz": "crianca",
    "mesma_imagem": true,
-   "pausa": 0.9
+   "pausa": 0.9,
+   "pt": "Não conta pra eles que sou eu."
   }
  ]
 }

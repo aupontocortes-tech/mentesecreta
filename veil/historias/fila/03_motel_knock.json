@@ -19,49 +19,56 @@
    "visual": "old motel front desk at night, a hand sliding a brass room key across the counter",
    "destaque": [
     "PEEPHOLE"
-   ]
+   ],
+   "pt": "O recepcionista do motel me deu a chave e disse: não olhe pelo olho mágico depois da meia-noite."
   },
   {
    "text": "I laughed. He didn't.",
    "visual": "tired old motel clerk standing behind a counter under a flickering light, face in shadow",
    "destaque": [
     "LAUGHED"
-   ]
+   ],
+   "pt": "Eu ri. Ele não."
   },
   {
    "text": "Room nine smelled like old carpet, cigarettes, and bleach.",
    "visual": "cheap motel room at night, one bedside lamp, stained carpet, heavy curtains",
    "destaque": [
     "NINE"
-   ]
+   ],
+   "pt": "O quarto nove cheirava a carpete velho, cigarro e água sanitária."
   },
   {
    "text": "At twelve-oh-one, someone knocked.",
    "visual": "motel room door from inside, chain lock on, faint light under the door",
    "destaque": [
     "KNOCKED"
-   ]
+   ],
+   "pt": "À meia-noite e um, alguém bateu na porta."
   },
   {
    "text": "Two slow knocks. Then a long silence.",
    "visual": "close-up of a peephole on a motel door in dim light",
    "destaque": [
     "SILENCE"
-   ]
+   ],
+   "pt": "Duas batidas lentas. Depois um silêncio longo."
   },
   {
    "text": "It kept happening. Every ten minutes. From midnight until four a.m.",
    "visual": "man sitting on the edge of a motel bed in the dark, staring at the door",
    "destaque": [
     "FOUR"
-   ]
+   ],
+   "pt": "Continuou acontecendo. A cada dez minutos. Da meia-noite até as quatro da manhã."
   },
   {
    "text": "I never looked. Not once. Not even when it said my name.",
    "visual": "man's hand gripping a bedsheet in a dark motel room",
    "destaque": [
     "NEVER"
-   ]
+   ],
+   "pt": "Eu nunca olhei. Nem uma vez. Nem quando falou o meu nome."
   },
   {
    "text": "Then the knocking stopped.",
@@ -69,14 +76,16 @@
    "destaque": [
     "STOPPED"
    ],
-   "pausa": 0.6
+   "pausa": 0.6,
+   "pt": "Aí as batidas pararam."
   },
   {
    "text": "A folded note slid under the door, slow and careful.",
    "visual": "folded piece of paper on motel carpet just inside the door, dim lamplight",
    "destaque": [
     "NOTE"
-   ]
+   ],
+   "pt": "Um bilhete dobrado deslizou por baixo da porta, devagar."
   },
   {
    "text": "Thanks for not looking. You can look now.",
@@ -85,7 +94,8 @@
     "NOW"
    ],
    "voz": "sombrio",
-   "pausa": 0.8
+   "pausa": 0.8,
+   "pt": "Obrigado por não olhar. Agora pode olhar."
   },
   {
    "text": "I'm already inside.",
@@ -94,21 +104,24 @@
    ],
    "voz": "sombrio",
    "mesma_imagem": true,
-   "pausa": 0.9
+   "pausa": 0.9,
+   "pt": "Eu já estou aí dentro."
   },
   {
    "text": "That's when the shower turned on.",
    "visual": "motel bathroom door half open, steam drifting out, light on inside",
    "destaque": [
     "SHOWER"
-   ]
+   ],
+   "pt": "Foi aí que o chuveiro ligou."
   },
   {
    "text": "And I could hear someone in there humming my favorite song.",
    "visual": "steam-covered motel bathroom mirror with a dark blurry figure behind the glass",
    "destaque": [
     "HUMMING"
-   ]
+   ],
+   "pt": "E dava pra ouvir alguém lá dentro cantarolando a minha música favorita."
   }
  ]
 }
