@@ -1,0 +1,87 @@
+{
+ "titulo": "Por que ser ignorado dói tanto #Shorts",
+ "descricao": "Ser deixado de lado ativa no cérebro áreas também ligadas à dor física, segundo estudos com um simples jogo virtual.\n\nQual vácuo você nunca esqueceu?\n\nSegue o @mentesecreta pra conhecer o lado oculto da mente humana.",
+ "tags": [
+  "psicologia",
+  "ser ignorado",
+  "vácuo",
+  "rejeição",
+  "ostracismo",
+  "comportamento humano",
+  "relacionamentos"
+ ],
+ "hashtags": "#psicologia #mentesecreta #comportamentohumano",
+ "fontes": [
+  "Eisenberger, Lieberman & Williams (2003), Does rejection hurt? An fMRI study of social exclusion, Science, 302(5643), 290-292. https://doi.org/10.1126/science.1089134",
+  "Zadro, Williams & Richardson (2004), How low can you go? Ostracism by a computer is sufficient to lower self-reported levels of belonging, control, self-esteem, and meaningful existence, Journal of Experimental Social Psychology, 40(4), 560-567. https://doi.org/10.1016/j.jesp.2003.11.006"
+ ],
+ "pron": {
+  "Eisenberger": "Áizenberguer"
+ },
+ "scenes": [
+  {
+   "text": "Ser ignorado dói. Literalmente.",
+   "emocao": "solidao",
+   "destaque": [
+    "DÓI"
+   ]
+  },
+  {
+   "text": "Calma. Não é drama. É o seu cérebro tratando exclusão como ameaça.",
+   "emocao": "mente",
+   "destaque": [
+    "AMEAÇA"
+   ]
+  },
+  {
+   "text": "Sabe quando te deixam no vácuo e você não para de pensar nisso?",
+   "emocao": "olhar",
+   "destaque": [
+    "VÁCUO"
+   ]
+  },
+  {
+   "text": "Em dois mil e três, Naomi Eisenberger, da Universidade da Califórnia, testou isso num jogo virtual de passar a bola.",
+   "emocao": "grupo",
+   "destaque": [
+    "JOGO"
+   ]
+  },
+  {
+   "text": "De repente, os outros jogadores pararam de passar a bola pra pessoa.",
+   "emocao": "solidao",
+   "destaque": [
+    "PARARAM"
+   ]
+  },
+  {
+   "text": "No exame do cérebro, acenderam áreas também ligadas à dor física.",
+   "emocao": "medo",
+   "destaque": [
+    "DOR"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "Em outro estudo, a exclusão abalou até quem sabia que era só um computador.",
+   "emocao": "mente",
+   "destaque": [
+    "COMPUTADOR"
+   ]
+  },
+  {
+   "text": "Por isso o vácuo gruda: seu cérebro tende a tratar exclusão como alerta.",
+   "emocao": "segredo",
+   "destaque": [
+    "ALERTA"
+   ]
+  },
+  {
+   "text": "O vácuo não faz barulho, mas machuca.",
+   "emocao": "solidao",
+   "destaque": [
+    "MACHUCA"
+   ]
+  }
+ ]
+}

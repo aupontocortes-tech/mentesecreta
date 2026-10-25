@@ -1,0 +1,84 @@
+{
+ "titulo": "Por que quem fala com certeza parece ter razão #Shorts",
+ "descricao": "Muitas pessoas confiam mais em quem fala com certeza, mesmo quando essa pessoa não acerta mais. Mas o erro de quem é confiante demais custa caro.\n\nVocê já seguiu alguém só porque parecia seguro?\n\nSegue o @mentesecreta pra conhecer o lado oculto da mente humana.",
+ "tags": [
+  "psicologia",
+  "heurística da confiança",
+  "trabalho",
+  "persuasão",
+  "comportamento humano",
+  "reunião",
+  "credibilidade"
+ ],
+ "hashtags": "#psicologia #mentesecreta #comportamentohumano",
+ "fontes": [
+  "Price & Stone (2004), Intuitive evaluation of likelihood judgment producers: evidence for a confidence heuristic, Journal of Behavioral Decision Making, 17(1), 39-57. https://doi.org/10.1002/bdm.460",
+  "Tenney, MacCoun, Spellman & Hastie (2007), Calibration trumps confidence as a basis for witness credibility, Psychological Science, 18(1), 46-50. https://doi.org/10.1111/j.1467-9280.2007.01847.x"
+ ],
+ "scenes": [
+  {
+   "text": "Fale com certeza, mesmo sem saber.",
+   "emocao": "poder",
+   "destaque": [
+    "CERTEZA"
+   ]
+  },
+  {
+   "text": "Calma. Não é pra mentir. É sobre como o cérebro escolhe em quem confiar.",
+   "emocao": "mente",
+   "destaque": [
+    "CONFIAR"
+   ]
+  },
+  {
+   "text": "Sabe aquela pessoa da reunião que fala firme e todo mundo concorda?",
+   "emocao": "grupo",
+   "destaque": [
+    "FIRME"
+   ]
+  },
+  {
+   "text": "A psicologia chama isso de heurística da confiança.",
+   "emocao": "mente",
+   "destaque": [
+    "CONFIANÇA"
+   ]
+  },
+  {
+   "text": "Em dois mil e quatro, Paul Price e Eric Stone mostraram dois consultores financeiros a universitários americanos.",
+   "emocao": "dinheiro",
+   "destaque": [
+    "CONSULTORES"
+   ]
+  },
+  {
+   "text": "Os dois acertavam exatamente o mesmo número de previsões.",
+   "emocao": "olhar",
+   "destaque": [
+    "MESMO"
+   ]
+  },
+  {
+   "text": "Mesmo assim, cerca de dois terços escolheriam o mais confiante.",
+   "emocao": "poder",
+   "destaque": [
+    "CONFIANTE"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "Mas, em outro estudo, quando o confiante errava, perdia mais credibilidade que o cauteloso.",
+   "emocao": "engano",
+   "destaque": [
+    "ERRAVA"
+   ]
+  },
+  {
+   "text": "Certeza compra confiança. O erro cobra em dobro.",
+   "emocao": "medo",
+   "destaque": [
+    "DOBRO"
+   ]
+  }
+ ]
+}
