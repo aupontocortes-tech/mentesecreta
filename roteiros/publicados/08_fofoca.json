@@ -19,42 +19,54 @@
    "emocao": "segredo",
    "destaque": [
     "NUNCA"
-   ]
+   ],
+   "src": "banco/segredo/KMS3004.jpg",
+   "credito": "The Artist's Sisters Signe and Henriette Reading a Book — Hansen, Constantin (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Calma. Não é sobre ser santo. É sobre o que gruda em você.",
    "emocao": "mente",
    "destaque": [
     "GRUDA"
-   ]
+   ],
+   "src": "banco/mente/KMSsp824.jpg",
+   "credito": "The Scholar and Death — Gelton, Toussaint (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Sabe quando alguém vive reclamando do colega falso, e você começa a desconfiar de quem reclama?",
    "emocao": "olhar",
    "destaque": [
     "DESCONFIAR"
-   ]
+   ],
+   "src": "banco/olhar/KMS6793.jpg",
+   "credito": "Jens Ferdinand Willumsen. Study for Five Portraits — Hammershøi, Vilhelm (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Em mil novecentos e noventa e oito, John Skowronski e colegas testaram isso.",
    "emocao": "mente",
    "destaque": [
     "SKOWRONSKI"
-   ]
+   ],
+   "src": "banco/mente/KMS985.jpg",
+   "credito": "King Christian II in Prison — Bloch, Carl (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Voluntários viram vídeos de pessoas descrevendo um conhecido.",
    "emocao": "grupo",
    "destaque": [
     "VÍDEOS"
-   ]
+   ],
+   "src": "banco/grupo/KMS1674.jpg",
+   "credito": "The Artist's Wife and Daughter — Ring, L.A. (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Depois, avaliaram quem estava falando.",
    "emocao": "olhar",
    "destaque": [
     "FALANDO"
-   ]
+   ],
+   "src": "banco/olhar/KMS1279.jpg",
+   "credito": "Violinspilleren — Jensen, C.A. (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "E os traços descritos colaram em quem descreveu.",
@@ -62,28 +74,37 @@
    "destaque": [
     "COLARAM"
    ],
-   "pausa": 0.7
+   "pausa": 0.7,
+   "src": "banco/engano/KMS3734.jpg",
+   "credito": "The ill-matched lovers — Massijs, Jan (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "A psicologia chama isso de transferência espontânea de traços.",
    "emocao": "mente",
    "destaque": [
     "TRANSFERÊNCIA"
-   ]
+   ],
+   "src": "banco/mente/KMS280.jpg",
+   "credito": "A Young Artist (Ditlev Blunck) Examining a Sketch in a Mirror — Bendz, Wilhelm (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Chame alguém de falso, e quem ouve tende a lembrar de você.",
    "emocao": "segredo",
    "destaque": [
     "FALSO"
-   ]
+   ],
+   "src": "banco/segredo/KMSsp413.jpg",
+   "credito": "Self-Portrait — Lievens, Jan (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "A língua que aponta, carrega o que aponta.",
    "emocao": "poder",
    "destaque": [
     "CARREGA"
-   ]
+   ],
+   "src": "banco/poder/KMS3782.jpg",
+   "credito": "Portrait of the Nuremburg Merchant and Collector Willibald Imhoff the Elder (1519-1580) — Tizian (SMK – Statens Museum for Kunst (domínio público))"
   }
- ]
+ ],
+ "video_id": "uWZXJKUoR_I"
 }
