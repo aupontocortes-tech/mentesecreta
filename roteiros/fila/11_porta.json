@@ -1,0 +1,92 @@
+{
+ "titulo": "Por que você esquece tudo ao passar pela porta #Shorts",
+ "descricao": "Atravessar uma porta pode funcionar como um corte de cena para a memória.\n\nQual foi a última coisa que você esqueceu ao mudar de cômodo?\n\nSegue o @mentesecreta pra conhecer o lado oculto da mente humana.",
+ "tags": [
+  "psicologia",
+  "memória",
+  "cérebro",
+  "efeito da porta",
+  "esquecimento",
+  "curiosidades"
+ ],
+ "hashtags": "#psicologia #mentesecreta #comportamentohumano",
+ "fontes": [
+  "Radvansky, Krawietz & Tamplin (2011), Walking through doorways causes forgetting: Further explorations, Quarterly Journal of Experimental Psychology, 64(8), 1632-1645. https://doi.org/10.1080/17470218.2011.571267"
+ ],
+ "pron": {
+  "Radvansky": "Radvânsqui"
+ },
+ "scenes": [
+  {
+   "text": "A culpa não é sua. É da porta.",
+   "emocao": "segredo",
+   "destaque": [
+    "PORTA"
+   ]
+  },
+  {
+   "text": "Calma. Não é sobre memória fraca. É sobre como o cérebro organiza o dia.",
+   "emocao": "mente",
+   "destaque": [
+    "ORGANIZA"
+   ]
+  },
+  {
+   "text": "Sabe quando você vai até a cozinha e esquece o que foi buscar?",
+   "emocao": "solidao",
+   "destaque": [
+    "ESQUECE"
+   ]
+  },
+  {
+   "text": "Gabriel Radvansky, da Universidade de Notre Dame, testou isso em ambientes virtuais e reais.",
+   "emocao": "mente",
+   "destaque": [
+    "NOTRE DAME"
+   ]
+  },
+  {
+   "text": "Voluntários carregavam objetos de uma mesa pra outra.",
+   "emocao": "grupo",
+   "destaque": [
+    "OBJETOS"
+   ]
+  },
+  {
+   "text": "Alguns atravessavam uma porta. Outros andavam a mesma distância, sem porta.",
+   "emocao": "olhar",
+   "destaque": [
+    "PORTA"
+   ]
+  },
+  {
+   "text": "Quem passou pela porta tendeu a esquecer mais.",
+   "emocao": "medo",
+   "destaque": [
+    "ESQUECER"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "A psicologia chama isso de efeito da porta: o cérebro fecha um capítulo e abre outro.",
+   "emocao": "mente",
+   "destaque": [
+    "CAPÍTULO"
+   ]
+  },
+  {
+   "text": "Esqueceu? Volte pro cômodo de antes. O contexto pode trazer a lembrança.",
+   "emocao": "familia",
+   "destaque": [
+    "VOLTE"
+   ]
+  },
+  {
+   "text": "Toda porta é um corte de cena.",
+   "emocao": "segredo",
+   "destaque": [
+    "CENA"
+   ]
+  }
+ ]
+}

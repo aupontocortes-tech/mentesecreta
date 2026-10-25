@@ -1,0 +1,92 @@
+{
+ "titulo": "Por que seu ex parece melhor do que era #Shorts",
+ "descricao": "A memória tende a suavizar o que foi ruim e guardar o que foi bom. É a retrospecção rosada.\n\nVocê já sentiu saudade de algo que, na época, não era tão bom assim?\n\nSegue o @mentesecreta pra conhecer o lado oculto da mente humana.",
+ "tags": [
+  "psicologia",
+  "ex",
+  "relacionamentos",
+  "memória",
+  "retrospecção rosada",
+  "saudade"
+ ],
+ "hashtags": "#psicologia #mentesecreta #comportamentohumano",
+ "fontes": [
+  "Mitchell, Thompson, Peterson & Cronk (1997), Temporal adjustments in the evaluation of events: The 'rosy view', Journal of Experimental Social Psychology, 33(4), 421-448. https://doi.org/10.1006/jesp.1997.1333"
+ ],
+ "pron": {
+  "Mitchell": "Mítchel"
+ },
+ "scenes": [
+  {
+   "text": "Seu ex não era tão bom assim.",
+   "emocao": "solidao",
+   "destaque": [
+    "EX"
+   ]
+  },
+  {
+   "text": "Calma. Não é sobre ele ser ruim. É sobre a sua memória editar.",
+   "emocao": "mente",
+   "destaque": [
+    "EDITAR"
+   ]
+  },
+  {
+   "text": "Sabe quando bate saudade às duas da manhã, e você só lembra das partes boas?",
+   "emocao": "solidao",
+   "destaque": [
+    "SAUDADE"
+   ]
+  },
+  {
+   "text": "Em mil novecentos e noventa e sete, Terence Mitchell estudou pessoas em viagens de férias.",
+   "emocao": "mente",
+   "destaque": [
+    "VIAGENS"
+   ]
+  },
+  {
+   "text": "Avaliaram a viagem antes, durante e semanas depois.",
+   "emocao": "olhar",
+   "destaque": [
+    "DEPOIS"
+   ]
+  },
+  {
+   "text": "Durante, muitos se irritavam com chuva, cansaço e brigas.",
+   "emocao": "medo",
+   "destaque": [
+    "IRRITAVAM"
+   ]
+  },
+  {
+   "text": "Mas depois, a lembrança ficou mais bonita do que a própria viagem.",
+   "emocao": "engano",
+   "destaque": [
+    "BONITA"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "A psicologia chama isso de retrospecção rosada.",
+   "emocao": "mente",
+   "destaque": [
+    "ROSADA"
+   ]
+  },
+  {
+   "text": "O estudo foi com férias, mas o mesmo filtro pode agir num romance que acabou.",
+   "emocao": "familia",
+   "destaque": [
+    "FILTRO"
+   ]
+  },
+  {
+   "text": "Saudade é memória com filtro.",
+   "emocao": "solidao",
+   "destaque": [
+    "FILTRO"
+   ]
+  }
+ ]
+}

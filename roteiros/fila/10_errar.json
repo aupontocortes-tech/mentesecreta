@@ -1,0 +1,92 @@
+{
+ "titulo": "Errar na frente dos outros pode te ajudar #Shorts",
+ "descricao": "Um pequeno deslize pode deixar alguém competente mais simpático. Mas tem uma condição.\n\nVocê já gostou mais de alguém depois de ver essa pessoa errar?\n\nSegue o @mentesecreta pra conhecer o lado oculto da mente humana.",
+ "tags": [
+  "psicologia",
+  "efeito pratfall",
+  "trabalho",
+  "autoestima",
+  "simpatia",
+  "perfeccionismo"
+ ],
+ "hashtags": "#psicologia #mentesecreta #comportamentohumano",
+ "fontes": [
+  "Aronson, Willerman & Floyd (1966), The effect of a pratfall on increasing interpersonal attractiveness, Psychonomic Science, 4(6), 227-228. https://doi.org/10.3758/BF03342263"
+ ],
+ "pron": {
+  "Aronson": "Árônson"
+ },
+ "scenes": [
+  {
+   "text": "Pare de tentar ser perfeito.",
+   "emocao": "poder",
+   "destaque": [
+    "PERFEITO"
+   ]
+  },
+  {
+   "text": "Calma. Não é sobre errar de propósito. É sobre o erro certo.",
+   "emocao": "mente",
+   "destaque": [
+    "ERRO"
+   ]
+  },
+  {
+   "text": "Sabe quando o chefe impecável tropeça na fala, e de repente parece mais humano?",
+   "emocao": "poder",
+   "destaque": [
+    "HUMANO"
+   ]
+  },
+  {
+   "text": "Em mil novecentos e sessenta e seis, Elliot Aronson testou isso com universitários.",
+   "emocao": "mente",
+   "destaque": [
+    "ARONSON"
+   ]
+  },
+  {
+   "text": "Eles ouviram a gravação de um candidato brilhante num quiz.",
+   "emocao": "grupo",
+   "destaque": [
+    "BRILHANTE"
+   ]
+  },
+  {
+   "text": "No fim, ele derrubava café na roupa.",
+   "emocao": "medo",
+   "destaque": [
+    "CAFÉ"
+   ]
+  },
+  {
+   "text": "E foi avaliado como mais simpático do que sem o acidente.",
+   "emocao": "olhar",
+   "destaque": [
+    "SIMPÁTICO"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "A psicologia chama isso de efeito pratfall.",
+   "emocao": "mente",
+   "destaque": [
+    "PRATFALL"
+   ]
+  },
+  {
+   "text": "Mas cuidado: quando o candidato era mediano, o mesmo erro piorava a imagem.",
+   "emocao": "engano",
+   "destaque": [
+    "MEDIANO"
+   ]
+  },
+  {
+   "text": "O erro só aproxima quem já mostrou valor.",
+   "emocao": "poder",
+   "destaque": [
+    "VALOR"
+   ]
+  }
+ ]
+}

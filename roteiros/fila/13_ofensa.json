@@ -1,0 +1,92 @@
+{
+ "titulo": "Por que uma crítica pesa mais que dez elogios #Shorts",
+ "descricao": "O que é ruim tende a marcar mais do que o que é bom. A psicologia chama isso de viés da negatividade.\n\nQual crítica você nunca esqueceu?\n\nSegue o @mentesecreta pra conhecer o lado oculto da mente humana.",
+ "tags": [
+  "psicologia",
+  "viés da negatividade",
+  "autoestima",
+  "crítica",
+  "elogio",
+  "relacionamentos"
+ ],
+ "hashtags": "#psicologia #mentesecreta #comportamentohumano",
+ "fontes": [
+  "Baumeister, Bratslavsky, Finkenauer & Vohs (2001), Bad is stronger than good, Review of General Psychology, 5(4), 323-370. https://doi.org/10.1037/1089-2680.5.4.323"
+ ],
+ "pron": {
+  "Baumeister": "Báumaister"
+ },
+ "scenes": [
+  {
+   "text": "Não acredite naquela crítica que te persegue.",
+   "emocao": "olhar",
+   "destaque": [
+    "CRÍTICA"
+   ]
+  },
+  {
+   "text": "Calma. Não é sobre ignorar feedback. É sobre o peso que o cérebro dá.",
+   "emocao": "mente",
+   "destaque": [
+    "PESO"
+   ]
+  },
+  {
+   "text": "Sabe quando você recebe dez elogios, uma crítica, e só pensa na crítica?",
+   "emocao": "solidao",
+   "destaque": [
+    "UMA"
+   ]
+  },
+  {
+   "text": "Em dois mil e um, Roy Baumeister e colegas revisaram centenas de estudos.",
+   "emocao": "mente",
+   "destaque": [
+    "BAUMEISTER"
+   ]
+  },
+  {
+   "text": "Relacionamentos, feedback, memória, primeiras impressões.",
+   "emocao": "grupo",
+   "destaque": [
+    "RELACIONAMENTOS"
+   ]
+  },
+  {
+   "text": "Em quase todas as áreas, o ruim pesava mais do que o bom.",
+   "emocao": "medo",
+   "destaque": [
+    "RUIM"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "A psicologia chama isso de viés da negatividade.",
+   "emocao": "mente",
+   "destaque": [
+    "NEGATIVIDADE"
+   ]
+  },
+  {
+   "text": "Pro nosso cérebro antigo, notar o perigo era mais urgente que notar o elogio.",
+   "emocao": "medo",
+   "destaque": [
+    "PERIGO"
+   ]
+  },
+  {
+   "text": "Isso não torna a crítica mais verdadeira. Só mais barulhenta.",
+   "emocao": "segredo",
+   "destaque": [
+    "BARULHENTA"
+   ]
+  },
+  {
+   "text": "A ferida grita. O elogio sussurra.",
+   "emocao": "solidao",
+   "destaque": [
+    "GRITA"
+   ]
+  }
+ ]
+}
