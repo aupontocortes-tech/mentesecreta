@@ -22,42 +22,54 @@
    "emocao": "solidao",
    "destaque": [
     "EX"
-   ]
+   ],
+   "src": "banco/solidao/KMSsp120.jpg",
+   "credito": "The Penitent St Mary Magdalene — Troppa, Girolamo (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Calma. Não é sobre ele ser ruim. É sobre a sua memória editar.",
    "emocao": "mente",
    "destaque": [
     "EDITAR"
-   ]
+   ],
+   "src": "banco/mente/KMS280.jpg",
+   "credito": "A Young Artist (Ditlev Blunck) Examining a Sketch in a Mirror — Bendz, Wilhelm (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Sabe quando bate saudade às duas da manhã, e você só lembra das partes boas?",
    "emocao": "solidao",
    "destaque": [
     "SAUDADE"
-   ]
+   ],
+   "src": "banco/solidao/KMS3483.jpg",
+   "credito": "Portrait of the Artist´s Mother, Cecilia Margrethe Købke, née Petersen — Købke, Christen (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Em mil novecentos e noventa e sete, Terence Mitchell estudou pessoas em viagens de férias.",
    "emocao": "mente",
    "destaque": [
     "VIAGENS"
-   ]
+   ],
+   "src": "banco/mente/KMS3884.jpg",
+   "credito": "Dominican Friar — Rubens, Peter Paul (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Avaliaram a viagem antes, durante e semanas depois.",
    "emocao": "olhar",
    "destaque": [
     "DEPOIS"
-   ]
+   ],
+   "src": "banco/olhar/KMS6648.jpg",
+   "credito": "The Artist's Wife Esther, née Winther — Denner, Balthasar (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Durante, muitos se irritavam com chuva, cansaço e brigas.",
    "emocao": "medo",
    "destaque": [
     "IRRITAVAM"
-   ]
+   ],
+   "src": "banco/medo/KMSsp147.jpg",
+   "credito": "A Young Woman Contemplating a Skull — Casolani, Alessandro (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Mas depois, a lembrança ficou mais bonita do que a própria viagem.",
@@ -65,28 +77,37 @@
    "destaque": [
     "BONITA"
    ],
-   "pausa": 0.7
+   "pausa": 0.7,
+   "src": "banco/engano/KMS114.jpg",
+   "credito": "Lot and His Daughters — Vignon, Claude (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "A psicologia chama isso de retrospecção rosada.",
    "emocao": "mente",
    "destaque": [
     "ROSADA"
-   ]
+   ],
+   "src": "banco/mente/KMSsp824.jpg",
+   "credito": "The Scholar and Death — Gelton, Toussaint (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "O estudo foi com férias, mas o mesmo filtro pode agir num romance que acabou.",
    "emocao": "familia",
    "destaque": [
     "FILTRO"
-   ]
+   ],
+   "src": "banco/familia/KMS1280.jpg",
+   "credito": "Rubens' sønner — Hansen, Hans (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Saudade é memória com filtro.",
    "emocao": "solidao",
    "destaque": [
     "FILTRO"
-   ]
+   ],
+   "src": "banco/solidao/KMS1636.jpg",
+   "credito": "Study of an Old Man in Profile — Rembrandt van Rijn (SMK – Statens Museum for Kunst (domínio público))"
   }
- ]
+ ],
+ "video_id": "lGHwgu9dMc8"
 }
