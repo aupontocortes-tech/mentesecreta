@@ -1,0 +1,129 @@
+{
+ "titulo": "The Empty Room Kept Calling the Nurse #Shorts",
+ "titulo_pt": "O quarto vazio não parava de chamar a enfermeira",
+ "resumo_pt": "Uma enfermeira do turno da noite vê a luz de chamada do quarto nove, vazio há anos, acender toda noite às duas da manhã; a colega mais velha manda só dizer 'hoje não' pelo interfone. Na noite em que está sozinha, ela não diz, e uma voz de dentro do quarto pede que ela não entre, porque ele está mais seguro lá dentro. A virada: a voz avisa que 'ela' está de novo em pé atrás da cadeira da enfermeira.",
+ "narrador": "mulher",
+ "descricao": "Room nine has been empty for years. Its call light still turns on every night.\n\nWould you turn around?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "scary",
+  "hospital horror",
+  "night shift"
+ ],
+ "hashtags": "#horror #scarystories #nightshift #shorts",
+ "scenes": [
+  {
+   "text": "Room nine has been empty since I started night shift.",
+   "pt": "O quarto nove está vazio desde que comecei no turno da noite.",
+   "visual": "empty hospital room with a neatly made bed, dim blue light from the window",
+   "destaque": [
+    "EMPTY"
+   ]
+  },
+  {
+   "text": "But every night at two a.m., its call light turns on.",
+   "pt": "Mas toda noite, às duas da manhã, a luz de chamada dele acende.",
+   "visual": "quiet hospital hallway at night, a single red call light glowing above one door",
+   "destaque": [
+    "TWO"
+   ]
+  },
+  {
+   "text": "The older nurse told me what to do.",
+   "pt": "A enfermeira mais velha me disse o que fazer.",
+   "visual": "older nurse in scrubs sitting at a dim nurses' station, seen from behind",
+   "destaque": [
+    "OLDER"
+   ]
+  },
+  {
+   "text": "Just say 'not tonight' into the intercom, honey.",
+   "pt": "É só dizer 'hoje não' no interfone, querida.",
+   "destaque": [
+    "TONIGHT"
+   ],
+   "voz": "idosa",
+   "mesma_imagem": true
+  },
+  {
+   "text": "Last night, she called in sick.",
+   "pt": "Ontem à noite, ela faltou doente.",
+   "visual": "empty nurses' station at night lit by a single desk lamp",
+   "destaque": [
+    "SICK"
+   ]
+  },
+  {
+   "text": "At two a.m., the light came on.",
+   "pt": "Às duas da manhã, a luz acendeu.",
+   "visual": "wall intercom panel with one small red light blinking in the dark",
+   "destaque": [
+    "LIGHT"
+   ]
+  },
+  {
+   "text": "I pressed the button, but I didn't say it.",
+   "pt": "Apertei o botão, mas não disse.",
+   "visual": "a nurse's finger pressing an intercom button, close up",
+   "destaque": [
+    "BUTTON"
+   ]
+  },
+  {
+   "text": "A man's voice answered from the empty room.",
+   "pt": "A voz de um homem respondeu do quarto vazio.",
+   "visual": "dark hospital room seen through the small window of a closed door",
+   "destaque": [
+    "ANSWERED"
+   ]
+  },
+  {
+   "text": "Don't come in. I'm safer in here than you are.",
+   "pt": "Não entra. Eu estou mais seguro aqui dentro do que você.",
+   "destaque": [
+    "SAFER"
+   ],
+   "voz": "idoso",
+   "pausa": 0.6,
+   "mesma_imagem": true
+  },
+  {
+   "text": "My hands went cold on the desk.",
+   "pt": "Minhas mãos gelaram em cima da mesa.",
+   "visual": "a nurse's hands gripping the edge of a desk under a lamp",
+   "destaque": [
+    "COLD"
+   ]
+  },
+  {
+   "text": "She's standing behind your chair again.",
+   "pt": "Ela está em pé atrás da sua cadeira de novo.",
+   "destaque": [
+    "AGAIN"
+   ],
+   "voz": "idoso",
+   "pausa": 0.9,
+   "mesma_imagem": true
+  },
+  {
+   "text": "In the black computer screen, I saw her shoulder.",
+   "pt": "Na tela preta do computador, eu vi o ombro dela.",
+   "visual": "dark computer monitor reflecting a nurse in a chair and a tall shadowy figure behind her",
+   "destaque": [
+    "SHOULDER"
+   ]
+  },
+  {
+   "text": "I still haven't turned around. Would you?",
+   "pt": "Eu ainda não me virei. Você se viraria?",
+   "visual": "close up of the back of an empty office chair in a dark hospital station",
+   "destaque": [
+    "TURNED"
+   ],
+   "pausa": 0.6
+  }
+ ]
+}

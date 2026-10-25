@@ -1,0 +1,127 @@
+{
+ "titulo": "My New Town Has One Rule About Porch Lights #Shorts",
+ "titulo_pt": "Minha cidade nova tem uma regra sobre a luz da varanda",
+ "resumo_pt": "Numa cidadezinha, todo mundo deixa a luz da varanda acesa na primeira noite de novembro, e ninguém explica por quê à recém-chegada. A lâmpada dela queima à meia-noite, algo bate três vezes na porta e todos os vizinhos ficam olhando pela janela. A virada: de manhã eles levam comida e agradecem, porque 'só precisa de uma casa por ano'; desde então a luz dela nunca mais acende.",
+ "narrador": "mulher",
+ "descricao": "Everyone on my street leaves the porch light on that night. Nobody told me why.\n\nWhat would you have done when it knocked?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "scary",
+  "small town horror",
+  "folk horror"
+ ],
+ "hashtags": "#horror #scarystories #smalltown #shorts",
+ "scenes": [
+  {
+   "text": "In my new town, everyone leaves their porch light on the first night of November.",
+   "pt": "Na minha cidade nova, todo mundo deixa a luz da varanda acesa na primeira noite de novembro.",
+   "visual": "quiet small town street at night, a row of wooden houses with porch lights glowing",
+   "destaque": [
+    "NOVEMBER"
+   ]
+  },
+  {
+   "text": "Nobody would tell me why.",
+   "pt": "Ninguém quis me dizer por quê.",
+   "visual": "elderly woman's silhouette standing on a lit porch across the street",
+   "destaque": [
+    "WHY"
+   ]
+  },
+  {
+   "text": "Leave it on, sweetheart. All night.",
+   "pt": "Deixa acesa, querida. A noite toda.",
+   "destaque": [
+    "NIGHT"
+   ],
+   "voz": "idosa",
+   "mesma_imagem": true
+  },
+  {
+   "text": "Around midnight, my bulb burned out.",
+   "pt": "Lá pela meia-noite, minha lâmpada queimou.",
+   "visual": "a dead porch light bulb above a dark front door",
+   "destaque": [
+    "MIDNIGHT"
+   ]
+  },
+  {
+   "text": "I didn't have a spare.",
+   "pt": "Eu não tinha outra.",
+   "visual": "empty kitchen drawer opened in a dark kitchen",
+   "destaque": [
+    "SPARE"
+   ]
+  },
+  {
+   "text": "At three a.m., something knocked. Slowly. Three times.",
+   "pt": "Às três da manhã, alguma coisa bateu. Devagar. Três vezes.",
+   "visual": "front door seen from a dark hallway inside the house",
+   "destaque": [
+    "KNOCKED"
+   ]
+  },
+  {
+   "text": "I didn't open it. I looked out the window instead.",
+   "pt": "Não abri. Olhei pela janela.",
+   "visual": "a hand parting a curtain, the dark street outside",
+   "destaque": [
+    "WINDOW"
+   ]
+  },
+  {
+   "text": "Every neighbor was standing at their window. Watching my door.",
+   "pt": "Todos os vizinhos estavam na janela. Olhando para a minha porta.",
+   "visual": "houses across a dark street with still silhouettes standing in every lit window",
+   "destaque": [
+    "WATCHING"
+   ]
+  },
+  {
+   "text": "In the morning, they all brought me casseroles.",
+   "pt": "De manhã, todos me trouxeram comida.",
+   "visual": "casserole dishes stacked on a porch on a gray morning",
+   "destaque": [
+    "MORNING"
+   ]
+  },
+  {
+   "text": "My neighbor squeezed my hand.",
+   "pt": "Minha vizinha apertou minha mão.",
+   "visual": "an old woman's hands holding a younger woman's hand on a porch",
+   "destaque": [
+    "HAND"
+   ]
+  },
+  {
+   "text": "Thank you. It only needs one house a year.",
+   "pt": "Obrigada. Só precisa de uma casa por ano.",
+   "destaque": [
+    "ONE"
+   ],
+   "voz": "idosa",
+   "pausa": 0.9,
+   "mesma_imagem": true
+  },
+  {
+   "text": "I've changed that bulb four times since.",
+   "pt": "Já troquei aquela lâmpada quatro vezes desde então.",
+   "visual": "a new light bulb in a porch fixture, completely dark",
+   "destaque": [
+    "FOUR"
+   ]
+  },
+  {
+   "text": "It won't turn on. And it still knocks every night.",
+   "pt": "Ela não acende. E aquilo continua batendo toda noite.",
+   "visual": "dark front porch at night, the door shut, nothing visible",
+   "destaque": [
+    "KNOCKS"
+   ],
+   "pausa": 0.6
+  }
+ ]
+}

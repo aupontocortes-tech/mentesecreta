@@ -1,0 +1,129 @@
+{
+ "titulo": "I Got a Text From My Own Phone Number #Shorts",
+ "titulo_pt": "Recebi uma mensagem do meu próprio número",
+ "resumo_pt": "Às onze da noite, uma mulher recebe uma mensagem do próprio número: 'não entre no carro hoje'. Ao perguntar quem é, a resposta é 'é você, daqui a dez minutos', e ela desiste de sair. A virada: chega outra mensagem dizendo 'escolha errada, já está dentro de casa', o assoalho range lá em cima e as chaves do carro sumiram do balcão.",
+ "narrador": "mulher",
+ "descricao": "The text came from my own number. It told me not to get in the car.\n\nWhich text would you have believed?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "scary",
+  "text message horror",
+  "creepypasta"
+ ],
+ "hashtags": "#horror #scarystories #creepy #shorts",
+ "scenes": [
+  {
+   "text": "At eleven p.m., I got a text from my own phone number.",
+   "pt": "Às onze da noite, recebi uma mensagem do meu próprio número.",
+   "visual": "woman's hand holding a glowing phone in a dark kitchen",
+   "destaque": [
+    "OWN"
+   ]
+  },
+  {
+   "text": "Don't get in the car tonight.",
+   "pt": "Não entra no carro hoje.",
+   "destaque": [
+    "CAR"
+   ],
+   "voz": "mulher",
+   "mesma_imagem": true
+  },
+  {
+   "text": "I figured it was a glitch. I had to pick up my sister from work, so I grabbed my keys.",
+   "pt": "Achei que era um defeito. Eu tinha que buscar minha irmã no trabalho, então peguei as chaves.",
+   "visual": "hand picking up car keys from a kitchen counter at night",
+   "destaque": [
+    "KEYS"
+   ]
+  },
+  {
+   "text": "I texted back: who is this?",
+   "pt": "Respondi: quem é?",
+   "visual": "thumbs typing on a phone screen in the dark",
+   "destaque": [
+    "WHO"
+   ]
+  },
+  {
+   "text": "It's you. Ten minutes from now.",
+   "pt": "É você. Daqui a dez minutos.",
+   "destaque": [
+    "YOU"
+   ],
+   "voz": "mulher",
+   "pausa": 0.6,
+   "mesma_imagem": true
+  },
+  {
+   "text": "I put the keys down and called my sister instead.",
+   "pt": "Larguei as chaves e liguei pra minha irmã.",
+   "visual": "car keys lying on a kitchen counter beside a phone",
+   "destaque": [
+    "CALLED"
+   ]
+  },
+  {
+   "text": "She didn't pick up. Not the first time, not the fifth.",
+   "pt": "Ela não atendeu. Nem na primeira vez, nem na quinta.",
+   "visual": "phone face up on a wooden table, screen glowing in a dark room",
+   "destaque": [
+    "PICK"
+   ]
+  },
+  {
+   "text": "Then my phone buzzed again.",
+   "pt": "Aí meu celular vibrou de novo.",
+   "visual": "close up of a phone vibrating on a table at night",
+   "destaque": [
+    "AGAIN"
+   ]
+  },
+  {
+   "text": "Wrong choice. It's already in the house.",
+   "pt": "Escolha errada. Já está dentro de casa.",
+   "destaque": [
+    "HOUSE"
+   ],
+   "voz": "mulher",
+   "pausa": 0.9,
+   "mesma_imagem": true
+  },
+  {
+   "text": "Upstairs, right above my head, a floorboard creaked.",
+   "pt": "Lá em cima, bem em cima da minha cabeça, o assoalho rangeu.",
+   "visual": "dark wooden staircase seen from below, the top in shadow",
+   "destaque": [
+    "UPSTAIRS"
+   ]
+  },
+  {
+   "text": "I turned back to the counter.",
+   "pt": "Me virei de volta para o balcão.",
+   "visual": "empty kitchen counter under a dim light",
+   "destaque": [
+    "COUNTER"
+   ]
+  },
+  {
+   "text": "My keys were gone.",
+   "pt": "Minhas chaves tinham sumido.",
+   "visual": "bare spot on a kitchen counter where keys had been",
+   "destaque": [
+    "GONE"
+   ],
+   "pausa": 0.8
+  },
+  {
+   "text": "Which text should I have believed?",
+   "pt": "Em qual mensagem eu devia ter acreditado?",
+   "visual": "phone glowing on the floor of a dark hallway",
+   "destaque": [
+    "WHICH"
+   ]
+  }
+ ]
+}
