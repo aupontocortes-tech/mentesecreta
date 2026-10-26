@@ -1,0 +1,119 @@
+{
+ "titulo": "My Apartment Came With a Key to a Room That Doesn't Exist #Shorts",
+ "titulo_pt": "Meu apartamento veio com a chave de um quarto que não existe",
+ "resumo_pt": "A narradora aluga um apartamento de um quarto, mas o chaveiro vem com uma segunda chave. Ela acha uma porta pintada atrás do guarda-roupa, e a chave abre. Lá dentro, um quartinho com uma cama desfeita, ainda quente, e fotos dela dormindo tiradas de dentro do armário. A virada: enquanto ela olha, a porta do apartamento é trancada por dentro.",
+ "narrador": "mulher",
+ "descricao": "The listing said one bedroom. The key ring said otherwise.\n\nWould you have opened that door?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "scary",
+  "apartment horror",
+  "stalker"
+ ],
+ "hashtags": "#horror #scarystories #creepy #shorts",
+ "scenes": [
+  {
+   "text": "The listing said one bedroom. But my key ring came with two keys.",
+   "pt": "O anúncio dizia um quarto. Mas meu chaveiro veio com duas chaves.",
+   "visual": "hand holding a key ring with two old brass keys in a bare apartment",
+   "destaque": [
+    "TWO"
+   ]
+  },
+  {
+   "text": "The landlord said the second one was nothing.",
+   "pt": "O dono disse que a segunda não era nada.",
+   "visual": "empty small apartment living room at dusk, boxes not unpacked",
+   "destaque": [
+    "NOTHING"
+   ]
+  },
+  {
+   "text": "A week later, I moved the wardrobe. There was a door behind it. Painted over.",
+   "pt": "Uma semana depois, eu mexi no guarda-roupa. Tinha uma porta atrás. Pintada por cima.",
+   "visual": "a small painted-over door hidden behind a moved wardrobe in a dim bedroom",
+   "destaque": [
+    "DOOR"
+   ]
+  },
+  {
+   "text": "The second key fit.",
+   "pt": "A segunda chave serviu.",
+   "visual": "close-up of a brass key turning in an old painted door lock",
+   "destaque": [
+    "FIT"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "Inside was a tiny room. A bed. Unmade.",
+   "pt": "Lá dentro tinha um quartinho. Uma cama. Desarrumada.",
+   "visual": "tiny windowless room with a narrow unmade bed, bare bulb, stale air",
+   "destaque": [
+    "BED"
+   ]
+  },
+  {
+   "text": "I touched the sheets. They were still warm.",
+   "pt": "Eu toquei no lençol. Ainda estava quente.",
+   "visual": "woman's hand touching wrinkled bedsheets in a dark room",
+   "destaque": [
+    "WARM"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "On the wall, photos. Dozens of them.",
+   "pt": "Na parede, fotos. Dezenas.",
+   "visual": "wall covered in pinned polaroid photos in a dim room, too dark to see details",
+   "destaque": [
+    "PHOTOS"
+   ]
+  },
+  {
+   "text": "All of me. Asleep. In my bed.",
+   "pt": "Todas minhas. Dormindo. Na minha cama.",
+   "visual": "a polaroid of a woman sleeping in bed taken from a low dark angle through a gap",
+   "destaque": [
+    "ASLEEP"
+   ]
+  },
+  {
+   "text": "Taken from inside my closet.",
+   "pt": "Tiradas de dentro do meu armário.",
+   "visual": "view from inside a dark closet through slightly open slatted doors toward a bed",
+   "destaque": [
+    "CLOSET"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "Then I heard it. Behind me. In my apartment.",
+   "pt": "Aí eu ouvi. Atrás de mim. No meu apartamento.",
+   "visual": "dark apartment hallway seen from a small doorway, front door at the end",
+   "destaque": [
+    "BEHIND"
+   ]
+  },
+  {
+   "text": "Click.",
+   "pt": "Clique.",
+   "mesma_imagem": true,
+   "destaque": [
+    "CLICK"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "Someone had just locked my front door. From the inside.",
+   "pt": "Alguém tinha acabado de trancar a porta da frente. Por dentro.",
+   "visual": "close-up of a deadbolt on a front door turning by itself in the dark",
+   "destaque": [
+    "INSIDE"
+   ]
+  }
+ ]
+}

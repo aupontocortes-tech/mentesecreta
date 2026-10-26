@@ -1,0 +1,118 @@
+{
+ "titulo": "My Camera Sent Me a Clip From Tomorrow Night #Shorts",
+ "titulo_pt": "Minha câmera me mandou um vídeo de amanhã à noite",
+ "resumo_pt": "Toda noite às 3h17 a câmera da campainha avisa 'pessoa detectada', mas o vídeo mostra a varanda vazia. O narrador instala uma câmera no quarto. Às 3h17 chega o aviso: o vídeo mostra ele dormindo e uma figura alta em pé do lado da cama, olhando para ele. A virada: a data do vídeo é de amanhã à noite.",
+ "narrador": "homem",
+ "descricao": "It started with one notification. Every night. Same time.\n\nWould you sleep in that room tonight?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "scary",
+  "doorbell camera",
+  "tech horror"
+ ],
+ "hashtags": "#horror #scarystories #techhorror #shorts",
+ "scenes": [
+  {
+   "text": "Every night at three seventeen, my doorbell camera says: person detected.",
+   "pt": "Toda noite às três e dezessete, a câmera da campainha avisa: pessoa detectada.",
+   "visual": "smartphone glowing on a nightstand in a dark bedroom, notification on the lock screen",
+   "destaque": [
+    "DETECTED"
+   ]
+  },
+  {
+   "text": "Every night, I open the clip. Empty porch.",
+   "pt": "Toda noite eu abro o vídeo. Varanda vazia.",
+   "visual": "grainy night vision doorbell camera view of an empty porch and front steps",
+   "destaque": [
+    "EMPTY"
+   ]
+  },
+  {
+   "text": "Except the motion box. It moves. Right up to the door.",
+   "pt": "Só que o quadradinho de movimento se mexe. Até a porta.",
+   "mesma_imagem": true,
+   "destaque": [
+    "DOOR"
+   ]
+  },
+  {
+   "text": "Then it stops. Like something came inside.",
+   "pt": "Aí ele para. Como se alguma coisa tivesse entrado.",
+   "visual": "dark entryway of a house at night, front door closed, faint light under it",
+   "destaque": [
+    "INSIDE"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "So I put a camera in my bedroom.",
+   "pt": "Então eu coloquei uma câmera no meu quarto.",
+   "visual": "small security camera mounted in the corner of a dark bedroom ceiling, red light on",
+   "destaque": [
+    "BEDROOM"
+   ]
+  },
+  {
+   "text": "Three seventeen. My phone buzzed. Person detected. Bedroom.",
+   "pt": "Três e dezessete. Meu celular vibrou. Pessoa detectada. Quarto.",
+   "visual": "phone screen glowing in total darkness held by a trembling hand",
+   "destaque": [
+    "BEDROOM"
+   ]
+  },
+  {
+   "text": "I was awake. Nobody was here. I opened the clip anyway.",
+   "pt": "Eu estava acordado. Não tinha ninguém. Abri o vídeo mesmo assim.",
+   "mesma_imagem": true,
+   "destaque": [
+    "CLIP"
+   ]
+  },
+  {
+   "text": "It showed me. Asleep.",
+   "pt": "Mostrava eu. Dormindo.",
+   "visual": "night vision security footage from a ceiling corner of a man asleep in bed",
+   "destaque": [
+    "ASLEEP"
+   ]
+  },
+  {
+   "text": "And something tall standing beside my bed, bent over, watching my face.",
+   "pt": "E uma coisa alta em pé do lado da minha cama, curvada, olhando meu rosto.",
+   "visual": "night vision footage of a very tall thin shadowy figure bending over a sleeping man in bed, no face visible",
+   "destaque": [
+    "WATCHING"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "But I wasn't asleep. I was sitting right here.",
+   "pt": "Mas eu não estava dormindo. Eu estava sentado bem aqui.",
+   "visual": "man sitting up in bed in the dark, face lit only by a phone screen",
+   "destaque": [
+    "HERE"
+   ]
+  },
+  {
+   "text": "Then I saw the date on the clip.",
+   "pt": "Aí eu vi a data do vídeo.",
+   "mesma_imagem": true,
+   "destaque": [
+    "DATE"
+   ],
+   "pausa": 0.8
+  },
+  {
+   "text": "It's from tomorrow night.",
+   "pt": "É de amanhã à noite.",
+   "visual": "close-up of a security camera timestamp overlay glowing on a dark screen, numbers blurred",
+   "destaque": [
+    "TOMORROW"
+   ]
+  }
+ ]
+}

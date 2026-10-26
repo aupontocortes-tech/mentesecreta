@@ -1,0 +1,130 @@
+{
+ "titulo": "Never Let Them In. Even If They Ask Nicely. #Shorts",
+ "titulo_pt": "Nunca deixe eles entrarem. Mesmo se pedirem com educação.",
+ "resumo_pt": "Lenda americana das crianças de olhos pretos. Duas crianças batem na porta de um pai às duas da manhã pedindo para usar o telefone; ele vê que os olhos delas são totalmente pretos e não abre. Elas vão embora. A virada: o filho dele pergunta se os dois amiguinhos novos podem ficar para o café da manhã, porque ele abriu a janela do quarto para eles.",
+ "narrador": "homem",
+ "descricao": "There's an old American legend about kids who knock at night. They always ask to come in.\n\nWould you have opened the door?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "scary",
+  "black eyed kids",
+  "urban legend"
+ ],
+ "hashtags": "#horror #urbanlegend #blackeyedkids #shorts",
+ "scenes": [
+  {
+   "text": "Two a.m., someone knocked on my front door.",
+   "pt": "Duas da manhã, alguém bateu na minha porta.",
+   "visual": "dark suburban front door at night seen from inside a dim hallway, porch light glowing through frosted glass",
+   "destaque": [
+    "KNOCKED"
+   ]
+  },
+  {
+   "text": "Through the peephole, I saw two kids. Maybe ten years old.",
+   "pt": "Pelo olho mágico, vi duas crianças. Uns dez anos.",
+   "visual": "fisheye peephole view of two small children in hoodies standing on a dark porch, faces in shadow",
+   "destaque": [
+    "KIDS"
+   ]
+  },
+  {
+   "text": "Sir, can we come in and use your phone?",
+   "pt": "Moço, a gente pode entrar e usar seu telefone?",
+   "mesma_imagem": true,
+   "destaque": [
+    "PHONE"
+   ],
+   "voz": "crianca"
+  },
+  {
+   "text": "Their voices were calm. Too calm.",
+   "pt": "As vozes eram calmas. Calmas demais.",
+   "mesma_imagem": true,
+   "destaque": [
+    "CALM"
+   ]
+  },
+  {
+   "text": "Then the porch light hit their faces.",
+   "pt": "Aí a luz da varanda iluminou o rosto deles.",
+   "visual": "close-up of a child's face half lit by a yellow porch light, hood up, unreadable expression",
+   "destaque": [
+    "LIGHT"
+   ]
+  },
+  {
+   "text": "Their eyes were black. No white. Just black.",
+   "pt": "Os olhos eram pretos. Sem branco. Só preto.",
+   "visual": "extreme close-up of a child's completely black eyes reflecting a porch light, eerie stillness",
+   "destaque": [
+    "BLACK"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "You have to let us in. We can't come in unless you say so.",
+   "pt": "Você tem que deixar a gente entrar. A gente não pode entrar se você não deixar.",
+   "mesma_imagem": true,
+   "destaque": [
+    "SAY"
+   ],
+   "voz": "sombria"
+  },
+  {
+   "text": "I didn't open the door. I didn't say a word.",
+   "pt": "Eu não abri a porta. Não falei nada.",
+   "visual": "man's hand pressed flat against a locked front door in a dark hallway",
+   "destaque": [
+    "WORD"
+   ]
+  },
+  {
+   "text": "After a while, they just walked away.",
+   "pt": "Depois de um tempo, eles simplesmente foram embora.",
+   "visual": "two small silhouettes walking away down an empty foggy suburban street at night",
+   "destaque": [
+    "AWAY"
+   ]
+  },
+  {
+   "text": "I checked every lock twice and went back upstairs.",
+   "pt": "Conferi todas as trancas duas vezes e voltei pra cima.",
+   "visual": "dark staircase in a quiet house, one bedroom door at the top slightly open",
+   "destaque": [
+    "LOCK"
+   ]
+  },
+  {
+   "text": "My son was awake, sitting up in bed, smiling.",
+   "pt": "Meu filho estava acordado, sentado na cama, sorrindo.",
+   "visual": "small boy sitting up in bed in a dark bedroom, window wide open, curtains moving",
+   "destaque": [
+    "SMILING"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "Dad, can my two new friends stay for breakfast?",
+   "pt": "Pai, meus dois amigos novos podem ficar pro café da manhã?",
+   "mesma_imagem": true,
+   "destaque": [
+    "FRIENDS"
+   ],
+   "voz": "crianca",
+   "pausa": 0.5
+  },
+  {
+   "text": "I told them it was okay. I opened the window.",
+   "pt": "Eu disse que podia. Eu abri a janela.",
+   "mesma_imagem": true,
+   "destaque": [
+    "WINDOW"
+   ],
+   "voz": "crianca"
+  }
+ ]
+}

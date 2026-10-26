@@ -1,0 +1,122 @@
+{
+ "titulo": "I Picked Up a Girl on the Old Bridge Road #Shorts",
+ "titulo_pt": "Dei carona para uma menina na estrada da ponte velha",
+ "resumo_pt": "Versão moderna da lenda americana da carona fantasma. Um motorista de aplicativo dá carona a uma menina molhada parada na ponte velha. Ela dá um endereço e some do banco de trás antes de chegar. Uma senhora atende a porta e diz que a filha morreu naquela ponte há trinta anos e que todo ano algum motorista traz ela para casa. A virada: a senhora olha para o carro e pergunta por que a menina continua sentada lá dentro.",
+ "narrador": "homem",
+ "descricao": "It's one of the oldest legends on American roads. It happened to me last night.\n\nWould you have stopped for her?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "scary",
+  "vanishing hitchhiker",
+  "urban legend"
+ ],
+ "hashtags": "#horror #urbanlegend #roadtrip #shorts",
+ "scenes": [
+  {
+   "text": "Last night, a girl was standing on the old bridge. Soaking wet. No car.",
+   "pt": "Ontem à noite, tinha uma menina parada na ponte velha. Encharcada. Sem carro.",
+   "visual": "teenage girl in a white dress standing alone on an old iron bridge at night in the rain, headlights on her",
+   "destaque": [
+    "BRIDGE"
+   ]
+  },
+  {
+   "text": "Please. Just take me home.",
+   "pt": "Por favor. Só me leva pra casa.",
+   "mesma_imagem": true,
+   "destaque": [
+    "HOME"
+   ],
+   "voz": "mulher"
+  },
+  {
+   "text": "She gave me an address and didn't say another word.",
+   "pt": "Ela me deu um endereço e não falou mais nada.",
+   "visual": "rear view mirror showing a pale girl in the back seat, wet hair, looking down",
+   "destaque": [
+    "ADDRESS"
+   ]
+  },
+  {
+   "text": "The whole ride, the back seat smelled like river water.",
+   "pt": "A viagem toda, o banco de trás tinha cheiro de água de rio.",
+   "visual": "car interior at night, rain on the windows, dashboard glow",
+   "destaque": [
+    "RIVER"
+   ]
+  },
+  {
+   "text": "When I pulled up, the back seat was empty. Just a wet spot.",
+   "pt": "Quando eu parei, o banco de trás estava vazio. Só uma mancha molhada.",
+   "visual": "empty car back seat with a dark wet stain, streetlight through the window",
+   "destaque": [
+    "EMPTY"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "I knocked. An old woman opened the door.",
+   "pt": "Eu bati. Uma senhora abriu a porta.",
+   "visual": "old woman in a cardigan opening a farmhouse door at night, porch light",
+   "destaque": [
+    "KNOCKED"
+   ]
+  },
+  {
+   "text": "She didn't even let me talk.",
+   "pt": "Ela nem me deixou falar.",
+   "mesma_imagem": true,
+   "destaque": [
+    "TALK"
+   ]
+  },
+  {
+   "text": "My daughter died on that bridge thirty years ago.",
+   "pt": "Minha filha morreu naquela ponte há trinta anos.",
+   "mesma_imagem": true,
+   "destaque": [
+    "DAUGHTER"
+   ],
+   "voz": "idosa"
+  },
+  {
+   "text": "Every year, some driver brings her home.",
+   "pt": "Todo ano, algum motorista traz ela pra casa.",
+   "mesma_imagem": true,
+   "destaque": [
+    "YEAR"
+   ],
+   "voz": "idosa",
+   "pausa": 0.6
+  },
+  {
+   "text": "Then she looked past me. At my car.",
+   "pt": "Aí ela olhou por cima do meu ombro. Pro meu carro.",
+   "visual": "car parked in a dark driveway at night, rain, fogged rear window",
+   "destaque": [
+    "CAR"
+   ]
+  },
+  {
+   "text": "But she always gets out. Why is she still sitting there?",
+   "pt": "Mas ela sempre desce. Por que ela continua sentada aí?",
+   "mesma_imagem": true,
+   "destaque": [
+    "SITTING"
+   ],
+   "voz": "idosa",
+   "pausa": 0.8
+  },
+  {
+   "text": "I haven't checked my back seat since.",
+   "pt": "Desde então, eu não olhei mais pro banco de trás.",
+   "visual": "dark car rear window from outside, a faint pale shape of a girl behind fogged glass",
+   "destaque": [
+    "CHECKED"
+   ]
+  }
+ ]
+}

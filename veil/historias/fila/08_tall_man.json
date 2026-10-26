@@ -1,0 +1,123 @@
+{
+ "titulo": "Grandma Kept Pointing at the Corner #Shorts",
+ "titulo_pt": "A vovó vivia apontando para o canto",
+ "resumo_pt": "A avó do narrador passou os últimos anos dizendo que um homem alto ficava no canto do quarto dela, e todos acharam que era confusão da idade. No dia em que ela morreu, ela parou de apontar para o canto e passou a apontar para o narrador. A virada: hoje o filho pequeno dele diz que a bisavó mandou avisar que o homem alto agora está no canto do quarto do pai.",
+ "narrador": "homem",
+ "descricao": "We thought Grandma was just confused. She wasn't.\n\nHave you ever seen something in the corner of a room?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "scary",
+  "family horror",
+  "grandma"
+ ],
+ "hashtags": "#horror #scarystories #creepy #shorts",
+ "scenes": [
+  {
+   "text": "For three years, Grandma said a tall man stood in the corner of her room.",
+   "pt": "Por três anos, a vovó disse que um homem alto ficava no canto do quarto dela.",
+   "visual": "old woman in a rocking chair in a dim bedroom staring at an empty dark corner",
+   "destaque": [
+    "CORNER"
+   ]
+  },
+  {
+   "text": "Nobody believed her. The doctors said it was her age.",
+   "pt": "Ninguém acreditava. Os médicos diziam que era a idade.",
+   "visual": "dim bedroom corner with peeling wallpaper, deep shadow, nothing visible",
+   "destaque": [
+    "AGE"
+   ]
+  },
+  {
+   "text": "He doesn't blink. He's waiting.",
+   "pt": "Ele não pisca. Ele está esperando.",
+   "mesma_imagem": true,
+   "destaque": [
+    "WAITING"
+   ],
+   "voz": "idosa"
+  },
+  {
+   "text": "On her last night, she stopped pointing at the corner.",
+   "pt": "Na última noite dela, ela parou de apontar pro canto.",
+   "visual": "wrinkled old hand slowly raising one finger in a dark bedroom, lamp light",
+   "destaque": [
+    "STOPPED"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "She pointed at me.",
+   "pt": "Ela apontou pra mim.",
+   "mesma_imagem": true,
+   "destaque": [
+    "ME"
+   ]
+  },
+  {
+   "text": "He's not waiting for me anymore.",
+   "pt": "Ele não está mais esperando por mim.",
+   "mesma_imagem": true,
+   "destaque": [
+    "ANYMORE"
+   ],
+   "voz": "idosa",
+   "pausa": 0.7
+  },
+  {
+   "text": "She died that night. We buried her on a Sunday.",
+   "pt": "Ela morreu naquela noite. A gente enterrou ela num domingo.",
+   "visual": "small rural cemetery under grey sky, distant figures in black, no faces",
+   "destaque": [
+    "SUNDAY"
+   ]
+  },
+  {
+   "text": "Last night, my five-year-old son woke me up.",
+   "pt": "Ontem à noite, meu filho de cinco anos me acordou.",
+   "visual": "little boy in pajamas standing beside a parent's bed in the dark, holding a teddy bear",
+   "destaque": [
+    "SON"
+   ]
+  },
+  {
+   "text": "Dad, Great-Grandma came to say goodnight.",
+   "pt": "Pai, a bisavó veio dar boa noite.",
+   "mesma_imagem": true,
+   "destaque": [
+    "GOODNIGHT"
+   ],
+   "voz": "crianca"
+  },
+  {
+   "text": "She said to tell you something.",
+   "pt": "Ela mandou te falar uma coisa.",
+   "mesma_imagem": true,
+   "destaque": [
+    "TELL"
+   ],
+   "voz": "crianca"
+  },
+  {
+   "text": "The tall man is in your corner now.",
+   "pt": "O homem alto agora está no seu canto.",
+   "mesma_imagem": true,
+   "destaque": [
+    "YOUR"
+   ],
+   "voz": "crianca",
+   "pausa": 0.8
+  },
+  {
+   "text": "I haven't looked at the corner since.",
+   "pt": "Desde então, eu não olhei mais pro canto.",
+   "visual": "dark bedroom corner behind a bed, an extremely tall thin shadow barely visible against the wall",
+   "destaque": [
+    "LOOKED"
+   ]
+  }
+ ]
+}

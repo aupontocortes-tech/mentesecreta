@@ -1,0 +1,119 @@
+{
+ "titulo": "We Said Bloody Mary Three Times. One of Us Came Back Wrong. #Shorts",
+ "titulo_pt": "Falamos Bloody Mary três vezes. Uma de nós voltou diferente.",
+ "resumo_pt": "Lenda da Bloody Mary. Aos doze anos, numa festa do pijama, a narradora e as amigas chamam a Bloody Mary no espelho e nada acontece. Vinte anos depois, a filha dela faz a mesma brincadeira e uma voz de menina sai do espelho pedindo ajuda. A virada: a voz é dela mesma, aos doze anos, presa no espelho; quem saiu do banheiro naquela noite e viveu a vida dela não era ela.",
+ "narrador": "mulher",
+ "descricao": "Every sleepover has someone who dares you to say it three times.\n\nDid you ever try it?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "scary",
+  "bloody mary",
+  "urban legend"
+ ],
+ "hashtags": "#horror #bloodymary #urbanlegend #shorts",
+ "scenes": [
+  {
+   "text": "When I was twelve, we said Bloody Mary three times in the bathroom mirror.",
+   "pt": "Quando eu tinha doze anos, a gente falou Bloody Mary três vezes no espelho do banheiro.",
+   "visual": "three young girls in pajamas facing a dark bathroom mirror lit by a single candle, seen from behind",
+   "destaque": [
+    "MIRROR"
+   ]
+  },
+  {
+   "text": "Nothing happened. We laughed and went to bed.",
+   "pt": "Não aconteceu nada. A gente riu e foi dormir.",
+   "visual": "sleeping bags on a living room floor at night, a candle smoke trail, quiet house",
+   "destaque": [
+    "NOTHING"
+   ]
+  },
+  {
+   "text": "Twenty years later, my daughter had her first sleepover.",
+   "pt": "Vinte anos depois, minha filha fez a primeira festa do pijama dela.",
+   "visual": "suburban living room at night with pillows and sleeping bags, string lights, empty",
+   "destaque": [
+    "DAUGHTER"
+   ]
+  },
+  {
+   "text": "At midnight, I heard them chanting upstairs.",
+   "pt": "À meia-noite, ouvi elas cantando lá em cima.",
+   "visual": "dark upstairs hallway, warm candle light leaking under a bathroom door",
+   "destaque": [
+    "CHANTING"
+   ]
+  },
+  {
+   "text": "Bloody Mary. Bloody Mary.",
+   "pt": "Bloody Mary. Bloody Mary.",
+   "mesma_imagem": true,
+   "destaque": [
+    "MARY"
+   ],
+   "voz": "crianca"
+  },
+  {
+   "text": "I smiled. Then they all screamed and ran out.",
+   "pt": "Eu sorri. Aí todas gritaram e saíram correndo.",
+   "visual": "bathroom door flung open, candle knocked over, empty hallway, motion blur",
+   "destaque": [
+    "SCREAMED"
+   ]
+  },
+  {
+   "text": "I went in. Just a mirror. Just my face.",
+   "pt": "Eu entrei. Só um espelho. Só meu rosto.",
+   "visual": "woman's reflection in a dim bathroom mirror, tired face, single candle",
+   "destaque": [
+    "FACE"
+   ]
+  },
+  {
+   "text": "Then my reflection put her hand on the glass.",
+   "pt": "Aí meu reflexo encostou a mão no vidro.",
+   "visual": "a hand pressed against the inside of a bathroom mirror, palm flat, foggy glass",
+   "destaque": [
+    "HAND"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "But it wasn't my hand. It was small. A twelve-year-old's hand.",
+   "pt": "Mas não era a minha mão. Era pequena. Mão de uma menina de doze anos.",
+   "mesma_imagem": true,
+   "destaque": [
+    "SMALL"
+   ]
+  },
+  {
+   "text": "Please. You've had my life for twenty years. Give it back.",
+   "pt": "Por favor. Você ficou com a minha vida por vinte anos. Devolve.",
+   "mesma_imagem": true,
+   "destaque": [
+    "BACK"
+   ],
+   "voz": "crianca",
+   "pausa": 0.8
+  },
+  {
+   "text": "That night, only one of us walked out of that mirror.",
+   "pt": "Naquela noite, só uma de nós saiu daquele espelho.",
+   "visual": "dark bathroom, mirror reflecting an empty doorway, candle out, thin smoke",
+   "destaque": [
+    "ONE"
+   ]
+  },
+  {
+   "text": "And it wasn't her.",
+   "pt": "E não foi ela.",
+   "mesma_imagem": true,
+   "destaque": [
+    "HER"
+   ]
+  }
+ ]
+}
