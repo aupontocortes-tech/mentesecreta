@@ -22,42 +22,54 @@
    "emocao": "segredo",
    "destaque": [
     "PORTA"
-   ]
+   ],
+   "src": "banco/segredo/KMS1242c.jpg",
+   "credito": "Dame med sort kappe over hovedet og maske i hånden — Møller, Andreas (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Calma. Não é sobre memória fraca. É sobre como o cérebro organiza o dia.",
    "emocao": "mente",
    "destaque": [
     "ORGANIZA"
-   ]
+   ],
+   "src": "banco/mente/KMS985.jpg",
+   "credito": "King Christian II in Prison — Bloch, Carl (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Sabe quando você vai até a cozinha e esquece o que foi buscar?",
    "emocao": "solidao",
    "destaque": [
     "ESQUECE"
-   ]
+   ],
+   "src": "banco/solidao/KMS7284.jpg",
+   "credito": "Langebro, Copenhagen, in the Moonlight with Running Figures — Eckersberg, C.W. (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Gabriel Radvansky, da Universidade de Notre Dame, testou isso em ambientes virtuais e reais.",
    "emocao": "mente",
    "destaque": [
     "NOTRE DAME"
-   ]
+   ],
+   "src": "banco/mente/KMS3884.jpg",
+   "credito": "Dominican Friar — Rubens, Peter Paul (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Voluntários carregavam objetos de uma mesa pra outra.",
    "emocao": "grupo",
    "destaque": [
     "OBJETOS"
-   ]
+   ],
+   "src": "banco/grupo/KMS737.jpg",
+   "credito": "A Country Dance in the Hedebo District, Zealand — Exner, Julius (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Alguns atravessavam uma porta. Outros andavam a mesma distância, sem porta.",
    "emocao": "olhar",
    "destaque": [
     "PORTA"
-   ]
+   ],
+   "src": "banco/olhar/KMS6793.jpg",
+   "credito": "Jens Ferdinand Willumsen. Study for Five Portraits — Hammershøi, Vilhelm (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Quem passou pela porta tendeu a esquecer mais.",
@@ -65,28 +77,37 @@
    "destaque": [
     "ESQUECER"
    ],
-   "pausa": 0.7
+   "pausa": 0.7,
+   "src": "banco/medo/KMS8817.jpg",
+   "credito": "After the Storm — Friedrich, Caspar David (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "A psicologia chama isso de efeito da porta: o cérebro fecha um capítulo e abre outro.",
    "emocao": "mente",
    "destaque": [
     "CAPÍTULO"
-   ]
+   ],
+   "src": "banco/mente/KMSsp824.jpg",
+   "credito": "The Scholar and Death — Gelton, Toussaint (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Esqueceu? Volte pro cômodo de antes. O contexto pode trazer a lembrança.",
    "emocao": "familia",
    "destaque": [
     "VOLTE"
-   ]
+   ],
+   "src": "banco/familia/KMSsp124.jpg",
+   "credito": "The Holy Family — Tagliasacchi, Giovanni Battista (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Toda porta é um corte de cena.",
    "emocao": "segredo",
    "destaque": [
     "CENA"
-   ]
+   ],
+   "src": "banco/segredo/KMS3004.jpg",
+   "credito": "The Artist's Sisters Signe and Henriette Reading a Book — Hansen, Constantin (SMK – Statens Museum for Kunst (domínio público))"
   }
- ]
+ ],
+ "video_id": "ZkMLonFYgOo"
 }
