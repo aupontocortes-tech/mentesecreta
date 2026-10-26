@@ -22,42 +22,54 @@
    "emocao": "poder",
    "destaque": [
     "PERFEITO"
-   ]
+   ],
+   "src": "banco/poder/KMS184.jpg",
+   "credito": "Portrait of a Man — Gossaert, Jan (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Calma. Não é sobre errar de propósito. É sobre o erro certo.",
    "emocao": "mente",
    "destaque": [
     "ERRO"
-   ]
+   ],
+   "src": "banco/mente/KMS280.jpg",
+   "credito": "A Young Artist (Ditlev Blunck) Examining a Sketch in a Mirror — Bendz, Wilhelm (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Sabe quando o chefe impecável tropeça na fala, e de repente parece mais humano?",
    "emocao": "poder",
    "destaque": [
     "HUMANO"
-   ]
+   ],
+   "src": "banco/poder/KMSsp723.jpg",
+   "credito": "Portrait of a Man. Probably Erik Eriksen Banner. — Cranach (I), Lucas (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Em mil novecentos e sessenta e seis, Elliot Aronson testou isso com universitários.",
    "emocao": "mente",
    "destaque": [
     "ARONSON"
-   ]
+   ],
+   "src": "banco/mente/KMS2042.jpg",
+   "credito": "The Artist's Son Holger at the Age of Ten — Roed, Jørgen (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Eles ouviram a gravação de um candidato brilhante num quiz.",
    "emocao": "grupo",
    "destaque": [
     "BRILHANTE"
-   ]
+   ],
+   "src": "banco/grupo/KMS952.jpg",
+   "credito": "Sinful Mankind Surprised by the Day of Judgment — Barendsz., Dirck (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "No fim, ele derrubava café na roupa.",
    "emocao": "medo",
    "destaque": [
     "CAFÉ"
-   ]
+   ],
+   "src": "banco/medo/KMS1884.jpg",
+   "credito": "Vanitas Still Life — Willigen, Pieter van der (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "E foi avaliado como mais simpático do que sem o acidente.",
@@ -65,28 +77,37 @@
    "destaque": [
     "SIMPÁTICO"
    ],
-   "pausa": 0.7
+   "pausa": 0.7,
+   "src": "banco/olhar/KMS1279.jpg",
+   "credito": "Violinspilleren — Jensen, C.A. (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "A psicologia chama isso de efeito pratfall.",
    "emocao": "mente",
    "destaque": [
     "PRATFALL"
-   ]
+   ],
+   "src": "banco/mente/KMSsp54.jpg",
+   "credito": "The Penitent St. Jerome — Collantes, Francisco (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Mas cuidado: quando o candidato era mediano, o mesmo erro piorava a imagem.",
    "emocao": "engano",
    "destaque": [
     "MEDIANO"
-   ]
+   ],
+   "src": "banco/engano/KMS1476.jpg",
+   "credito": "Judith med Holofernes' hoved — Storch, F.L. (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "O erro só aproxima quem já mostrou valor.",
    "emocao": "poder",
    "destaque": [
     "VALOR"
-   ]
+   ],
+   "src": "banco/poder/KMSsp789.jpg",
+   "credito": "Portrait of the Danish King Christian II — Sittow, Michiel (SMK – Statens Museum for Kunst (domínio público))"
   }
- ]
+ ],
+ "video_id": "zkiPrA1WHy8"
 }
