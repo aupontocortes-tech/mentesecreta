@@ -42,11 +42,13 @@ def main():
         texto = sc['text']; falado = texto
         for k, v in pron.items(): falado = falado.replace(k, v)
         mp3 = os.path.join(out, f'v{i:02d}.mp3')
-        for tent in range(4):
-            try: marcas = asyncio.run(falar(falado, mp3, sc.get('voz_edge'), sc.get('rate'), sc.get('pitch'))); break
+        # até 8 tentativas com espera crescente; da 5ª em diante usa a voz padrão (sem tom/velocidade especial)
+        for tent in range(8):
+            v, r, p = (sc.get('voz_edge'), sc.get('rate'), sc.get('pitch')) if tent < 4 else (None, None, None)
+            try: marcas = asyncio.run(falar(falado, mp3, v, r, p)); break
             except Exception as e:
-                print('TTS falhou, tentando de novo:', e); time.sleep(3 + tent * 3)
-        else: sys.exit('ERRO: TTS não respondeu')
+                print(f'TTS falhou na cena {i} (tentativa {tent + 1}):', e); time.sleep(5 + tent * 6)
+        else: sys.exit(f'ERRO: TTS não respondeu na cena {i}: {texto}')
         x = para_wav(mp3)
         nz = np.where(np.abs(x) > 0.01)[0]; ini = max(0, nz[0] - 300); x = x[ini:nz[-1] + 600]; dur = len(x) / SR
         ws = texto.split(); off = ini / SR
