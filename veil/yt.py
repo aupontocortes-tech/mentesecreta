@@ -1,6 +1,6 @@
 """Envio para o YouTube do canal Veil Frequency.
 python3 veil/yt.py me                              -> mostra o canal da chave
-python3 veil/yt.py up video.mp4 episodio.json [agora|agendar]
+python3 veil/yt.py up video.mp4 episodio.json [agora|agendar|pt]
 A chave vem do Secret VF_YT_TOKEN_JSON (nunca salve no repositório)."""
 import os, sys, json, datetime
 from google.oauth2.credentials import Credentials
@@ -30,7 +30,12 @@ if r.get('creditos'):
 desc += '\n\n' + r.get('hashtags', '#horror #analoghorror #creepy')
 # containsSyntheticMedia: o vídeo imita gravação real, então marcamos como conteúdo alterado/sintético
 status = {'selfDeclaredMadeForKids': False, 'containsSyntheticMedia': True}
-if modo == 'agora':
+lingua = 'en'
+if modo == 'pt':   # versão dublada: não listada (só abre pelo link do painel), não aparece no canal
+    lingua = 'pt'
+    status['privacyStatus'] = 'unlisted'
+    desc = (r.get('resumo_pt') or '') + '\n\nVersão em português (não listada) só para conferência.'
+elif modo == 'agora':
     status['privacyStatus'] = 'public'
 else:  # agenda para as 18h de Brasília (21:00 UTC)
     agora = datetime.datetime.now(datetime.timezone.utc)
@@ -39,8 +44,9 @@ else:  # agenda para as 18h de Brasília (21:00 UTC)
         alvo += datetime.timedelta(days=1)
     status['privacyStatus'] = 'private'
     status['publishAt'] = alvo.isoformat().replace('+00:00', 'Z')
-body = {'snippet': {'title': r['titulo'][:100], 'description': desc[:4900], 'tags': r.get('tags', []), 'categoryId': '24',
-                    'defaultLanguage': 'en', 'defaultAudioLanguage': 'en'}, 'status': status}
+titulo = ('[PT] ' + (r.get('titulo_pt') or r['titulo'])) if lingua == 'pt' else r['titulo']
+body = {'snippet': {'title': titulo[:100], 'description': desc[:4900], 'tags': r.get('tags', []), 'categoryId': '24',
+                    'defaultLanguage': lingua, 'defaultAudioLanguage': lingua}, 'status': status}
 v = yt.videos().insert(part='snippet,status', body=body,
                        media_body=MediaFileUpload(sys.argv[2], chunksize=-1, resumable=True)).execute()
 print('VIDEO_ID=' + v['id'], status.get('publishAt', 'publicado agora'))

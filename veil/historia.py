@@ -26,6 +26,15 @@ VOZES = {   # vozes naturais: sem mexer muito no tom (tom forçado deixa a voz c
     'sombria': ('en-US-JennyNeural', '-18%', '-20Hz'),
     'sombrio': ('en-US-GuyNeural', '-18%', '-20Hz'),
 }
+VOZES_PT = {   # versão dublada em português (vídeo não listado, só para o Thiago conferir)
+    'homem':   ('pt-BR-AntonioNeural', '+0%', '-4Hz'),
+    'mulher':  ('pt-BR-ThalitaMultilingualNeural', '+0%', '+0Hz'),
+    'crianca': ('pt-BR-FranciscaNeural', '-2%', '+12Hz'),
+    'idosa':   ('pt-BR-FranciscaNeural', '-8%', '-6Hz'),
+    'idoso':   ('pt-BR-AntonioNeural', '-8%', '-8Hz'),
+    'sombria': ('pt-BR-FranciscaNeural', '-16%', '-18Hz'),
+    'sombrio': ('pt-BR-AntonioNeural', '-16%', '-18Hz'),
+}
 UA = 'Mozilla/5.0 (VeilFrequencyBot/1.0; github.com/aupontocortes-tech)'
 
 
@@ -61,35 +70,50 @@ def gerar_imagem(prompt, seed, destino):
     return False
 
 
-def main(caminho, out):
+def destaque_pt(texto):
+    # palavra mais longa da frase em português (fica vermelha na legenda)
+    ps = [w.strip('.,!?;:"“”…—-').upper() for w in texto.split()]
+    ps = [w for w in ps if len(w) > 3]
+    return [max(ps, key=len)] if ps else []
+
+
+def main(caminho, out, lingua='en'):
+    pt = lingua == 'pt'
+    imgs = out                      # as imagens ficam em out/ e são as mesmas nas duas versões
+    if pt:
+        out = os.path.join(out, 'pt')
     os.makedirs(out, exist_ok=True)
     hist = json.load(open(caminho, encoding='utf-8'))
     base = random.Random(hist.get('titulo', '')).randint(1, 10**6)
-    spec = {'scenes': [], 'pron': hist.get('pron', {})}
+    spec = {'scenes': [], 'pron': {} if pt else hist.get('pron', {})}
     narr = hist.get('narrador', 'homem')
     img = None
     for i, sc in enumerate(hist['scenes']):
         if sc.get('mesma_imagem') and img:   # fala curta que continua na imagem anterior
             pass
         else:
-            img = os.path.abspath(f'{out}/cena{i:02d}.jpg')
+            img = os.path.abspath(f'{imgs}/cena{i:02d}.jpg')
         if not os.path.exists(img):
             print(f'cena {i}: gerando imagem')
             if not gerar_imagem(sc['visual'], base + i, img):
                 sys.exit(f'ERRO: não consegui gerar a imagem da cena {i}')
             time.sleep(3)
-        voz, rate, pitch = VOZES.get(sc.get('voz') or narr, VOZES['homem'])
-        spec['scenes'].append({'text': sc['text'], 'src': img, 'focus': 0.5, 'foco_y': 0.5,
-                               'destaque': sc.get('destaque', []), 'pausa': sc.get('pausa', 0.3),
+        tabela = VOZES_PT if pt else VOZES
+        voz, rate, pitch = tabela.get(sc.get('voz') or narr, tabela['homem'])
+        texto = (sc.get('pt') or sc['text']) if pt else sc['text']
+        dest = (sc.get('destaque_pt') or destaque_pt(texto)) if pt else sc.get('destaque', [])
+        spec['scenes'].append({'text': texto, 'src': img, 'focus': 0.5, 'foco_y': 0.5,
+                               'destaque': dest, 'pausa': sc.get('pausa', 0.3),
                                'voz_edge': voz, 'rate': rate, 'pitch': pitch})
     json.dump(spec, open(f'{out}/spec.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     env = dict(os.environ, MS_VOZ=os.environ.get('VF_VOZ', 'en-US-AndrewMultilingualNeural'),
                MS_RATE=os.environ.get('VF_RATE', '-2%'), MS_PITCH=os.environ.get('VF_PITCH', '+0Hz'),
-               MS_MARCA='VEIL FREQUENCY')
+               MS_MARCA='VEIL FREQUENCY', MS_SEED=str(base))   # mesma trilha nas duas versões
     for cmd in (['tts.py', f'{out}/spec.json', out], ['musica.py', out], ['render.py', f'{out}/spec.json', out]):
         subprocess.run(['python3', os.path.join(RAIZ, cmd[0]), *cmd[1:]], check=True, env=env)
     print('OK', out + '/final.mp4')
 
 
 if __name__ == '__main__':
-    main(sys.argv[1], sys.argv[2] if len(sys.argv) > 2 else 'out')
+    # python3 veil/historia.py historia.json out [en|pt]   (pt usa as imagens já geradas e cria out/pt/final.mp4)
+    main(sys.argv[1], sys.argv[2] if len(sys.argv) > 2 else 'out', sys.argv[3] if len(sys.argv) > 3 else 'en')
