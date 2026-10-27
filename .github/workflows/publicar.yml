@@ -43,7 +43,9 @@ jobs:
       - name: Instalar
         if: steps.fila.outputs.pular != '1'
         run: |
-          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          # ffmpeg pronto do PyPI (rápido); se falhar, usa o apt com novas tentativas
+          pip install -q imageio-ffmpeg && sudo ln -sf "$(python3 -c 'import imageio_ffmpeg;print(imageio_ffmpeg.get_ffmpeg_exe())')" /usr/local/bin/ffmpeg && ffmpeg -version | head -1 \
+            || (sudo apt-get -o Acquire::Retries=3 update -qq && sudo apt-get -o Acquire::Retries=3 install -y -qq --no-install-recommends ffmpeg > /dev/null)
           pip install -q edge-tts numpy soundfile pillow google-auth-oauthlib google-api-python-client
 
       - name: Montar vídeo
