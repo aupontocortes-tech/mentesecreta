@@ -47,5 +47,6 @@ Escreva números por extenso quando forem falados ("vinte por cento"). Pronúnci
 FINAL:
 - Valide cada JSON (python3 -c "import json,glob;[json.load(open(f)) for f in glob.glob('roteiros/fila/*.json')]").
 - git add roteiros/fila CONFIG_CANAL.md && git commit -m "Roteiros da semana" && git pull --rebase && git push origin main
+- REVISÃO DE COERÊNCIA antes de salvar cada roteiro: a frase final fecha a ideia do gancho? cada frase leva à próxima? nada fica solto ou confuso? Se não, reescreva.
 - Só faça commit de roteiros/fila e CONFIG_CANAL.md. Nunca escreva chaves ou senhas.
 - RELATÓRIO CURTO: quantos roteiros criou, os títulos, e qualquer problema.
