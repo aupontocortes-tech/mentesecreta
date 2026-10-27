@@ -3,7 +3,7 @@
 python3 veil/historia.py veil/historias/fila/NN_slug.json out
 Gera out/final.mp4.
 
-Passos: imagem de IA por cena (Pollinations, grátis, sem conta) -> voz em inglês (Edge TTS, narrador grave)
+Passos: imagem de IA por cena (Cloudflare FLUX; reserva: Pollinations) -> voz em inglês (Edge TTS, narrador grave)
 -> trilha escura -> montagem com zoom lento, legenda palavra a palavra e marca VEIL FREQUENCY.
 Reaproveita tts.py, musica.py e render.py do Mente Secreta (raiz do repositório)."""
 import json, os, sys, time, random, subprocess, urllib.parse, urllib.request
@@ -38,37 +38,65 @@ VOZES_PT = {   # versão dublada em português (vídeo não listado, só para o 
 UA = 'Mozilla/5.0 (VeilFrequencyBot/1.0; github.com/aupontocortes-tech)'
 
 
+def _ajustar(im, destino, cortar_marca):
+    """Entrega 1080x1920 sem distorcer (corta as sobras do centro)."""
+    im = im.convert('RGB')
+    if min(im.size) < 300:
+        raise ValueError('imagem pequena')
+    w, h = im.size
+    if cortar_marca:
+        im = im.crop((0, 0, w, int(h * 0.94)))               # remove a marca d'água no rodapé
+    im = im.resize((1080, int(1080 * im.height / im.width)), Image.LANCZOS)
+    if im.height < 1920:                                    # completa a altura sem distorcer
+        im = im.resize((int(1920 * im.width / im.height), 1920), Image.LANCZOS)
+        x = (im.width - 1080) // 2
+        im = im.crop((x, 0, x + 1080, 1920))
+    else:
+        y = (im.height - 1920) // 2
+        im = im.crop((0, y, 1080, y + 1920))
+    im = im.filter(ImageFilter.UnsharpMask(radius=2, percent=60, threshold=3))
+    im.save(destino, quality=94)
+    return True
+
+
+def _cloudflare(texto, seed, destino):
+    """Cloudflare Workers AI (FLUX schnell): grátis até ~150 imagens/dia. Precisa dos Secrets CF_API_TOKEN e CF_ACCOUNT_ID."""
+    tok, conta = os.environ.get('CF_API_TOKEN', '').strip(), os.environ.get('CF_ACCOUNT_ID', '').strip()
+    if not (tok and conta):
+        return False
+    import base64, io
+    url = f'https://api.cloudflare.com/client/v4/accounts/{conta}/ai/run/@cf/black-forest-labs/flux-1-schnell'
+    corpo = json.dumps({'prompt': texto + ', centered subject, vertical framing', 'steps': 6, 'seed': seed % 2**31}).encode()
+    for tent in range(3):
+        try:
+            req = urllib.request.Request(url, data=corpo, headers={'Authorization': f'Bearer {tok}', 'Content-Type': 'application/json'})
+            d = json.loads(urllib.request.urlopen(req, timeout=120).read())
+            img = base64.b64decode(d['result']['image'])
+            return _ajustar(Image.open(io.BytesIO(img)), destino, False)
+        except Exception as e:
+            msg = getattr(e, 'read', lambda: b'')()[:200]
+            print(f'  cloudflare falhou ({e} {msg}); nova tentativa em 10s')
+            time.sleep(10)
+    return False
+
+
 def gerar_imagem(prompt, seed, destino):
-    """Pollinations: grátis e sem conta. Corta a marca d'água de baixo e entrega 1080x1920."""
+    """1º Cloudflare (melhor qualidade); se não tiver chave ou falhar, Pollinations (grátis, sem conta)."""
     texto = f'{prompt}, {ESTILO}'
+    if _cloudflare(texto, seed, destino):
+        return 'cf'
     url = ('https://image.pollinations.ai/prompt/' + urllib.parse.quote(texto) + '?' +
            urllib.parse.urlencode({'width': 768, 'height': 1344, 'seed': seed, 'nologo': 'true'}))
     for tent in range(20):
         try:
             req = urllib.request.Request(url, headers={'User-Agent': UA})
             dados = urllib.request.urlopen(req, timeout=100).read()
-            im = Image.open(__import__('io').BytesIO(dados)).convert('RGB')
-            if min(im.size) < 300:
-                raise ValueError('imagem pequena')
-            w, h = im.size
-            im = im.crop((0, 0, w, int(h * 0.94)))               # remove a marca d'água no rodapé
-            im = im.resize((1080, int(1080 * im.height / im.width)), Image.LANCZOS)
-            if im.height < 1920:                                    # completa a altura sem distorcer
-                im = im.resize((int(1920 * im.width / im.height), 1920), Image.LANCZOS)
-                x = (im.width - 1080) // 2
-                im = im.crop((x, 0, x + 1080, 1920))
-            else:
-                y = (im.height - 1920) // 2
-                im = im.crop((0, y, 1080, y + 1920))
-            im = im.filter(ImageFilter.UnsharpMask(radius=2, percent=60, threshold=3))
-            im.save(destino, quality=94)
-            return True
+            return _ajustar(Image.open(__import__('io').BytesIO(dados)), destino, True)
         except Exception as e:
             espera = 47 if '402' in str(e) else 12 + 3 * min(tent, 6)   # 402 = limite grátis (1 imagem a cada 45 s)
             print(f'  imagem falhou ({e}); nova tentativa em {espera}s')
             time.sleep(espera)
     return False
-
 
 def destaque_pt(texto):
     # palavra mais longa da frase em português (fica vermelha na legenda)
@@ -95,9 +123,11 @@ def main(caminho, out, lingua='en'):
             img = os.path.abspath(f'{imgs}/cena{i:02d}.jpg')
         if not os.path.exists(img):
             print(f'cena {i}: gerando imagem')
-            if not gerar_imagem(sc['visual'], base + i, img):
+            fonte = gerar_imagem(sc['visual'], base + i, img)
+            if not fonte:
                 sys.exit(f'ERRO: não consegui gerar a imagem da cena {i}')
-            time.sleep(46)   # limite grátis: 1 imagem a cada 45 s
+            if fonte != 'cf':
+                time.sleep(46)   # Pollinations grátis: 1 imagem a cada 45 s
         tabela = VOZES_PT if pt else VOZES
         voz, rate, pitch = tabela.get(sc.get('voz') or narr, tabela['homem'])
         texto = (sc.get('pt') or sc['text']) if pt else sc['text']
