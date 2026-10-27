@@ -71,7 +71,7 @@ def _cloudflare(texto, seed, destino):
         return False
     import base64, io
     url = f'https://api.cloudflare.com/client/v4/accounts/{conta}/ai/run/@cf/black-forest-labs/flux-1-schnell'
-    corpo = json.dumps({'prompt': texto + ', centered subject, vertical framing', 'steps': 6, 'seed': seed % 2**31}).encode()
+    corpo = json.dumps({'prompt': texto + ', centered subject, vertical framing', 'steps': 6}).encode()
     for tent in range(3):
         try:
             req = urllib.request.Request(url, data=corpo, headers={'Authorization': f'Bearer {tok}', 'Content-Type': 'application/json'})
