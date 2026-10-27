@@ -109,7 +109,7 @@ def do_banco(emocao, evitar):
 
 ESTILO_IA = ('dark baroque oil painting, Caravaggio chiaroscuro, the main subject clearly lit by warm candlelight, '
              'deep shadows around, visible brushstrokes, old cracked varnish, muted colors with deep crimson red accents, '
-             'mysterious atmosphere, painted scene fills the whole image, no frame, no text, no letters')
+             'mysterious atmosphere, all people fully clothed, no nudity, painted scene fills the whole image, no frame, no text, no letters')
 
 def da_ia(visual, destino):
     """Pintura escura feita na hora pela Cloudflare (FLUX) mostrando exatamente a cena. False se não der."""
