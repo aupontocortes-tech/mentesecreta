@@ -64,7 +64,7 @@ def gerar_imagem(prompt, seed, destino):
             im.save(destino, quality=94)
             return True
         except Exception as e:
-            espera = 12 + 3 * min(tent, 6)
+            espera = 47 if '402' in str(e) else 12 + 3 * min(tent, 6)   # 402 = limite grátis (1 imagem a cada 45 s)
             print(f'  imagem falhou ({e}); nova tentativa em {espera}s')
             time.sleep(espera)
     return False
@@ -97,7 +97,7 @@ def main(caminho, out, lingua='en'):
             print(f'cena {i}: gerando imagem')
             if not gerar_imagem(sc['visual'], base + i, img):
                 sys.exit(f'ERRO: não consegui gerar a imagem da cena {i}')
-            time.sleep(3)
+            time.sleep(46)   # limite grátis: 1 imagem a cada 45 s
         tabela = VOZES_PT if pt else VOZES
         voz, rate, pitch = tabela.get(sc.get('voz') or narr, tabela['homem'])
         texto = (sc.get('pt') or sc['text']) if pt else sc['text']
