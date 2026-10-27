@@ -21,42 +21,48 @@
    "emocao": "poder",
    "destaque": [
     "CERTEZA"
-   ]
+   ],
+   "visual": "a man in an elegant dark suit speaking firmly with a raised finger, confident stare"
   },
   {
    "text": "Calma. Não é pra mentir. É sobre como o cérebro escolhe em quem confiar.",
    "emocao": "mente",
    "destaque": [
     "CONFIAR"
-   ]
+   ],
+   "visual": "a calm old judge looking at two men standing before him, candlelight"
   },
   {
    "text": "Sabe aquela pessoa da reunião que fala firme e todo mundo concorda?",
    "emocao": "grupo",
    "destaque": [
     "FIRME"
-   ]
+   ],
+   "visual": "a meeting around a long dark table, everyone nodding at one man speaking with confidence"
   },
   {
    "text": "A psicologia chama isso de heurística da confiança.",
    "emocao": "mente",
    "destaque": [
     "CONFIANÇA"
-   ]
+   ],
+   "visual": "a thoughtful woman watching a speaker with a slight doubtful look, candlelight"
   },
   {
    "text": "Em dois mil e quatro, Paul Price e Eric Stone mostraram dois consultores financeiros a universitários americanos.",
    "emocao": "dinheiro",
    "destaque": [
     "CONSULTORES"
-   ]
+   ],
+   "visual": "two financial advisors in old fashioned suits standing side by side holding papers"
   },
   {
    "text": "Os dois acertavam exatamente o mesmo número de previsões.",
    "emocao": "olhar",
    "destaque": [
     "MESMO"
-   ]
+   ],
+   "visual": "two identical golden coins on a dark table under a single light"
   },
   {
    "text": "Mesmo assim, cerca de dois terços escolheriam o mais confiante.",
@@ -64,21 +70,24 @@
    "destaque": [
     "CONFIANTE"
    ],
-   "pausa": 0.7
+   "pausa": 0.7,
+   "visual": "a group of students pointing at the more confident of two men"
   },
   {
    "text": "Ou seja: falar com firmeza faz as pessoas confiarem em você.",
    "emocao": "engano",
    "destaque": [
     "FIRMEZA"
-   ]
+   ],
+   "visual": "a crowd listening to a confident speaker on a small stage, warm light on him"
   },
   {
    "text": "Mas, se errar, a cobrança vem em dobro. Então fale firme só do que você sabe.",
    "emocao": "medo",
    "destaque": [
     "SABE"
-   ]
+   ],
+   "visual": "a confident man looking shocked as the crowd turns away from him"
   }
  ]
 }

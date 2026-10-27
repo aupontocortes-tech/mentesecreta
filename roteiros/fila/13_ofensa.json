@@ -22,35 +22,40 @@
    "emocao": "olhar",
    "destaque": [
     "MENTE"
-   ]
+   ],
+   "visual": "a man in a dark room reading a cruel letter, his face tense, a candle beside him"
   },
   {
    "text": "Calma. Não é sobre ignorar feedback. É sobre o peso que o cérebro dá.",
    "emocao": "mente",
    "destaque": [
     "PESO"
-   ]
+   ],
+   "visual": "an old golden balance scale on a wooden table, one plate pulled down heavily"
   },
   {
    "text": "Sabe quando você recebe dez elogios, uma crítica, e só pensa na crítica?",
    "emocao": "solidao",
    "destaque": [
     "UMA"
-   ]
+   ],
+   "visual": "a young woman holding a glowing smartphone in the dark, her face sad, a tear on her cheek"
   },
   {
    "text": "Em dois mil e um, Roy Baumeister e colegas revisaram centenas de estudos.",
    "emocao": "mente",
    "destaque": [
     "BAUMEISTER"
-   ]
+   ],
+   "visual": "an old scholar with gray beard writing at a desk covered with piles of papers, candlelight"
   },
   {
    "text": "Relacionamentos, feedback, memória, primeiras impressões.",
    "emocao": "grupo",
    "destaque": [
     "RELACIONAMENTOS"
-   ]
+   ],
+   "visual": "a couple at a candlelit dinner table, the woman turning her face away from the man"
   },
   {
    "text": "Em quase todas as áreas, o ruim pesava mais do que o bom.",
@@ -58,35 +63,40 @@
    "destaque": [
     "RUIM"
    ],
-   "pausa": 0.7
+   "pausa": 0.7,
+   "visual": "a heavy black stone on a balance scale outweighing a pile of white roses"
   },
   {
    "text": "A psicologia chama isso de viés da negatividade.",
    "emocao": "mente",
    "destaque": [
     "NEGATIVIDADE"
-   ]
+   ],
+   "visual": "a thoughtful man holding his head in his hands at a desk at night"
   },
   {
    "text": "Pro nosso cérebro antigo, notar o perigo era mais urgente que notar o elogio.",
    "emocao": "medo",
    "destaque": [
     "PERIGO"
-   ]
+   ],
+   "visual": "a caveman by a small fire turning in fear toward glowing eyes in the dark"
   },
   {
    "text": "Isso não quer dizer que a crítica está certa. Quer dizer que o cérebro aumenta o volume dela.",
    "emocao": "segredo",
    "destaque": [
     "VOLUME"
-   ]
+   ],
+   "visual": "a man covering his ears while a shadowy figure shouts close to his face"
   },
   {
    "text": "Então, da próxima vez, lembre dos outros nove. Você recebeu dez elogios.",
    "emocao": "solidao",
    "destaque": [
     "DEZ"
-   ]
+   ],
+   "visual": "a young woman smiling softly, holding a bouquet of white roses, warm light"
   }
  ]
 }

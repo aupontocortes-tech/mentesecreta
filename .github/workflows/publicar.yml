@@ -52,6 +52,8 @@ jobs:
         if: steps.fila.outputs.pular != '1'
         env:
           PEXELS_KEY: ${{ secrets.PEXELS_KEY }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
         run: |
           R="${{ steps.fila.outputs.roteiro }}"
           python3 imagens.py "$R"

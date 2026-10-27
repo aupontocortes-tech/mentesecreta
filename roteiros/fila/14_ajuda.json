@@ -19,42 +19,48 @@
    "emocao": "solidao",
    "destaque": [
     "SOZINHO"
-   ]
+   ],
+   "visual": "a tired man alone at a desk at night surrounded by stacks of work, candle almost burned out"
   },
   {
    "text": "Calma. Não é sobre ser fraco. É sobre uma conta que seu cérebro erra.",
    "emocao": "mente",
    "destaque": [
     "CONTA"
-   ]
+   ],
+   "visual": "a young man looking at his own reflection in a dark mirror, unsure"
   },
   {
    "text": "Sabe quando você trava pra pedir um favor, achando que vão dizer não?",
    "emocao": "olhar",
    "destaque": [
     "NÃO"
-   ]
+   ],
+   "visual": "a nervous young woman standing at a door with her hand raised, hesitating to knock"
   },
   {
    "text": "Em dois mil e oito, Francis Flynn e Vanessa Lake testaram isso nos Estados Unidos.",
    "emocao": "mente",
    "destaque": [
     "FLYNN"
-   ]
+   ],
+   "visual": "an old professor in a dark library holding a sheet of paper, studying it carefully"
   },
   {
    "text": "Voluntários precisavam pedir pra desconhecidos responderem um questionário.",
    "emocao": "grupo",
    "destaque": [
     "DESCONHECIDOS"
-   ]
+   ],
+   "visual": "a young man holding a clipboard approaching a stranger on a dark old street"
   },
   {
    "text": "Antes, estimaram quantas pessoas teriam que abordar.",
    "emocao": "dinheiro",
    "destaque": [
     "ESTIMARAM"
-   ]
+   ],
+   "visual": "a young woman counting on her fingers, worried, by candlelight"
   },
   {
    "text": "Na prática, precisaram de cerca de metade dos pedidos que imaginavam.",
@@ -62,21 +68,24 @@
    "destaque": [
     "METADE"
    ],
-   "pausa": 0.7
+   "pausa": 0.7,
+   "visual": "a stranger kindly taking a clipboard from a young man and writing on it, warm light"
   },
   {
    "text": "A gente acha que vão dizer não. Mas dizer não é desconfortável, e a maioria prefere ajudar.",
    "emocao": "engano",
    "destaque": [
     "AJUDAR"
-   ]
+   ],
+   "visual": "an old man smiling and offering his hand to help a young woman, candlelight"
   },
   {
    "text": "Então peça. O não é bem mais raro do que você imagina.",
    "emocao": "solidao",
    "destaque": [
     "PEÇA"
-   ]
+   ],
+   "visual": "two hands reaching toward each other in the dark, warm light between them"
   }
  ]
 }

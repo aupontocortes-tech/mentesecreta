@@ -24,7 +24,8 @@ if (esperado and me['id'] != esperado) or (not esperado and 'mente secreta' not 
 r = json.load(open(sys.argv[3], encoding='utf-8')); modo = sys.argv[4] if len(sys.argv) > 4 else 'agendar'
 desc = r['descricao']
 if r.get('fontes'): desc += '\n\nFontes:\n' + '\n'.join('• ' + f for f in r['fontes'])
-cred = [s.get('credito') for s in r['scenes'] if s.get('credito')]
+cred = [s.get('credito') for s in r['scenes'] if s.get('credito') and s.get('credito') != 'IA']
+if any(s.get('credito') == 'IA' for s in r['scenes']): desc += '\n\nImagens: pinturas geradas por IA.'
 if cred: desc += '\n\nImagens (domínio público):\n' + '\n'.join('• ' + x for x in dict.fromkeys(cred))
 desc += '\n\n' + r.get('hashtags', '#psicologia #mentesecreta')
 status = {'selfDeclaredMadeForKids': False, 'containsSyntheticMedia': False}

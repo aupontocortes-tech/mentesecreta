@@ -107,6 +107,19 @@ def do_banco(emocao, evitar):
     b = random.choice(livres)
     return b['arquivo'], f"{b['titulo']} — {b['autor']} ({b['fonte']})"
 
+ESTILO_IA = ('dark baroque oil painting, Caravaggio chiaroscuro, the main subject clearly lit by warm candlelight, '
+             'deep shadows around, visible brushstrokes, old cracked varnish, muted colors with deep crimson red accents, '
+             'mysterious atmosphere, painted scene fills the whole image, no frame, no text, no letters')
+
+def da_ia(visual, destino):
+    """Pintura escura feita na hora pela Cloudflare (FLUX) mostrando exatamente a cena. False se não der."""
+    try:
+        sys.path.insert(0, os.path.join(AQUI, 'veil'))
+        import historia
+        return bool(historia._cloudflare(f'{visual}, {ESTILO_IA}', 0, destino))
+    except Exception as e:
+        print('  IA falhou:', e); return False
+
 def main():
     arq = sys.argv[1]; spec = json.load(open(arq, encoding='utf-8'))
     evitar = recentes()
@@ -115,6 +128,11 @@ def main():
     reserva = spec.get('busca_reserva', ['dark portrait oil painting', 'renaissance portrait', 'baroque painting shadow'])
     for i, sc in enumerate(spec['scenes']):
         if sc.get('src'): continue
+        if sc.get('visual'):   # 1º: pintura feita por IA para a frase; se falhar, cai no banco das 77
+            os.makedirs(os.path.join(AQUI, 'out'), exist_ok=True)
+            destino = os.path.join(AQUI, 'out', f'ia{i:02d}.jpg')
+            if da_ia(sc['visual'], destino):
+                sc['src'], sc['credito'] = destino, 'IA'; print(f'cena {i}: IA'); continue
         if sc.get('emocao') or not sc.get('busca'):   # padrão: banco de pinturas escolhidas a dedo
             sc['src'], sc['credito'] = do_banco(sc.get('emocao', 'olhar'), evitar); usadas.add(sc['src'])
             print(f'cena {i}: [{sc.get("emocao")}] {sc["credito"]}'); continue
