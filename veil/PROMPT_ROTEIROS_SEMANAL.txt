@@ -22,6 +22,16 @@ O FINAL É O MAIS IMPORTANTE (o Thiago reclamou: "começa bom, o meio é bom, o 
 - Teste: se você contasse só as 2 últimas frases para alguém, ela sentiria um arrepio? Se não, reescreva o final.
 - Detalhes sensoriais concretos (cheiro de água de rio, 3h17, um clique na porta) assustam mais que "I was scared".
 
+REVISÃO DE COERÊNCIA (OBRIGATÓRIA em cada história, antes de salvar — o Thiago reclamou de final esquisito)
+Releia a história inteira como um espectador que nunca viu nada e responda, uma por uma:
+1. Começo: a 1ª frase prende sozinha (regra, fato impossível ou ameaça)?
+2. Lugar e tempo: todo "that", "there", "that night", "that bathroom" aponta para algo que já apareceu? Se a história pula no tempo (ex.: 20 anos depois), o lugar continua fazendo sentido (mesma casa? mesmo espelho?)?
+3. Quem fala: em cada fala de personagem, dá para saber QUEM está falando sem pensar? Voz de criança não pode ser confundida com outra criança da história.
+4. Cada frase leva à próxima (causa e consequência)? Nada aparece do nada no final sem ter sido plantado antes.
+5. Final: a virada fica clara em 1 segundo, sem a pessoa ter que deduzir? Se precisar de explicação, reescreva o final mais direto e concreto.
+6. Leia só o "pt" de todas as cenas em sequência: em português a história faz sentido do começo ao fim?
+Se qualquer resposta for "não" ou "talvez", corrija e revise de novo. No relatório, diga "coerência revisada" para cada história.
+
 FONTES DE HISTÓRIA
 - Inventadas (maioria) OU lendas urbanas e folclore americano de domínio público, recontadas em primeira pessoa e com virada nova: Bloody Mary, black-eyed kids, carona fantasma (vanishing hitchhiker), skinwalker NÃO (cultura navajo, evite), Mothman, Jersey Devil, Slender/tall man genérico, regras de cidade pequena etc. Umas 2 lendas por semana.
 - Nunca copie creepypasta/Reddit/livro (têm autor). Nunca crime real, vítima real ou "baseado em fatos reais".
