@@ -20,28 +20,36 @@
    "emocao": "olhar",
    "destaque": [
     "VIBROU"
-   ]
+   ],
+   "src": "banco/olhar/KMSsp406.jpg",
+   "credito": "A Young Woman Resting her Hands on the Picture Frame — Rembrandt van Rijn (værksted) (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Calma. Não é loucura. É o seu cérebro esperando demais.",
    "emocao": "mente",
    "destaque": [
     "ESPERANDO"
-   ]
+   ],
+   "src": "banco/mente/KMS3884.jpg",
+   "credito": "Dominican Friar — Rubens, Peter Paul (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Sabe quando você sente o bolso tremer, pega o celular, e não tem nada?",
    "emocao": "solidao",
    "destaque": [
     "NADA"
-   ]
+   ],
+   "src": "banco/solidao/KMSsp120.jpg",
+   "credito": "The Penitent St Mary Magdalene — Troppa, Girolamo (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Em dois mil e dez, pesquisadores perguntaram isso a profissionais de um hospital nos Estados Unidos.",
    "emocao": "mente",
    "destaque": [
     "HOSPITAL"
-   ]
+   ],
+   "src": "banco/mente/KMSsp824.jpg",
+   "credito": "The Scholar and Death — Gelton, Toussaint (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Sessenta e oito por cento já tinham sentido vibrações que não existiam.",
@@ -49,35 +57,46 @@
    "destaque": [
     "SESSENTA E OITO"
    ],
-   "pausa": 0.7
+   "pausa": 0.7,
+   "src": "banco/medo/KMS585.jpg",
+   "credito": "En dansk korvet i rum sø efter en storm — Melbye, Anton (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Em dois mil e doze, numa pesquisa com universitários, foram oitenta e nove por cento.",
    "emocao": "grupo",
    "destaque": [
     "OITENTA E NOVE"
-   ]
+   ],
+   "src": "banco/grupo/KMSsp378.jpg",
+   "credito": "Musical Group by Candlelight — Honthorst, Gerard van (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Chamam isso de vibração fantasma.",
    "emocao": "segredo",
    "destaque": [
     "FANTASMA"
-   ]
+   ],
+   "src": "banco/segredo/KMS3465.jpg",
+   "credito": "En ung pige beder landsbyens gamle postbud besørge et brev — Dalsgaard, Christen (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "O cérebro fica tão atento ao aviso que confunde qualquer coceira com mensagem.",
    "emocao": "mente",
    "destaque": [
     "ATENTO"
-   ]
+   ],
+   "src": "banco/mente/KMS985.jpg",
+   "credito": "King Christian II in Prison — Bloch, Carl (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Quem espera demais, escuta o que não veio.",
    "emocao": "solidao",
    "destaque": [
     "ESPERA"
-   ]
+   ],
+   "src": "banco/solidao/KMS1636.jpg",
+   "credito": "Study of an Old Man in Profile — Rembrandt van Rijn (SMK – Statens Museum for Kunst (domínio público))"
   }
- ]
+ ],
+ "video_id": "QQEjhU6v-Cg"
 }
