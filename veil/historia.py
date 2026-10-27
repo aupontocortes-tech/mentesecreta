@@ -61,7 +61,12 @@ def _ajustar(im, destino, cortar_marca):
 
 def _cloudflare(texto, seed, destino):
     """Cloudflare Workers AI (FLUX schnell): grátis até ~150 imagens/dia. Precisa dos Secrets CF_API_TOKEN e CF_ACCOUNT_ID."""
-    tok, conta = os.environ.get('CF_API_TOKEN', '').strip(), os.environ.get('CF_ACCOUNT_ID', '').strip()
+    import re
+    tok = os.environ.get('CF_API_TOKEN', '')
+    tok = tok.replace('Authorization:', ' ').replace('Bearer', ' ').replace('"', ' ').replace("'", ' ')
+    tok = max(tok.split(), key=len, default='')                     # aceita a chave colada com sobras
+    m = re.search(r'[0-9a-f]{32}', os.environ.get('CF_ACCOUNT_ID', ''))  # aceita o link inteiro do painel
+    conta = m.group(0) if m else ''
     if not (tok and conta):
         return False
     import base64, io

@@ -24,7 +24,7 @@ jobs:
           import sys; sys.path.insert(0, 'veil')
           import historia
           linhas = [l.strip() for l in open('veil/teste_imagens.txt') if l.strip()]
-          for i, p in enumerate(linhas[:3]):
+          for i, p in enumerate([l for l in linhas if not l.startswith("#")][:3]):
               r = historia._cloudflare(f'{p}, {historia.ESTILO}', 100 + i, f'amostras/img{i}.jpg')
               print('IMAGEM', i, 'OK' if r else 'FALHOU')
           PY
