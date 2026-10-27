@@ -1,7 +1,7 @@
 {
  "titulo": "We Said Bloody Mary Three Times. One of Us Came Back Wrong. #Shorts",
  "titulo_pt": "Falamos Bloody Mary três vezes. Uma de nós voltou diferente.",
- "resumo_pt": "Lenda da Bloody Mary. Aos doze anos, numa festa do pijama, a narradora e as amigas chamam a Bloody Mary no espelho e nada acontece. Vinte anos depois, a filha dela faz a mesma brincadeira e uma voz de menina sai do espelho pedindo ajuda. A virada: a voz é dela mesma, aos doze anos, presa no espelho; quem saiu do banheiro naquela noite e viveu a vida dela não era ela.",
+ "resumo_pt": "Lenda da Bloody Mary. Aos doze anos, numa festa do pijama, a narradora e as amigas chamam a Bloody Mary no espelho e nada acontece. Vinte anos depois, a filha dela faz a mesma brincadeira e a mão de uma menina aparece no espelho pedindo a vida de volta. A virada: a menina presa no espelho é a narradora verdadeira; quem saiu do banheiro naquela noite e viveu a vida dela era outra coisa.",
  "narrador": "mulher",
  "descricao": "Every sleepover has someone who dares you to say it three times.\n\nDid you ever try it?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
  "tags": [
@@ -100,19 +100,19 @@
    "pausa": 0.8
   },
   {
-   "text": "That night, only one of us walked out of that mirror.",
-   "pt": "Naquela noite, só uma de nós saiu daquele espelho.",
+   "text": "Twenty years ago, only one girl walked out of that bathroom.",
+   "pt": "Vinte anos atrás, só uma menina saiu daquele banheiro.",
    "visual": "dark bathroom, mirror reflecting an empty doorway, candle out, thin smoke",
    "destaque": [
     "ONE"
    ]
   },
   {
-   "text": "And it wasn't her.",
-   "pt": "E não foi ela.",
+   "text": "It wasn't the one who walked in.",
+   "pt": "Não era a mesma que entrou.",
    "mesma_imagem": true,
    "destaque": [
-    "HER"
+    "WALKED"
    ]
   }
  ]
