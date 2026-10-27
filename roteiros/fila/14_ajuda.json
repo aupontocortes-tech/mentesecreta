@@ -65,17 +65,17 @@
    "pausa": 0.7
   },
   {
-   "text": "A gente pensa no custo de ajudar. Esquece o constrangimento de dizer não.",
+   "text": "A gente acha que vão dizer não. Mas dizer não é desconfortável, e a maioria prefere ajudar.",
    "emocao": "engano",
    "destaque": [
-    "NÃO"
+    "AJUDAR"
    ]
   },
   {
-   "text": "Quem nunca pede, recusa por todo mundo.",
+   "text": "Então peça. O não é bem mais raro do que você imagina.",
    "emocao": "solidao",
    "destaque": [
-    "NUNCA"
+    "PEÇA"
    ]
   }
  ]

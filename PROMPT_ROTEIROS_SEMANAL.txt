@@ -19,7 +19,10 @@ FÓRMULA OBRIGATÓRIA (estilo que mais retém):
 3. Cena do dia a dia em que a pessoa se reconhece ("Sabe quando...?")
 4. O mecanismo real: "A psicologia chama isso de ..." + estudo de verdade (autor, ano, universidade, o que mediram, resultado)
 5. Virada ou consequência prática
-6. FRASE DE EFEITO final, curta, tipo provérbio ("Quem ganha o momento, perde o aliado.")
+6. FINAL SIMPLES E PRÁTICO (o Thiago reclamou: "começa bom, o meio é bom, o final bagunça"):
+   - Penúltima frase: o que isso significa, em palavras do dia a dia ("Isso não quer dizer que a crítica está certa. Quer dizer que o cérebro aumenta o volume dela.").
+   - Última frase: o que a pessoa faz com isso, ligada ao GANCHO ("Então, da próxima vez, lembre dos outros nove. Você recebeu dez elogios.").
+   - PROIBIDO final poético ou abstrato ("A ferida grita. O elogio sussurra.", "Certeza compra confiança."): ninguém entende no Shorts. Teste: uma pessoa de 14 anos entende o final na primeira vez? Se não, reescreva.
 Total 30 a 40 segundos: 8 a 10 cenas, ~90 a 110 palavras, frases curtas (uma frase por cena), ritmo rápido. Pausa longa só antes da revelação: nessa cena coloque "pausa": 0.7.
 
 CREDIBILIDADE (não negociável — protege o canal):
