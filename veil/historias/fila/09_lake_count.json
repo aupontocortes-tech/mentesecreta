@@ -1,9 +1,9 @@
 {
- "titulo": "Uncle Ray Always Counted Us Before We Left the Lake #Shorts",
- "titulo_pt": "O tio Ray sempre contava a gente antes de sair do lago",
- "resumo_pt": "Todo verão, o tio Ray levava os sete sobrinhos ao lago e contava todos antes de ir embora. Um dia ele conta oito, fica pálido e leva todos para casa sem falar nada. Em casa, sob a luz da cozinha, conta de novo: sete. A virada: a mãe do narrador chega, vê as crianças e pergunta quem trouxe eles, porque o tio Ray se afogou naquele lago vinte anos antes do narrador nascer.",
+ "titulo": "Grandpa Counted Eight Kids at the Lake. We Were Seven. #Shorts",
+ "titulo_pt": "O vovô contou oito crianças no lago. Nós éramos sete.",
+ "resumo_pt": "Todo verão o avô leva os sete netos ao lago e conta todos antes de ir embora. Um dia ele conta oito, conta de novo e dá sete, e leva todos para casa correndo. Na cozinha conta de novo: sete. Aí a prima Lily bate na porta dos fundos, molhada e chorando, perguntando por que deixaram ela no lago. A virada: a 'Lily' que voltou no carro com eles ainda está na cozinha, sorrindo, e não piscou desde o lago.",
  "narrador": "homem",
- "descricao": "Every summer, the same rule: count everyone before you leave the lake.\n\nWho do you think the eighth one was?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
+ "descricao": "Every summer, the same rule: count everyone before you leave the lake.\n\nWho came home with them?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
  "tags": [
   "horror story",
   "scary story",
@@ -16,24 +16,24 @@
  "hashtags": "#horror #scarystories #creepy #shorts",
  "scenes": [
   {
-   "text": "Every summer, Uncle Ray took the seven of us cousins to the lake.",
-   "pt": "Todo verão, o tio Ray levava nós sete, os primos, pro lago.",
+   "text": "Every summer, Grandpa took the seven of us cousins to the lake.",
+   "pt": "Todo verão, o vovô levava nós sete, os primos, pro lago.",
    "visual": "faded summer afternoon at a quiet lake, wooden dock, kids silhouettes in the water",
    "destaque": [
     "LAKE"
    ]
   },
   {
-   "text": "And before we left, he counted us. Every time.",
-   "pt": "E antes de ir embora, ele contava a gente. Toda vez.",
-   "visual": "man's silhouette on a dock pointing at a row of wet kids wrapped in towels, golden hour",
+   "text": "Before we left, he always counted us. Every single time.",
+   "pt": "Antes de ir embora, ele sempre contava a gente. Toda vez.",
+   "visual": "old man's silhouette on a dock pointing at a row of wet kids wrapped in towels, golden hour",
    "destaque": [
     "COUNTED"
    ]
   },
   {
-   "text": "One summer, he counted eight.",
-   "pt": "Num verão, ele contou oito.",
+   "text": "Last summer, he counted eight.",
+   "pt": "No verão passado, ele contou oito.",
    "mesma_imagem": true,
    "destaque": [
     "EIGHT"
@@ -41,19 +41,27 @@
    "pausa": 0.7
   },
   {
-   "text": "He went pale. He didn't say a word. He just drove us home.",
-   "pt": "Ele ficou pálido. Não falou nada. Só levou a gente pra casa.",
-   "visual": "old station wagon driving down a dusk country road, kids silhouettes in the back window",
+   "text": "He counted again. Seven. He went pale.",
+   "pt": "Ele contou de novo. Sete. Ele ficou pálido.",
+   "mesma_imagem": true,
    "destaque": [
     "PALE"
    ]
   },
   {
-   "text": "In the kitchen, he lined us up under the light.",
-   "pt": "Na cozinha, ele colocou a gente em fila embaixo da luz.",
+   "text": "He didn't say a word. He just drove us home. Fast.",
+   "pt": "Ele não falou nada. Só levou a gente pra casa. Correndo.",
+   "visual": "old station wagon speeding down a dusk country road, kids silhouettes in the back window",
+   "destaque": [
+    "FAST"
+   ]
+  },
+  {
+   "text": "In the kitchen, under the light, he counted one more time.",
+   "pt": "Na cozinha, embaixo da luz, ele contou mais uma vez.",
    "visual": "row of kids standing in a dim farmhouse kitchen under a single hanging bulb",
    "destaque": [
-    "LIGHT"
+    "KITCHEN"
    ]
   },
   {
@@ -66,54 +74,46 @@
    "voz": "idoso"
   },
   {
-   "text": "Then my mom walked in with the groceries.",
-   "pt": "Aí minha mãe entrou com as compras.",
-   "visual": "woman in a doorway holding paper grocery bags, backlit, frozen in place",
+   "text": "Then someone knocked on the back door.",
+   "pt": "Aí alguém bateu na porta dos fundos.",
+   "visual": "farmhouse back screen door at night, a small wet silhouette behind it",
    "destaque": [
-    "MOM"
+    "KNOCKED"
+   ],
+   "pausa": 0.5
+  },
+  {
+   "text": "It was my cousin Lily. Soaking wet. Crying.",
+   "pt": "Era minha prima Lily. Encharcada. Chorando.",
+   "mesma_imagem": true,
+   "destaque": [
+    "LILY"
    ]
   },
   {
-   "text": "She dropped everything.",
-   "pt": "Ela derrubou tudo.",
+   "text": "Why did you leave me at the lake?",
+   "pt": "Por que vocês me deixaram no lago?",
    "mesma_imagem": true,
    "destaque": [
-    "DROPPED"
+    "LEAVE"
    ],
-   "pausa": 0.6
-  },
-  {
-   "text": "Who brought you home?",
-   "pt": "Quem trouxe vocês pra casa?",
-   "mesma_imagem": true,
-   "destaque": [
-    "WHO"
-   ],
-   "voz": "mulher"
-  },
-  {
-   "text": "We all turned to Uncle Ray. The kitchen was empty.",
-   "pt": "Todos nós viramos pro tio Ray. A cozinha estava vazia.",
-   "visual": "empty farmhouse kitchen, puddle of lake water on the floor where someone stood",
-   "destaque": [
-    "EMPTY"
-   ],
+   "voz": "crianca",
    "pausa": 0.7
   },
   {
-   "text": "Uncle Ray drowned in that lake twenty years before I was born.",
-   "pt": "O tio Ray se afogou naquele lago vinte anos antes de eu nascer.",
-   "visual": "old faded photograph of a young man on a lake dock, edges water-stained",
+   "text": "Grandpa turned to the Lily standing next to me.",
+   "pt": "O vovô virou pra Lily que estava do meu lado.",
+   "visual": "little girl standing in a dim kitchen, wet hair, faint smile, eyes wide open, face in half shadow",
    "destaque": [
-    "DROWNED"
+    "NEXT"
    ]
   },
   {
-   "text": "And it wasn't eight he counted. It was us.",
-   "pt": "E não era oito que ele contou. Era a gente.",
-   "visual": "calm dark lake at night, wooden dock, mist, seven small towels left on the boards",
+   "text": "She was smiling. She hadn't blinked since the lake.",
+   "pt": "Ela estava sorrindo. Ela não tinha piscado desde o lago.",
+   "mesma_imagem": true,
    "destaque": [
-    "US"
+    "BLINKED"
    ]
   }
  ]

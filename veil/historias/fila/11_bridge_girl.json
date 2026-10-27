@@ -16,11 +16,19 @@
  "hashtags": "#horror #urbanlegend #roadtrip #shorts",
  "scenes": [
   {
-   "text": "Last night, a girl was standing on the old bridge. Soaking wet. No car.",
-   "pt": "Ontem à noite, tinha uma menina parada na ponte velha. Encharcada. Sem carro.",
+   "text": "There's one rule on Old Bridge Road. Never stop for the girl in the rain.",
+   "pt": "Tem uma regra na estrada da Ponte Velha. Nunca pare pra menina na chuva.",
+   "visual": "old iron bridge on a dark rural road at night in heavy rain, headlights in the distance",
+   "destaque": [
+    "NEVER"
+   ]
+  },
+  {
+   "text": "Last night, I stopped. She was soaking wet.",
+   "pt": "Ontem à noite, eu parei. Ela estava encharcada.",
    "visual": "teenage girl in a white dress standing alone on an old iron bridge at night in the rain, headlights on her",
    "destaque": [
-    "BRIDGE"
+    "STOPPED"
    ]
   },
   {
