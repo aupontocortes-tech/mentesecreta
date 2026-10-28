@@ -23,7 +23,9 @@
    "destaque": [
     "MENTE"
    ],
-   "visual": "a man in a dark room reading a cruel letter, his face tense, a candle beside him"
+   "visual": "a man in a dark room reading a cruel letter, his face tense, a candle beside him",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia00.jpg",
+   "credito": "IA"
   },
   {
    "text": "Calma. Não é sobre ignorar feedback. É sobre o peso que o cérebro dá.",
@@ -31,7 +33,9 @@
    "destaque": [
     "PESO"
    ],
-   "visual": "an old golden balance scale on a wooden table, one plate pulled down heavily"
+   "visual": "an old golden balance scale on a wooden table, one plate pulled down heavily",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia01.jpg",
+   "credito": "IA"
   },
   {
    "text": "Sabe quando você recebe dez elogios, uma crítica, e só pensa na crítica?",
@@ -39,7 +43,9 @@
    "destaque": [
     "UMA"
    ],
-   "visual": "a young woman holding a glowing smartphone in the dark, her face sad, a tear on her cheek"
+   "visual": "a young woman holding a glowing smartphone in the dark, her face sad, a tear on her cheek",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "Em dois mil e um, Roy Baumeister e colegas revisaram centenas de estudos.",
@@ -47,7 +53,9 @@
    "destaque": [
     "BAUMEISTER"
    ],
-   "visual": "an old scholar with gray beard writing at a desk covered with piles of papers, candlelight"
+   "visual": "an old scholar with gray beard writing at a desk covered with piles of papers, candlelight",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "Relacionamentos, feedback, memória, primeiras impressões.",
@@ -55,7 +63,9 @@
    "destaque": [
     "RELACIONAMENTOS"
    ],
-   "visual": "a couple at a candlelit dinner table, the woman turning her face away from the man"
+   "visual": "a couple at a candlelit dinner table, the woman turning her face away from the man",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Em quase todas as áreas, o ruim pesava mais do que o bom.",
@@ -64,7 +74,9 @@
     "RUIM"
    ],
    "pausa": 0.7,
-   "visual": "a heavy black stone on a balance scale outweighing a pile of white roses"
+   "visual": "a heavy black stone on a balance scale outweighing a pile of white roses",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "A psicologia chama isso de viés da negatividade.",
@@ -72,7 +84,9 @@
    "destaque": [
     "NEGATIVIDADE"
    ],
-   "visual": "a thoughtful man holding his head in his hands at a desk at night"
+   "visual": "a thoughtful man holding his head in his hands at a desk at night",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "Pro nosso cérebro antigo, notar o perigo era mais urgente que notar o elogio.",
@@ -80,7 +94,9 @@
    "destaque": [
     "PERIGO"
    ],
-   "visual": "a hunter wrapped in animal furs by a small fire, turning in fear toward glowing eyes in the dark forest"
+   "visual": "a hunter wrapped in animal furs by a small fire, turning in fear toward glowing eyes in the dark forest",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Isso não quer dizer que a crítica está certa. Quer dizer que o cérebro aumenta o volume dela.",
@@ -88,7 +104,9 @@
    "destaque": [
     "VOLUME"
    ],
-   "visual": "a man covering his ears while a shadowy figure shouts close to his face"
+   "visual": "a man covering his ears while a shadowy figure shouts close to his face",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   },
   {
    "text": "Então, da próxima vez, lembre dos outros nove. Você recebeu dez elogios.",
@@ -96,7 +114,10 @@
    "destaque": [
     "DEZ"
    ],
-   "visual": "a young woman smiling softly, holding a bouquet of white roses, warm light"
+   "visual": "a young woman smiling softly, holding a bouquet of white roses, warm light",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia09.jpg",
+   "credito": "IA"
   }
- ]
+ ],
+ "video_id": "_jRwvG2N-_4"
 }
