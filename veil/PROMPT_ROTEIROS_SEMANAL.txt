@@ -61,10 +61,10 @@ IMAGENS (geradas por IA automaticamente)
 
 FORMATO DO ARQUIVO veil/historias/fila/NN_slug.json
 {
- "titulo": "frase curta e intrigante em inglês #Shorts",
+ "titulo": "Night Shift Horror Story #1 | gancho curto em inglês #Shorts",
  "titulo_pt": "tradução para o Thiago",
  "resumo_pt": "a história inteira em 2-3 frases em português",
- "narrador": "mulher",
+ "tema": "night shift",
  "descricao": "1-2 frases intrigantes.\n\n<pergunta para comentar>\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
  "tags": ["horror story","scary story","creepy","horror shorts","scary"],
  "hashtags": "#horror #scarystories #creepy #shorts",
