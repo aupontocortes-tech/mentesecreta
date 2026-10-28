@@ -44,20 +44,35 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Guardar modelos de voz entre execuções
+        if: steps.fila.outputs.pular != '1'
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-chatterbox-v1
+
       - name: Instalar
         if: steps.fila.outputs.pular != '1'
-        timeout-minutes: 15
+        env:
+          VF_VOZ_CHAVE: ${{ secrets.VF_VOZ_CHAVE }}
+        timeout-minutes: 20
         run: |
           # ffmpeg pronto do PyPI (rápido); se falhar, usa o apt com novas tentativas
           pip install -q imageio-ffmpeg && sudo ln -sf "$(python3 -c 'import imageio_ffmpeg;print(imageio_ffmpeg.get_ffmpeg_exe())')" /usr/local/bin/ffmpeg && ffmpeg -version | head -1 \
             || (sudo apt-get -o Acquire::Retries=3 update -qq && sudo apt-get -o Acquire::Retries=3 install -y -qq --no-install-recommends ffmpeg > /dev/null)
           pip install -q edge-tts numpy soundfile pillow google-auth-oauthlib google-api-python-client
+          # voz clonada do Thiago (Chatterbox, roda no processador). Se falhar, o vídeo sai com a voz padrão.
+          if [ -n "$VF_VOZ_CHAVE" ]; then
+            pip install -q --index-url https://download.pytorch.org/whl/cpu torch==2.6.0 torchaudio==2.6.0 \
+              && pip install -q chatterbox-tts || echo "AVISO: voz clonada não instalou"
+          fi
 
       - name: Montar vídeo
         if: steps.fila.outputs.pular != '1'
         env:
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          VF_VOZ_CHAVE: ${{ secrets.VF_VOZ_CHAVE }}
         run: |
           python3 veil/historia.py "${{ steps.fila.outputs.ep }}" out
           ls -la out/final.mp4

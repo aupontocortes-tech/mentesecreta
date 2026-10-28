@@ -29,6 +29,15 @@ async def falar(texto, mp3, voz=None, rate=None, pitch=None):
                 marcas.append((ch['offset'] / 1e7, (ch['offset'] + ch['duration']) / 1e7))
     return marcas
 
+def edge(falado, mp3, sc, i, texto):
+    # até 8 tentativas com espera crescente; da 5ª em diante usa a voz padrão (sem tom/velocidade especial)
+    for tent in range(8):
+        v, r, p = (sc.get('voz_edge'), sc.get('rate'), sc.get('pitch')) if tent < 4 else (None, None, None)
+        try: return asyncio.run(falar(falado, mp3, v, r, p))
+        except Exception as e:
+            print(f'TTS falhou na cena {i} (tentativa {tent + 1}):', e); time.sleep(5 + tent * 6)
+    sys.exit(f'ERRO: TTS não respondeu na cena {i}: {texto}')
+
 def para_wav(mp3):
     raw = subprocess.run(['ffmpeg', '-loglevel', 'error', '-i', mp3, '-f', 'f32le', '-ac', '1', '-ar', str(SR), '-'],
                          capture_output=True, check=True).stdout
@@ -42,13 +51,11 @@ def main():
         texto = sc['text']; falado = texto
         for k, v in pron.items(): falado = falado.replace(k, v)
         mp3 = os.path.join(out, f'v{i:02d}.mp3')
-        # até 8 tentativas com espera crescente; da 5ª em diante usa a voz padrão (sem tom/velocidade especial)
-        for tent in range(8):
-            v, r, p = (sc.get('voz_edge'), sc.get('rate'), sc.get('pitch')) if tent < 4 else (None, None, None)
-            try: marcas = asyncio.run(falar(falado, mp3, v, r, p)); break
-            except Exception as e:
-                print(f'TTS falhou na cena {i} (tentativa {tent + 1}):', e); time.sleep(5 + tent * 6)
-        else: sys.exit(f'ERRO: TTS não respondeu na cena {i}: {texto}')
+        clone = os.path.join(out, f'clone_{i:02d}.wav')   # voz clonada já gerada (Veil): usa ela
+        if os.path.exists(clone):
+            subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-i', clone, mp3], check=True); marcas = []
+        else:
+            marcas = edge(falado, mp3, sc, i, texto)
         x = para_wav(mp3)
         nz = np.where(np.abs(x) > 0.01)[0]; ini = max(0, nz[0] - 300); x = x[ini:nz[-1] + 600]; dur = len(x) / SR
         ws = texto.split(); off = ini / SR

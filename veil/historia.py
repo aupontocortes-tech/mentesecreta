@@ -140,13 +140,16 @@ def main(caminho, out, lingua='en'):
         voz, rate, pitch = tabela.get(sc.get('voz') or narr, tabela['homem'])
         texto = (sc.get('pt') or sc['text']) if pt else sc['text']
         dest = (sc.get('destaque_pt') or destaque_pt(texto)) if pt else sc.get('destaque', [])
-        spec['scenes'].append({'text': texto, 'src': img, 'focus': 0.5, 'foco_y': 0.5,
+        clone = (not pt) and not sc.get('voz')   # fala do narrador em inglês = voz do Thiago (se a chave existir)
+        spec['scenes'].append({'text': texto, 'src': img, 'focus': 0.5, 'foco_y': 0.5, 'clone': clone,
                                'destaque': dest, 'pausa': sc.get('pausa', 0.3),
                                'voz_edge': voz, 'rate': rate, 'pitch': pitch})
     json.dump(spec, open(f'{out}/spec.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     env = dict(os.environ, MS_VOZ=os.environ.get('VF_VOZ', 'en-US-AndrewMultilingualNeural'),
                MS_RATE=os.environ.get('VF_RATE', '-2%'), MS_PITCH=os.environ.get('VF_PITCH', '+0Hz'),
                MS_MARCA='VEIL FREQUENCY', MS_SEED=str(base))   # mesma trilha nas duas versões
+    if not pt:   # narrador com a voz clonada do Thiago (se falhar, segue com a voz padrão)
+        subprocess.run(['python3', os.path.join(AQUI, 'voz_clone.py'), f'{out}/spec.json', out], env=env)
     for cmd in (['tts.py', f'{out}/spec.json', out], ['musica.py', out], ['render.py', f'{out}/spec.json', out]):
         subprocess.run(['python3', os.path.join(RAIZ, cmd[0]), *cmd[1:]], check=True, env=env)
     print('OK', out + '/final.mp4')
