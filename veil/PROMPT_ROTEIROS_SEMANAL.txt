@@ -44,8 +44,12 @@ INGLÊS
 - Números e horas por extenso como se fala ("three a.m.").
 - 10 a 14 cenas, 100 a 140 palavras no total (40-55 segundos), UMA frase curta por cena.
 
+IDENTIDADE DO CANAL (modelo: Mr. Nightmare, 7 mi de inscritos)
+- TEMA DA SEMANA: as 7 histórias da semana são do MESMO tema reconhecível do dia a dia americano. Rodízio (siga a ordem, veja o último usado em veil/historias/publicados/ campo "tema"): night shift (turno da noite) -> babysitting (babá) -> road trip / hitchhiking (estrada e carona) -> new house (casa nova) -> camping / woods (acampamento e floresta) -> hospital -> motel / hotel -> small town (cidade pequena) -> technology (celular, câmera, assistente) -> childhood (infância) -> volta ao início.
+- Coloque "tema": "night shift" em cada arquivo e numere no título: "Night Shift Horror Story #1 | <gancho curto> #Shorts" (o número continua entre semanas do mesmo tema).
+- NARRADOR FIXO: é sempre a mesma voz do canal (o robô usa sozinho). A história pode ser de homem ou mulher contando ("I"), tudo bem. NUNCA diga "true story", "this really happened" ou "sent by a viewer": as histórias são fictícias.
+
 VOZES (escolha você, pelo que a história pede)
-- "narrador" da história inteira: "mulher" ou "homem", conforme quem conta (personagem feminina conta = "mulher").
 - Falas de outros personagens: cena separada com "voz": "idosa" | "idoso" | "crianca" | "sombria" (sussurro grave do monstro/entidade) | "sombrio" | "mulher" | "homem".
 - Fala curta que acontece na MESMA imagem da cena anterior: "mesma_imagem": true (não gera imagem nova).
 - "pausa": 0.6 a 1.0 antes/depois da virada.

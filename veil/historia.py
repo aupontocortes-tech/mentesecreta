@@ -15,7 +15,7 @@ RAIZ = os.path.dirname(AQUI)
 ESTILO = ('cinematic horror film still, 35mm photo, dim moody low-key lighting, desaturated cold tones, '
           'film grain, shallow depth of field, photorealistic, unsettling atmosphere, vertical composition, '
           'no text, no watermark, no blood, no gore')
-# Vozes (Edge TTS, grátis). A história escolhe o narrador ("narrador": "mulher" ou "homem")
+# Vozes (Edge TTS, grátis). O narrador é FIXO (voz do canal); 'voz' na cena = fala de personagem
 # e cada fala pode ter a sua ("voz": "idosa", "crianca", "sombria"...).
 VOZES = {   # vozes naturais: sem mexer muito no tom (tom forçado deixa a voz com cara de robô)
     'homem':   ('en-US-AndrewMultilingualNeural', '-2%', '+0Hz'),
@@ -26,7 +26,10 @@ VOZES = {   # vozes naturais: sem mexer muito no tom (tom forçado deixa a voz c
     'sombria': ('en-US-JennyNeural', '-18%', '-20Hz'),
     'sombrio': ('en-US-GuyNeural', '-18%', '-20Hz'),
 }
+VOZES['narrador'] = ('en-US-AndrewMultilingualNeural', '-7%', '-3Hz')   # voz fixa do canal: calma e lenta
+
 VOZES_PT = {   # versão dublada em português (vídeo não listado, só para o Thiago conferir)
+    'narrador': ('pt-BR-AntonioNeural', '-4%', '-5Hz'),
     'homem':   ('pt-BR-AntonioNeural', '+0%', '-4Hz'),
     'mulher':  ('pt-BR-ThalitaMultilingualNeural', '+0%', '+0Hz'),
     'crianca': ('pt-BR-FranciscaNeural', '-2%', '+12Hz'),
@@ -119,7 +122,7 @@ def main(caminho, out, lingua='en'):
     hist = json.load(open(caminho, encoding='utf-8'))
     base = random.Random(hist.get('titulo', '')).randint(1, 10**6)
     spec = {'scenes': [], 'pron': {} if pt else hist.get('pron', {})}
-    narr = hist.get('narrador', 'homem')
+    narr = 'narrador'   # NARRADOR FIXO do canal (identidade, como os grandes canais de terror); outras vozes só nas falas
     img = None
     for i, sc in enumerate(hist['scenes']):
         if sc.get('mesma_imagem') and img:   # fala curta que continua na imagem anterior
