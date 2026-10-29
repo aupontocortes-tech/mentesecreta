@@ -9,6 +9,10 @@ PREPARO:
 - Conte os arquivos em roteiros/fila/. Crie só o que falta para chegar a 7. Numere continuando a sequência (ex.: 08_tema.json). O robô publica em ordem alfabética.
 
 O QUE O PÚBLICO DO CANAL MAIS GOSTOU (out/2026): temas da VIDA DA PESSOA, que ela já viveu e nunca entendeu (efeito holofote, contar planos, seus amigos têm mais amigos). Os temas "de livro" (experimento famoso, memória técnica, favor) renderam menos.
+DADOS DE 29/10/2026 (views): "O favorzinho que vira um favorzão" 1.236, "A dúvida deixa alguém mais atraente" 930, "Seu celular não vibrou. Seu cérebro sim." 759. Os piores: "Pedir ajuda funciona..." 11, "Por que uma crítica pesa..." 14, "Uma palavra pode mudar sua memória" 9.
+- PRIORIDADE DE TEMA: atração e relacionamento, celular e redes, manipulação e persuasão (como reconhecer), truques sociais do dia a dia.
+- EVITE tema com cara de conselho/autoajuda ("pedir ajuda funciona", "lide melhor com críticas") e assunto técnico de memória.
+- TÍTULO: frase curta com contradição ou ordem, sem "Por que..." no começo. Bons: "Seu celular não vibrou. Seu cérebro sim.", "Medo deixa você mais apaixonado.", "Peça pouco. Depois peça tudo."
 Teste antes de escolher: a pessoa vai pensar "isso já aconteceu comigo"? Se não, troque.
 TEMAS (você escolhe, puxando para o lado mais polêmico, sem perguntar ao Thiago). Prefira situações do dia a dia (relacionamentos, ex, amizade, trabalho, celular, conversa, autoestima, como os outros te veem) e varie entre:
 trabalho/chefe/dinheiro, amizade e inveja, relacionamentos e atração, manipulação (como reconhecer), memória e cérebro, infância -> vida adulta, decisões e vieses, experimentos famosos (Milgram, Asch, Stanford, marshmallow — com as ressalvas reais de cada um).
