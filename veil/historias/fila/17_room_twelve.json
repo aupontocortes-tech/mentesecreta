@@ -1,7 +1,7 @@
 {
  "titulo": "Night Shift Horror Story #6 | Room Twelve Is Empty. It Still Calls the Nurse. #Shorts",
  "titulo_pt": "História de terror do turno da noite #6 | O quarto doze está vazio há anos. Ainda chama a enfermeira.",
- "resumo_pt": "Numa ala de hospital, a luz de chamada do quarto doze, vazio há anos, acende toda noite às 2h14. A enfermeira antiga ensina: atenda no interfone e diga só 'hoje não'. Na noite em que a narradora está sozinha, ela pergunta quem é. Uma voz de idoso diz que está cansado de esperar. A virada: a porta do quarto doze se abre no corredor e, logo depois, o botão de chamada do próprio balcão das enfermeiras começa a tocar.",
+ "resumo_pt": "Numa ala de hospital, a luz de chamada do quarto doze, vazio há anos, acende toda noite às 2h14. A enfermeira antiga ensina: atenda no interfone e diga só 'hoje não'. Na noite em que a narradora está sozinha, ela pergunta quem é, e uma voz de idoso diz que está cansado de esperar. A virada: a porta do quarto doze se abre, passos param atrás da cadeira dela, uma mão gelada toca seu ombro e a voz sussurra: hoje sim.",
  "tema": "night shift",
  "descricao": "Night shift horror story #6.\n\nWould you have answered?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
  "tags": [
@@ -99,20 +99,20 @@
    ]
   },
   {
-   "text": "Then the call button on my own desk started ringing.",
-   "pt": "Aí o botão de chamada da minha própria mesa começou a tocar.",
-   "visual": "close-up of a red call button lighting up on a nurses' station desk",
+   "text": "Footsteps came down the hall. Slow. Then they stopped. Right behind my chair.",
+   "pt": "Passos vieram pelo corredor. Devagar. Aí pararam. Bem atrás da minha cadeira.",
+   "visual": "dark hospital corridor seen from behind a nurse sitting at the station, a tall shadow on the floor behind her",
    "destaque": [
-    "DESK"
+    "BEHIND"
    ],
    "pausa": 0.7
   },
   {
-   "text": "The label under it says: room twelve.",
-   "pt": "A etiqueta embaixo dele diz: quarto doze.",
-   "mesma_imagem": true,
+   "text": "A cold hand touched my shoulder, and a voice whispered: tonight.",
+   "pt": "Uma mão gelada tocou meu ombro, e uma voz sussurrou: hoje sim.",
+   "visual": "pale old hand resting on the shoulder of a frightened young nurse in the dark",
    "destaque": [
-    "TWELVE"
+    "TONIGHT"
    ]
   }
  ]
