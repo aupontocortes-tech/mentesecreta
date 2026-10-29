@@ -22,3 +22,4 @@ Arquivo editado pelo painel. Não coloque senhas aqui.
 - Estudo inventado ou número sem fonte
 
 ## PAUSAS
+- 12h
