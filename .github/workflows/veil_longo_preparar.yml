@@ -28,7 +28,7 @@ jobs:
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
         run: |
-          A=$(head -1 veil/longos/preparar.txt | tr -d '\r')
+          A=$(head -1 veil/longos/preparar.txt | awk '{print $1}' | tr -d '\r')
           case "$A" in veil/longos/fila/*.json) ;; *) echo "::error::roteiro inválido"; exit 1;; esac
           python3 veil/longo.py "$A" out
           python3 veil/longo.py "$A" out pt
