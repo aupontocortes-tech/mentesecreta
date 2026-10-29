@@ -2,7 +2,7 @@
  "titulo": "The Fourth Plate | Scary Story",
  "titulo_pt": "O Quarto Prato",
  "resumo_pt": "A avó tinha uma regra: em noite de chuva, ninguém conta em voz alta, e sempre se põe um prato a mais na ponta da mesa. Depois que ela morre, os netos passam um fim de semana na casa. Numa noite de tempestade, o cunhado cético conta em voz alta 'um, dois, três' e uma voz igual à dele responde 'quatro'. A luz apaga e eles ouvem alguém comendo a noite toda. Um caderno da avó revela: se alguém conta em voz alta, a coisa aprende a voz e vai embora com quem falou. Meses depois, numa foto do casal com quatro pratos, o reflexo da janela mostra alguém sentado na cadeira vazia.",
- "capa_parte": 6,
+ "capa_parte": 2,
  "capa_texto": "DON'T COUNT OUT LOUD",
  "descricao": "My grandmother had one rule about rain: never count out loud.\n\nWould you have counted?\n\nA new horror story from Veil Frequency. Fictional story. Images are AI-generated.\n\n#horror #scarystories #horrorstory",
  "tags": [
@@ -25,12 +25,7 @@
     {
      "text": "When it rained at night, nobody in her house counted out loud. Not the dishes, not the stairs, not the people at the table. You could count anything you liked in your head, she said, but the moment a number left your mouth, you were asking a question. And she did not want to hear what answered.",
      "pt": "Quando chovia à noite, ninguém na casa dela contava em voz alta. Nem os pratos, nem os degraus, nem as pessoas na mesa. Você podia contar o que quisesse na cabeça, ela dizia, mas no momento em que um número saísse da sua boca, você estava fazendo uma pergunta. E ela não queria ouvir o que respondia."
-    }
-   ]
-  },
-  {
-   "visual": "an old wooden kitchen table set for dinner, at the far end a single extra place setting: one plate, one fork, one glass of water, empty chair, candlelight, rain on the window",
-   "falas": [
+    },
     {
      "text": "There was one more thing. On every stormy night, she set an extra place at the end of the table. One plate, one fork, one glass of water. She never looked at it. She never spoke of it. In the morning, the plate was clean and dry, and she washed it herself, as if it had been used.",
      "pt": "Tinha mais uma coisa. Em toda noite de tempestade, ela colocava um lugar a mais na ponta da mesa. Um prato, um garfo, um copo d'água. Ela nunca olhava pra ele. Nunca falava dele. De manhã, o prato estava limpo e seco, e ela mesma lavava, como se tivesse sido usado."
@@ -38,12 +33,7 @@
     {
      "text": "When we were kids, my sister Nora and I thought it was an old woman's habit. We grew up, we moved away, and the rule became a family joke. Careful, don't count out loud. We laughed.",
      "pt": "Quando éramos crianças, minha irmã Nora e eu achávamos que era mania de velha. A gente cresceu, se mudou, e a regra virou piada de família. Cuidado, não conta em voz alta. A gente ria."
-    }
-   ]
-  },
-  {
-   "visual": "a farmhouse at the end of a muddy dirt road under dark storm clouds in late afternoon, empty fields, a car parked in front",
-   "falas": [
+    },
     {
      "text": "My grandmother died in October, at eighty-nine, in her sleep. The house came to the two of us. Nora, her husband Dan, and I spent a weekend there to empty it out before we sold.",
      "pt": "Minha avó morreu em outubro, aos oitenta e nove anos, dormindo. A casa ficou pra nós dois. A Nora, o marido dela, o Dan, e eu passamos um fim de semana lá pra esvaziar tudo antes de vender."
@@ -55,7 +45,7 @@
    ]
   },
   {
-   "visual": "three adults eating dinner at an old farmhouse kitchen table at night, dim yellow light, rain streaking the dark window, an empty chair at the far end in shadow",
+   "visual": "close-up of an old empty wooden chair at the end of a kitchen table in deep shadow, the air around it feels occupied, faint candlelight",
    "falas": [
     {
      "text": "I counted without meaning to. Only in my head, the way she taught me. Nora. Dan. Me.",
@@ -74,12 +64,7 @@
      "text": "Four.",
      "pausa": 1.5,
      "pt": "Quatro."
-    }
-   ]
-  },
-  {
-   "visual": "close-up of an old empty wooden chair at the end of a kitchen table in deep shadow, the air around it feels occupied, faint candlelight",
-   "falas": [
+    },
     {
      "text": "I did not look. It was the first thing my body remembered: never look. I sat there with my fork frozen in my hand, listening to the rain. There was no sound from that end of the table. But the chair at the end, which had been empty when we sat down, suddenly felt occupied, the way a room feels when someone has just left it.",
      "pt": "Eu não olhei. Foi a primeira coisa que meu corpo lembrou: nunca olhe. Fiquei ali com o garfo parado na mão, ouvindo a chuva. Não vinha nenhum som daquela ponta da mesa. Mas a cadeira da ponta, que estava vazia quando a gente sentou, de repente parecia ocupada, do jeito que um cômodo parece quando alguém acabou de sair dele."
@@ -174,12 +159,7 @@
      "text": "The lights went out.",
      "pausa": 1.5,
      "pt": "A luz apagou."
-    }
-   ]
-  },
-  {
-   "visual": "almost total darkness in a farmhouse kitchen, only rain on the window faintly lit, two trembling hands holding each other under a table",
-   "falas": [
+    },
     {
      "text": "Nobody moved. The rain pounded the roof, and the darkness in the kitchen was total. I felt Nora's hand find mine under the table. It was ice cold, and shaking.",
      "pt": "Ninguém se mexeu. A chuva batia no telhado, e a escuridão na cozinha era total. Senti a mão da Nora achar a minha embaixo da mesa. Estava gelada, e tremendo."
@@ -201,7 +181,7 @@
    ]
   },
   {
-   "visual": "close-up of an old silver fork resting on a white porcelain plate in near darkness, faint gleam of light, unsettling stillness",
+   "visual": "gray morning light through a kitchen window after rain, a clean dry white plate with a fork lined up beside it and an empty glass, the chair pushed in neatly",
    "falas": [
     {
      "text": "A soft clink of metal on porcelain. Then another. Someone at the end of the table was eating.",
@@ -211,12 +191,7 @@
     {
      "text": "We sat there all night. I can't tell you how long it lasted. I counted my sister's breaths in my head, only in my head, until I lost the count. At some point, the sound of the fork stopped. But the rain kept going, and we kept not looking.",
      "pt": "Ficamos ali a noite inteira. Não sei dizer quanto tempo durou. Contei a respiração da minha irmã na cabeça, só na cabeça, até perder a conta. Em algum momento, o barulho do garfo parou. Mas a chuva continuou, e a gente continuou sem olhar."
-    }
-   ]
-  },
-  {
-   "visual": "gray morning light through a kitchen window after rain, a clean dry white plate with a fork lined up beside it and an empty glass, the chair pushed in neatly",
-   "falas": [
+    },
     {
      "text": "When the gray light of morning came through the kitchen window, the rain had stopped.",
      "pt": "Quando a luz cinza da manhã entrou pela janela da cozinha, a chuva tinha parado."
@@ -251,7 +226,7 @@
    ]
   },
   {
-   "visual": "a pale exhausted man staring through a car window at night, rain drops on the glass, haunted eyes",
+   "visual": "a family photo of three smiling adults at a dinner table with four plates and four chairs, a dark window behind them reflecting a fourth shadowy figure sitting at the empty chair",
    "falas": [
     {
      "text": "Dan didn't speak during breakfast. He didn't speak on the drive home. When we dropped him off, he looked at me through the car window and said:",
@@ -266,12 +241,7 @@
     {
      "text": "That was six months ago. Nora calls me sometimes. She says Dan sets four plates at the table every night, rain or not. She says it's easier to feed it than to hear it ask.",
      "pt": "Isso foi há seis meses. A Nora me liga às vezes. Ela diz que o Dan põe quatro pratos na mesa toda noite, com chuva ou sem. Diz que é mais fácil alimentar aquilo do que ouvir aquilo perguntar."
-    }
-   ]
-  },
-  {
-   "visual": "a family photo of three smiling adults at a dinner table with four plates and four chairs, a dark window behind them reflecting a fourth shadowy figure sitting at the empty chair",
-   "falas": [
+    },
     {
      "text": "Last week she sent me a photo of their table. Four plates, four chairs, and the three of them smiling at the camera. I stared at it and counted, in my head, the way my grandmother taught me.",
      "pt": "Semana passada ela me mandou uma foto da mesa deles. Quatro pratos, quatro cadeiras, e os três sorrindo pra câmera. Fiquei olhando e contei, na cabeça, do jeito que minha avó me ensinou."
