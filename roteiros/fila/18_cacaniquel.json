@@ -1,0 +1,92 @@
+{
+ "titulo": "Seu celular funciona igual caça-níquel. #Shorts",
+ "descricao": "Recompensas que às vezes vêm e às vezes não, como curtidas e notificações, são as que mais prendem.\n\nQuantas vezes por dia você puxa a tela pra atualizar?\n\nSegue o @mentesecreta pra conhecer o lado oculto da mente humana.",
+ "tags": [
+  "psicologia",
+  "celular",
+  "vício",
+  "redes sociais",
+  "reforço intermitente",
+  "dopamina"
+ ],
+ "hashtags": "#psicologia #mentesecreta #comportamentohumano",
+ "fontes": [
+  "Ferster, C. B. & Skinner, B. F. (1957). Schedules of Reinforcement. Appleton-Century-Crofts.",
+  "Skinner, B. F. (1953). Science and Human Behavior. Macmillan."
+ ],
+ "scenes": [
+  {
+   "text": "Seu celular funciona igual caça-níquel.",
+   "emocao": "dinheiro",
+   "visual": "a young man in the dark staring at a glowing smartphone like a gambler, coins scattered on the table",
+   "destaque": [
+    "CAÇA-NÍQUEL"
+   ]
+  },
+  {
+   "text": "Calma. Não é sobre jogo. É sobre o jeito que o seu cérebro fica preso.",
+   "emocao": "mente",
+   "visual": "a man holding his head in his hands at night, a glowing phone in front of him",
+   "destaque": [
+    "PRESO"
+   ]
+  },
+  {
+   "text": "Sabe quando você puxa a tela pra atualizar, mesmo sem esperar nada?",
+   "emocao": "olhar",
+   "visual": "close-up of a hand pulling down on a glowing smartphone screen in the dark",
+   "destaque": [
+    "ATUALIZAR"
+   ]
+  },
+  {
+   "text": "Nos anos cinquenta, o psicólogo Skinner estudou isso com animais.",
+   "emocao": "mente",
+   "visual": "an old scientist in a dark laboratory watching a pigeon in a wooden box, candlelight",
+   "destaque": [
+    "SKINNER"
+   ]
+  },
+  {
+   "text": "Quando a comida vinha sempre, eles apertavam o botão com calma.",
+   "emocao": "familia",
+   "visual": "a pigeon calmly pecking a small lever in an old wooden box, warm light",
+   "destaque": [
+    "SEMPRE"
+   ]
+  },
+  {
+   "text": "Mas quando ela vinha só às vezes, sem saber quando, eles não paravam de apertar.",
+   "emocao": "medo",
+   "visual": "a pigeon frantically pecking a lever over and over in the dark",
+   "destaque": [
+    "PARAVAM"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "A psicologia chama isso de reforço intermitente. É o mesmo truque da máquina de cassino.",
+   "emocao": "engano",
+   "visual": "a dark old casino with a single glowing slot machine and a lonely gambler",
+   "destaque": [
+    "CASSINO"
+   ]
+  },
+  {
+   "text": "E é o que acontece com curtidas, mensagens e notificações. Às vezes vem. Às vezes não.",
+   "emocao": "solidao",
+   "visual": "a lonely young woman in bed at night lit by her phone screen, waiting",
+   "destaque": [
+    "NOTIFICAÇÕES"
+   ]
+  },
+  {
+   "text": "Então, se você não larga o celular, não é falta de força. Ele foi feito pra isso.",
+   "emocao": "poder",
+   "visual": "a man placing his glowing phone face down on a table and turning away, candlelight",
+   "destaque": [
+    "FEITO"
+   ]
+  }
+ ]
+}

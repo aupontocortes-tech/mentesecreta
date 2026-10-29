@@ -1,0 +1,91 @@
+{
+ "titulo": "Peça um absurdo primeiro. #Shorts",
+ "descricao": "A técnica da porta na cara: depois de recusar um pedido enorme, a pessoa tende a aceitar um menor.\n\nVocê já caiu nessa técnica sem perceber?\n\nSegue o @mentesecreta pra conhecer o lado oculto da mente humana.",
+ "tags": [
+  "psicologia",
+  "persuasão",
+  "manipulação",
+  "negociação",
+  "porta na cara",
+  "Cialdini"
+ ],
+ "hashtags": "#psicologia #mentesecreta #comportamentohumano",
+ "fontes": [
+  "Cialdini, R. B. et al. (1975). Reciprocal concessions procedure for inducing compliance: The door-in-the-face technique. Journal of Personality and Social Psychology, 31(2), 206-215. https://doi.org/10.1037/h0076284"
+ ],
+ "scenes": [
+  {
+   "text": "Peça um absurdo primeiro. Depois peça o que você quer.",
+   "emocao": "engano",
+   "visual": "a smiling salesman in an old coat holding out a huge contract to a surprised customer, candlelight",
+   "destaque": [
+    "ABSURDO"
+   ]
+  },
+  {
+   "text": "Calma. Não é pra enganar ninguém. É pra você reconhecer quando fazem isso com você.",
+   "emocao": "mente",
+   "visual": "a cautious woman narrowing her eyes at a smiling man across a table",
+   "destaque": [
+    "RECONHECER"
+   ]
+  },
+  {
+   "text": "Sabe quando alguém pede um favor enorme, você recusa, e logo depois aceita um menor?",
+   "emocao": "segredo",
+   "visual": "a man saying no with his hand raised, then hesitating, in a dim room",
+   "destaque": [
+    "MENOR"
+   ]
+  },
+  {
+   "text": "Em mil novecentos e setenta e cinco, o psicólogo Robert Cialdini testou isso com estudantes.",
+   "emocao": "mente",
+   "visual": "an old professor stopping students on a university path at dusk",
+   "destaque": [
+    "ESTUDANTES"
+   ]
+  },
+  {
+   "text": "Quando pediam direto pra levar jovens ao zoológico por um dia, só dezessete por cento aceitavam.",
+   "emocao": "grupo",
+   "visual": "a group of students shaking their heads at a man with a clipboard",
+   "destaque": [
+    "DEZESSETE"
+   ]
+  },
+  {
+   "text": "Mas antes pediam algo absurdo: dois anos de trabalho voluntário. Todo mundo recusava.",
+   "emocao": "medo",
+   "visual": "a young woman laughing in disbelief at a long scroll of paper, candlelight",
+   "destaque": [
+    "ABSURDO"
+   ]
+  },
+  {
+   "text": "Aí faziam o pedido do zoológico. E cinquenta por cento aceitavam.",
+   "emocao": "poder",
+   "visual": "a student shaking hands with a man holding a clipboard, warm light",
+   "destaque": [
+    "CINQUENTA"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "A psicologia chama isso de técnica da porta na cara.",
+   "emocao": "mente",
+   "visual": "an old wooden door slammed shut in the face of a man in a dark hallway",
+   "destaque": [
+    "PORTA"
+   ]
+  },
+  {
+   "text": "Então, quando alguém recuar de um pedido gigante, desconfie do segundo.",
+   "emocao": "poder",
+   "visual": "a wise old woman raising an eyebrow at a man asking for something, candlelight",
+   "destaque": [
+    "DESCONFIE"
+   ]
+  }
+ ]
+}

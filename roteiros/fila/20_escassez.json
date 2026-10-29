@@ -1,0 +1,91 @@
+{
+ "titulo": "Quando está acabando, você quer mais. #Shorts",
+ "descricao": "O experimento dos biscoitos: o pote com poucos biscoitos foi avaliado como mais desejável.\n\nQual foi a última coisa que você comprou só porque estava acabando?\n\nSegue o @mentesecreta pra conhecer o lado oculto da mente humana.",
+ "tags": [
+  "psicologia",
+  "escassez",
+  "consumo",
+  "marketing",
+  "persuasão",
+  "compras"
+ ],
+ "hashtags": "#psicologia #mentesecreta #comportamentohumano",
+ "fontes": [
+  "Worchel, S., Lee, J. & Adewole, A. (1975). Effects of supply and demand on ratings of object value. Journal of Personality and Social Psychology, 32(5), 906-914. https://doi.org/10.1037/0022-3514.32.5.906"
+ ],
+ "scenes": [
+  {
+   "text": "Quando está acabando, você quer mais.",
+   "emocao": "dinheiro",
+   "visual": "a crowd of people in old clothes reaching for the last loaf of bread on a market stall, candlelight",
+   "destaque": [
+    "ACABANDO"
+   ]
+  },
+  {
+   "text": "Calma. Não é sobre ser consumista. É sobre um atalho antigo do cérebro.",
+   "emocao": "mente",
+   "visual": "a thoughtful man with a coin in his hand by candlelight",
+   "destaque": [
+    "ATALHO"
+   ]
+  },
+  {
+   "text": "Sabe quando aparece só restam duas unidades e você compra sem pensar?",
+   "emocao": "engano",
+   "visual": "a woman hurriedly grabbing the last item from a shelf in a dim old shop",
+   "destaque": [
+    "DUAS"
+   ]
+  },
+  {
+   "text": "Em mil novecentos e setenta e cinco, pesquisadores deram biscoitos pra pessoas provarem.",
+   "emocao": "mente",
+   "visual": "an old scholar handing a jar of cookies to a young woman, warm light",
+   "destaque": [
+    "BISCOITOS"
+   ]
+  },
+  {
+   "text": "Os biscoitos eram iguais. Mudava só o pote: um com dez, outro com só dois.",
+   "emocao": "segredo",
+   "visual": "two glass jars on a wooden table, one full of cookies and one with only two",
+   "destaque": [
+    "IGUAIS"
+   ]
+  },
+  {
+   "text": "O pote com dois foi avaliado como mais gostoso e mais desejável.",
+   "emocao": "olhar",
+   "visual": "a young woman staring longingly at a jar with only two cookies, candlelight",
+   "destaque": [
+    "DOIS"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "A psicologia chama isso de escassez. O que é raro parece mais valioso.",
+   "emocao": "mente",
+   "visual": "a single gold coin glowing on a dark velvet cloth",
+   "destaque": [
+    "ESCASSEZ"
+   ]
+  },
+  {
+   "text": "E as lojas sabem disso. Por isso o estoque sempre parece estar acabando.",
+   "emocao": "poder",
+   "visual": "a smiling merchant behind a counter in an old shop, holding the last item up",
+   "destaque": [
+    "LOJAS"
+   ]
+  },
+  {
+   "text": "Então, quando bater a pressa de comprar, pergunte: eu queria isso ontem?",
+   "emocao": "solidao",
+   "visual": "a woman pausing with an item in her hands in a quiet shop, thoughtful",
+   "destaque": [
+    "ONTEM"
+   ]
+  }
+ ]
+}

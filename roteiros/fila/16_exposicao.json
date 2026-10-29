@@ -1,0 +1,92 @@
+{
+ "titulo": "Você não gosta dela. Você só viu demais. #Shorts",
+ "descricao": "O efeito da mera exposição: quanto mais vemos alguém, mais tendemos a gostar, sem perceber.\n\nVocê já começou a gostar de alguém só de tanto ver?\n\nSegue o @mentesecreta pra conhecer o lado oculto da mente humana.",
+ "tags": [
+  "psicologia",
+  "atração",
+  "efeito da mera exposição",
+  "relacionamentos",
+  "crush",
+  "comportamento"
+ ],
+ "hashtags": "#psicologia #mentesecreta #comportamentohumano",
+ "fontes": [
+  "Moreland, R. L. & Beach, S. R. (1992). Exposure effects in the classroom: The development of affinity among students. Journal of Experimental Social Psychology, 28(3), 255-276. https://doi.org/10.1016/0022-1031(92)90055-O",
+  "Zajonc, R. B. (1968). Attitudinal effects of mere exposure. Journal of Personality and Social Psychology, 9(2), 1-27. https://doi.org/10.1037/h0025848"
+ ],
+ "scenes": [
+  {
+   "text": "Você não gosta dela. Você só viu demais.",
+   "emocao": "olhar",
+   "visual": "a young man staring across a dim room at a young woman reading by a window, candlelight",
+   "destaque": [
+    "DEMAIS"
+   ]
+  },
+  {
+   "text": "Calma. Não é sobre o que você sente. É sobre o que o cérebro faz sem te avisar.",
+   "emocao": "mente",
+   "visual": "a pensive young woman with her eyes closed, half of her face in shadow",
+   "destaque": [
+    "AVISAR"
+   ]
+  },
+  {
+   "text": "Sabe aquela pessoa que no começo era normal, e de tanto você ver, virou especial?",
+   "emocao": "solidao",
+   "visual": "a young man looking at the same woman passing by a window on different days, melancholic",
+   "destaque": [
+    "ESPECIAL"
+   ]
+  },
+  {
+   "text": "Em mil novecentos e noventa e dois, pesquisadores colocaram quatro mulheres parecidas numa sala de aula.",
+   "emocao": "mente",
+   "visual": "a large old university lecture hall with students at wooden benches, warm light",
+   "destaque": [
+    "QUATRO"
+   ]
+  },
+  {
+   "text": "Uma não foi em nenhuma aula. As outras foram em cinco, dez e quinze aulas. Sem falar com ninguém.",
+   "emocao": "grupo",
+   "visual": "a quiet young woman sitting silently at the back of a classroom, never speaking",
+   "destaque": [
+    "NINGUÉM"
+   ]
+  },
+  {
+   "text": "No fim, os alunos acharam mais bonita a que apareceu mais vezes.",
+   "emocao": "olhar",
+   "visual": "students looking toward a young woman at the back of a classroom, curious faces",
+   "destaque": [
+    "BONITA"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "A psicologia chama isso de efeito da mera exposição.",
+   "emocao": "mente",
+   "visual": "an old scholar writing in a large book by candlelight",
+   "destaque": [
+    "EXPOSIÇÃO"
+   ]
+  },
+  {
+   "text": "Ou seja: às vezes você não se apaixonou pela pessoa. Se acostumou com ela.",
+   "emocao": "engano",
+   "visual": "a young woman looking at a portrait of a man on her wall, confused expression",
+   "destaque": [
+    "ACOSTUMOU"
+   ]
+  },
+  {
+   "text": "Então, se quiser ser notado, apareça mais vezes. Só não exagere.",
+   "emocao": "poder",
+   "visual": "a confident young man walking into a candlelit room where people turn to look",
+   "destaque": [
+    "APAREÇA"
+   ]
+  }
+ ]
+}
