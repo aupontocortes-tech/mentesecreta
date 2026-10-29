@@ -1,0 +1,53 @@
+name: Veil Frequency - video longo
+# Disparado pelo botão "Vídeos longos" do app (ou à mão). Monta o vídeo deitado e publica na hora.
+on:
+  workflow_dispatch:
+    inputs:
+      arquivo:
+        description: 'roteiro em veil/longos/fila (ex.: veil/longos/fila/01_fourth_plate.json)'
+        required: true
+concurrency: veil-longo
+permissions:
+  contents: write
+jobs:
+  longo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+      - name: Conferir arquivo
+        id: arq
+        run: |
+          A="${{ github.event.inputs.arquivo }}"
+          case "$A" in veil/longos/fila/*.json) ;; *) echo "::error::arquivo inválido"; exit 1;; esac
+          [ -f "$A" ] || { echo "::error::não achei $A na fila"; exit 1; }
+          echo "a=$A" >> $GITHUB_OUTPUT
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Instalar
+        timeout-minutes: 15
+        run: |
+          pip install -q imageio-ffmpeg && sudo ln -sf "$(python3 -c 'import imageio_ffmpeg;print(imageio_ffmpeg.get_ffmpeg_exe())')" /usr/local/bin/ffmpeg && ffmpeg -version | head -1 \
+            || (sudo apt-get -o Acquire::Retries=3 update -qq && sudo apt-get -o Acquire::Retries=3 install -y -qq --no-install-recommends ffmpeg > /dev/null)
+          pip install -q edge-tts numpy soundfile pillow google-auth-oauthlib google-api-python-client
+      - name: Montar vídeo longo
+        env:
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+        run: python3 veil/longo.py "${{ steps.arq.outputs.a }}" out
+      - name: Publicar no YouTube
+        env:
+          YT_TOKEN_JSON: ${{ secrets.VF_YT_TOKEN_JSON || secrets.VFTOKEN }}
+          VF_CHANNEL_ID: ${{ vars.VF_CHANNEL_ID }}
+        run: |
+          set -o pipefail
+          A="${{ steps.arq.outputs.a }}"
+          python3 veil/yt.py up out/longo.mp4 "$A" longo out/capa.jpg | tee up.log
+          ID=$(grep -o 'VIDEO_ID=[A-Za-z0-9_-]*' up.log | cut -d= -f2)
+          python3 -c "import json,sys; p=sys.argv[1]; d=json.load(open(p)); d['video_id']=sys.argv[2]; json.dump(d,open(p,'w'),ensure_ascii=False,indent=1)" "$A" "$ID"
+          mkdir -p veil/longos/publicados
+          git add "$A" && git mv -f "$A" veil/longos/publicados/
+          git config user.name "publicador-vf" && git config user.email "actions@users.noreply.github.com"
+          git commit -qm "Veil longo publicado: $(basename $A) ($ID)"
+          git pull -q --rebase && git push -q

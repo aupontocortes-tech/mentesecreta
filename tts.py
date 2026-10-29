@@ -33,7 +33,8 @@ def edge(falado, mp3, sc, i, texto):
     # até 8 tentativas com espera crescente; da 5ª em diante usa a voz padrão (sem tom/velocidade especial)
     for tent in range(8):
         v, r, p = (sc.get('voz_edge'), sc.get('rate'), sc.get('pitch')) if tent < 4 else (None, None, None)
-        try: return asyncio.run(falar(falado, mp3, v, r, p))
+        try:
+            m = asyncio.run(falar(falado, mp3, v, r, p)); time.sleep(0.6); return m   # pausa curta: evita bloqueio do serviço em vídeos longos
         except Exception as e:
             print(f'TTS falhou na cena {i} (tentativa {tent + 1}):', e); time.sleep(5 + tent * 6)
     sys.exit(f'ERRO: TTS não respondeu na cena {i}: {texto}')

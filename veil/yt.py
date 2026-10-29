@@ -1,6 +1,6 @@
 """Envio para o YouTube do canal Veil Frequency.
 python3 veil/yt.py me                              -> mostra o canal da chave
-python3 veil/yt.py up video.mp4 episodio.json [agora|agendar|pt]
+python3 veil/yt.py up video.mp4 episodio.json [agora|agendar|pt|longo] [capa.jpg]
 A chave vem do Secret VF_YT_TOKEN_JSON (nunca salve no repositório)."""
 import os, sys, json, datetime
 from google.oauth2.credentials import Credentials
@@ -31,7 +31,10 @@ desc += '\n\n' + r.get('hashtags', '#horror #analoghorror #creepy')
 # containsSyntheticMedia: o vídeo imita gravação real, então marcamos como conteúdo alterado/sintético
 status = {'selfDeclaredMadeForKids': False, 'containsSyntheticMedia': True}
 lingua = 'en'
-if modo == 'pt':   # versão dublada: não listada (só abre pelo link do painel), não aparece no canal
+if modo == 'longo':   # vídeo longo deitado: público na hora, sem #Shorts
+    status['privacyStatus'] = 'public'
+    desc = r['descricao']
+elif modo == 'pt':   # versão dublada: não listada (só abre pelo link do painel), não aparece no canal
     lingua = 'pt'
     status['privacyStatus'] = 'unlisted'
     desc = (r.get('resumo_pt') or '') + '\n\nVersão em português (não listada) só para conferência.'
@@ -50,3 +53,9 @@ body = {'snippet': {'title': titulo[:100], 'description': desc[:4900], 'tags': r
 v = yt.videos().insert(part='snippet,status', body=body,
                        media_body=MediaFileUpload(sys.argv[2], chunksize=-1, resumable=True)).execute()
 print('VIDEO_ID=' + v['id'], status.get('publishAt', 'publicado agora'))
+capa = sys.argv[5] if len(sys.argv) > 5 else ''
+if capa and os.path.exists(capa):
+    try:
+        yt.thumbnails().set(videoId=v['id'], media_body=MediaFileUpload(capa, mimetype='image/jpeg')).execute(); print('capa ok')
+    except Exception as e:
+        print('AVISO: capa não enviada (o canal precisa de verificação por telefone):', str(e)[:200])
