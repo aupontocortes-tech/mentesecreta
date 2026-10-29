@@ -21,7 +21,9 @@
    "visual": "a young man staring across a dim room at a young woman reading by a window, candlelight",
    "destaque": [
     "DEMAIS"
-   ]
+   ],
+   "src": "banco/olhar/KMS1634.jpg",
+   "credito": "Portrait of Rembrandt with Gorget — Rembrandt van Rijn (værksted) (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Calma. Não é sobre o que você sente. É sobre o que o cérebro faz sem te avisar.",
@@ -29,7 +31,9 @@
    "visual": "a pensive young woman with her eyes closed, half of her face in shadow",
    "destaque": [
     "AVISAR"
-   ]
+   ],
+   "src": "banco/mente/KMS280.jpg",
+   "credito": "A Young Artist (Ditlev Blunck) Examining a Sketch in a Mirror — Bendz, Wilhelm (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Sabe aquela pessoa que no começo era normal, e de tanto você ver, virou especial?",
@@ -37,7 +41,9 @@
    "visual": "a young man looking at the same woman passing by a window on different days, melancholic",
    "destaque": [
     "ESPECIAL"
-   ]
+   ],
+   "src": "banco/solidao/KMS1667.jpg",
+   "credito": "Portrait of Inger Margrethe Høyen, née Schrøder, the Mother of the Art Historian N.L. Høyen — Købke, Christen (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Em mil novecentos e noventa e dois, pesquisadores colocaram quatro mulheres parecidas numa sala de aula.",
@@ -45,7 +51,9 @@
    "visual": "a large old university lecture hall with students at wooden benches, warm light",
    "destaque": [
     "QUATRO"
-   ]
+   ],
+   "src": "banco/mente/KMS985.jpg",
+   "credito": "King Christian II in Prison — Bloch, Carl (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Uma não foi em nenhuma aula. As outras foram em cinco, dez e quinze aulas. Sem falar com ninguém.",
@@ -53,7 +61,9 @@
    "visual": "a quiet young woman sitting silently at the back of a classroom, never speaking",
    "destaque": [
     "NINGUÉM"
-   ]
+   ],
+   "src": "banco/grupo/KMSsp717.jpg",
+   "credito": "The Raising of Lazarus — Mesteren for Skt. Maria Magdalena-Legenden (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "No fim, os alunos acharam mais bonita a que apareceu mais vezes.",
@@ -62,7 +72,9 @@
    "destaque": [
     "BONITA"
    ],
-   "pausa": 0.7
+   "pausa": 0.7,
+   "src": "banco/olhar/KMS6693.jpg",
+   "credito": "Thora Bendix, née Anne Victoria Sundberg — Hammershøi, Vilhelm (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "A psicologia chama isso de efeito da mera exposição.",
@@ -70,7 +82,9 @@
    "visual": "an old scholar writing in a large book by candlelight",
    "destaque": [
     "EXPOSIÇÃO"
-   ]
+   ],
+   "src": "banco/mente/KMS3884.jpg",
+   "credito": "Dominican Friar — Rubens, Peter Paul (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Ou seja: às vezes você não se apaixonou pela pessoa. Se acostumou com ela.",
@@ -78,7 +92,9 @@
    "visual": "a young woman looking at a portrait of a man on her wall, confused expression",
    "destaque": [
     "ACOSTUMOU"
-   ]
+   ],
+   "src": "banco/engano/KMS1274.jpg",
+   "credito": "The Repentant Magdalene — Ubekendt kunstner (SMK – Statens Museum for Kunst (domínio público))"
   },
   {
    "text": "Então, se quiser ser notado, apareça mais vezes. Só não exagere.",
@@ -86,7 +102,10 @@
    "visual": "a confident young man walking into a candlelit room where people turn to look",
    "destaque": [
     "APAREÇA"
-   ]
+   ],
+   "src": "banco/poder/DEP15.jpg",
+   "credito": "Portrait of Giovanni Bellini or Andrea di Nicolò Loredan?, Portrait of Giovanni Bellini or Andrea di Nicolò Loredan? — Tizian (SMK – Statens Museum for Kunst (domínio público))"
   }
- ]
+ ],
+ "video_id": "mk_iNmtpd34"
 }
