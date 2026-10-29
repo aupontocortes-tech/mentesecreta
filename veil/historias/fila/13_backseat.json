@@ -1,7 +1,7 @@
 {
  "titulo": "Night Shift Horror Story #2 | Why Was the Gas Station Clerk Screaming at Me? #Shorts",
  "titulo_pt": "História de terror do turno da noite #2 | Por que o frentista estava gritando comigo?",
- "resumo_pt": "Lenda urbana americana do homem no banco de trás. Um frentista da madrugada vê, pelo reflexo da janela, um homem agachado no banco de trás do carro de uma mulher. Para tirá-la de lá sem alertar o homem, ele diz que o cartão dela foi recusado e pede que entre na loja. A virada: dentro da loja ele tranca a porta e conta; quando olham para o carro, o banco de trás está vazio e a porta de trás está aberta.",
+ "resumo_pt": "Lenda urbana americana do homem no banco de trás. Um frentista da madrugada vê um homem agachado no banco de trás do carro de uma cliente e inventa que o cartão foi recusado para tirá-la de lá. Quando olham, o banco está vazio e a porta aberta. A virada: o frentista volta pra casa e um policial que o seguiu ilumina o banco de trás do carro dele: o homem tinha ido pra casa com ele o caminho todo.",
  "tema": "night shift",
  "descricao": "Night shift horror story #2. Based on a classic American urban legend.\n\nWould you have gotten out of the car?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
  "tags": [
@@ -108,11 +108,36 @@
    "pausa": 0.7
   },
   {
-   "text": "And someone was tapping on the glass of the store's back door.",
-   "pt": "E alguém estava batendo no vidro da porta dos fundos da loja.",
-   "visual": "dark back door of a small store with a glass window, a hand silhouette pressed on it",
+   "text": "The police searched for an hour. Nothing. At six, I clocked out and drove home.",
+   "pt": "A polícia procurou por uma hora. Nada. Às seis, eu bati o ponto e fui pra casa.",
+   "visual": "clerk driving alone on an empty road at dawn, tired face lit by dashboard",
    "destaque": [
-    "TAPPING"
+    "HOME"
+   ]
+  },
+  {
+   "text": "At my door, a police car pulled up behind me. The officer had followed me the whole way.",
+   "pt": "Na minha porta, uma viatura parou atrás de mim. O policial tinha me seguido o caminho todo.",
+   "visual": "police car with lights on parked behind a small car in a driveway at dawn",
+   "destaque": [
+    "FOLLOWED"
+   ]
+  },
+  {
+   "text": "He pointed his flashlight into my back seat.",
+   "pt": "Ele apontou a lanterna pro meu banco de trás.",
+   "visual": "flashlight beam shining through the rear window of a car at dawn",
+   "destaque": [
+    "FLASHLIGHT"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "The man had ridden home with me. The whole way.",
+   "pt": "O homem tinha vindo pra casa comigo. O caminho todo.",
+   "visual": "dark shape of a crouched man in the back seat of a car lit by a flashlight beam",
+   "destaque": [
+    "WHOLE"
    ]
   }
  ]

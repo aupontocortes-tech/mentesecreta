@@ -1,7 +1,7 @@
 {
  "titulo": "Night Shift Horror Story #3 | Every Caller Asked Who Was Behind Me #Shorts",
  "titulo_pt": "História de terror do turno da noite #3 | Todos os ouvintes perguntaram quem estava atrás de mim",
- "resumo_pt": "Um locutor faz o programa da madrugada sozinho numa rádio de cidade pequena, com uma webcam ao vivo do estúdio. Às 3h as seis linhas tocam ao mesmo tempo e todo ouvinte pergunta a mesma coisa: quem é o homem alto atrás dele. A virada: na webcam o homem está lá, e o locutor está há uma hora olhando para a tela sem coragem de virar.",
+ "resumo_pt": "Um locutor faz o programa da madrugada sozinho, com uma webcam ao vivo. Às 3h todos os ouvintes ligam perguntando quem é o homem alto atrás dele. Na webcam o homem está lá. A virada: o locutor se vira e não vê nada; volta pra webcam e a cadeira dele está vazia, o homem alto está no microfone sorrindo, e agora os ouvintes perguntam pra onde foi o apresentador.",
  "tema": "night shift",
  "descricao": "Night shift horror story #3.\n\nWould you turn around?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
  "tags": [
@@ -99,20 +99,37 @@
    ]
   },
   {
-   "text": "He's bending down now. Closer to my ear.",
-   "pt": "Ele tá se abaixando agora. Mais perto da minha orelha.",
-   "mesma_imagem": true,
+   "text": "So I finally turned around. Nothing. Just the wall.",
+   "pt": "Então eu finalmente me virei. Nada. Só a parede.",
+   "visual": "empty corner of a small radio studio, bare wall, red on-air light",
    "destaque": [
-    "EAR"
+    "NOTHING"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "I looked back at the webcam. My chair was empty.",
+   "pt": "Olhei de volta pra webcam. Minha cadeira estava vazia.",
+   "visual": "grainy webcam image of a radio studio with an empty chair in front of the microphone",
+   "destaque": [
+    "EMPTY"
    ],
    "pausa": 0.7
   },
   {
-   "text": "I've been staring at the screen for an hour. I haven't turned around.",
-   "pt": "Faz uma hora que eu tô olhando pra tela. Eu ainda não me virei.",
-   "visual": "close-up of a terrified man's eyes reflecting a glowing monitor in the dark",
+   "text": "The tall man was at my microphone now. Smiling.",
+   "pt": "O homem alto estava no meu microfone agora. Sorrindo.",
+   "visual": "grainy webcam image of a very tall thin man leaning into a radio microphone, face in shadow, faint smile",
    "destaque": [
-    "TURNED"
+    "SMILING"
+   ]
+  },
+  {
+   "text": "And every caller is asking the same thing. Where did the host go?",
+   "pt": "E todo ouvinte está perguntando a mesma coisa. Pra onde foi o apresentador?",
+   "visual": "a studio phone with six blinking red lights in the dark, nobody at the desk",
+   "destaque": [
+    "HOST"
    ]
   }
  ]

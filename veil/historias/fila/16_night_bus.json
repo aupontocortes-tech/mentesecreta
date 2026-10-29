@@ -1,7 +1,7 @@
 {
  "titulo": "Night Shift Horror Story #5 | My Last Passenger Gets Off at My House #Shorts",
  "titulo_pt": "História de terror do turno da noite #5 | Meu último passageiro desce na minha casa",
- "resumo_pt": "Um motorista do último ônibus da madrugada nota pela câmera interna um passageiro no banco de trás, mas o ônibus está vazio. Toda noite a câmera mostra o homem descendo na última parada. A virada: o motorista revê as gravações e percebe que a última parada é na rua dele, e o homem anda até a casa dele; hoje a câmera mostra o homem ainda sentado no ônibus, olhando direto para o motorista.",
+ "resumo_pt": "O motorista do último ônibus da madrugada vê pela câmera um passageiro de casaco cinza no banco de trás, mas o ônibus está vazio. Toda noite o homem desce na última parada, anda até uma casa azul e senta na varanda: é a casa do motorista. A virada: o motorista descobre que o antigo dono da casa era um motorista daquela mesma linha que nunca voltou do último turno em 1979, de casaco cinza. Ele não está seguindo ninguém: ainda está voltando pra casa dele no ônibus dele.",
  "tema": "night shift",
  "descricao": "Night shift horror story #5.\n\nWhat would you do on your next shift?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
  "tags": [
@@ -89,27 +89,36 @@
    "pausa": 0.8
   },
   {
-   "text": "Tonight, I skipped the final stop. I drove straight to the depot.",
-   "pt": "Hoje à noite, eu pulei a última parada. Fui direto pra garagem.",
-   "visual": "bus driving fast through an empty road at night, headlights in rain",
+   "text": "So I looked up who lived there before me.",
+   "pt": "Então eu fui ver quem morava lá antes de mim.",
+   "visual": "old property records and papers spread on a kitchen table at night",
    "destaque": [
-    "SKIPPED"
+    "BEFORE"
    ]
   },
   {
-   "text": "The camera says he didn't get off.",
-   "pt": "A câmera diz que ele não desceu.",
-   "visual": "close-up of the bus security monitor showing the man in the back row lifting his head",
+   "text": "A bus driver. Same route. He never came home from his last shift in nineteen seventy-nine.",
+   "pt": "Um motorista de ônibus. A mesma linha. Ele nunca voltou do último turno em mil novecentos e setenta e nove.",
+   "visual": "old faded photo of a bus driver standing proudly next to a 1970s city bus",
    "destaque": [
-    "DIDN'T"
+    "NEVER"
    ]
   },
   {
-   "text": "He's standing right behind my seat now. Looking at me.",
-   "pt": "Ele tá em pé bem atrás do meu banco agora. Olhando pra mim.",
-   "visual": "grainy bus camera image of a man in a gray coat standing right behind the driver",
+   "text": "In the photo, he's wearing a gray coat.",
+   "pt": "Na foto, ele está de casaco cinza.",
+   "mesma_imagem": true,
    "destaque": [
-    "BEHIND"
+    "GRAY"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "He's not following me home. He's still riding his bus home.",
+   "pt": "Ele não está me seguindo até em casa. Ele ainda está pegando o ônibus dele pra casa dele.",
+   "visual": "empty city bus at night with one gray coat folded on the back seat",
+   "destaque": [
+    "HIS"
    ]
   }
  ]

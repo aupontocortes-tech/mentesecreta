@@ -1,7 +1,7 @@
 {
  "titulo": "Night Shift Horror Story #4 | Our Store Has Eight Aisles. The Intercom Said Nine. #Shorts",
  "titulo_pt": "História de terror do turno da noite #4 | Nosso mercado tem oito corredores. O alto-falante disse nove.",
- "resumo_pt": "Num mercado 24h, o repositor da madrugada ouve no alto-falante: limpeza no corredor nove, ninguém vá sozinho. O mercado só tem oito. O gerente conta que existia um corredor nove, fechado com parede em 1998. A virada: o colega Danny vai ver sozinho, bate o ponto às 3h12, e o carro dele continua no estacionamento; às 4h o alto-falante agradece: obrigado, Danny, o corredor nove está limpo.",
+ "resumo_pt": "Num mercado 24h, o alto-falante anuncia limpeza no corredor nove, mas o mercado só tem oito. O gerente conta que o corredor nove foi fechado com parede em 1998. O colega Danny ri e vai ver sozinho, e às 4h o alto-falante diz: bem-vindo de volta, Danny. A virada: um jornal de 1998 mostra o repositor que sumiu no corredor nove: era o Danny, mesmo rosto e mesmo crachá. Ele nunca trabalhou lá; estava voltando pra casa.",
  "tema": "night shift",
  "descricao": "Night shift horror story #4.\n\nWould you go check aisle nine?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
  "tags": [
@@ -73,46 +73,37 @@
    ]
   },
   {
-   "text": "At three twelve, Danny clocked out.",
-   "pt": "Às três e doze, o Danny bateu o ponto.",
-   "visual": "old time clock machine on a wall printing a card, dim backroom",
-   "destaque": [
-    "CLOCKED"
-   ]
-  },
-  {
-   "text": "His car is still in the parking lot.",
-   "pt": "O carro dele ainda está no estacionamento.",
-   "visual": "single car parked in an empty supermarket parking lot at night under one lamp",
-   "destaque": [
-    "CAR"
-   ],
-   "pausa": 0.6
-  },
-  {
    "text": "At four a.m., the intercom crackled again.",
    "pt": "Às quatro da manhã, o alto-falante chiou de novo.",
-   "mesma_imagem": true,
+   "visual": "ceiling speaker in a dark grocery store, dust in the light",
    "destaque": [
-    "AGAIN"
+    "FOUR"
    ]
   },
   {
-   "text": "Thank you, Danny. Aisle nine is clean now.",
-   "pt": "Obrigado, Danny. O corredor nove está limpo agora.",
+   "text": "Welcome home, Danny.",
+   "pt": "Bem-vindo de volta, Danny.",
    "mesma_imagem": true,
    "destaque": [
-    "CLEAN"
+    "HOME"
    ],
    "voz": "sombria",
    "pausa": 0.8
   },
   {
-   "text": "Tomorrow night, I'm working alone.",
-   "pt": "Amanhã à noite, eu trabalho sozinho.",
-   "visual": "empty grocery store at night seen from the end of an aisle, a dark gap in the far wall",
+   "text": "This morning, my manager showed me an old newspaper. A night stocker vanished in aisle nine in nineteen ninety-eight.",
+   "pt": "Hoje de manhã, meu gerente me mostrou um jornal antigo. Um repositor sumiu no corredor nove em mil novecentos e noventa e oito.",
+   "visual": "old yellowed newspaper page on a desk under a lamp, a blurry photo of a young man",
    "destaque": [
-    "TOMORROW"
+    "VANISHED"
+   ]
+  },
+  {
+   "text": "The photo was Danny. Same face. Same name tag. He never worked here. He was going home.",
+   "pt": "A foto era do Danny. O mesmo rosto. O mesmo crachá. Ele nunca trabalhou aqui. Ele estava voltando pra casa.",
+   "visual": "close-up of an old faded photo of a smiling young store worker wearing a name tag",
+   "destaque": [
+    "SAME"
    ]
   }
  ]
