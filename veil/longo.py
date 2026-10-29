@@ -125,15 +125,23 @@ def main(caminho, out, lingua='en'):
         vf = (f"scale=2880:1620,zoompan=z='{z}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={nfr}:s={W}x{H}:fps={FPS},"
               f"eq=contrast=1.06:brightness=-0.03:saturation=0.85,vignette=PI/4,"
               f"fade=t=in:st=0:d=0.8,fade=t=out:st={max(0, d - 0.8):.2f}:d=0.8,format=yuv420p")
-        if i == 0:   # título no começo
+        extra_in, fc = [], None
+        if i == 0:   # título no começo (desenhado com PIL: o ffmpeg do servidor não tem drawtext)
             tit = (h.get('titulo_pt') if pt else h['titulo'].split('|')[0]).strip().upper()
-            open(f'{out}/titulo.txt', 'w').write(tit)
-            vf = vf.replace(',format=yuv420p', f",drawtext=fontfile={os.path.join(RAIZ, 'Mont900.ttf')}:textfile={out}/titulo.txt:"
-                            f"x=(w-tw)/2:y=h*0.42:fontsize=96:fontcolor=white:alpha='if(lt(t,1),t,if(lt(t,5),1,max(0,6-t)))':"
-                            f"shadowcolor=black:shadowx=4:shadowy=4,format=yuv420p")
+            tim = Image.new('RGBA', (W, H), (0, 0, 0, 0)); dd = ImageDraw.Draw(tim)
+            ft = ImageFont.truetype(os.path.join(RAIZ, 'Mont900.ttf'), 96); tw = dd.textlength(tit, font=ft)
+            for dx in range(-4, 5, 2):
+                for dy in range(-4, 5, 2): dd.text(((W - tw) / 2 + dx, H * 0.42 + dy), tit, font=ft, fill=(0, 0, 0, 200))
+            dd.text(((W - tw) / 2, H * 0.42), tit, font=ft, fill=(255, 255, 255, 255))
+            tim.save(f'{out}/titulo.png')
+            extra_in = ['-loop', '1', '-framerate', str(FPS), '-t', '7', '-i', f'{out}/titulo.png']
+            fc = (f"[0:v]{vf.replace(',format=yuv420p', '')}[bg];"
+                  f"[1:v]format=rgba,fade=t=in:st=0.3:d=1:alpha=1,fade=t=out:st=5:d=1:alpha=1[t];"
+                  f"[bg][t]overlay=0:0:eof_action=pass,format=yuv420p[v]")
         cena = f'{out}/cena{i:02d}.mp4'; tmp = f'{out}/tmp{i:02d}.mp4'
-        subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-loop', '1', '-framerate', '1', '-t', '1', '-i', img,
-                        '-vf', vf, '-frames:v', str(nfr), '-r', str(FPS), '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '21',
+        filtro = ['-filter_complex', fc, '-map', '[v]'] if fc else ['-vf', vf]
+        subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-loop', '1', '-framerate', '1', '-t', '1', '-i', img, *extra_in,
+                        *filtro, '-frames:v', str(nfr), '-r', str(FPS), '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '21',
                         '-pix_fmt', 'yuv420p', tmp], check=True)
         os.replace(tmp, cena); lista.append(cena); print('cena', i, round(d, 1), 's', flush=True)
     open(f'{out}/lista.txt', 'w').write(''.join(f"file '{os.path.abspath(c)}'\n" for c in lista))
