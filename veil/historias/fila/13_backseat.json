@@ -41,14 +41,6 @@
    "pausa": 0.7
   },
   {
-   "text": "She had no idea.",
-   "pt": "Ela não fazia ideia.",
-   "mesma_imagem": true,
-   "destaque": [
-    "IDEA"
-   ]
-  },
-  {
    "text": "I didn't scream. I just said her card was declined.",
    "pt": "Eu não gritei. Só disse que o cartão tinha sido recusado.",
    "visual": "gas station clerk leaning toward a car window at night, forced calm face",
@@ -66,29 +58,12 @@
    "voz": "homem"
   },
   {
-   "text": "She rolled her eyes and followed me in.",
-   "pt": "Ela revirou os olhos e me seguiu pra dentro.",
-   "visual": "annoyed woman walking into a gas station store at night",
-   "destaque": [
-    "FOLLOWED"
-   ]
-  },
-  {
    "text": "I locked the door and told her what was in her car.",
    "pt": "Eu tranquei a porta e contei o que tinha no carro dela.",
    "visual": "hand turning the lock of a glass store door at night",
    "destaque": [
     "LOCKED"
    ]
-  },
-  {
-   "text": "She went white. We called the police.",
-   "pt": "Ela ficou branca. A gente chamou a polícia.",
-   "visual": "frightened woman in a gas station store under fluorescent light holding a phone",
-   "destaque": [
-    "POLICE"
-   ],
-   "pausa": 0.6
   },
   {
    "text": "Then we looked out at her car.",
