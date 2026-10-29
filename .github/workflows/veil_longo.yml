@@ -31,7 +31,14 @@ jobs:
           pip install -q imageio-ffmpeg && sudo ln -sf "$(python3 -c 'import imageio_ffmpeg;print(imageio_ffmpeg.get_ffmpeg_exe())')" /usr/local/bin/ffmpeg && ffmpeg -version | head -1 \
             || (sudo apt-get -o Acquire::Retries=3 update -qq && sudo apt-get -o Acquire::Retries=3 install -y -qq --no-install-recommends ffmpeg > /dev/null)
           pip install -q edge-tts numpy soundfile pillow google-auth-oauthlib google-api-python-client
+      - name: Ver se já está pronto (prévia)
+        id: pronto
+        run: |
+          N=$(basename "${{ steps.arq.outputs.a }}" .json); D=veil/longos/prontos/$N
+          if [ -f $D/en.mp4 ]; then mkdir -p out/pt && cp $D/en.mp4 out/longo.mp4 && cp $D/capa.jpg out/capa.jpg && cp $D/pt.mp4 out/pt/longo.mp4; echo "sim=1" >> $GITHUB_OUTPUT; echo "usando o vídeo já pronto"; fi
+          echo "dir=$D" >> $GITHUB_OUTPUT
       - name: Montar vídeo longo
+        if: steps.pronto.outputs.sim != '1'
         env:
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
@@ -47,7 +54,7 @@ jobs:
           ID=$(grep -o 'VIDEO_ID=[A-Za-z0-9_-]*' up.log | cut -d= -f2)
           python3 -c "import json,sys; p=sys.argv[1]; d=json.load(open(p)); d['video_id']=sys.argv[2]; json.dump(d,open(p,'w'),ensure_ascii=False,indent=1)" "$A" "$ID"
           # versão dublada em português (não listada) para o Thiago conferir; se falhar, o inglês segue normal
-          if python3 veil/longo.py "$A" out pt && python3 veil/yt.py up out/pt/longo.mp4 "$A" longo_pt | tee up_pt.log; then
+          if { [ -f out/pt/longo.mp4 ] || python3 veil/longo.py "$A" out pt; } && python3 veil/yt.py up out/pt/longo.mp4 "$A" longo_pt | tee up_pt.log; then
             IDPT=$(grep -o 'VIDEO_ID=[A-Za-z0-9_-]*' up_pt.log | cut -d= -f2)
             [ -n "$IDPT" ] && python3 -c "import json,sys; p=sys.argv[1]; d=json.load(open(p)); d['video_id_pt']=sys.argv[2]; json.dump(d,open(p,'w'),ensure_ascii=False,indent=1)" "$A" "$IDPT"
           else
@@ -55,6 +62,7 @@ jobs:
           fi
           mkdir -p veil/longos/publicados
           git add "$A" && git mv -f "$A" veil/longos/publicados/
+          [ -d "${{ steps.pronto.outputs.dir }}" ] && git rm -rq "${{ steps.pronto.outputs.dir }}"   # apaga a prévia já publicada
           git config user.name "publicador-vf" && git config user.email "actions@users.noreply.github.com"
           git commit -qm "Veil longo publicado: $(basename $A) ($ID)"
           git pull -q --rebase && git push -q

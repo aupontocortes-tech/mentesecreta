@@ -140,9 +140,14 @@ def main(caminho, out, lingua='en'):
     subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-f', 'concat', '-safe', '0', '-i', f'{out}/lista.txt', '-c', 'copy', f'{out}/video.mp4'], check=True)
     musica(ini[-1], f'{out}/fundo.wav')
     subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-i', f'{out}/video.mp4', '-i', f'{out}/narr.wav', '-i', f'{out}/fundo.wav',
-                    '-filter_complex', "[1:a]aresample=48000,pan=stereo|c0=c0|c1=c0,apad[n];[2:a]aresample=48000,volume=0.55[m];"
-                    "[n][m]amix=inputs=2:duration=shortest:normalize=0,loudnorm=I=-15:TP=-1.5:LRA=11[a]",
-                    '-map', '0:v', '-map', '[a]', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '160k', '-shortest', '-movflags', '+faststart',
+                    '-filter_complex', "[1:a]aresample=48000,pan=stereo|c0=c0|c1=c0,apad,asplit=2[n][nw];[2:a]aresample=48000,volume=0.55[m];"
+                    "[n][m]amix=inputs=2:duration=shortest:normalize=0,loudnorm=I=-15:TP=-1.5:LRA=11[a];"
+                    # linha de FREQUÊNCIA que se mexe com a voz do narrador (marca do canal)
+                    "[nw]pan=mono|c0=c0,volume=4,alimiter=limit=0.95,showwaves=s=900x130:mode=cline:rate=30:colors=0xD6EEFF:scale=lin,"
+                    "format=rgba,colorchannelmixer=aa=0.7,split[w1][w2];[w2]gblur=sigma=6[brilho];[brilho][w1]overlay[ondas];"
+                    "[0:v][ondas]overlay=(W-w)/2:H-h-70:shortest=1,format=yuv420p[v]",
+                    '-map', '[v]', '-map', '[a]', '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '21', '-c:a', 'aac', '-b:a', '160k',
+                    '-shortest', '-movflags', '+faststart',
                     f'{out}/longo.mp4'], check=True)
     if not pt:
       capa(imgs[h.get('capa_parte', 0)], h.get('capa_texto', h['titulo'].split('|')[0].strip().upper()), f'{out}/capa.jpg')
