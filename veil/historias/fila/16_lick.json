@@ -1,0 +1,116 @@
+{
+ "titulo": "Humans Can Lick Too | Urban Legend #Shorts",
+ "titulo_pt": "Humanos também lambem | Lenda urbana",
+ "resumo_pt": "Lenda urbana \"humanos também lambem\". Uma garota passa a noite sozinha em casa com o cachorro, que dorme debaixo da cama. Assustada com barulhos, ela põe a mão para fora da cama e sente uma lambida, e se acalma. Ela ouve um pingo no banheiro a noite toda. A virada: de manhã ela descobre que o cachorro passou a noite trancado no quintal, e no espelho do banheiro está escrito: humanos também lambem.",
+ "tema": "urban legends",
+ "descricao": "What would you do if you saw that message?\n\nFollow @VeilFrequency for a new horror story every day. Based on a classic American urban legend. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "urban legend",
+  "humans can lick too"
+ ],
+ "hashtags": "#horror #urbanlegend #scarystories #shorts",
+ "scenes": [
+  {
+   "text": "Something licked my hand last night. It wasn't my dog.",
+   "pt": "Alguma coisa lambeu minha mão ontem à noite. Não era meu cachorro.",
+   "visual": "a girl's hand hanging off the side of a bed in a dark bedroom",
+   "destaque": [
+    "DOG"
+   ]
+  },
+  {
+   "text": "My parents were away. Just me and Max, my dog.",
+   "pt": "Meus pais estavam viajando. Só eu e o Max, meu cachorro.",
+   "visual": "teenage girl hugging a big friendly dog on a couch in a cozy house at night",
+   "destaque": [
+    "MAX"
+   ]
+  },
+  {
+   "text": "Max always slept under my bed.",
+   "pt": "O Max sempre dormia debaixo da minha cama.",
+   "visual": "dark space under a bed, faint shape in the shadows",
+   "destaque": [
+    "UNDER"
+   ]
+  },
+  {
+   "text": "Around midnight, I heard a sound. Drip. Drip. From the bathroom.",
+   "pt": "Perto da meia-noite, ouvi um barulho. Pinga. Pinga. Do banheiro.",
+   "visual": "dark bathroom door slightly open at the end of a hallway, faint light",
+   "destaque": [
+    "DRIP"
+   ]
+  },
+  {
+   "text": "I was scared. So I hung my hand off the bed, like always.",
+   "pt": "Eu fiquei com medo. Então deixei a mão pra fora da cama, como sempre.",
+   "visual": "girl lying in bed in the dark, eyes wide, hand hanging off the edge",
+   "destaque": [
+    "HAND"
+   ]
+  },
+  {
+   "text": "And I felt it. A warm lick. Max was there. I fell asleep.",
+   "pt": "E eu senti. Uma lambida quente. O Max estava ali. Eu dormi.",
+   "mesma_imagem": true,
+   "destaque": [
+    "LICK"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "All night. Drip. Drip.",
+   "pt": "A noite toda. Pinga. Pinga.",
+   "visual": "close-up of a dripping faucet in a dark bathroom",
+   "destaque": [
+    "NIGHT"
+   ]
+  },
+  {
+   "text": "In the morning, I heard barking. Outside.",
+   "pt": "De manhã, ouvi latidos. Do lado de fora.",
+   "visual": "morning light through a window, a dog barking at a back door from the yard",
+   "destaque": [
+    "BARKING"
+   ]
+  },
+  {
+   "text": "Max was locked in the backyard. He'd been out there all night.",
+   "pt": "O Max estava trancado no quintal. Ele tinha passado a noite toda lá fora.",
+   "visual": "dog scratching at a locked glass back door from outside, morning",
+   "destaque": [
+    "LOCKED"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "I walked into the bathroom. The faucet was still dripping.",
+   "pt": "Entrei no banheiro. A torneira ainda estava pingando.",
+   "visual": "bathroom in morning light, steam on the mirror, faucet dripping",
+   "destaque": [
+    "BATHROOM"
+   ]
+  },
+  {
+   "text": "On the mirror, someone had written four words.",
+   "pt": "No espelho, alguém tinha escrito quatro palavras.",
+   "visual": "fogged bathroom mirror with handwriting on it, words not readable",
+   "destaque": [
+    "MIRROR"
+   ]
+  },
+  {
+   "text": "Humans can lick too.",
+   "pt": "Humanos também lambem.",
+   "mesma_imagem": true,
+   "destaque": [
+    "HUMANS"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "titulo": "A Trucker Chased Me for Forty Miles | Urban Legend #Shorts",
+ "titulo_pt": "Um caminhoneiro me perseguiu por sessenta quilômetros | Lenda urbana",
+ "resumo_pt": "Lenda urbana do caminhoneiro e do pisca-alto. Uma mulher dirige sozinha à noite numa estrada vazia e um caminhão gruda atrás dela, piscando o farol alto sem parar. Apavorada, ela dirige até em casa e o caminhoneiro entra atrás dela na garagem. A virada: ele grita que tem um homem com uma faca no banco de trás dela; toda vez que o homem se levantava, o caminhoneiro piscava o farol, e o homem se abaixava de novo. Ele não estava perseguindo ela: estava protegendo.",
+ "tema": "urban legends",
+ "descricao": "Would you have stopped the car?\n\nFollow @VeilFrequency for a new horror story every day. Based on a classic American urban legend. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "urban legend",
+  "trucker",
+  "high beams"
+ ],
+ "hashtags": "#horror #urbanlegend #scarystories #shorts",
+ "scenes": [
+  {
+   "text": "A truck chased me for forty miles. I thought he wanted to kill me.",
+   "pt": "Um caminhão me perseguiu por sessenta quilômetros. Eu achei que ele queria me matar.",
+   "visual": "lonely two-lane highway at night, a small car with a big truck's headlights glaring close behind",
+   "destaque": [
+    "TRUCK"
+   ]
+  },
+  {
+   "text": "It was midnight. Empty highway. Just me.",
+   "pt": "Era meia-noite. Estrada vazia. Só eu.",
+   "visual": "woman driving alone at night, face lit by the dashboard, dark road ahead",
+   "destaque": [
+    "MIDNIGHT"
+   ]
+  },
+  {
+   "text": "Then a semi pulled up right behind me. And flashed his high beams.",
+   "pt": "Aí um caminhão encostou bem atrás de mim. E piscou o farol alto.",
+   "visual": "blinding truck headlights flashing in a car's rear-view mirror at night",
+   "destaque": [
+    "BEAMS"
+   ]
+  },
+  {
+   "text": "I sped up. He sped up. Flash. Flash.",
+   "pt": "Eu acelerei. Ele acelerou. Pisca. Pisca.",
+   "visual": "rear-view mirror filled with white flashing light, woman's terrified eyes",
+   "destaque": [
+    "FLASH"
+   ]
+  },
+  {
+   "text": "I was crying. I drove straight home.",
+   "pt": "Eu estava chorando. Fui direto pra casa.",
+   "visual": "small car racing down a dark rural road at night with a truck close behind",
+   "destaque": [
+    "HOME"
+   ]
+  },
+  {
+   "text": "He followed me into my driveway.",
+   "pt": "Ele entrou atrás de mim na minha garagem.",
+   "visual": "big truck stopping right behind a small car in a dark driveway, headlights glaring",
+   "destaque": [
+    "DRIVEWAY"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "I ran for the door. He jumped out of his truck, screaming.",
+   "pt": "Eu corri pra porta. Ele pulou do caminhão, gritando.",
+   "visual": "burly trucker jumping out of his cab at night, shouting, arm pointing",
+   "destaque": [
+    "SCREAMING"
+   ]
+  },
+  {
+   "text": "Lady! Get away from the car! There's a man in your back seat!",
+   "pt": "Moça! Sai de perto do carro! Tem um homem no seu banco de trás!",
+   "mesma_imagem": true,
+   "destaque": [
+    "MAN"
+   ],
+   "voz": "homem",
+   "pausa": 0.7
+  },
+  {
+   "text": "A man with a knife. He'd been there the whole ride.",
+   "pt": "Um homem com uma faca. Ele estava ali a viagem inteira.",
+   "visual": "dark shape of a man crouched in the back seat of a car, faint glint of a blade, face hidden",
+   "destaque": [
+    "KNIFE"
+   ]
+  },
+  {
+   "text": "Every time he rose up behind me, the trucker hit his high beams.",
+   "pt": "Toda vez que ele se levantava atrás de mim, o caminhoneiro piscava o farol.",
+   "visual": "silhouette of a man rising behind a driver's seat, lit by bright headlights from behind",
+   "destaque": [
+    "EVERY"
+   ]
+  },
+  {
+   "text": "And every time, the man ducked back down.",
+   "pt": "E toda vez, o homem se abaixava de novo.",
+   "mesma_imagem": true,
+   "destaque": [
+    "DUCKED"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "He wasn't chasing me for forty miles. He was keeping me alive.",
+   "pt": "Ele não estava me perseguindo por sessenta quilômetros. Ele estava me mantendo viva.",
+   "visual": "trucker standing beside a frightened woman in a driveway at night, police lights arriving",
+   "destaque": [
+    "ALIVE"
+   ]
+  }
+ ]
+}
