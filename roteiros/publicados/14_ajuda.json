@@ -20,7 +20,9 @@
    "destaque": [
     "SOZINHO"
    ],
-   "visual": "a tired man alone at a desk at night surrounded by stacks of work, candle almost burned out"
+   "visual": "a tired man alone at a desk at night surrounded by stacks of work, candle almost burned out",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia00.jpg",
+   "credito": "IA"
   },
   {
    "text": "Calma. Não é sobre ser fraco. É sobre uma conta que seu cérebro erra.",
@@ -28,7 +30,9 @@
    "destaque": [
     "CONTA"
    ],
-   "visual": "a young man looking at his own reflection in a dark mirror, unsure"
+   "visual": "a young man looking at his own reflection in a dark mirror, unsure",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia01.jpg",
+   "credito": "IA"
   },
   {
    "text": "Sabe quando você trava pra pedir um favor, achando que vão dizer não?",
@@ -36,7 +40,9 @@
    "destaque": [
     "NÃO"
    ],
-   "visual": "a nervous young woman standing at a door with her hand raised, hesitating to knock"
+   "visual": "a nervous young woman standing at a door with her hand raised, hesitating to knock",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "Em dois mil e oito, Francis Flynn e Vanessa Lake testaram isso nos Estados Unidos.",
@@ -44,7 +50,9 @@
    "destaque": [
     "FLYNN"
    ],
-   "visual": "an old professor in a dark library holding a sheet of paper, studying it carefully"
+   "visual": "an old professor in a dark library holding a sheet of paper, studying it carefully",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "Voluntários precisavam pedir pra desconhecidos responderem um questionário.",
@@ -52,7 +60,9 @@
    "destaque": [
     "DESCONHECIDOS"
    ],
-   "visual": "a young man holding a clipboard approaching a stranger on a dark old street"
+   "visual": "a young man holding a clipboard approaching a stranger on a dark old street",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Antes, estimaram quantas pessoas teriam que abordar.",
@@ -60,7 +70,9 @@
    "destaque": [
     "ESTIMARAM"
    ],
-   "visual": "a young woman counting on her fingers, worried, by candlelight"
+   "visual": "a young woman counting on her fingers, worried, by candlelight",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Na prática, precisaram de cerca de metade dos pedidos que imaginavam.",
@@ -69,7 +81,9 @@
     "METADE"
    ],
    "pausa": 0.7,
-   "visual": "a stranger kindly taking a clipboard from a young man and writing on it, warm light"
+   "visual": "a stranger kindly taking a clipboard from a young man and writing on it, warm light",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "A gente acha que vão dizer não. Mas dizer não é desconfortável, e a maioria prefere ajudar.",
@@ -77,7 +91,9 @@
    "destaque": [
     "AJUDAR"
    ],
-   "visual": "an old man smiling and offering his hand to help a young woman, candlelight"
+   "visual": "an old man smiling and offering his hand to help a young woman, candlelight",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Então peça. O não é bem mais raro do que você imagina.",
@@ -85,7 +101,10 @@
    "destaque": [
     "PEÇA"
    ],
-   "visual": "two hands reaching toward each other in the dark, warm light between them"
+   "visual": "two hands reaching toward each other in the dark, warm light between them",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   }
- ]
+ ],
+ "video_id": "4hbWGWMlNic"
 }
