@@ -20,7 +20,9 @@
    "visual": "a frightened young woman gripping a rope railing on a swaying wooden suspension bridge over a deep gorge at dusk",
    "destaque": [
     "MEDO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia00.jpg",
+   "credito": "IA"
   },
   {
    "text": "Calma. Não é sobre gostar de levar susto. É sobre como o cérebro se confunde.",
@@ -28,7 +30,9 @@
    "visual": "a calm thoughtful man holding his chin, candlelight, deep shadows",
    "destaque": [
     "CONFUNDE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia01.jpg",
+   "credito": "IA"
   },
   {
    "text": "Sabe quando o coração dispara perto de alguém e você acha que é amor?",
@@ -36,7 +40,9 @@
    "visual": "a young man and woman looking at each other on a dark bridge, faces lit by a lantern",
    "destaque": [
     "CORAÇÃO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "Em mil novecentos e setenta e quatro, dois psicólogos fizeram um teste numa ponte balançando, no Canadá.",
@@ -44,7 +50,9 @@
    "visual": "two scholars in old coats taking notes at the end of a narrow swaying rope bridge in the mountains",
    "destaque": [
     "PONTE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "Uma mulher parava os homens no meio da ponte e deixava o telefone dela.",
@@ -52,7 +60,9 @@
    "visual": "a young woman handing a small folded note to a nervous young man on a wooden bridge",
    "destaque": [
     "TELEFONE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Metade dos homens da ponte que balançava ligou pra ela. Na ponte firme, só dois de dezesseis.",
@@ -61,7 +71,9 @@
    "destaque": [
     "METADE"
    ],
-   "pausa": 0.7
+   "pausa": 0.7,
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "O coração acelerado pelo medo foi confundido com atração.",
@@ -69,7 +81,9 @@
    "visual": "a man with his hand on his chest, heart racing, in a dark stormy landscape",
    "destaque": [
     "ATRAÇÃO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "Ou seja: nem todo frio na barriga é paixão. Às vezes, é só adrenalina.",
@@ -77,7 +91,9 @@
    "visual": "a couple standing apart in a dark room, unsure, candlelight between them",
    "destaque": [
     "ADRENALINA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Por isso o primeiro encontro num lugar que dá medo tende a marcar mais do que um jantar.",
@@ -85,7 +101,10 @@
    "visual": "a young couple laughing nervously at a dark old carnival at night, warm lanterns",
    "destaque": [
     "MEDO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   }
- ]
+ ],
+ "video_id": "8IW_zwXvFiY"
 }
