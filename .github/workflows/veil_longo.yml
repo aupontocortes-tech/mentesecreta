@@ -46,6 +46,13 @@ jobs:
           python3 veil/yt.py up out/longo.mp4 "$A" longo out/capa.jpg | tee up.log
           ID=$(grep -o 'VIDEO_ID=[A-Za-z0-9_-]*' up.log | cut -d= -f2)
           python3 -c "import json,sys; p=sys.argv[1]; d=json.load(open(p)); d['video_id']=sys.argv[2]; json.dump(d,open(p,'w'),ensure_ascii=False,indent=1)" "$A" "$ID"
+          # versão dublada em português (não listada) para o Thiago conferir; se falhar, o inglês segue normal
+          if python3 veil/longo.py "$A" out pt && python3 veil/yt.py up out/pt/longo.mp4 "$A" longo_pt | tee up_pt.log; then
+            IDPT=$(grep -o 'VIDEO_ID=[A-Za-z0-9_-]*' up_pt.log | cut -d= -f2)
+            [ -n "$IDPT" ] && python3 -c "import json,sys; p=sys.argv[1]; d=json.load(open(p)); d['video_id_pt']=sys.argv[2]; json.dump(d,open(p,'w'),ensure_ascii=False,indent=1)" "$A" "$IDPT"
+          else
+            echo "AVISO: versão em português falhou"
+          fi
           mkdir -p veil/longos/publicados
           git add "$A" && git mv -f "$A" veil/longos/publicados/
           git config user.name "publicador-vf" && git config user.email "actions@users.noreply.github.com"

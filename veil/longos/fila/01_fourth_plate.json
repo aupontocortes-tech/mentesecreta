@@ -19,10 +19,12 @@
    "visual": "an old lonely farmhouse at night in heavy rain, one warm kitchen window lit, dark fields around",
    "falas": [
     {
-     "text": "My grandmother had exactly one rule about rain, and she never explained it."
+     "text": "My grandmother had exactly one rule about rain, and she never explained it.",
+     "pt": "Minha avó tinha uma única regra sobre a chuva, e ela nunca explicou por quê."
     },
     {
-     "text": "When it rained at night, nobody in her house counted out loud. Not the dishes, not the stairs, not the people at the table. You could count anything you liked in your head, she said, but the moment a number left your mouth, you were asking a question. And she did not want to hear what answered."
+     "text": "When it rained at night, nobody in her house counted out loud. Not the dishes, not the stairs, not the people at the table. You could count anything you liked in your head, she said, but the moment a number left your mouth, you were asking a question. And she did not want to hear what answered.",
+     "pt": "Quando chovia à noite, ninguém na casa dela contava em voz alta. Nem os pratos, nem os degraus, nem as pessoas na mesa. Você podia contar o que quisesse na cabeça, ela dizia, mas no momento em que um número saísse da sua boca, você estava fazendo uma pergunta. E ela não queria ouvir o que respondia."
     }
    ]
   },
@@ -30,10 +32,12 @@
    "visual": "an old wooden kitchen table set for dinner, at the far end a single extra place setting: one plate, one fork, one glass of water, empty chair, candlelight, rain on the window",
    "falas": [
     {
-     "text": "There was one more thing. On every stormy night, she set an extra place at the end of the table. One plate, one fork, one glass of water. She never looked at it. She never spoke of it. In the morning, the plate was clean and dry, and she washed it herself, as if it had been used."
+     "text": "There was one more thing. On every stormy night, she set an extra place at the end of the table. One plate, one fork, one glass of water. She never looked at it. She never spoke of it. In the morning, the plate was clean and dry, and she washed it herself, as if it had been used.",
+     "pt": "Tinha mais uma coisa. Em toda noite de tempestade, ela colocava um lugar a mais na ponta da mesa. Um prato, um garfo, um copo d'água. Ela nunca olhava pra ele. Nunca falava dele. De manhã, o prato estava limpo e seco, e ela mesma lavava, como se tivesse sido usado."
     },
     {
-     "text": "When we were kids, my sister Nora and I thought it was an old woman's habit. We grew up, we moved away, and the rule became a family joke. Careful, don't count out loud. We laughed."
+     "text": "When we were kids, my sister Nora and I thought it was an old woman's habit. We grew up, we moved away, and the rule became a family joke. Careful, don't count out loud. We laughed.",
+     "pt": "Quando éramos crianças, minha irmã Nora e eu achávamos que era mania de velha. A gente cresceu, se mudou, e a regra virou piada de família. Cuidado, não conta em voz alta. A gente ria."
     }
    ]
   },
@@ -41,10 +45,12 @@
    "visual": "a farmhouse at the end of a muddy dirt road under dark storm clouds in late afternoon, empty fields, a car parked in front",
    "falas": [
     {
-     "text": "My grandmother died in October, at eighty-nine, in her sleep. The house came to the two of us. Nora, her husband Dan, and I spent a weekend there to empty it out before we sold."
+     "text": "My grandmother died in October, at eighty-nine, in her sleep. The house came to the two of us. Nora, her husband Dan, and I spent a weekend there to empty it out before we sold.",
+     "pt": "Minha avó morreu em outubro, aos oitenta e nove anos, dormindo. A casa ficou pra nós dois. A Nora, o marido dela, o Dan, e eu passamos um fim de semana lá pra esvaziar tudo antes de vender."
     },
     {
-     "text": "The house sat at the end of a dirt road, twenty minutes from the nearest town. By Saturday afternoon, the sky had gone dark. By the time we sat down to eat in the kitchen, with food Dan had brought from town, the rain was coming down hard on the roof."
+     "text": "The house sat at the end of a dirt road, twenty minutes from the nearest town. By Saturday afternoon, the sky had gone dark. By the time we sat down to eat in the kitchen, with food Dan had brought from town, the rain was coming down hard on the roof.",
+     "pt": "A casa ficava no fim de uma estrada de terra, a vinte minutos da cidade mais próxima. No sábado à tarde, o céu já estava escuro. Quando sentamos pra comer na cozinha, com a comida que o Dan trouxe da cidade, a chuva batia forte no telhado."
     }
    ]
   },
@@ -52,18 +58,22 @@
    "visual": "three adults eating dinner at an old farmhouse kitchen table at night, dim yellow light, rain streaking the dark window, an empty chair at the far end in shadow",
    "falas": [
     {
-     "text": "I counted without meaning to. Only in my head, the way she taught me. Nora. Dan. Me."
+     "text": "I counted without meaning to. Only in my head, the way she taught me. Nora. Dan. Me.",
+     "pt": "Eu contei sem querer. Só na cabeça, do jeito que ela ensinou. Nora. Dan. Eu."
     },
     {
      "text": "Three.",
-     "pausa": 1.2
+     "pausa": 1.2,
+     "pt": "Três."
     },
     {
-     "text": "And then, at the corner of my eye, at the end of the table where my grandmother's chair always stood, I counted one more."
+     "text": "And then, at the corner of my eye, at the end of the table where my grandmother's chair always stood, I counted one more.",
+     "pt": "E aí, no canto do olho, na ponta da mesa onde ficava a cadeira da minha avó, eu contei mais um."
     },
     {
      "text": "Four.",
-     "pausa": 1.5
+     "pausa": 1.5,
+     "pt": "Quatro."
     }
    ]
   },
@@ -71,13 +81,16 @@
    "visual": "close-up of an old empty wooden chair at the end of a kitchen table in deep shadow, the air around it feels occupied, faint candlelight",
    "falas": [
     {
-     "text": "I did not look. It was the first thing my body remembered: never look. I sat there with my fork frozen in my hand, listening to the rain. There was no sound from that end of the table. But the chair at the end, which had been empty when we sat down, suddenly felt occupied, the way a room feels when someone has just left it."
+     "text": "I did not look. It was the first thing my body remembered: never look. I sat there with my fork frozen in my hand, listening to the rain. There was no sound from that end of the table. But the chair at the end, which had been empty when we sat down, suddenly felt occupied, the way a room feels when someone has just left it.",
+     "pt": "Eu não olhei. Foi a primeira coisa que meu corpo lembrou: nunca olhe. Fiquei ali com o garfo parado na mão, ouvindo a chuva. Não vinha nenhum som daquela ponta da mesa. Mas a cadeira da ponta, que estava vazia quando a gente sentou, de repente parecia ocupada, do jeito que um cômodo parece quando alguém acabou de sair dele."
     },
     {
-     "text": "I stood up slowly. I opened the cabinet where she kept the good dishes. I took out a plate, a fork, a glass. I poured water from the pitcher. I set everything at the end of the table, without looking at the chair, and sat back down."
+     "text": "I stood up slowly. I opened the cabinet where she kept the good dishes. I took out a plate, a fork, a glass. I poured water from the pitcher. I set everything at the end of the table, without looking at the chair, and sat back down.",
+     "pt": "Levantei devagar. Abri o armário onde ela guardava a louça boa. Peguei um prato, um garfo, um copo. Coloquei água da jarra. Arrumei tudo na ponta da mesa, sem olhar pra cadeira, e sentei de novo."
     },
     {
-     "text": "Nobody spoke. Nora had stopped eating. She was watching me, and I saw her face change. She remembered. Without a word, she stood, took a folded napkin, and laid it beside the plate."
+     "text": "Nobody spoke. Nora had stopped eating. She was watching me, and I saw her face change. She remembered. Without a word, she stood, took a folded napkin, and laid it beside the plate.",
+     "pt": "Ninguém falou nada. A Nora tinha parado de comer. Ela estava me olhando, e eu vi o rosto dela mudar. Ela lembrou. Sem dizer uma palavra, levantou, pegou um guardanapo dobrado e colocou do lado do prato."
     }
    ]
   },
@@ -85,36 +98,45 @@
    "visual": "a skeptical man in his thirties leaning back at a dinner table with crossed arms and a small mocking smile, two worried women beside him, dim kitchen light",
    "falas": [
     {
-     "text": "Dan laughed."
+     "text": "Dan laughed.",
+     "pt": "O Dan riu."
     },
     {
      "text": "Okay. What is this? Is this a family thing?",
-     "voz": "dan"
+     "voz": "dan",
+     "pt": "Tá. O que é isso? É coisa de família?"
     },
     {
      "text": "Eat, Nora said quietly.",
-     "voz": "mulher"
+     "voz": "mulher",
+     "pt": "Come, a Nora disse baixinho."
     },
     {
      "text": "You two are grieving, I get it. But you're setting a plate for nobody.",
-     "voz": "dan"
+     "voz": "dan",
+     "pt": "Vocês estão de luto, eu entendo. Mas vocês estão pondo um prato pra ninguém."
     },
     {
-     "text": "It's not for nobody, I said. It's Grandma's rule. When it rains, if there's one more than there should be, you set the plate. You don't look, you don't speak, you don't count. It leaves when the rain stops."
+     "text": "It's not for nobody, I said. It's Grandma's rule. When it rains, if there's one more than there should be, you set the plate. You don't look, you don't speak, you don't count. It leaves when the rain stops.",
+     "pt": "Não é pra ninguém, eu disse. É a regra da vovó. Quando chove, se tem um a mais do que deveria, você põe o prato. Não olha, não fala, não conta. Ele vai embora quando a chuva para."
     },
     {
-     "text": "Dan looked at me, then at Nora. He waited for one of us to smile. Neither of us did."
+     "text": "Dan looked at me, then at Nora. He waited for one of us to smile. Neither of us did.",
+     "pt": "O Dan olhou pra mim, depois pra Nora. Esperou um de nós sorrir. Ninguém sorriu."
     },
     {
      "text": "You're serious.",
-     "voz": "dan"
+     "voz": "dan",
+     "pt": "Vocês tão falando sério."
     },
     {
      "text": "Dan, Nora said. Please. Don't count.",
-     "voz": "mulher"
+     "voz": "mulher",
+     "pt": "Dan, a Nora disse. Por favor. Não conta."
     },
     {
-     "text": "It was the please that got to him. I watched it happen. He was a rational man, and a rational man cannot stand to be told to obey a rule with no reason. He leaned back in his chair, crossed his arms, and said with a small, unkind smile:"
+     "text": "It was the please that got to him. I watched it happen. He was a rational man, and a rational man cannot stand to be told to obey a rule with no reason. He leaned back in his chair, crossed his arms, and said with a small, unkind smile:",
+     "pt": "Foi o por favor que pegou ele. Eu vi acontecer. Ele era um homem racional, e um homem racional não suporta ser mandado a obedecer uma regra sem motivo. Ele se encostou na cadeira, cruzou os braços e disse, com um sorrisinho maldoso:"
     }
    ]
   },
@@ -124,28 +146,34 @@
     {
      "text": "One. Two. Three.",
      "voz": "dan",
-     "pausa": 0.6
+     "pausa": 0.6,
+     "pt": "Um. Dois. Três."
     },
     {
-     "text": "He pointed at each of us. At Nora. At me. At himself."
+     "text": "He pointed at each of us. At Nora. At me. At himself.",
+     "pt": "Ele apontou pra cada um de nós. Pra Nora. Pra mim. Pra ele mesmo."
     },
     {
      "text": "See? Three. There's nobody at the end of the",
      "voz": "dan",
-     "pausa": 0.1
+     "pausa": 0.1,
+     "pt": "Viu? Três. Não tem ninguém na ponta da"
     },
     {
      "text": "Four.",
      "voz": "eco",
-     "pausa": 1.5
+     "pausa": 1.5,
+     "pt": "Quatro."
     },
     {
      "text": "The voice came from the end of the table. Low and dry, like a sheet of paper being turned. And I recognized the sound of it, and my stomach dropped: it was Dan's voice. Exactly Dan's voice, only half a second late, like an echo that had learned to speak on its own.",
-     "pausa": 1.0
+     "pausa": 1.0,
+     "pt": "A voz veio da ponta da mesa. Baixa e seca, como uma folha de papel sendo virada. E eu reconheci o som dela, e meu estômago gelou: era a voz do Dan. Exatamente a voz do Dan, só que meio segundo atrasada, como um eco que aprendeu a falar sozinho."
     },
     {
      "text": "The lights went out.",
-     "pausa": 1.5
+     "pausa": 1.5,
+     "pt": "A luz apagou."
     }
    ]
   },
@@ -153,18 +181,22 @@
    "visual": "almost total darkness in a farmhouse kitchen, only rain on the window faintly lit, two trembling hands holding each other under a table",
    "falas": [
     {
-     "text": "Nobody moved. The rain pounded the roof, and the darkness in the kitchen was total. I felt Nora's hand find mine under the table. It was ice cold, and shaking."
+     "text": "Nobody moved. The rain pounded the roof, and the darkness in the kitchen was total. I felt Nora's hand find mine under the table. It was ice cold, and shaking.",
+     "pt": "Ninguém se mexeu. A chuva batia no telhado, e a escuridão na cozinha era total. Senti a mão da Nora achar a minha embaixo da mesa. Estava gelada, e tremendo."
     },
     {
      "text": "Don't look, she whispered. Don't look, don't look.",
-     "voz": "sussurro"
+     "voz": "sussurro",
+     "pt": "Não olha, ela sussurrou. Não olha, não olha."
     },
     {
-     "text": "I heard Dan breathing fast. I heard him murmur, I'm sorry, I'm sorry, I'm sorry."
+     "text": "I heard Dan breathing fast. I heard him murmur, I'm sorry, I'm sorry, I'm sorry.",
+     "pt": "Ouvi o Dan respirando rápido. Ouvi ele murmurar: desculpa, desculpa, desculpa."
     },
     {
      "text": "And then I heard the fork.",
-     "pausa": 1.2
+     "pausa": 1.2,
+     "pt": "E aí eu ouvi o garfo."
     }
    ]
   },
@@ -173,10 +205,12 @@
    "falas": [
     {
      "text": "A soft clink of metal on porcelain. Then another. Someone at the end of the table was eating.",
-     "pausa": 1.2
+     "pausa": 1.2,
+     "pt": "Um tilintar baixinho de metal na porcelana. Depois outro. Alguém na ponta da mesa estava comendo."
     },
     {
-     "text": "We sat there all night. I can't tell you how long it lasted. I counted my sister's breaths in my head, only in my head, until I lost the count. At some point, the sound of the fork stopped. But the rain kept going, and we kept not looking."
+     "text": "We sat there all night. I can't tell you how long it lasted. I counted my sister's breaths in my head, only in my head, until I lost the count. At some point, the sound of the fork stopped. But the rain kept going, and we kept not looking.",
+     "pt": "Ficamos ali a noite inteira. Não sei dizer quanto tempo durou. Contei a respiração da minha irmã na cabeça, só na cabeça, até perder a conta. Em algum momento, o barulho do garfo parou. Mas a chuva continuou, e a gente continuou sem olhar."
     }
    ]
   },
@@ -184,10 +218,12 @@
    "visual": "gray morning light through a kitchen window after rain, a clean dry white plate with a fork lined up beside it and an empty glass, the chair pushed in neatly",
    "falas": [
     {
-     "text": "When the gray light of morning came through the kitchen window, the rain had stopped."
+     "text": "When the gray light of morning came through the kitchen window, the rain had stopped.",
+     "pt": "Quando a luz cinza da manhã entrou pela janela da cozinha, a chuva tinha parado."
     },
     {
-     "text": "I looked first. The plate was clean and dry. The fork lay lined up beside it. The glass was empty. The chair was pushed in against the table, as if no one had ever stood up from it."
+     "text": "I looked first. The plate was clean and dry. The fork lay lined up beside it. The glass was empty. The chair was pushed in against the table, as if no one had ever stood up from it.",
+     "pt": "Eu olhei primeiro. O prato estava limpo e seco. O garfo, alinhado do lado. O copo, vazio. A cadeira estava empurrada contra a mesa, como se ninguém tivesse levantado dela."
     }
    ]
   },
@@ -195,18 +231,22 @@
    "visual": "an old worn notebook held with a rubber band in a dusty pantry behind jars of preserves, open pages full of handwritten dates and tally marks in blue ink",
    "falas": [
     {
-     "text": "That was the morning we found the notebook. It was in the pantry, behind the jars of preserves, held shut with an old rubber band. My grandmother's handwriting, in blue ink, page after page. One line for every storm. Fifty years of lines. A date, and next to each date, a tally mark."
+     "text": "That was the morning we found the notebook. It was in the pantry, behind the jars of preserves, held shut with an old rubber band. My grandmother's handwriting, in blue ink, page after page. One line for every storm. Fifty years of lines. A date, and next to each date, a tally mark.",
+     "pt": "Foi naquela manhã que a gente achou o caderno. Estava na despensa, atrás dos potes de conserva, preso com um elástico velho. A letra da minha avó, em tinta azul, página após página. Uma linha pra cada tempestade. Cinquenta anos de linhas. Uma data, e do lado de cada data, um risquinho."
     },
     {
-     "text": "On the last page, the handwriting was shakier, written not long before she died."
+     "text": "On the last page, the handwriting was shakier, written not long before she died.",
+     "pt": "Na última página, a letra estava mais tremida, escrita pouco antes de ela morrer."
     },
     {
      "text": "The plate holds it for one night. But if anyone counts out loud, it learns the voice. It doesn't leave with the rain. It leaves with whoever spoke.",
      "voz": "idosa",
-     "pausa": 1.5
+     "pausa": 1.5,
+     "pt": "O prato segura ele por uma noite. Mas se alguém contar em voz alta, ele aprende a voz. Ele não vai embora com a chuva. Ele vai embora com quem falou."
     },
     {
-     "text": "Nora read it aloud, and then covered her mouth, realizing what she had done. But it wasn't raining, and nothing answered."
+     "text": "Nora read it aloud, and then covered her mouth, realizing what she had done. But it wasn't raining, and nothing answered.",
+     "pt": "A Nora leu em voz alta, e depois tampou a boca, percebendo o que tinha feito. Mas não estava chovendo, e nada respondeu."
     }
    ]
   },
@@ -214,15 +254,18 @@
    "visual": "a pale exhausted man staring through a car window at night, rain drops on the glass, haunted eyes",
    "falas": [
     {
-     "text": "Dan didn't speak during breakfast. He didn't speak on the drive home. When we dropped him off, he looked at me through the car window and said:"
+     "text": "Dan didn't speak during breakfast. He didn't speak on the drive home. When we dropped him off, he looked at me through the car window and said:",
+     "pt": "O Dan não falou no café da manhã. Não falou na volta pra casa. Quando deixamos ele em casa, ele me olhou pela janela do carro e disse:"
     },
     {
      "text": "I can still hear it.",
      "voz": "dan",
-     "pausa": 1.5
+     "pausa": 1.5,
+     "pt": "Eu ainda escuto."
     },
     {
-     "text": "That was six months ago. Nora calls me sometimes. She says Dan sets four plates at the table every night, rain or not. She says it's easier to feed it than to hear it ask."
+     "text": "That was six months ago. Nora calls me sometimes. She says Dan sets four plates at the table every night, rain or not. She says it's easier to feed it than to hear it ask.",
+     "pt": "Isso foi há seis meses. A Nora me liga às vezes. Ela diz que o Dan põe quatro pratos na mesa toda noite, com chuva ou sem. Diz que é mais fácil alimentar aquilo do que ouvir aquilo perguntar."
     }
    ]
   },
@@ -230,22 +273,27 @@
    "visual": "a family photo of three smiling adults at a dinner table with four plates and four chairs, a dark window behind them reflecting a fourth shadowy figure sitting at the empty chair",
    "falas": [
     {
-     "text": "Last week she sent me a photo of their table. Four plates, four chairs, and the three of them smiling at the camera. I stared at it and counted, in my head, the way my grandmother taught me."
+     "text": "Last week she sent me a photo of their table. Four plates, four chairs, and the three of them smiling at the camera. I stared at it and counted, in my head, the way my grandmother taught me.",
+     "pt": "Semana passada ela me mandou uma foto da mesa deles. Quatro pratos, quatro cadeiras, e os três sorrindo pra câmera. Fiquei olhando e contei, na cabeça, do jeito que minha avó me ensinou."
     },
     {
      "text": "Three.",
-     "pausa": 1.2
+     "pausa": 1.2,
+     "pt": "Três."
     },
     {
-     "text": "Then I noticed the window behind them. In the reflection in the glass, at the end of the table, where the photo showed an empty chair, someone else was sitting. I counted the reflection."
+     "text": "Then I noticed the window behind them. In the reflection in the glass, at the end of the table, where the photo showed an empty chair, someone else was sitting. I counted the reflection.",
+     "pt": "Aí eu reparei na janela atrás deles. No reflexo do vidro, na ponta da mesa, onde a foto mostrava uma cadeira vazia, tinha mais alguém sentado. Eu contei o reflexo."
     },
     {
      "text": "Four.",
-     "pausa": 1.8
+     "pausa": 1.8,
+     "pt": "Quatro."
     },
     {
      "text": "I haven't counted anything out loud since.",
-     "pausa": 2.5
+     "pausa": 2.5,
+     "pt": "Eu nunca mais contei nada em voz alta."
     }
    ]
   }

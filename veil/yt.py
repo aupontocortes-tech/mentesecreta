@@ -31,7 +31,11 @@ desc += '\n\n' + r.get('hashtags', '#horror #analoghorror #creepy')
 # containsSyntheticMedia: o vídeo imita gravação real, então marcamos como conteúdo alterado/sintético
 status = {'selfDeclaredMadeForKids': False, 'containsSyntheticMedia': True}
 lingua = 'en'
-if modo == 'longo':   # vídeo longo deitado: público na hora, sem #Shorts
+if modo == 'longo_pt':   # versão dublada do vídeo longo: não listada
+    lingua = 'pt'
+    status['privacyStatus'] = 'unlisted'
+    desc = (r.get('resumo_pt') or '') + '\n\nVersão em português (não listada) só para conferência.'
+elif modo == 'longo':   # vídeo longo deitado: público na hora, sem #Shorts
     status['privacyStatus'] = 'public'
     desc = r['descricao']
 elif modo == 'pt':   # versão dublada: não listada (só abre pelo link do painel), não aparece no canal
