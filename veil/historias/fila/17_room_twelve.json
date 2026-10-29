@@ -1,0 +1,119 @@
+{
+ "titulo": "Night Shift Horror Story #6 | Room Twelve Is Empty. It Still Calls the Nurse. #Shorts",
+ "titulo_pt": "História de terror do turno da noite #6 | O quarto doze está vazio há anos. Ainda chama a enfermeira.",
+ "resumo_pt": "Numa ala de hospital, a luz de chamada do quarto doze, vazio há anos, acende toda noite às 2h14. A enfermeira antiga ensina: atenda no interfone e diga só 'hoje não'. Na noite em que a narradora está sozinha, ela pergunta quem é. Uma voz de idoso diz que está cansado de esperar. A virada: a porta do quarto doze se abre no corredor e, logo depois, o botão de chamada do próprio balcão das enfermeiras começa a tocar.",
+ "tema": "night shift",
+ "descricao": "Night shift horror story #6.\n\nWould you have answered?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "scary",
+  "night shift"
+ ],
+ "hashtags": "#horror #scarystories #nightshift #shorts",
+ "scenes": [
+  {
+   "text": "Room twelve has been empty for years. Every night at two fourteen, it calls the nurse.",
+   "pt": "O quarto doze está vazio há anos. Toda noite às duas e catorze, ele chama a enfermeira.",
+   "visual": "dark hospital hallway at night, one red call light glowing above a closed door",
+   "destaque": [
+    "TWELVE"
+   ]
+  },
+  {
+   "text": "The old night nurse taught me what to do.",
+   "pt": "A enfermeira antiga da noite me ensinou o que fazer.",
+   "visual": "older nurse in scrubs at a dim nurses' station, serious face",
+   "destaque": [
+    "TAUGHT"
+   ]
+  },
+  {
+   "text": "Press the intercom. Say not tonight. Never go in.",
+   "pt": "Aperta o interfone. Diz hoje não. Nunca entra.",
+   "mesma_imagem": true,
+   "destaque": [
+    "NEVER"
+   ],
+   "voz": "idosa"
+  },
+  {
+   "text": "For a year, I said not tonight. The light always went out.",
+   "pt": "Por um ano, eu disse hoje não. A luz sempre apagava.",
+   "visual": "close-up of a nurse's finger pressing an old hospital intercom button",
+   "destaque": [
+    "YEAR"
+   ]
+  },
+  {
+   "text": "Last night, she was off. I was alone on the floor.",
+   "pt": "Ontem à noite, ela estava de folga. Eu estava sozinha no andar.",
+   "visual": "empty hospital nurses' station at night, one lamp on, long dark corridor",
+   "destaque": [
+    "ALONE"
+   ]
+  },
+  {
+   "text": "Two fourteen. Room twelve.",
+   "pt": "Duas e catorze. Quarto doze.",
+   "visual": "red call light flashing above a hospital room door in a dark corridor",
+   "destaque": [
+    "FOURTEEN"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "And I asked, who is this?",
+   "pt": "E eu perguntei: quem é?",
+   "visual": "young nurse leaning toward an intercom speaker in the dark",
+   "destaque": [
+    "WHO"
+   ]
+  },
+  {
+   "text": "A year of not tonight, nurse. I'm tired of waiting.",
+   "pt": "Um ano de hoje não, enfermeira. Cansei de esperar.",
+   "mesma_imagem": true,
+   "destaque": [
+    "TIRED"
+   ],
+   "voz": "idoso",
+   "pausa": 0.8
+  },
+  {
+   "text": "The light went out.",
+   "pt": "A luz apagou.",
+   "mesma_imagem": true,
+   "destaque": [
+    "OUT"
+   ]
+  },
+  {
+   "text": "Down the hall, the door of room twelve slowly opened.",
+   "pt": "No fim do corredor, a porta do quarto doze abriu devagar.",
+   "visual": "hospital room door slowly opening at the end of a dark corridor, darkness inside",
+   "destaque": [
+    "OPENED"
+   ]
+  },
+  {
+   "text": "Then the call button on my own desk started ringing.",
+   "pt": "Aí o botão de chamada da minha própria mesa começou a tocar.",
+   "visual": "close-up of a red call button lighting up on a nurses' station desk",
+   "destaque": [
+    "DESK"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "The label under it says: room twelve.",
+   "pt": "A etiqueta embaixo dele diz: quarto doze.",
+   "mesma_imagem": true,
+   "destaque": [
+    "TWELVE"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "titulo": "Night Shift Horror Story #7 | The School Intercom Called My Name #Shorts",
+ "titulo_pt": "História de terror do turno da noite #7 | O alto-falante da escola chamou meu nome",
+ "resumo_pt": "Um zelador limpa uma escola primária de madrugada. Às 3h o alto-falante chama o nome dele como se fosse um aluno, dizendo que está atrasado para a aula. Ele estudou naquela escola há trinta anos. A virada: o alto-falante avisa que a mãe dele chegou para buscá-lo e ele ouve a voz dela chamando do portão, só que a mãe dele morreu há quinze anos.",
+ "tema": "night shift",
+ "descricao": "Night shift horror story #7.\n\nWould you go to the gate?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "scary",
+  "night shift"
+ ],
+ "hashtags": "#horror #scarystories #nightshift #shorts",
+ "scenes": [
+  {
+   "text": "I clean an elementary school at night. Tonight, the intercom called my name.",
+   "pt": "Eu limpo uma escola primária de madrugada. Hoje, o alto-falante chamou meu nome.",
+   "visual": "janitor with a mop in a dark elementary school hallway lined with small lockers",
+   "destaque": [
+    "NAME"
+   ]
+  },
+  {
+   "text": "Michael Reyes, you're late for class.",
+   "pt": "Michael Reyes, você está atrasado pra aula.",
+   "mesma_imagem": true,
+   "destaque": [
+    "LATE"
+   ],
+   "voz": "idosa"
+  },
+  {
+   "text": "I went to this school thirty years ago.",
+   "pt": "Eu estudei nessa escola há trinta anos.",
+   "visual": "old faded class photo of children hanging crooked on a school wall",
+   "destaque": [
+    "THIRTY"
+   ]
+  },
+  {
+   "text": "That was my second-grade teacher's voice.",
+   "pt": "Aquela era a voz da minha professora do segundo ano.",
+   "visual": "empty old classroom at night, small desks, chalkboard, moonlight",
+   "destaque": [
+    "TEACHER"
+   ]
+  },
+  {
+   "text": "I went to the office. Nobody at the microphone.",
+   "pt": "Fui até a secretaria. Ninguém no microfone.",
+   "visual": "school office at night with an old intercom microphone on the desk",
+   "destaque": [
+    "NOBODY"
+   ]
+  },
+  {
+   "text": "But the attendance sheet was out. One name checked absent.",
+   "pt": "Mas a lista de chamada estava em cima da mesa. Um nome marcado como faltando.",
+   "visual": "old paper attendance sheet on a desk under a desk lamp",
+   "destaque": [
+    "ABSENT"
+   ]
+  },
+  {
+   "text": "Mine.",
+   "pt": "O meu.",
+   "mesma_imagem": true,
+   "destaque": [
+    "MINE"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "Then the intercom crackled again.",
+   "pt": "Aí o alto-falante chiou de novo.",
+   "visual": "old school intercom speaker on a wall above a clock at three a.m.",
+   "destaque": [
+    "AGAIN"
+   ]
+  },
+  {
+   "text": "Michael, your mother is here to pick you up.",
+   "pt": "Michael, sua mãe chegou pra te buscar.",
+   "mesma_imagem": true,
+   "destaque": [
+    "MOTHER"
+   ],
+   "voz": "idosa",
+   "pausa": 0.6
+  },
+  {
+   "text": "And from the front gate, I heard her. Calling me, like when I was seven.",
+   "pt": "E lá do portão, eu ouvi ela. Me chamando, como quando eu tinha sete anos.",
+   "visual": "school front gate at night in fog, a woman's silhouette standing behind the bars",
+   "destaque": [
+    "GATE"
+   ]
+  },
+  {
+   "text": "My mother died fifteen years ago.",
+   "pt": "Minha mãe morreu há quinze anos.",
+   "mesma_imagem": true,
+   "destaque": [
+    "DIED"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "She's still calling. And the gate is open.",
+   "pt": "Ela continua chamando. E o portão está aberto.",
+   "visual": "school gate standing open at night, fog, an empty schoolyard",
+   "destaque": [
+    "OPEN"
+   ]
+  }
+ ]
+}

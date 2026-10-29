@@ -1,0 +1,119 @@
+{
+ "titulo": "Night Shift Horror Story #3 | Every Caller Asked Who Was Behind Me #Shorts",
+ "titulo_pt": "História de terror do turno da noite #3 | Todos os ouvintes perguntaram quem estava atrás de mim",
+ "resumo_pt": "Um locutor faz o programa da madrugada sozinho numa rádio de cidade pequena, com uma webcam ao vivo do estúdio. Às 3h as seis linhas tocam ao mesmo tempo e todo ouvinte pergunta a mesma coisa: quem é o homem alto atrás dele. A virada: na webcam o homem está lá, e o locutor está há uma hora olhando para a tela sem coragem de virar.",
+ "tema": "night shift",
+ "descricao": "Night shift horror story #3.\n\nWould you turn around?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "scary",
+  "night shift"
+ ],
+ "hashtags": "#horror #scarystories #nightshift #shorts",
+ "scenes": [
+  {
+   "text": "I host the three a.m. show at a tiny radio station. Alone.",
+   "pt": "Eu apresento o programa das três da manhã numa rádio pequena. Sozinho.",
+   "visual": "late night radio host at a microphone in a small dark studio lit by red on-air sign",
+   "destaque": [
+    "ALONE"
+   ]
+  },
+  {
+   "text": "We have a live webcam. Maybe twenty people watch it.",
+   "pt": "A gente tem uma webcam ao vivo. Umas vinte pessoas assistem.",
+   "visual": "small webcam on top of a monitor in a dark radio studio, red recording light",
+   "destaque": [
+    "WEBCAM"
+   ]
+  },
+  {
+   "text": "Last night, all six phone lines lit up at once.",
+   "pt": "Ontem à noite, as seis linhas de telefone acenderam ao mesmo tempo.",
+   "visual": "a studio phone with six blinking red lights in the dark",
+   "destaque": [
+    "SIX"
+   ]
+  },
+  {
+   "text": "I picked up the first one.",
+   "pt": "Atendi a primeira.",
+   "mesma_imagem": true,
+   "destaque": [
+    "FIRST"
+   ]
+  },
+  {
+   "text": "Hey. Who's the tall guy standing behind you?",
+   "pt": "Ei. Quem é o cara alto parado atrás de você?",
+   "mesma_imagem": true,
+   "destaque": [
+    "BEHIND"
+   ],
+   "voz": "mulher",
+   "pausa": 0.6
+  },
+  {
+   "text": "I laughed. I picked up the next one.",
+   "pt": "Eu ri. Atendi a próxima.",
+   "visual": "radio host smiling nervously holding a phone receiver in a dark studio",
+   "destaque": [
+    "NEXT"
+   ]
+  },
+  {
+   "text": "Dude, he's right behind your chair.",
+   "pt": "Cara, ele tá bem atrás da sua cadeira.",
+   "mesma_imagem": true,
+   "destaque": [
+    "CHAIR"
+   ],
+   "voz": "homem"
+  },
+  {
+   "text": "Every caller. Same question.",
+   "pt": "Todos os ouvintes. A mesma pergunta.",
+   "mesma_imagem": true,
+   "destaque": [
+    "SAME"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "So I opened the webcam on my screen.",
+   "pt": "Então eu abri a webcam na minha tela.",
+   "visual": "computer monitor in a dark studio showing a grainy webcam image of a man at a microphone",
+   "destaque": [
+    "SCREEN"
+   ]
+  },
+  {
+   "text": "There I was, at the mic. And behind me, almost touching the ceiling, a man.",
+   "pt": "Lá estava eu, no microfone. E atrás de mim, quase encostando no teto, um homem.",
+   "visual": "grainy webcam image of a radio studio, a very tall thin dark figure standing behind the host's chair",
+   "destaque": [
+    "CEILING"
+   ]
+  },
+  {
+   "text": "He's bending down now. Closer to my ear.",
+   "pt": "Ele tá se abaixando agora. Mais perto da minha orelha.",
+   "mesma_imagem": true,
+   "destaque": [
+    "EAR"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "I've been staring at the screen for an hour. I haven't turned around.",
+   "pt": "Faz uma hora que eu tô olhando pra tela. Eu ainda não me virei.",
+   "visual": "close-up of a terrified man's eyes reflecting a glowing monitor in the dark",
+   "destaque": [
+    "TURNED"
+   ]
+  }
+ ]
+}

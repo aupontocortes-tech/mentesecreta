@@ -1,0 +1,119 @@
+{
+ "titulo": "Night Shift Horror Story #4 | Our Store Has Eight Aisles. The Intercom Said Nine. #Shorts",
+ "titulo_pt": "História de terror do turno da noite #4 | Nosso mercado tem oito corredores. O alto-falante disse nove.",
+ "resumo_pt": "Num mercado 24h, o repositor da madrugada ouve no alto-falante: limpeza no corredor nove, ninguém vá sozinho. O mercado só tem oito. O gerente conta que existia um corredor nove, fechado com parede em 1998. A virada: o colega Danny vai ver sozinho, bate o ponto às 3h12, e o carro dele continua no estacionamento; às 4h o alto-falante agradece: obrigado, Danny, o corredor nove está limpo.",
+ "tema": "night shift",
+ "descricao": "Night shift horror story #4.\n\nWould you go check aisle nine?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "scary",
+  "night shift"
+ ],
+ "hashtags": "#horror #scarystories #nightshift #shorts",
+ "scenes": [
+  {
+   "text": "I stock shelves overnight at a grocery store. It has eight aisles.",
+   "pt": "Eu reponho prateleiras de madrugada num mercado. Ele tem oito corredores.",
+   "visual": "empty grocery store at night, long aisle under flickering fluorescent lights",
+   "destaque": [
+    "EIGHT"
+   ]
+  },
+  {
+   "text": "At two a.m., the intercom crackled.",
+   "pt": "Às duas da manhã, o alto-falante chiou.",
+   "visual": "ceiling speaker in a dark grocery store, dust in the light",
+   "destaque": [
+    "INTERCOM"
+   ]
+  },
+  {
+   "text": "Clean up on aisle nine. Nobody go alone.",
+   "pt": "Limpeza no corredor nove. Ninguém vá sozinho.",
+   "mesma_imagem": true,
+   "destaque": [
+    "NINE"
+   ],
+   "voz": "sombria",
+   "pausa": 0.7
+  },
+  {
+   "text": "Nobody was at the front desk to make that call.",
+   "pt": "Não tinha ninguém no balcão pra fazer esse anúncio.",
+   "visual": "empty grocery store customer service desk with an old microphone, dark",
+   "destaque": [
+    "NOBODY"
+   ]
+  },
+  {
+   "text": "My manager went pale. There used to be an aisle nine.",
+   "pt": "Meu gerente ficou pálido. Antigamente existia um corredor nove.",
+   "visual": "worried store manager in a work vest under fluorescent light",
+   "destaque": [
+    "PALE"
+   ]
+  },
+  {
+   "text": "They walled it up in nineteen ninety-eight. He wouldn't say why.",
+   "pt": "Fecharam com parede em mil novecentos e noventa e oito. Ele não quis dizer por quê.",
+   "visual": "freshly painted wall at the end of a grocery store aisle, slightly different color",
+   "destaque": [
+    "WALLED"
+   ]
+  },
+  {
+   "text": "Danny laughed and went to look. Alone.",
+   "pt": "O Danny riu e foi olhar. Sozinho.",
+   "visual": "young store worker walking down a long dark grocery aisle with a flashlight",
+   "destaque": [
+    "ALONE"
+   ]
+  },
+  {
+   "text": "At three twelve, Danny clocked out.",
+   "pt": "Às três e doze, o Danny bateu o ponto.",
+   "visual": "old time clock machine on a wall printing a card, dim backroom",
+   "destaque": [
+    "CLOCKED"
+   ]
+  },
+  {
+   "text": "His car is still in the parking lot.",
+   "pt": "O carro dele ainda está no estacionamento.",
+   "visual": "single car parked in an empty supermarket parking lot at night under one lamp",
+   "destaque": [
+    "CAR"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "At four a.m., the intercom crackled again.",
+   "pt": "Às quatro da manhã, o alto-falante chiou de novo.",
+   "mesma_imagem": true,
+   "destaque": [
+    "AGAIN"
+   ]
+  },
+  {
+   "text": "Thank you, Danny. Aisle nine is clean now.",
+   "pt": "Obrigado, Danny. O corredor nove está limpo agora.",
+   "mesma_imagem": true,
+   "destaque": [
+    "CLEAN"
+   ],
+   "voz": "sombria",
+   "pausa": 0.8
+  },
+  {
+   "text": "Tomorrow night, I'm working alone.",
+   "pt": "Amanhã à noite, eu trabalho sozinho.",
+   "visual": "empty grocery store at night seen from the end of an aisle, a dark gap in the far wall",
+   "destaque": [
+    "TOMORROW"
+   ]
+  }
+ ]
+}

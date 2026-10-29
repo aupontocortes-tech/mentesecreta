@@ -1,0 +1,119 @@
+{
+ "titulo": "Night Shift Horror Story #2 | Never Sell Gas at Pump Four #Shorts",
+ "titulo_pt": "História de terror do turno da noite #2 | Nunca venda gasolina na bomba quatro",
+ "resumo_pt": "O dono de um posto dá uma regra ao frentista da madrugada: se alguém pedir a bomba quatro, diga que está quebrada. O posto só tem três bombas. Às 3h um homem de capa de chuva pede a bomba quatro e diz que o último frentista também disse isso. A virada: uma quarta bomba aparece no pátio, o caixa a libera sozinho e, nas câmeras, o homem nunca entrou na loja: só o próprio frentista caminhando até a bomba quatro.",
+ "tema": "night shift",
+ "descricao": "Night shift horror story #2.\n\nWould you have walked out to pump four?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "scary",
+  "night shift"
+ ],
+ "hashtags": "#horror #scarystories #nightshift #shorts",
+ "scenes": [
+  {
+   "text": "My boss gave me one rule for the night shift. If anyone asks for pump four, say it's broken.",
+   "pt": "Meu chefe me deu uma regra pro turno da noite. Se alguém pedir a bomba quatro, diga que está quebrada.",
+   "visual": "small rural gas station at night glowing under rain, empty road",
+   "destaque": [
+    "FOUR"
+   ]
+  },
+  {
+   "text": "We only have three pumps.",
+   "pt": "A gente só tem três bombas.",
+   "visual": "three old gas pumps in a row under bright station lights at night, rain",
+   "destaque": [
+    "THREE"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "Three a.m., a man in a soaked raincoat walked in.",
+   "pt": "Três da manhã, entrou um homem de capa de chuva encharcada.",
+   "visual": "man in a dripping yellow raincoat standing at a gas station counter, face in shadow",
+   "destaque": [
+    "RAINCOAT"
+   ]
+  },
+  {
+   "text": "Pump four, please.",
+   "pt": "Bomba quatro, por favor.",
+   "mesma_imagem": true,
+   "destaque": [
+    "PLEASE"
+   ],
+   "voz": "sombrio"
+  },
+  {
+   "text": "I told him it was broken.",
+   "pt": "Eu disse que estava quebrada.",
+   "mesma_imagem": true,
+   "destaque": [
+    "BROKEN"
+   ]
+  },
+  {
+   "text": "That's what the last kid said.",
+   "pt": "Foi isso que o último rapaz disse.",
+   "mesma_imagem": true,
+   "destaque": [
+    "LAST"
+   ],
+   "voz": "sombrio",
+   "pausa": 0.7
+  },
+  {
+   "text": "He smiled, paid in cash, and walked back into the rain.",
+   "pt": "Ele sorriu, pagou em dinheiro e voltou pra chuva.",
+   "visual": "silhouette of a man walking away into heavy rain at a gas station at night",
+   "destaque": [
+    "RAIN"
+   ]
+  },
+  {
+   "text": "Through the window, I saw a fourth pump. Right next to pump three.",
+   "pt": "Pela janela, eu vi uma quarta bomba. Bem do lado da bomba três.",
+   "visual": "an extra old rusty gas pump standing alone at the end of a row under flickering light",
+   "destaque": [
+    "FOURTH"
+   ]
+  },
+  {
+   "text": "My register beeped. Pump four, authorized.",
+   "pt": "Meu caixa apitou. Bomba quatro, liberada.",
+   "visual": "close-up of an old cash register screen glowing green in a dark store",
+   "destaque": [
+    "AUTHORIZED"
+   ]
+  },
+  {
+   "text": "I never touched it.",
+   "pt": "Eu nunca toquei nele.",
+   "mesma_imagem": true,
+   "destaque": [
+    "NEVER"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "This morning, my boss checked the cameras. There was no man.",
+   "pt": "Hoje de manhã, meu chefe olhou as câmeras. Não tinha homem nenhum.",
+   "visual": "grainy security camera view of an empty gas station store at night",
+   "destaque": [
+    "CAMERAS"
+   ]
+  },
+  {
+   "text": "Just me, walking out to pump four. I don't remember coming back.",
+   "pt": "Só eu, andando até a bomba quatro. Eu não lembro de ter voltado.",
+   "visual": "grainy security footage of a lone clerk walking toward a gas pump in the rain",
+   "destaque": [
+    "BACK"
+   ]
+  }
+ ]
+}

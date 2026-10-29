@@ -1,0 +1,116 @@
+{
+ "titulo": "Night Shift Horror Story #5 | My Last Passenger Gets Off at My House #Shorts",
+ "titulo_pt": "História de terror do turno da noite #5 | Meu último passageiro desce na minha casa",
+ "resumo_pt": "Um motorista do último ônibus da madrugada nota pela câmera interna um passageiro no banco de trás, mas o ônibus está vazio. Toda noite a câmera mostra o homem descendo na última parada. A virada: o motorista revê as gravações e percebe que a última parada é na rua dele, e o homem anda até a casa dele; hoje a câmera mostra o homem ainda sentado no ônibus, olhando direto para o motorista.",
+ "tema": "night shift",
+ "descricao": "Night shift horror story #5.\n\nWhat would you do on your next shift?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "scary",
+  "night shift"
+ ],
+ "hashtags": "#horror #scarystories #nightshift #shorts",
+ "scenes": [
+  {
+   "text": "I drive the last bus of the night. Usually, nobody rides it.",
+   "pt": "Eu dirijo o último ônibus da noite. Normalmente, ninguém anda nele.",
+   "visual": "empty city bus interior at night, harsh fluorescent lights, rain on the windows",
+   "destaque": [
+    "LAST"
+   ]
+  },
+  {
+   "text": "But the camera says I always have one passenger.",
+   "pt": "Mas a câmera diz que eu sempre tenho um passageiro.",
+   "visual": "small black and white monitor near a bus driver's seat showing the bus interior",
+   "destaque": [
+    "CAMERA"
+   ]
+  },
+  {
+   "text": "Back row. A man in a gray coat. Head down.",
+   "pt": "Última fileira. Um homem de casaco cinza. Cabeça baixa.",
+   "visual": "grainy bus security camera image of a man in a gray coat sitting in the back row, face hidden",
+   "destaque": [
+    "BACK"
+   ]
+  },
+  {
+   "text": "When I turn around, the seat is empty.",
+   "pt": "Quando eu me viro, o banco está vazio.",
+   "visual": "empty back row of a city bus at night",
+   "destaque": [
+    "EMPTY"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "Every night, the camera shows him getting off at the final stop.",
+   "pt": "Toda noite, a câmera mostra ele descendo na última parada.",
+   "visual": "bus stop at night in a quiet residential street, rain, one streetlight",
+   "destaque": [
+    "FINAL"
+   ]
+  },
+  {
+   "text": "So I watched the footage from outside the bus.",
+   "pt": "Então eu assisti a gravação da câmera de fora do ônibus.",
+   "mesma_imagem": true,
+   "destaque": [
+    "FOOTAGE"
+   ]
+  },
+  {
+   "text": "He walks two blocks. He stops at a blue house.",
+   "pt": "Ele anda dois quarteirões. Ele para numa casa azul.",
+   "visual": "small blue house at night seen from across the street, porch light on",
+   "destaque": [
+    "BLUE"
+   ]
+  },
+  {
+   "text": "He sits on the porch until sunrise.",
+   "pt": "Ele senta na varanda até o sol nascer.",
+   "visual": "dark figure sitting motionless on the steps of a porch at night",
+   "destaque": [
+    "PORCH"
+   ]
+  },
+  {
+   "text": "That's my house.",
+   "pt": "Essa é a minha casa.",
+   "mesma_imagem": true,
+   "destaque": [
+    "MY"
+   ],
+   "pausa": 0.8
+  },
+  {
+   "text": "Tonight, I skipped the final stop. I drove straight to the depot.",
+   "pt": "Hoje à noite, eu pulei a última parada. Fui direto pra garagem.",
+   "visual": "bus driving fast through an empty road at night, headlights in rain",
+   "destaque": [
+    "SKIPPED"
+   ]
+  },
+  {
+   "text": "The camera says he didn't get off.",
+   "pt": "A câmera diz que ele não desceu.",
+   "visual": "close-up of the bus security monitor showing the man in the back row lifting his head",
+   "destaque": [
+    "DIDN'T"
+   ]
+  },
+  {
+   "text": "He's standing right behind my seat now. Looking at me.",
+   "pt": "Ele tá em pé bem atrás do meu banco agora. Olhando pra mim.",
+   "visual": "grainy bus camera image of a man in a gray coat standing right behind the driver",
+   "destaque": [
+    "BEHIND"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "titulo": "Night Shift Horror Story #1 | A Little Girl Called 911 and Whispered My Name #Shorts",
+ "titulo_pt": "História de terror do turno da noite #1 | Uma menina ligou pro 190 e sussurrou meu nome",
+ "resumo_pt": "Um atendente do 911 recebe às 3h a ligação de uma menina sussurrando o nome dele e dizendo que um homem está na casa. O endereço é o dele, e ele mora sozinho. A polícia acha a casa vazia. A virada: a menina liga de novo dizendo que o homem não está mais na casa, está no trabalho dele, e o elevador da central acaba de abrir.",
+ "tema": "night shift",
+ "descricao": "Night shift horror story #1.\n\nWho was really on the other end of that call?\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "scary",
+  "night shift"
+ ],
+ "hashtags": "#horror #scarystories #nightshift #shorts",
+ "scenes": [
+  {
+   "text": "Three a.m. A little girl called 911 and whispered my name.",
+   "pt": "Três da manhã. Uma menina ligou pro 911 e sussurrou meu nome.",
+   "visual": "night 911 dispatcher wearing a headset at a glowing console in a dark empty call center",
+   "destaque": [
+    "NAME"
+   ]
+  },
+  {
+   "text": "I work nights as a dispatcher. Nobody here even knows my name.",
+   "pt": "Eu trabalho de madrugada como atendente. Aqui ninguém nem sabe meu nome.",
+   "mesma_imagem": true,
+   "destaque": [
+    "NOBODY"
+   ]
+  },
+  {
+   "text": "Please come. He's in the house. He's standing by the stairs.",
+   "pt": "Por favor, vem. Ele tá dentro da casa. Ele tá parado do lado da escada.",
+   "mesma_imagem": true,
+   "destaque": [
+    "STAIRS"
+   ],
+   "voz": "crianca"
+  },
+  {
+   "text": "I asked for her address. She told me.",
+   "pt": "Eu pedi o endereço. Ela falou.",
+   "visual": "close-up of a computer screen in a dark call center showing a map pin on a suburban street",
+   "destaque": [
+    "ADDRESS"
+   ]
+  },
+  {
+   "text": "It was mine.",
+   "pt": "Era o meu.",
+   "mesma_imagem": true,
+   "destaque": [
+    "MINE"
+   ],
+   "pausa": 0.8
+  },
+  {
+   "text": "I live alone. No kids. No wife.",
+   "pt": "Eu moro sozinho. Sem filhos. Sem esposa.",
+   "visual": "dark empty suburban house at night, one upstairs window lit",
+   "destaque": [
+    "ALONE"
+   ]
+  },
+  {
+   "text": "I sent two officers and stayed on the line.",
+   "pt": "Mandei dois policiais e fiquei na linha.",
+   "visual": "police car with lights flashing parked in front of a dark house at night",
+   "destaque": [
+    "OFFICERS"
+   ]
+  },
+  {
+   "text": "Then the line went quiet.",
+   "pt": "Aí a linha ficou em silêncio.",
+   "visual": "close-up of a headset microphone on a desk in a dark room",
+   "destaque": [
+    "QUIET"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "The officers called back. Empty house. No girl.",
+   "pt": "Os policiais ligaram de volta. Casa vazia. Nenhuma menina.",
+   "visual": "empty staircase in a dark house lit by a flashlight beam",
+   "destaque": [
+    "EMPTY"
+   ]
+  },
+  {
+   "text": "Then my line lit up again. Same little voice.",
+   "pt": "Aí minha linha acendeu de novo. A mesma vozinha.",
+   "visual": "a single red blinking light on a dispatcher phone console in the dark",
+   "destaque": [
+    "AGAIN"
+   ]
+  },
+  {
+   "text": "He's not at your house anymore. He's at your work.",
+   "pt": "Ele não tá mais na sua casa. Ele tá no seu trabalho.",
+   "mesma_imagem": true,
+   "destaque": [
+    "WORK"
+   ],
+   "voz": "crianca",
+   "pausa": 0.7
+  },
+  {
+   "text": "I'm alone in the building tonight. And the elevator just opened.",
+   "pt": "Eu tô sozinho no prédio hoje. E o elevador acabou de abrir.",
+   "visual": "elevator doors open onto a dark office hallway, empty, harsh light inside the elevator",
+   "destaque": [
+    "ELEVATOR"
+   ]
+  }
+ ]
+}
