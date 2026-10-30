@@ -124,6 +124,8 @@ def main(caminho, out, lingua='en'):
                 if not imagem_16x9(NARRADOR_VISUAL, 4242, NARRADOR_IMG):
                     sys.exit('ERRO: imagem do narrador')
             imgs.append(os.path.abspath(NARRADOR_IMG)); continue
+        if p.get('imagem'):   # imagem pronta (feita pelo Thiago) que já está no repositório
+            imgs.append(os.path.abspath(os.path.join(RAIZ, p['imagem']))); continue
         img = os.path.abspath(f'{imgs_dir}/parte{i:02d}.jpg')
         if not os.path.exists(img):
             print('imagem da parte', i, flush=True)

@@ -2,7 +2,7 @@
  "titulo": "The Fourth Plate | Scary Story",
  "titulo_pt": "O Quarto Prato",
  "resumo_pt": "A avó tinha uma regra: em noite de chuva, ninguém conta em voz alta, e sempre se põe um prato a mais na ponta da mesa. Depois que ela morre, os netos passam um fim de semana na casa. Numa noite de tempestade, o cunhado cético conta em voz alta 'um, dois, três' e uma voz igual à dele responde 'quatro'. A luz apaga e eles ouvem alguém comendo a noite toda. Um caderno da avó revela: se alguém conta em voz alta, a coisa aprende a voz e vai embora com quem falou. Meses depois, numa foto do casal com quatro pratos, o reflexo da janela mostra alguém sentado na cadeira vazia.",
- "capa_parte": 2,
+ "capa_parte": 0,
  "capa_texto": "DON'T COUNT OUT LOUD",
  "descricao": "My grandmother had one rule about rain: never count out loud.\n\nWould you have counted?\n\nA new horror story from Veil Frequency. Fictional story. Images are AI-generated.\n\n#horror #scarystories #horrorstory",
  "tags": [
@@ -15,6 +15,22 @@
   "haunted house"
  ],
  "partes": [
+  {
+   "visual": "abertura",
+   "imagem": "veil/longos/imagens/01_fourth_plate/01.jpg",
+   "falas": [
+    {
+     "text": "My grandmother had one rule. When it rains at night, never count out loud.",
+     "pt": "Minha avó tinha uma regra. Quando chove à noite, nunca conte em voz alta.",
+     "pausa": 0.9
+    },
+    {
+     "text": "This is the story of the one night somebody did.",
+     "pt": "Essa é a história da única noite em que alguém contou.",
+     "pausa": 1.3
+    }
+   ]
+  },
   {
    "visual": "an old lonely farmhouse at night in heavy rain, one warm kitchen window lit, dark fields around",
    "falas": [
@@ -42,7 +58,8 @@
      "text": "The house sat at the end of a dirt road, twenty minutes from the nearest town. By Saturday afternoon, the sky had gone dark. By the time we sat down to eat in the kitchen, with food Dan had brought from town, the rain was coming down hard on the roof.",
      "pt": "A casa ficava no fim de uma estrada de terra, a vinte minutos da cidade mais próxima. No sábado à tarde, o céu já estava escuro. Quando sentamos pra comer na cozinha, com a comida que o Dan trouxe da cidade, a chuva batia forte no telhado."
     }
-   ]
+   ],
+   "imagem": "veil/longos/imagens/01_fourth_plate/02.jpg"
   },
   {
    "visual": "close-up of an old empty wooden chair at the end of a kitchen table in deep shadow, the air around it feels occupied, faint candlelight",
@@ -77,7 +94,8 @@
      "text": "Nobody spoke. Nora had stopped eating. She was watching me, and I saw her face change. She remembered. Without a word, she stood, took a folded napkin, and laid it beside the plate.",
      "pt": "Ninguém falou nada. A Nora tinha parado de comer. Ela estava me olhando, e eu vi o rosto dela mudar. Ela lembrou. Sem dizer uma palavra, levantou, pegou um guardanapo dobrado e colocou do lado do prato."
     }
-   ]
+   ],
+   "imagem": "veil/longos/imagens/01_fourth_plate/03.jpg"
   },
   {
    "visual": "a skeptical man in his thirties leaning back at a dinner table with crossed arms and a small mocking smile, two worried women beside him, dim kitchen light",
@@ -123,7 +141,8 @@
      "text": "It was the please that got to him. I watched it happen. He was a rational man, and a rational man cannot stand to be told to obey a rule with no reason. He leaned back in his chair, crossed his arms, and said with a small, unkind smile:",
      "pt": "Foi o por favor que pegou ele. Eu vi acontecer. Ele era um homem racional, e um homem racional não suporta ser mandado a obedecer uma regra sem motivo. Ele se encostou na cadeira, cruzou os braços e disse, com um sorrisinho maldoso:"
     }
-   ]
+   ],
+   "imagem": "veil/longos/imagens/01_fourth_plate/04.jpg"
   },
   {
    "visual": "a man at a dark dinner table pointing his finger as he counts, faces of two frightened women, the far end of the table lost in black shadow",
@@ -178,7 +197,8 @@
      "pausa": 1.2,
      "pt": "E aí eu ouvi o garfo."
     }
-   ]
+   ],
+   "imagem": "veil/longos/imagens/01_fourth_plate/05.jpg"
   },
   {
    "visual": "gray morning light through a kitchen window after rain, a clean dry white plate with a fork lined up beside it and an empty glass, the chair pushed in neatly",
@@ -200,7 +220,8 @@
      "text": "I looked first. The plate was clean and dry. The fork lay lined up beside it. The glass was empty. The chair was pushed in against the table, as if no one had ever stood up from it.",
      "pt": "Eu olhei primeiro. O prato estava limpo e seco. O garfo, alinhado do lado. O copo, vazio. A cadeira estava empurrada contra a mesa, como se ninguém tivesse levantado dela."
     }
-   ]
+   ],
+   "imagem": "veil/longos/imagens/01_fourth_plate/06.jpg"
   },
   {
    "visual": "an old worn notebook held with a rubber band in a dusty pantry behind jars of preserves, open pages full of handwritten dates and tally marks in blue ink",
@@ -223,7 +244,8 @@
      "text": "Nora read it aloud, and then covered her mouth, realizing what she had done. But it wasn't raining, and nothing answered.",
      "pt": "A Nora leu em voz alta, e depois tampou a boca, percebendo o que tinha feito. Mas não estava chovendo, e nada respondeu."
     }
-   ]
+   ],
+   "imagem": "veil/longos/imagens/01_fourth_plate/07.jpg"
   },
   {
    "visual": "a family photo of three smiling adults at a dinner table with four plates and four chairs, a dark window behind them reflecting a fourth shadowy figure sitting at the empty chair",
@@ -265,23 +287,19 @@
      "pausa": 2.5,
      "pt": "Eu nunca mais contei nada em voz alta."
     }
+   ],
+   "imagem": "veil/longos/imagens/01_fourth_plate/08.jpg"
+  },
+  {
+   "visual": "final",
+   "imagem": "veil/longos/imagens/01_fourth_plate/01.jpg",
+   "falas": [
+    {
+     "text": "If it rains tonight, don't count out loud. And if you ever hear a number you didn't say, don't answer it. This was Veil Frequency.",
+     "pt": "Se chover hoje à noite, não conte em voz alta. E se um dia você ouvir um número que você não disse, não responda. Isso foi o Veil Frequency.",
+     "pausa": 2.0
+    }
    ]
   }
- ],
- "gancho": {
-  "text": "My grandmother had one rule. When it rains at night, never count out loud.",
-  "pt": "Minha avó tinha uma regra. Quando chove à noite, nunca conte em voz alta.",
-  "pausa": 0.9
- },
- "gancho2": {
-  "text": "This is the story of the one night somebody did.",
-  "pt": "Essa é a história da única noite em que alguém contou.",
-  "pausa": 1.3,
-  "visual": "an old farmhouse kitchen table at night lit by a single candle, four plates set, at the far end a dark shadowy figure sitting in the chair with its face hidden in darkness, rain streaking the window behind"
- },
- "fim": {
-  "text": "If it rains tonight, don't count out loud. And if you ever hear a number you didn't say, don't answer it. This was Veil Frequency.",
-  "pt": "Se chover hoje à noite, não conte em voz alta. E se um dia você ouvir um número que você não disse, não responda. Isso foi o Veil Frequency.",
-  "pausa": 2.0
- }
+ ]
 }
