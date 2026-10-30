@@ -1,0 +1,33 @@
+name: Veil - imagens para aprovar
+# Gera imagens de teste (Cloudflare) para o Thiago aprovar. Dispara quando veil/longos/aprovar.txt muda.
+# Cada linha: nome|seed|descrição da imagem. Salva em veil/longos/aprovar/<nome>.jpg
+on:
+  push:
+    paths: ['veil/longos/aprovar.txt']
+permissions:
+  contents: write
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -q pillow numpy
+      - name: Gerar
+        env:
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+        run: |
+          mkdir -p veil/longos/aprovar
+          python3 - <<'PY'
+          import sys; sys.path.insert(0, 'veil')
+          import longo
+          for l in open('veil/longos/aprovar.txt'):
+              l = l.strip()
+              if not l or l.startswith('#'): continue
+              nome, seed, desc = l.split('|', 2)
+              ok = longo.imagem_16x9(desc, int(seed), f'veil/longos/aprovar/{nome}.jpg')
+              print(nome, 'OK' if ok else 'FALHOU', flush=True)
+          PY
+          git config user.name "imagens-vf" && git config user.email "actions@users.noreply.github.com"
+          git add veil/longos/aprovar && git commit -qm "Imagens para aprovar" && git pull -q --rebase && git push -q

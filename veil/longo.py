@@ -64,6 +64,23 @@ def imagem_16x9(prompt, seed, destino):
     im.save(destino, quality=94); os.remove(tmp)
     return True
 
+NARRADOR_IMG = os.path.join(AQUI, 'longos', 'narrador.jpg')   # personagem fixo do canal (gerado 1 vez e reaproveitado)
+NARRADOR_VISUAL = ('a mysterious hooded storyteller seated in a dark old room, speaking into a vintage radio microphone, '
+                   'an old wooden tube radio beside him with a faint red glowing dial, face mostly hidden in the shadow of the hood, '
+                   'single candle light, centered subject, clearly visible')
+
+def montar_partes(h):
+    """Abertura (narrador + imagem forte) + história + encerramento (narrador)."""
+    partes = []
+    if h.get('gancho'):
+        partes.append({'visual': '__narrador__', 'falas': [h['gancho']]})
+    if h.get('gancho2'):
+        partes.append({'visual': h['gancho2'].get('visual') or h['partes'][0]['visual'], 'falas': [h['gancho2']]})
+    partes += h['partes']
+    if h.get('fim'):
+        partes.append({'visual': '__narrador__', 'falas': [h['fim']]})
+    return partes
+
 def musica(dur, destino, sr=44100):
     n = int(dur * sr); t = np.arange(n) / sr; rng = np.random.default_rng(13)
     chuva = rng.standard_normal(n)
@@ -97,8 +114,16 @@ def main(caminho, out, lingua='en'):
     h = json.load(open(caminho, encoding='utf-8'))
     tabela = VOZES_PT if pt else VOZES
     # 1) imagens (uma por parte)
+    partes = montar_partes(h)
+    desloc = len(partes) - len(h['partes']) - (1 if h.get('fim') else 0)   # quantas partes de abertura
     imgs = []
-    for i, p in enumerate(h['partes']):
+    for i, p in enumerate(partes):
+        if p['visual'] == '__narrador__':
+            if not os.path.exists(NARRADOR_IMG):
+                os.makedirs(os.path.dirname(NARRADOR_IMG), exist_ok=True)
+                if not imagem_16x9(NARRADOR_VISUAL, 4242, NARRADOR_IMG):
+                    sys.exit('ERRO: imagem do narrador')
+            imgs.append(os.path.abspath(NARRADOR_IMG)); continue
         img = os.path.abspath(f'{imgs_dir}/parte{i:02d}.jpg')
         if not os.path.exists(img):
             print('imagem da parte', i, flush=True)
@@ -107,7 +132,7 @@ def main(caminho, out, lingua='en'):
         imgs.append(img)
     # 2) narração
     cenas, parte_de = [], []
-    for i, p in enumerate(h['partes']):
+    for i, p in enumerate(partes):
         for k, f in enumerate(p['falas']):
             v, r, pi = tabela.get(f.get('voz') or 'narrador', tabela['narrador'])
             ultima = k == len(p['falas']) - 1
@@ -120,7 +145,7 @@ def main(caminho, out, lingua='en'):
     segs, total = T['segs'], T['dur']
     # início/fim de cada parte (a imagem troca junto com a fala que abre a parte)
     ini = []
-    for i in range(len(h['partes'])):
+    for i in range(len(partes)):
         s = segs[parte_de.index(i)][0]
         ini.append(0.0 if i == 0 else max(0.0, s - 0.6))
     ini.append(total + 6.0)   # 6 s de respiro no final
@@ -165,7 +190,7 @@ def main(caminho, out, lingua='en'):
                     '-shortest', '-movflags', '+faststart',
                     f'{out}/longo.mp4'], check=True)
     if not pt:
-      capa(imgs[h.get('capa_parte', 0)], h.get('capa_texto', h['titulo'].split('|')[0].strip().upper()), f'{out}/capa.jpg')
+      capa(imgs[h.get('capa_parte', 0) + desloc], h.get('capa_texto', h['titulo'].split('|')[0].strip().upper()), f'{out}/capa.jpg')
     print('OK', f'{out}/longo.mp4', round(ini[-1] / 60, 1), 'min')
 
 if __name__ == '__main__':
