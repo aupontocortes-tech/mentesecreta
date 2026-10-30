@@ -40,7 +40,7 @@ VOZES_PT = {   # versão dublada (não listada) para o Thiago conferir
     'sombria':  ('pt-BR-FranciscaNeural', '-20%', '-18Hz'),
     'sombrio':  ('pt-BR-AntonioNeural', '-20%', '-18Hz'),
 }
-ESTILO = ('cinematic horror film still, wide 16:9 composition, dim moody low-key lighting, desaturated cold tones, film grain, '
+ESTILO = ('cinematic horror film still, wide 16:9 composition, moody lighting with the main subject clearly visible, desaturated cold tones, film grain, '
           'photorealistic, unsettling atmosphere, no text, no watermark, no blood, no gore')
 
 def imagem_16x9(prompt, seed, destino):
@@ -54,6 +54,13 @@ def imagem_16x9(prompt, seed, destino):
     if alvo_h <= h:
         y = (h - alvo_h) // 2; im = im.crop((0, y, w, y + alvo_h))
     im = im.resize((W, H), Image.LANCZOS).filter(ImageFilter.UnsharpMask(radius=2, percent=50, threshold=3))
+    # imagem escura demais vira só preto na tela: clareia até um mínimo, sem perder o clima
+    from PIL import ImageStat, ImageEnhance
+    luz = ImageStat.Stat(im.convert('L')).mean[0]
+    if luz < 62:
+        g = max(0.45, (luz / 62) ** 0.6)                     # correção de gama: clareia as sombras
+        im = im.point(lambda v: int(255 * ((v / 255) ** g)))
+        im = ImageEnhance.Contrast(im).enhance(1.08)
     im.save(destino, quality=94); os.remove(tmp)
     return True
 
@@ -123,7 +130,7 @@ def main(caminho, out, lingua='en'):
         d = ini[i + 1] - ini[i]; nfr = int(round(d * FPS))
         z = f"1+0.10*on/{max(1, nfr)}"            # 10% de zoom ao longo da parte inteira
         vf = (f"scale=2880:1620,zoompan=z='{z}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={nfr}:s={W}x{H}:fps={FPS},"
-              f"eq=contrast=1.06:brightness=-0.03:saturation=0.85,vignette=PI/4,"
+              f"eq=contrast=1.05:brightness=0.0:saturation=0.85,vignette=PI/4,"
               f"fade=t=in:st=0:d=0.8,fade=t=out:st={max(0, d - 0.8):.2f}:d=0.8,format=yuv420p")
         extra_in, fc = [], None
         if i == 0:   # título no começo (desenhado com PIL: o ffmpeg do servidor não tem drawtext)
