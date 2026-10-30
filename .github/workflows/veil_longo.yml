@@ -40,7 +40,9 @@ jobs:
           A="${{ steps.arq.outputs.a }}"
           ID=$(python3 -c "import json,sys;d=json.load(open(sys.argv[1]));print(d.get('video_id','') if d.get('estado')=='pronto' else '')" "$A")
           if [ -n "$ID" ]; then
-            python3 veil/yt.py tornar_publico "$ID" "veil/longos/capas/$(basename $A .json).jpg"
+            if ! python3 veil/yt.py tornar_publico "$ID" "veil/longos/capas/$(basename $A .json).jpg"; then
+              echo "AVISO: a chave não deixa mudar a prévia; vai montar de novo e enviar já público"; exit 0
+            fi
             python3 -c "import json,sys; p=sys.argv[1]; d=json.load(open(p)); d['estado']='publicado'; json.dump(d,open(p,'w'),ensure_ascii=False,indent=1)" "$A"
             mkdir -p veil/longos/publicados && git add "$A" && git mv -f "$A" veil/longos/publicados/
             git config user.name "publicador-vf" && git config user.email "actions@users.noreply.github.com"
@@ -65,7 +67,9 @@ jobs:
           ID=$(grep -o 'VIDEO_ID=[A-Za-z0-9_-]*' up.log | cut -d= -f2)
           python3 -c "import json,sys; p=sys.argv[1]; d=json.load(open(p)); d['video_id']=sys.argv[2]; json.dump(d,open(p,'w'),ensure_ascii=False,indent=1)" "$A" "$ID"
           # versão dublada em português (não listada) para o Thiago conferir; se falhar, o inglês segue normal
-          if python3 veil/longo.py "$A" out pt && python3 veil/yt.py up out/pt/longo.mp4 "$A" longo_pt | tee up_pt.log; then
+          if [ -n "$(python3 -c "import json,sys;print(json.load(open(sys.argv[1])).get('video_id_pt',''))" "$A")" ]; then
+            echo "versão em português já existe"
+          elif python3 veil/longo.py "$A" out pt && python3 veil/yt.py up out/pt/longo.mp4 "$A" longo_pt | tee up_pt.log; then
             IDPT=$(grep -o 'VIDEO_ID=[A-Za-z0-9_-]*' up_pt.log | cut -d= -f2)
             [ -n "$IDPT" ] && python3 -c "import json,sys; p=sys.argv[1]; d=json.load(open(p)); d['video_id_pt']=sys.argv[2]; json.dump(d,open(p,'w'),ensure_ascii=False,indent=1)" "$A" "$IDPT"
           else
