@@ -40,7 +40,7 @@ jobs:
           A="${{ steps.arq.outputs.a }}"
           ID=$(python3 -c "import json,sys;d=json.load(open(sys.argv[1]));print(d.get('video_id','') if d.get('estado')=='pronto' else '')" "$A")
           if [ -n "$ID" ]; then
-            python3 veil/yt.py tornar_publico "$ID"
+            python3 veil/yt.py tornar_publico "$ID" "veil/longos/capas/$(basename $A .json).jpg"
             python3 -c "import json,sys; p=sys.argv[1]; d=json.load(open(p)); d['estado']='publicado'; json.dump(d,open(p,'w'),ensure_ascii=False,indent=1)" "$A"
             mkdir -p veil/longos/publicados && git add "$A" && git mv -f "$A" veil/longos/publicados/
             git config user.name "publicador-vf" && git config user.email "actions@users.noreply.github.com"

@@ -27,7 +27,14 @@ if sys.argv[1] == 'tornar_publico':   # botão do app: a prévia privada vira p�
     v = yt.videos().list(part='status', id=vid).execute()['items'][0]
     st = v['status']; st['privacyStatus'] = 'public'; st.pop('publishAt', None)
     yt.videos().update(part='status', body={'id': vid, 'status': st}).execute()
-    print('PUBLICO=' + vid); sys.exit()
+    print('PUBLICO=' + vid)
+    capa = sys.argv[3] if len(sys.argv) > 3 else ''
+    if capa and os.path.exists(capa):
+        try:
+            yt.thumbnails().set(videoId=vid, media_body=MediaFileUpload(capa, mimetype='image/jpeg')).execute(); print('capa ok')
+        except Exception as e:
+            print('AVISO: capa não enviada:', str(e)[:200])
+    sys.exit()
 
 r = json.load(open(sys.argv[3], encoding='utf-8'))
 modo = sys.argv[4] if len(sys.argv) > 4 else 'agendar'
