@@ -22,6 +22,13 @@ esperado = os.environ.get('VF_CHANNEL_ID', '').strip() or 'UCoe34hx015k4fnSI9Iww
 if (esperado and me['id'] != esperado) or (not esperado and 'veil' not in me['snippet']['title'].lower()):
     sys.exit('ERRO: a chave não é do canal Veil Frequency (' + me['snippet']['title'] + ')')
 
+if sys.argv[1] == 'tornar_publico':   # botão do app: a prévia privada vira pública na hora
+    vid = sys.argv[2]
+    v = yt.videos().list(part='status', id=vid).execute()['items'][0]
+    st = v['status']; st['privacyStatus'] = 'public'; st.pop('publishAt', None)
+    yt.videos().update(part='status', body={'id': vid, 'status': st}).execute()
+    print('PUBLICO=' + vid); sys.exit()
+
 r = json.load(open(sys.argv[3], encoding='utf-8'))
 modo = sys.argv[4] if len(sys.argv) > 4 else 'agendar'
 desc = r['descricao']
@@ -35,8 +42,8 @@ if modo == 'longo_pt':   # versão dublada do vídeo longo: não listada
     lingua = 'pt'
     status['privacyStatus'] = 'unlisted'
     desc = (r.get('resumo_pt') or '') + '\n\nVersão em português (não listada) só para conferência.'
-elif modo == 'longo':   # vídeo longo deitado: público na hora, sem #Shorts
-    status['privacyStatus'] = 'public'
+elif modo in ('longo', 'longo_privado'):   # vídeo longo deitado, sem #Shorts (privado = prévia esperando o botão)
+    status['privacyStatus'] = 'private' if modo == 'longo_privado' else 'public'
     desc = r['descricao']
 elif modo == 'pt':   # versão dublada: não listada (só abre pelo link do painel), não aparece no canal
     lingua = 'pt'

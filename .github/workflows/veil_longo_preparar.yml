@@ -1,5 +1,5 @@
 name: Veil Frequency - preparar video longo (previa)
-# Monta o vídeo longo (inglês + português) SEM publicar e guarda em veil/longos/prontos/<nome>/.
+# Monta o vídeo longo (inglês + português) e sobe como PRÉVIA: inglês privado, português não listado.
 # Dispara quando veil/longos/preparar.txt muda (a 1ª linha é o roteiro). Depois o botão do app só publica.
 on:
   push:
@@ -22,7 +22,7 @@ jobs:
         run: |
           pip install -q imageio-ffmpeg && sudo ln -sf "$(python3 -c 'import imageio_ffmpeg;print(imageio_ffmpeg.get_ffmpeg_exe())')" /usr/local/bin/ffmpeg && ffmpeg -version | head -1 \
             || (sudo apt-get -o Acquire::Retries=3 update -qq && sudo apt-get -o Acquire::Retries=3 install -y -qq --no-install-recommends ffmpeg > /dev/null)
-          pip install -q edge-tts numpy soundfile pillow
+          pip install -q edge-tts numpy soundfile pillow google-auth-oauthlib google-api-python-client
       - name: Montar inglês e português
         env:
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
@@ -32,10 +32,19 @@ jobs:
           case "$A" in veil/longos/fila/*.json) ;; *) echo "::error::roteiro inválido"; exit 1;; esac
           python3 veil/longo.py "$A" out
           python3 veil/longo.py "$A" out pt
-          N=$(basename "$A" .json); D=veil/longos/prontos/$N; mkdir -p $D
-          cp out/longo.mp4 $D/en.mp4; cp out/pt/longo.mp4 $D/pt.mp4; cp out/capa.jpg $D/capa.jpg
-          ls -la $D
-          git add $D
+          echo "A=$A" >> $GITHUB_ENV
+      - name: Subir a prévia (inglês PRIVADO, português NÃO LISTADO)
+        env:
+          YT_TOKEN_JSON: ${{ secrets.VF_YT_TOKEN_JSON || secrets.VFTOKEN }}
+          VF_CHANNEL_ID: ${{ vars.VF_CHANNEL_ID }}
+        run: |
+          set -o pipefail
+          python3 veil/yt.py up out/longo.mp4 "$A" longo_privado out/capa.jpg | tee up.log
+          ID=$(grep -o 'VIDEO_ID=[A-Za-z0-9_-]*' up.log | cut -d= -f2)
+          python3 veil/yt.py up out/pt/longo.mp4 "$A" longo_pt | tee up_pt.log
+          IDPT=$(grep -o 'VIDEO_ID=[A-Za-z0-9_-]*' up_pt.log | cut -d= -f2)
+          python3 -c "import json,sys; p=sys.argv[1]; d=json.load(open(p)); d['video_id']=sys.argv[2]; d['video_id_pt']=sys.argv[3]; d['estado']='pronto'; json.dump(d,open(p,'w'),ensure_ascii=False,indent=1)" "$A" "$ID" "$IDPT"
+          git add "$A"
           git config user.name "preparador-vf" && git config user.email "actions@users.noreply.github.com"
-          git commit -qm "Veil longo pronto (prévia): $N"
+          git commit -qm "Veil longo pronto (prévia privada): $(basename $A) ($ID / pt $IDPT)"
           git pull -q --rebase && git push -q

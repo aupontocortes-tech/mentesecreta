@@ -188,7 +188,7 @@ def main(caminho, out, lingua='en'):
                     "[nw]pan=mono|c0=c0,volume=4,alimiter=limit=0.95,showwaves=s=900x130:mode=cline:rate=30:colors=0xD6EEFF:scale=lin,"
                     "format=rgba,colorchannelmixer=aa=0.7,split[w1][w2];[w2]gblur=sigma=6[brilho];[brilho][w1]overlay[ondas];"
                     "[0:v][ondas]overlay=(W-w)/2:H-h-70:shortest=1,format=yuv420p[v]",
-                    '-map', '[v]', '-map', '[a]', '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '21', '-c:a', 'aac', '-b:a', '160k',
+                    '-map', '[v]', '-map', '[a]', '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '24', '-maxrate', '4M', '-bufsize', '8M', '-c:a', 'aac', '-b:a', '160k',
                     '-shortest', '-movflags', '+faststart',
                     f'{out}/longo.mp4'], check=True)
     if not pt:
