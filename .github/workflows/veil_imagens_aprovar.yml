@@ -12,7 +12,7 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
-      - run: pip install -q pillow numpy
+      - run: pip install -q pillow numpy soundfile
       - name: Gerar
         env:
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
