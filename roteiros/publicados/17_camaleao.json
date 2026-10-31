@@ -21,7 +21,9 @@
    "visual": "a young man and woman sitting face to face at a candlelit table, both resting their chin on their hand the same way",
    "destaque": [
     "IMITE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia00.jpg",
+   "credito": "IA"
   },
   {
    "text": "Calma. Não é sobre copiar tudo. É sobre um truque que o cérebro não percebe.",
@@ -29,7 +31,9 @@
    "visual": "a thoughtful woman smiling slightly in a dark room, candlelight",
    "destaque": [
     "TRUQUE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia01.jpg",
+   "credito": "IA"
   },
   {
    "text": "Sabe quando você conversa com alguém e sente que a conversa simplesmente flui?",
@@ -37,7 +41,9 @@
    "visual": "two friends talking warmly at a wooden table in a candlelit tavern",
    "destaque": [
     "FLUI"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "Em mil novecentos e noventa e nove, psicólogos de Nova York testaram isso.",
@@ -45,7 +51,9 @@
    "visual": "an old scholar observing two people talking through a doorway, taking notes",
    "destaque": [
     "TESTARAM"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "Um ator imitava a postura e os gestos de algumas pessoas durante a conversa.",
@@ -53,7 +61,9 @@
    "visual": "a man secretly crossing his legs exactly like the person in front of him, candlelight",
    "destaque": [
     "IMITAVA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quem foi imitado gostou mais dele e achou a conversa mais agradável. E nem percebeu a imitação.",
@@ -62,7 +72,9 @@
    "destaque": [
     "GOSTOU"
    ],
-   "pausa": 0.7
+   "pausa": 0.7,
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Em outro estudo, uma garçonete que repetia o pedido com as mesmas palavras do cliente ganhou gorjetas maiores.",
@@ -70,7 +82,9 @@
    "visual": "a waitress in an old tavern smiling while holding a tray, coins on the table",
    "destaque": [
     "GORJETAS"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "A psicologia chama isso de efeito camaleão.",
@@ -78,7 +92,9 @@
    "visual": "a chameleon on a branch painted in a dark baroque style, warm light",
    "destaque": [
     "CAMALEÃO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Então, numa conversa importante, acompanhe o ritmo da pessoa. Com calma, sem exagerar.",
@@ -86,7 +102,10 @@
    "visual": "a calm man listening attentively to a woman across a desk, mirroring her posture",
    "destaque": [
     "RITMO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   }
- ]
+ ],
+ "video_id": "_KFKYhtLMRU"
 }
