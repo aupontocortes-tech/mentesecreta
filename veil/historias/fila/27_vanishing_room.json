@@ -1,0 +1,130 @@
+{
+ "titulo": "The Hotel Said My Mother Never Checked In | Urban Legend #Shorts",
+ "titulo_pt": "O hotel disse que minha mãe nunca fez check-in | Lenda urbana",
+ "resumo_pt": "Lenda urbana do 'quarto de hotel que sumiu'. Em 1904, uma garota e a mãe chegam a um hotel para a Feira Mundial; a mãe adoece e o médico do hotel manda a garota atravessar a cidade atrás de remédio. Quando volta, o quarto está repintado, outra pessoa está nele e todos juram que ela chegou sozinha. A virada: quarenta anos depois, uma ex-camareira confessa que a mãe tinha peste e morreu, e o hotel apagou tudo numa noite para não estragar a Feira.",
+ "tema": "urban legends",
+ "descricao": "She left for medicine. When she came back, her mother had never existed.\n\nWho would you have believed?\n\nFollow @VeilFrequency for a new horror story every day. Based on a classic American urban legend. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "urban legend",
+  "vanishing hotel room",
+  "hotel horror"
+ ],
+ "hashtags": "#horror #urbanlegend #scarystories #shorts",
+ "scenes": [
+  {
+   "text": "The hotel clerk swore my mother had never checked in.",
+   "pt": "O recepcionista do hotel jurou que minha mãe nunca tinha feito check-in.",
+   "visual": "old-fashioned hotel front desk with brass bell and gas lamps, clerk in a vest behind it",
+   "destaque": [
+    "NEVER"
+   ]
+  },
+  {
+   "text": "It was 1904. Mom and I came to the city for the World's Fair.",
+   "pt": "Era 1904. Minha mãe e eu viemos pra cidade por causa da Feira Mundial.",
+   "visual": "old city street at night with glowing fair lights in the distance, horse carriages",
+   "destaque": [
+    "FAIR"
+   ]
+  },
+  {
+   "text": "That first night, she got sick. Burning fever. Dark spots on her neck.",
+   "pt": "Na primeira noite, ela ficou doente. Febre alta. Manchas escuras no pescoço.",
+   "visual": "woman lying in an old hotel bed, lace collar, oil lamp on the nightstand",
+   "destaque": [
+    "FEVER"
+   ]
+  },
+  {
+   "text": "The hotel doctor sent me across the city for medicine.",
+   "pt": "O médico do hotel me mandou atravessar a cidade atrás de remédio.",
+   "visual": "teenage girl in a long coat running down a foggy cobblestone street at night",
+   "destaque": [
+    "MEDICINE"
+   ],
+   "efeito": "passos"
+  },
+  {
+   "text": "It took me four hours to get back.",
+   "pt": "Eu levei quatro horas pra voltar.",
+   "visual": "old pocket watch in a girl's hand under a streetlamp",
+   "destaque": [
+    "HOURS"
+   ]
+  },
+  {
+   "text": "I knocked on room three-forty-two. A stranger opened it.",
+   "pt": "Bati no quarto trezentos e quarenta e dois. Um estranho abriu.",
+   "visual": "old hotel hallway, a door opened halfway by a man's silhouette",
+   "destaque": [
+    "STRANGER"
+   ],
+   "efeito": "batida"
+  },
+  {
+   "text": "The walls were a different color. Everything smelled like fresh paint.",
+   "pt": "As paredes eram de outra cor. Tudo cheirava a tinta fresca.",
+   "visual": "empty old hotel room with freshly painted walls, paint can in the corner",
+   "destaque": [
+    "PAINT"
+   ]
+  },
+  {
+   "text": "The clerk showed me the register. Only my name.",
+   "pt": "O recepcionista me mostrou o livro de hóspedes. Só o meu nome.",
+   "visual": "old leather hotel register open on a desk, a single signature under lamplight",
+   "destaque": [
+    "REGISTER"
+   ]
+  },
+  {
+   "text": "The doctor said I'd arrived alone.",
+   "pt": "O médico disse que eu tinha chegado sozinha.",
+   "visual": "silhouette of a doctor in a long coat in a dim hotel lobby",
+   "destaque": [
+    "ALONE"
+   ]
+  },
+  {
+   "text": "Forty years later, a dying maid from that hotel asked to see me.",
+   "pt": "Quarenta anos depois, uma camareira daquele hotel, à beira da morte, pediu pra me ver.",
+   "visual": "old woman lying in a simple bed, a hand reaching out toward a visitor",
+   "destaque": [
+    "MAID"
+   ]
+  },
+  {
+   "text": "Your mother had the plague. She died an hour after you left.",
+   "pt": "Sua mãe tinha a peste. Ela morreu uma hora depois que você saiu.",
+   "destaque": [
+    "PLAGUE"
+   ],
+   "voz": "idosa",
+   "mesma_imagem": true,
+   "pausa": 0.8,
+   "impacto": true
+  },
+  {
+   "text": "If word got out, the Fair was ruined. So we painted the room before dawn.",
+   "pt": "Se a notícia vazasse, a Feira acabava. Então pintamos o quarto antes de amanhecer.",
+   "destaque": [
+    "DAWN"
+   ],
+   "voz": "idosa",
+   "mesma_imagem": true
+  },
+  {
+   "text": "They erased my mother in one night.",
+   "pt": "Eles apagaram a minha mãe em uma noite.",
+   "visual": "empty freshly painted hotel room at dawn, a single bed neatly made",
+   "destaque": [
+    "ERASED"
+   ],
+   "pausa": 0.6
+  }
+ ]
+}

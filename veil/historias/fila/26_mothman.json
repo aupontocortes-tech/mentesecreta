@@ -1,0 +1,115 @@
+{
+ "titulo": "The Mothman Landed on Our Roof | Urban Legend #Shorts",
+ "titulo_pt": "O Homem-Mariposa pousou no nosso telhado | Lenda urbana",
+ "resumo_pt": "Lenda urbana do Mothman. Na cidade da narradora, quando o Homem-Mariposa pousa num telhado, alguém daquela casa morre. Ele pousa no telhado dela e volta toda noite da semana; os pais não falam com ela e gente de preto traz comida. A virada: no sábado ela grita perguntando por quem ele veio, e ele responde que veio buscar ela na segunda; o pai está pregando uma cruz branca com o nome dela no quintal.",
+ "tema": "urban legends",
+ "descricao": "In our town, everyone knows what it means when it lands on your roof.\n\nWould you have noticed sooner?\n\nFollow @VeilFrequency for a new horror story every day. Based on a classic American urban legend. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "mothman",
+  "urban legend",
+  "cryptid"
+ ],
+ "hashtags": "#horror #urbanlegend #mothman #shorts",
+ "ambiente": "vento",
+ "scenes": [
+  {
+   "text": "In our town, if the Mothman lands on your roof, someone in that house dies.",
+   "pt": "Na nossa cidade, se o Homem-Mariposa pousa no seu telhado, alguém daquela casa morre.",
+   "visual": "small-town wooden house at night, huge dark winged silhouette with two glowing red eyes crouched on the roof",
+   "destaque": [
+    "ROOF"
+   ]
+  },
+  {
+   "text": "Monday night, I saw two red eyes on ours.",
+   "pt": "Segunda à noite, eu vi dois olhos vermelhos no nosso.",
+   "visual": "view from a bedroom window up toward a roof edge, two glowing red eyes in the darkness",
+   "destaque": [
+    "RED"
+   ]
+  },
+  {
+   "text": "I stayed up till dawn, guarding my parents' door.",
+   "pt": "Fiquei acordada até o amanhecer, vigiando a porta dos meus pais.",
+   "visual": "closed bedroom door in a dim hallway, gray dawn light from a window",
+   "destaque": [
+    "DAWN"
+   ]
+  },
+  {
+   "text": "In the morning, Mom was fine. She just wouldn't talk to me.",
+   "pt": "De manhã, minha mãe estava bem. Ela só não falava comigo.",
+   "visual": "woman sitting silently at a kitchen table in morning light, looking down at a coffee mug",
+   "destaque": [
+    "TALK"
+   ]
+  },
+  {
+   "text": "Neither would Dad. He just stared at the wall.",
+   "pt": "Nem meu pai. Ele só ficava olhando pra parede.",
+   "visual": "man sitting alone on the edge of a bed, staring at a blank wall",
+   "destaque": [
+    "STARED"
+   ]
+  },
+  {
+   "text": "Every night that week, I heard claws on the shingles.",
+   "pt": "Toda noite naquela semana, eu ouvi garras nas telhas.",
+   "visual": "close view of dark roof shingles at night, long black claws gripping the edge",
+   "destaque": [
+    "CLAWS"
+   ],
+   "efeito": "arranhao"
+  },
+  {
+   "text": "People in black kept bringing us casseroles. Nobody looked at me.",
+   "pt": "Gente de preto não parava de trazer comida pra gente. Ninguém olhava pra mim.",
+   "visual": "people in black clothes holding covered dishes on a front porch, gray afternoon",
+   "destaque": [
+    "BLACK"
+   ]
+  },
+  {
+   "text": "On Saturday, I climbed out my window and screamed: who are you here for?",
+   "pt": "No sábado, eu saí pela janela e gritei: você veio buscar quem?",
+   "visual": "girl in a nightgown on a dark rooftop facing a tall winged shadow with red eyes",
+   "destaque": [
+    "SCREAMED"
+   ],
+   "efeito": "grito",
+   "pausa": 0.6
+  },
+  {
+   "text": "I came for you. On Monday. You just won't leave.",
+   "pt": "Eu vim buscar você. Na segunda. Você é que não quer ir.",
+   "destaque": [
+    "MONDAY"
+   ],
+   "voz": "sombria",
+   "mesma_imagem": true,
+   "pausa": 0.8,
+   "impacto": true
+  },
+  {
+   "text": "Down in the yard, Dad was hammering a small white cross into the grass.",
+   "pt": "Lá embaixo no quintal, meu pai estava pregando uma cruzinha branca na grama.",
+   "visual": "man kneeling in a front yard at dusk, hammering a small white wooden cross into the grass",
+   "destaque": [
+    "CROSS"
+   ],
+   "efeito": "batida"
+  },
+  {
+   "text": "It had my name on it.",
+   "pt": "Tinha o meu nome nela.",
+   "visual": "small white wooden cross in the grass at dusk, a name painted on it, out of focus",
+   "destaque": [
+    "NAME"
+   ]
+  }
+ ]
+}
