@@ -21,7 +21,8 @@
    "visual": "phone ringing on a kitchen counter in a dark house",
    "destaque": [
     "NOW"
-   ]
+   ],
+   "efeito": "telefone"
   },
   {
    "text": "An hour earlier, I came home and found Duke choking.",
@@ -71,7 +72,8 @@
    "destaque": [
     "FINGERS"
    ],
-   "pausa": 0.6
+   "pausa": 0.6,
+   "impacto": true
   },
   {
    "text": "Not mine.",
@@ -87,7 +89,8 @@
    "visual": "police flashlight shining into an open bedroom closet in the dark",
    "destaque": [
     "CLOSET"
-   ]
+   ],
+   "efeito": "rangido"
   },
   {
    "text": "He was hiding his right hand. And he was missing two fingers.",

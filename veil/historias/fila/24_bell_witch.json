@@ -37,7 +37,8 @@
    "visual": "old bedroom wall with peeling wallpaper, dim light",
    "destaque": [
     "SCRATCHED"
-   ]
+   ],
+   "efeito": "arranhao"
   },
   {
    "text": "Then a woman's voice. Lucy. Lucy.",
@@ -47,7 +48,8 @@
     "LUCY"
    ],
    "voz": "sombria",
-   "pausa": 0.6
+   "pausa": 0.6,
+   "efeito": "sussurro"
   },
   {
    "text": "I was nine. I answered.",
@@ -89,7 +91,8 @@
    "destaque": [
     "DIDN'T"
    ],
-   "pausa": 0.6
+   "pausa": 0.6,
+   "impacto": true
   },
   {
    "text": "And now, in my house, I hear scratching in the walls.",
@@ -97,7 +100,9 @@
    "visual": "modern bedroom wall at night, a faint scratch mark",
    "destaque": [
     "SCRATCHING"
-   ]
+   ],
+   "efeito": "arranhao"
   }
- ]
+ ],
+ "ambiente": "vento"
 }

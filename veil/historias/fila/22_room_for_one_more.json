@@ -72,7 +72,8 @@
    "destaque": [
     "FACE"
    ],
-   "pausa": 0.6
+   "pausa": 0.6,
+   "impacto": true
   },
   {
    "text": "Room for one more.",
@@ -98,7 +99,8 @@
    "destaque": [
     "SNAP"
    ],
-   "pausa": 0.6
+   "pausa": 0.6,
+   "efeito": "estalo"
   },
   {
    "text": "Grandma was wrong. It wasn't a dream. It was a warning.",
@@ -108,5 +110,6 @@
     "WARNING"
    ]
   }
- ]
+ ],
+ "ambiente": "vento"
 }

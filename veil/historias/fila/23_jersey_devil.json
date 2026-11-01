@@ -45,7 +45,8 @@
    "visual": "dark bedroom ceiling, a crack of moonlight",
    "destaque": [
     "ROOF"
-   ]
+   ],
+   "efeito": "passos"
   },
   {
    "text": "Then it screamed. Not like any animal I knew.",
@@ -54,7 +55,8 @@
    "destaque": [
     "SCREAMED"
    ],
-   "pausa": 0.6
+   "pausa": 0.6,
+   "efeito": "grito"
   },
   {
    "text": "It happened every night for a week.",
@@ -87,7 +89,8 @@
    "destaque": [
     "HOOFPRINTS"
    ],
-   "pausa": 0.6
+   "pausa": 0.6,
+   "impacto": true
   },
   {
    "text": "None of them went back.",
@@ -97,5 +100,6 @@
     "BACK"
    ]
   }
- ]
+ ],
+ "ambiente": "floresta"
 }

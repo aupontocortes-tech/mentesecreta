@@ -20,7 +20,8 @@
    "visual": "old car radio glowing in a dark car interior at night",
    "destaque": [
     "HOOK"
-   ]
+   ],
+   "efeito": "chiado"
   },
   {
    "text": "We didn't care. We were seventeen, parked on Lookout Road.",
@@ -36,7 +37,8 @@
    "visual": "close up of a car door window at night, dark woods outside",
    "destaque": [
     "SCRAPE"
-   ]
+   ],
+   "efeito": "arranhao"
   },
   {
    "text": "I begged Danny to drive.",
@@ -52,7 +54,8 @@
    "visual": "car headlights racing down a dark winding road",
    "destaque": [
     "GAS"
-   ]
+   ],
+   "efeito": "freada"
   },
   {
    "text": "At my house, he got out to open my door. Still mad.",
@@ -78,7 +81,8 @@
    "destaque": [
     "HOOK"
    ],
-   "pausa": 0.6
+   "pausa": 0.6,
+   "impacto": true
   },
   {
    "text": "If we'd stayed one more minute, he'd have opened it himself.",
@@ -88,5 +92,6 @@
     "MINUTE"
    ]
   }
- ]
+ ],
+ "ambiente": "grilos"
 }

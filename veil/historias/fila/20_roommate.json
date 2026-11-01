@@ -54,7 +54,8 @@
    "destaque": [
     "BREATHING"
    ],
-   "pausa": 0.6
+   "pausa": 0.6,
+   "efeito": "respiracao"
   },
   {
    "text": "I whispered sorry and left.",
@@ -62,7 +63,8 @@
    "visual": "dorm door closing slowly, a thin line of light",
    "destaque": [
     "SORRY"
-   ]
+   ],
+   "efeito": "porta"
   },
   {
    "text": "The next morning, Kate texted me. She'd slept at her boyfriend's.",
@@ -88,7 +90,9 @@
    "destaque": [
     "MIRROR"
    ],
-   "pausa": 0.6
+   "pausa": 0.6,
+   "efeito": "coracao",
+   "impacto": true
   }
  ]
 }

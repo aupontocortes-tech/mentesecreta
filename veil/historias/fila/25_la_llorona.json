@@ -37,7 +37,8 @@
    "visual": "back door open to a dark yard, mist rolling in",
    "destaque": [
     "CRYING"
-   ]
+   ],
+   "efeito": "choro"
   },
   {
    "text": "I followed it to the river.",
@@ -90,7 +91,8 @@
    "destaque": [
     "KITCHEN"
    ],
-   "pausa": 0.6
+   "pausa": 0.6,
+   "impacto": true
   },
   {
    "text": "Mom locked the door and whispered: she uses their voices.",
@@ -98,7 +100,9 @@
    "visual": "hand locking an old back door at night",
    "destaque": [
     "VOICES"
-   ]
+   ],
+   "efeito": "porta"
   }
- ]
+ ],
+ "ambiente": "rio"
 }

@@ -62,6 +62,11 @@ IMAGENS (geradas por IA automaticamente)
 - O estilo (filme de terror, escuro, granulado) é adicionado sozinho: não repita "cinematic", "horror" etc.
 - Nada de sangue, ferimento, cadáver, nudez, marca, texto, celebridade. Rostos: ok, mas prefira silhuetas, mãos, portas, corredores, objetos — assusta mais e a IA erra menos.
 
+EFEITOS SONOROS (gerados sozinhos pelo robô)
+- No JSON da história: "ambiente": "vento" | "chuva" | "grilos" | "rio" | "floresta" (opcional, som baixinho o vídeo todo).
+- Em 2 a 4 cenas: "efeito": batida | arranhao | passos | grito | estalo | rangido | respiracao | pingo | telefone | sussurro | choro | chiado | freada | trovao | coracao | porta — SÓ quando a frase fala daquele som/ação.
+- Na cena da VIRADA (a revelação): "impacto": true (pancada grave + silêncio). Só 1 por história.
+
 FORMATO DO ARQUIVO veil/historias/fila/NN_slug.json
 {
  "titulo": "Night Shift Horror Story #1 | gancho curto em inglês #Shorts",
