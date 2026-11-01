@@ -1,0 +1,93 @@
+{
+ "titulo": "Quem não se conhece perde todas. #Shorts",
+ "descricao": "Sun Tzu escreveu que quem não conhece nem o adversário nem a si mesmo perde todas as batalhas.\n\nQual é o ponto fraco que você ainda finge que não tem?\n\nSegue o @mentesecreta. Mentalidade, poder e o lado oculto das pessoas.",
+ "tags": [
+  "sun tzu",
+  "a arte da guerra",
+  "estratégia",
+  "autoconhecimento",
+  "mentalidade",
+  "poder"
+ ],
+ "hashtags": "#estoicismo #mentalidade #mentesecreta",
+ "fontes": [
+  "Sun Tzu, A Arte da Guerra, capítulo 3 (Estratégia ofensiva). Trad. Lionel Giles (1910): https://changingminds.org/disciplines/warfare/art_war/sun_tzu_3-4.htm"
+ ],
+ "scenes": [
+  {
+   "text": "Quem não se conhece perde todas.",
+   "destaque": [
+    "PERDE"
+   ],
+   "preto": true
+  },
+  {
+   "text": "Não por falta de força. Por falta de saber onde é fraco.",
+   "destaque": [
+    "FRACO"
+   ],
+   "preto": true
+  },
+  {
+   "text": "Sun Tzu escreveu: quem conhece o inimigo e a si mesmo não precisa temer cem batalhas.",
+   "destaque": [
+    "CEM"
+   ],
+   "visual": "an ancient chinese scroll and a sword on a dark table",
+   "emocao": "poder",
+   "pausa": 0.5
+  },
+  {
+   "text": "Quem conhece só a si, ganha uma e perde outra. E quem não conhece nenhum dos dois perde todas.",
+   "destaque": [
+    "TODAS"
+   ],
+   "visual": "a chess board with fallen pieces in the dark",
+   "emocao": "medo"
+  },
+  {
+   "text": "A maioria estuda os outros. Quem é falso, quem fala demais, quem quer o quê.",
+   "destaque": [
+    "OUTROS"
+   ],
+   "visual": "a crowd of people walking in the rain at night",
+   "emocao": "grupo"
+  },
+  {
+   "text": "Mas esquece de olhar pra dentro. Qual elogio te desarma? Qual crítica te tira do sério? Qual medo decide por você?",
+   "destaque": [
+    "MEDO"
+   ],
+   "visual": "a dark mirror in an empty room",
+   "emocao": "mente"
+  },
+  {
+   "text": "Porque o seu ponto fraco, se você não conhece, alguém vai conhecer. E vai usar.",
+   "destaque": [
+    "USAR"
+   ],
+   "visual": "a wolf watching from the shadows of a forest",
+   "emocao": "engano"
+  },
+  {
+   "text": "Então anote. Onde você perde o controle, onde você cede, onde você mente pra si mesmo.",
+   "destaque": [
+    "ANOTE"
+   ],
+   "visual": "an old notebook and a candle on a wooden desk",
+   "emocao": "segredo"
+  },
+  {
+   "text": "Conheça seu ponto fraco antes que alguém conheça por você.",
+   "destaque": [
+    "CONHEÇA"
+   ],
+   "visual": "a king chess piece standing alone on the board",
+   "emocao": "poder"
+  }
+ ],
+ "personagem": "THE STRATEGIST, hands folded, facing the viewer",
+ "pron": {
+  "Tzu": "Tsú"
+ }
+}

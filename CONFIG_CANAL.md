@@ -12,9 +12,9 @@ Arquivo editado pelo painel. Não coloque senhas aqui.
 - [x] Quem fala com segurança parece certo, mesmo errado (heurística da confiança) (24/10/2026)
 - [x] Você lembra mais de uma ofensa do que de dez elogios (viés da negatividade) (24/10/2026)
 - [x] Pedir ajuda dá mais certo do que você pensa (Flynn & Lake 2008: subestimamos quem ajuda) (24/10/2026)
-- [ ] O som favorito de qualquer pessoa é o próprio nome (efeito coquetel / atenção ao próprio nome) (24/10/2026)
+- [x] O som favorito de qualquer pessoa é o próprio nome (efeito coquetel / atenção ao próprio nome) (24/10/2026)
 - [ ] Por que você sente que alguém está te olhando (detecção de olhar) (24/10/2026)
-- [ ] Ficar em silêncio faz o outro falar demais (desconforto com o silêncio na conversa) (24/10/2026)
+- [x] Ficar em silêncio faz o outro falar demais (desconforto com o silêncio na conversa) (24/10/2026)
 
 ## EVITAR
 - Diagnosticar pessoas ("isso prova que ele é psicopata")

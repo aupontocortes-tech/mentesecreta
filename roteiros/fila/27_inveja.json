@@ -1,0 +1,90 @@
+{
+ "titulo": "A inveja quase nunca vem de longe. #Shorts",
+ "descricao": "Aristóteles escreveu que a inveja nasce entre iguais: quem está perto de nós em idade, lugar e posição.\n\nQuem comemorou de verdade a sua última conquista?\n\nSegue o @mentesecreta. Mentalidade, poder e o lado oculto das pessoas.",
+ "tags": [
+  "filosofia",
+  "aristóteles",
+  "inveja",
+  "falsos amigos",
+  "mentalidade",
+  "poder"
+ ],
+ "hashtags": "#estoicismo #mentalidade #mentesecreta",
+ "fontes": [
+  "Aristóteles, Retórica, Livro II, capítulo 10 (1388a). Trad. inglesa: https://kairos.technorhetoric.net/stasis/2017/honeycutt/aristotle/rhet2-10.html"
+ ],
+ "scenes": [
+  {
+   "text": "A inveja quase nunca vem de longe.",
+   "destaque": [
+    "LONGE"
+   ],
+   "preto": true
+  },
+  {
+   "text": "Ela vem de quem senta do seu lado. De quem começou junto com você.",
+   "destaque": [
+    "JUNTO"
+   ],
+   "preto": true
+  },
+  {
+   "text": "Um milionário do outro lado do mundo não te inveja. Nem sabe que você existe.",
+   "destaque": [
+    "EXISTE"
+   ],
+   "visual": "a luxury yacht far away on a dark sea",
+   "emocao": "dinheiro"
+  },
+  {
+   "text": "Mas o colega da mesma sala, o amigo da mesma idade, o vizinho da mesma rua. Esses estão olhando.",
+   "destaque": [
+    "OLHANDO"
+   ],
+   "visual": "rows of office desks in a dark empty office at night",
+   "emocao": "olhar"
+  },
+  {
+   "text": "Aristóteles escreveu isso há mais de dois mil anos. A gente inveja quem está perto: no tempo, no lugar, na idade, na fama. Oleiro inveja oleiro.",
+   "destaque": [
+    "OLEIRO"
+   ],
+   "visual": "ancient greek pottery on a stone table in shadow",
+   "emocao": "mente",
+   "pausa": 0.6
+  },
+  {
+   "text": "Porque a sua vitória vira um espelho. Mostra o que o outro podia ter feito e não fez.",
+   "destaque": [
+    "ESPELHO"
+   ],
+   "visual": "a cracked mirror in a dark room",
+   "emocao": "engano"
+  },
+  {
+   "text": "Por isso quem mais deveria comemorar às vezes fica em silêncio. Ou elogia com um sorriso torto.",
+   "destaque": [
+    "SORRISO"
+   ],
+   "visual": "a group of people raising glasses at a dim dinner table",
+   "emocao": "grupo"
+  },
+  {
+   "text": "Não guarde rancor. Só repare. E conte suas conquistas a quem já provou que torce por você.",
+   "destaque": [
+    "TORCE"
+   ],
+   "visual": "a lone wolf standing on a hill at night",
+   "emocao": "solidao"
+  },
+  {
+   "text": "O perigo raramente mora longe. Ele senta perto.",
+   "destaque": [
+    "PERTO"
+   ],
+   "visual": "a chess board where two pawns stand side by side",
+   "emocao": "poder"
+  }
+ ],
+ "personagem": "THE STRATEGIST, hands folded, facing the viewer"
+}

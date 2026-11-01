@@ -1,0 +1,90 @@
+{
+ "titulo": "Até um imperador odiava levantar da cama. #Shorts",
+ "descricao": "Marco Aurélio, o homem mais poderoso de Roma, escreveu para si mesmo como vencer a preguiça da manhã.\n\nO que te faz levantar quando não dá vontade?\n\nSegue o @mentesecreta. Mentalidade, poder e o lado oculto das pessoas.",
+ "tags": [
+  "estoicismo",
+  "marco aurélio",
+  "disciplina",
+  "mentalidade",
+  "filosofia",
+  "rotina"
+ ],
+ "hashtags": "#estoicismo #mentalidade #mentesecreta",
+ "fontes": [
+  "Marco Aurélio, Meditações, Livro V, 1."
+ ],
+ "scenes": [
+  {
+   "text": "Até um imperador odiava levantar da cama.",
+   "destaque": [
+    "IMPERADOR"
+   ],
+   "preto": true
+  },
+  {
+   "text": "E ele tinha um império inteiro esperando por ele.",
+   "destaque": [
+    "IMPÉRIO"
+   ],
+   "preto": true
+  },
+  {
+   "text": "Marco Aurélio governava Roma. E mesmo assim escreveu, só pra ele, sobre a vontade de ficar debaixo do cobertor.",
+   "destaque": [
+    "COBERTOR"
+   ],
+   "visual": "ancient marble statue of a roman emperor in morning light",
+   "emocao": "poder"
+  },
+  {
+   "text": "Ele escreveu algo assim: ao amanhecer, quando custar levantar, lembre que você acordou pra fazer o trabalho de um ser humano.",
+   "destaque": [
+    "TRABALHO"
+   ],
+   "visual": "dawn light over ancient roman ruins",
+   "emocao": "poder",
+   "pausa": 0.6
+  },
+  {
+   "text": "Repara. Ele não esperava motivação. Não esperava vontade. Não esperava o dia perfeito.",
+   "destaque": [
+    "ESPERAVA"
+   ],
+   "visual": "an empty dark bedroom with light coming through the curtains",
+   "emocao": "mente"
+  },
+  {
+   "text": "Porque a vontade vem depois. Primeiro vem o pé no chão.",
+   "destaque": [
+    "CHÃO"
+   ],
+   "visual": "an old alarm clock on a wooden table at dawn",
+   "emocao": "mente"
+  },
+  {
+   "text": "Quem só age quando tem vontade vive na mão do humor. E o humor muda toda hora.",
+   "destaque": [
+    "HUMOR"
+   ],
+   "visual": "stormy clouds over a dark city",
+   "emocao": "medo"
+  },
+  {
+   "text": "Disciplina é fazer mesmo sem plateia, mesmo sem aplauso, mesmo cansado. É cumprir a promessa que você fez pra si mesmo.",
+   "destaque": [
+    "DISCIPLINA"
+   ],
+   "visual": "an empty gym in the dark with a single light",
+   "emocao": "solidao"
+  },
+  {
+   "text": "Se até um imperador lutava contra a cama, você também pode vencer a sua. Levanta.",
+   "destaque": [
+    "LEVANTA"
+   ],
+   "visual": "a city skyline at sunrise seen from a rooftop",
+   "emocao": "poder"
+  }
+ ],
+ "personagem": "THE STRATEGIST, hands folded, facing the viewer"
+}

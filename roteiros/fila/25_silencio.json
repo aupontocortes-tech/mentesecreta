@@ -1,0 +1,90 @@
+{
+ "titulo": "Quem fala menos, manda mais. #Shorts",
+ "descricao": "Epicteto ensinava a falar pouco e só o necessário. Num mundo onde todos falam demais, o silêncio virou autoridade.\n\nVocê consegue ficar em silêncio quando a conversa trava?\n\nSegue o @mentesecreta. Mentalidade, poder e o lado oculto das pessoas.",
+ "tags": [
+  "estoicismo",
+  "epicteto",
+  "silêncio",
+  "autoridade",
+  "mentalidade",
+  "filosofia"
+ ],
+ "hashtags": "#estoicismo #mentalidade #mentesecreta",
+ "fontes": [
+  "Epicteto, Enquirídio (Manual), capítulo 33. Trad. inglesa: https://cts.perseids.org/read/greekLit/tlg0557/tlg002/perseus-eng3/33"
+ ],
+ "scenes": [
+  {
+   "text": "Quem fala menos, manda mais.",
+   "destaque": [
+    "MANDA"
+   ],
+   "preto": true
+  },
+  {
+   "text": "Porque quem fala demais entrega o que pensa, o que teme e o que quer.",
+   "destaque": [
+    "ENTREGA"
+   ],
+   "preto": true
+  },
+  {
+   "text": "Repara numa reunião. Um explica, se justifica, enche cada pausa. O outro escuta. E no fim, todos olham pra quem ficou quieto.",
+   "destaque": [
+    "QUIETO"
+   ],
+   "visual": "a long dark meeting table with empty chairs and a single lamp",
+   "emocao": "poder"
+  },
+  {
+   "text": "O silêncio incomoda. A maioria não aguenta três segundos sem falar.",
+   "destaque": [
+    "SEGUNDOS"
+   ],
+   "visual": "an empty dark room with a clock on the wall",
+   "emocao": "mente"
+  },
+  {
+   "text": "E quando o silêncio pesa, o outro preenche. Fala mais do que devia. Conta o que ia esconder.",
+   "destaque": [
+    "CONTA"
+   ],
+   "visual": "two chairs facing each other in an empty dim hall",
+   "emocao": "segredo"
+  },
+  {
+   "text": "Epicteto, que foi escravo antes de virar mestre, deixou uma regra: que o silêncio seja o normal. Fale só o necessário, e com poucas palavras.",
+   "destaque": [
+    "NECESSÁRIO"
+   ],
+   "visual": "ancient marble bust of a greek philosopher in shadow",
+   "emocao": "poder",
+   "pausa": 0.6
+  },
+  {
+   "text": "Não é frieza. É controle. Quem domina a própria boca não vive se explicando, não vive pedindo aprovação.",
+   "destaque": [
+    "CONTROLE"
+   ],
+   "visual": "a chess board with a single king standing in the dark",
+   "emocao": "poder"
+  },
+  {
+   "text": "Então, na próxima pausa, não corra pra preencher. Respire. Escute. Observe.",
+   "destaque": [
+    "ESCUTE"
+   ],
+   "visual": "rain on a window at night overlooking the city",
+   "emocao": "olhar"
+  },
+  {
+   "text": "Fale menos. Escute mais. E quando falar, que cada palavra pese.",
+   "destaque": [
+    "PESE"
+   ],
+   "visual": "a city skyline at night under heavy clouds",
+   "emocao": "poder"
+  }
+ ],
+ "personagem": "THE STRATEGIST, hands folded, facing the viewer"
+}

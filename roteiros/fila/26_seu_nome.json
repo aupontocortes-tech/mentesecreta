@@ -1,0 +1,94 @@
+{
+ "titulo": "A palavra que ninguém consegue ignorar. #Shorts",
+ "descricao": "Em 1959, Neville Moray mostrou que o próprio nome atravessa a atenção mesmo quando a pessoa está concentrada em outra coisa.\n\nVocê lembra o nome de quem acabou de conhecer?\n\nSegue o @mentesecreta. Mentalidade, poder e o lado oculto das pessoas.",
+ "tags": [
+  "psicologia",
+  "como ler as pessoas",
+  "nome",
+  "atenção",
+  "mentalidade",
+  "relacionamentos"
+ ],
+ "hashtags": "#estoicismo #mentalidade #mentesecreta",
+ "fontes": [
+  "Moray, N. (1959). Attention in dichotic listening: Affective cues and the influence of instructions. Quarterly Journal of Experimental Psychology, 11(1), 56-60. https://doi.org/10.1080/17470215908416289"
+ ],
+ "scenes": [
+  {
+   "text": "Existe uma palavra que ninguém consegue ignorar.",
+   "destaque": [
+    "IGNORAR"
+   ],
+   "preto": true
+  },
+  {
+   "text": "Nem distraído. Nem no barulho. Nem quando finge que não ouviu.",
+   "destaque": [
+    "BARULHO"
+   ],
+   "preto": true
+  },
+  {
+   "text": "É o próprio nome. Num lugar cheio, alguém fala o seu nome lá no fundo, e sua cabeça vira sozinha.",
+   "destaque": [
+    "NOME"
+   ],
+   "visual": "a crowded dark train station seen from above",
+   "emocao": "grupo"
+  },
+  {
+   "text": "Em mil novecentos e cinquenta e nove, o pesquisador Neville Moray testou isso. As pessoas ouviam duas mensagens, uma em cada ouvido, e só prestavam atenção numa.",
+   "destaque": [
+    "MORAY"
+   ],
+   "visual": "an old radio studio with headphones on a table",
+   "emocao": "mente"
+  },
+  {
+   "text": "Quase nada da outra passava. Mas quando o próprio nome aparecia nela, muita gente percebia na hora.",
+   "destaque": [
+    "PERCEBIA"
+   ],
+   "visual": "a single light bulb glowing in a dark corridor",
+   "emocao": "mente",
+   "pausa": 0.5
+  },
+  {
+   "text": "Agora pensa. Quem esquece seu nome te diz que você não importou. Quem lembra te diz o contrário.",
+   "destaque": [
+    "IMPORTOU"
+   ],
+   "visual": "two men shaking hands in a dim elegant hall",
+   "emocao": "olhar"
+  },
+  {
+   "text": "Não é truque. É respeito. E respeito é a forma mais rara de atenção.",
+   "destaque": [
+    "RESPEITO"
+   ],
+   "visual": "a chess queen and king standing side by side",
+   "emocao": "poder"
+  },
+  {
+   "text": "Então guarde o nome de quem você conhece. Use com naturalidade, sem exagero. E repare em quem nunca lembra do seu.",
+   "destaque": [
+    "REPARE"
+   ],
+   "visual": "a man in a suit seen from behind watching a party",
+   "emocao": "olhar"
+  },
+  {
+   "text": "Quem lembra o seu nome lembrou de você.",
+   "destaque": [
+    "LEMBRA"
+   ],
+   "visual": "city lights reflected on a wet street at night",
+   "emocao": "poder"
+  }
+ ],
+ "personagem": "THE STRATEGIST, hands folded, facing the viewer",
+ "pron": {
+  "Neville": "Névil",
+  "Moray": "Mórei"
+ }
+}

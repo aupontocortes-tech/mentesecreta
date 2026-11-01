@@ -1,0 +1,90 @@
+{
+ "titulo": "Cuidado com quem só te elogia. #Shorts",
+ "descricao": "Maquiavel dedicou um capítulo de O Príncipe aos bajuladores e a como se proteger deles.\n\nQuem foi a última pessoa que teve coragem de te dizer uma verdade?\n\nSegue o @mentesecreta. Mentalidade, poder e o lado oculto das pessoas.",
+ "tags": [
+  "maquiavel",
+  "o príncipe",
+  "bajulação",
+  "falsos amigos",
+  "mentalidade",
+  "poder"
+ ],
+ "hashtags": "#estoicismo #mentalidade #mentesecreta",
+ "fontes": [
+  "Nicolau Maquiavel, O Príncipe (1532), capítulo XXIII: De como evitar os aduladores. https://www.marxists.org/reference/archive/machiavelli/works/prince/ch23.htm"
+ ],
+ "scenes": [
+  {
+   "text": "Cuidado com quem só te elogia.",
+   "destaque": [
+    "ELOGIA"
+   ],
+   "preto": true
+  },
+  {
+   "text": "Quem nunca discorda de você não está do seu lado. Está do lado do que você pode dar.",
+   "destaque": [
+    "DAR"
+   ],
+   "preto": true
+  },
+  {
+   "text": "Repara. Toda ideia sua é genial. Toda decisão é perfeita. Todo erro é culpa dos outros.",
+   "destaque": [
+    "GENIAL"
+   ],
+   "visual": "a group of men applauding in a dark theater",
+   "emocao": "grupo"
+  },
+  {
+   "text": "É gostoso. E é exatamente por isso que é perigoso.",
+   "destaque": [
+    "PERIGOSO"
+   ],
+   "visual": "a golden crown on a velvet cushion in shadow",
+   "emocao": "poder"
+  },
+  {
+   "text": "Maquiavel escreveu um capítulo inteiro sobre isso. Pra ele, as cortes viviam cheias de bajuladores.",
+   "destaque": [
+    "CORTES"
+   ],
+   "visual": "a grand renaissance hall with empty thrones",
+   "emocao": "poder"
+  },
+  {
+   "text": "E disse algo assim: o único jeito de se proteger da bajulação é as pessoas saberem que dizer a verdade não te ofende.",
+   "destaque": [
+    "VERDADE"
+   ],
+   "visual": "a renaissance marble statue of a thinker in a dim gallery",
+   "emocao": "mente",
+   "pausa": 0.6
+  },
+  {
+   "text": "Ou seja, a culpa não é só de quem bajula. É de quem pune quem fala a verdade.",
+   "destaque": [
+    "PUNE"
+   ],
+   "visual": "an empty chair at the head of a long dark table",
+   "emocao": "solidao"
+  },
+  {
+   "text": "Então valorize quem te contraria com respeito. Agradeça a crítica que dói. Desconfie do aplauso que nunca para.",
+   "destaque": [
+    "DESCONFIE"
+   ],
+   "visual": "a lion resting alone on a rock at night",
+   "emocao": "poder"
+  },
+  {
+   "text": "Quem só te elogia te deixa cego. Quem te diz a verdade te deixa forte.",
+   "destaque": [
+    "FORTE"
+   ],
+   "visual": "a city skyline at night under a full moon",
+   "emocao": "poder"
+  }
+ ],
+ "personagem": "THE STRATEGIST, hands folded, facing the viewer"
+}
