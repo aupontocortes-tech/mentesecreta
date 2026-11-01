@@ -98,17 +98,15 @@ def impacto():
 EFEITOS = dict(batida=batida, arranhao=arranhao, passos=passos, grito=grito, estalo=estalo, rangido=rangido,
                respiracao=respiracao, pingo=pingo, telefone=telefone, sussurro=sussurro, choro=choro, chiado=chiado,
                freada=freada, trovao=trovao, coracao=coracao, porta=porta)
-VOL = dict(grito=0.22, choro=0.28, sussurro=0.25, respiracao=0.3, telefone=0.25, chiado=0.15, trovao=0.5)
+VOL = dict(grito=0.22, choro=0.28, sussurro=0.25, respiracao=0.3, telefone=0.25, chiado=0.06, trovao=0.5)
 
 def ambiente(tipo, n):
     d = n / SR; x = ruido(d)
     if tipo == 'vento': y = banda(x, 80, 700) * (0.6 + 0.4 * np.sin(2 * np.pi * 0.11 * t(d)))
     elif tipo == 'chuva': y = banda(x, 1500, 9000)
     elif tipo == 'rio': y = banda(x, 200, 1500) * (0.8 + 0.2 * np.sin(2 * np.pi * 0.3 * t(d)))
-    elif tipo in ('grilos', 'floresta'):
-        y = banda(x, 100, 600) * 0.5
-        c = np.sin(2 * np.pi * 4300 * t(d)) * (np.sin(2 * np.pi * 22 * t(d)) > 0.6) * (np.sin(2 * np.pi * 0.7 * t(d)) > 0)
-        y = y + c * 0.25
+    elif tipo in ('grilos', 'floresta'):   # noite calma: vento leve (o grilo sintético soava como bipe)
+        y = banda(x, 100, 500) * (0.7 + 0.3 * np.sin(2 * np.pi * 0.08 * t(d)))
     else: return np.zeros(n, np.float32)
     y = norm(y); return np.pad(y, (0, max(0, n - len(y))))[:n]
 
@@ -121,7 +119,8 @@ def main():
     assert sr == SR, sr
     n = len(y)
     if spec.get('ambiente'): y += ambiente(spec['ambiente'], n) * 0.05 * env(n, 2, 2)
-    for sc, (s, e) in zip(spec['scenes'], T['segs']):
+    for k, (sc, (s, e)) in enumerate(zip(spec['scenes'], T['segs'])):
+        if k == 0: continue   # o gancho (1ª frase) fica limpo, só a voz e a trilha
         if sc.get('impacto'):   # silêncio na trilha + pancada logo antes da frase da virada
             i = int(max(0, s - 0.15) * SR); k = int(1.2 * SR)
             y[i:i + k] *= np.linspace(0.15, 1, len(y[i:i + k]))
