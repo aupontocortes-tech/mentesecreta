@@ -15,77 +15,84 @@
  ],
  "scenes": [
   {
-   "text": "Quem te irrita te controla.",
-   "visual": "THE STRATEGIST standing alone in a dark corridor, hard light from above",
-   "emocao": "poder",
+   "text": "Quem te irrita, te controla.",
    "destaque": [
     "CONTROLA"
-   ]
+   ],
+   "preto": true
   },
   {
-   "text": "Toda vez que você explode, alguém descobre o seu botão.",
-   "visual": "a man shouting in anger across a table while another man watches him calmly",
-   "emocao": "engano",
+   "text": "E a maioria das pessoas entrega esse controle de graça.",
    "destaque": [
-    "BOTÃO"
-   ]
+    "GRAÇA"
+   ],
+   "preto": true
   },
   {
-   "text": "E quem conhece o seu botão aperta quando quiser.",
-   "visual": "close-up of a hand slowly moving a chess piece on a dark chessboard",
-   "emocao": "poder",
-   "destaque": [
-    "APERTA"
-   ]
-  },
-  {
-   "text": "Uma mensagem atravessada. Uma piada na frente dos outros. E pronto, seu dia acabou.",
-   "visual": "a young man alone at night staring angrily at his glowing phone",
-   "emocao": "solidao",
+   "text": "Uma mensagem atravessada. Uma piada na frente dos outros. Um olhar torto. E pronto. O seu dia acabou.",
    "destaque": [
     "ACABOU"
-   ]
+   ],
+   "visual": "a group of people laughing at a man in a dark room",
+   "emocao": "grupo"
   },
   {
-   "text": "Epicteto, um escravo que virou filósofo, escreveu:",
-   "visual": "ancient marble statue of a bearded greek philosopher in deep shadow",
-   "emocao": "mente",
+   "text": "Você explode. Responde na hora. Fala o que não devia. E quem te provocou só observa.",
    "destaque": [
-    "EPICTETO"
-   ]
+    "OBSERVA"
+   ],
+   "visual": "a man shouting in anger while another man watches him calmly",
+   "emocao": "engano"
   },
   {
-   "text": "não é quem te insulta que te ofende. É o seu julgamento sobre o insulto.",
-   "visual": "an old man in a simple robe sitting calmly while a crowd mocks him",
-   "emocao": "mente",
+   "text": "Porque agora ele sabe exatamente qual é o seu botão. E vai apertar de novo quando quiser.",
+   "destaque": [
+    "BOTÃO"
+   ],
+   "visual": "a hand slowly moving a chess piece on a dark chessboard",
+   "emocao": "poder"
+  },
+  {
+   "text": "Epicteto, um escravo que virou filósofo, já dizia: não é quem te insulta que te ofende. É o seu julgamento sobre o insulto.",
    "destaque": [
     "JULGAMENTO"
    ],
-   "pausa": 0.7
-  },
-  {
-   "text": "Ou seja: a raiva não vem de fora. Ela é a sua resposta.",
-   "visual": "THE STRATEGIST sitting still on a dark throne, calm",
-   "emocao": "poder",
-   "destaque": [
-    "RESPOSTA"
-   ]
-  },
-  {
-   "text": "Então, antes de reagir, espere. Respire. Responda depois.",
-   "visual": "a man in a dark suit putting his phone face down on a table and turning away",
+   "visual": "ancient marble statue of a bearded greek philosopher",
    "emocao": "mente",
+   "pausa": 0.6
+  },
+  {
+   "text": "Ou seja, a raiva não vem de fora. Ela é a sua resposta. E a resposta, você escolhe.",
+   "destaque": [
+    "ESCOLHE"
+   ],
+   "visual": "a stormy sea at night crashing against dark rocks",
+   "emocao": "medo"
+  },
+  {
+   "text": "Quem domina as próprias emoções não precisa vencer discussão. Não precisa provar nada. Só observa.",
+   "destaque": [
+    "DOMINA"
+   ],
+   "visual": "a lion resting calmly on a rock at night",
+   "emocao": "poder"
+  },
+  {
+   "text": "Então, da próxima vez, espere. Respire. Responda depois. Ou simplesmente não responda.",
    "destaque": [
     "ESPERE"
-   ]
+   ],
+   "visual": "a man putting his phone face down on a table in the dark",
+   "emocao": "mente"
   },
   {
-   "text": "Quem não se irrita, ninguém controla.",
-   "visual": "THE STRATEGIST seen from behind looking at a city at night",
-   "emocao": "poder",
+   "text": "Porque quem não se irrita, ninguém controla.",
    "destaque": [
     "NINGUÉM"
-   ]
+   ],
+   "visual": "a dark city skyline at night under heavy clouds",
+   "emocao": "poder"
   }
- ]
+ ],
+ "personagem": "THE STRATEGIST, hands folded, facing the viewer"
 }

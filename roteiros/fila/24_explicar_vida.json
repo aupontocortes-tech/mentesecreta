@@ -16,68 +16,75 @@
  "scenes": [
   {
    "text": "Pare de explicar sua vida.",
-   "visual": "THE STRATEGIST walking away down a dark street at night",
-   "emocao": "poder",
    "destaque": [
     "PARE"
-   ]
+   ],
+   "preto": true
   },
   {
-   "text": "Cada explicação que você dá entrega um pedaço de você.",
-   "visual": "a man talking nervously while two people whisper and judge him",
-   "emocao": "olhar",
+   "text": "Cada explicação que você dá é uma porta aberta pra alguém te julgar.",
    "destaque": [
-    "ENTREGA"
-   ]
+    "JULGAR"
+   ],
+   "preto": true
   },
   {
-   "text": "Por que mudou de emprego. Por que terminou. Por que sumiu.",
-   "visual": "a young man surrounded by people pointing at him in a dark room",
-   "emocao": "grupo",
+   "text": "Por que mudou de emprego. Por que terminou. Por que sumiu. Por que agora pensa diferente.",
    "destaque": [
     "SUMIU"
-   ]
+   ],
+   "visual": "people pointing and whispering at a man in a dark hall",
+   "emocao": "grupo"
   },
   {
-   "text": "Quem quer te entender não precisa de discurso. E quem não quer, não vai entender.",
-   "visual": "two men facing each other in silence across a table, one with arms crossed",
-   "emocao": "olhar",
+   "text": "Você explica, se justifica, pede desculpa por viver do seu jeito. E mesmo assim não convence ninguém.",
+   "destaque": [
+    "NINGUÉM"
+   ],
+   "visual": "a man talking nervously while two people judge him",
+   "emocao": "olhar"
+  },
+  {
+   "text": "Porque quem quer te entender não precisa de discurso. E quem não quer, nunca vai entender.",
    "destaque": [
     "DISCURSO"
-   ]
+   ],
+   "visual": "two men facing each other in silence across a table",
+   "emocao": "olhar"
   },
   {
-   "text": "Marco Aurélio, imperador de Roma, escreveu algo assim:",
-   "visual": "ancient marble statue of a roman emperor on horseback in deep shadow",
-   "emocao": "poder",
-   "destaque": [
-    "AURÉLIO"
-   ]
-  },
-  {
-   "text": "quanto tempo ganha quem não olha o que o vizinho disse, fez ou pensou.",
-   "visual": "an old roman man writing alone by candlelight",
-   "emocao": "mente",
+   "text": "Marco Aurélio, imperador de Roma, escreveu algo assim: quanto tempo ganha quem não olha o que o vizinho disse, fez ou pensou.",
    "destaque": [
     "TEMPO"
    ],
-   "pausa": 0.7
+   "visual": "ancient marble statue of a roman emperor",
+   "emocao": "poder",
+   "pausa": 0.6
   },
   {
-   "text": "O silêncio sobre a sua vida não é fraqueza. É proteção.",
-   "visual": "THE STRATEGIST sitting in silence at a chess table, one hand on a king piece",
-   "emocao": "segredo",
+   "text": "O silêncio sobre a sua vida não é fraqueza. É proteção. Plano contado vira opinião dos outros.",
    "destaque": [
     "PROTEÇÃO"
-   ]
+   ],
+   "visual": "a hand resting on a king chess piece in the dark",
+   "emocao": "segredo"
   },
   {
-   "text": "Viva. Deixe que eles tentem entender depois.",
-   "visual": "a man in a dark coat standing on a rooftop looking at the city at night",
-   "emocao": "poder",
+   "text": "Mostre resultado. Não explique o caminho.",
+   "destaque": [
+    "RESULTADO"
+   ],
+   "visual": "a man on a rooftop looking at the city at dawn",
+   "emocao": "poder"
+  },
+  {
+   "text": "Viva do seu jeito. Eles que tentem entender depois.",
    "destaque": [
     "VIVA"
-   ]
+   ],
+   "visual": "a man in a dark coat walking away down an empty street at night",
+   "emocao": "poder"
   }
- ]
+ ],
+ "personagem": "THE STRATEGIST, hands folded, facing the viewer"
 }

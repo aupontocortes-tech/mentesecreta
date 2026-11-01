@@ -16,68 +16,75 @@
  "scenes": [
   {
    "text": "Alguns amigos só existem enquanto você serve.",
-   "visual": "THE STRATEGIST standing alone at the end of a long empty dinner table",
-   "emocao": "solidao",
    "destaque": [
     "SERVE"
-   ]
+   ],
+   "preto": true
   },
   {
-   "text": "Repara quem aparece quando você tem carro, dinheiro ou contato.",
-   "visual": "a smiling group of men surrounding a rich man at a bar, one of them looking at his wallet",
-   "emocao": "dinheiro",
+   "text": "E você só descobre quem são no dia em que não tem mais nada pra oferecer.",
    "destaque": [
-    "APARECE"
-   ]
+    "OFERECER"
+   ],
+   "preto": true
   },
   {
-   "text": "E quem some quando você precisa de uma mão.",
-   "visual": "a man sitting alone on a bench in the rain at night, his phone silent beside him",
-   "emocao": "solidao",
+   "text": "Repara. Quando você tem carro, dinheiro ou contato, o telefone não para. Todo mundo lembra do seu nome.",
    "destaque": [
-    "SOME"
-   ]
+    "NOME"
+   ],
+   "visual": "a smiling crowd of men surrounding a rich man at a bar",
+   "emocao": "dinheiro"
   },
   {
-   "text": "Aristóteles já dizia isso há mais de dois mil anos.",
-   "visual": "ancient marble bust of aristotle in deep shadow",
-   "emocao": "mente",
+   "text": "Mas quando a fase ruim chega, o silêncio é imediato. Ninguém liga. Ninguém aparece.",
    "destaque": [
-    "ARISTÓTELES"
-   ]
+    "SILÊNCIO"
+   ],
+   "visual": "a man sitting alone on a bench in the rain at night",
+   "emocao": "solidao"
   },
   {
-   "text": "Pra ele, existem amizades por interesse, por prazer e por caráter.",
-   "visual": "three men standing apart in a dark hall, each lit by a different light",
-   "emocao": "grupo",
+   "text": "Aristóteles escreveu sobre isso há mais de dois mil anos. Pra ele, existem amizades por interesse, por prazer e por caráter.",
    "destaque": [
     "CARÁTER"
-   ]
-  },
-  {
-   "text": "As duas primeiras acabam quando acaba a vantagem.",
-   "visual": "two men shaking hands while one of them looks away coldly",
-   "emocao": "engano",
-   "destaque": [
-    "ACABAM"
    ],
-   "pausa": 0.7
+   "visual": "ancient marble bust of aristotle",
+   "emocao": "mente",
+   "pausa": 0.6
   },
   {
-   "text": "Só a última continua quando você não tem nada pra oferecer.",
-   "visual": "two old friends sitting together in silence by a fire",
-   "emocao": "familia",
+   "text": "As duas primeiras acabam quando acaba a vantagem. Não por maldade. É a natureza delas.",
    "destaque": [
-    "CONTINUA"
-   ]
+    "VANTAGEM"
+   ],
+   "visual": "two men shaking hands while one of them looks away coldly",
+   "emocao": "engano"
   },
   {
-   "text": "Então não se assuste com quem vai embora. Observe quem fica.",
-   "visual": "THE STRATEGIST watching a crowd leave a dark room, one person staying behind",
-   "emocao": "olhar",
+   "text": "Só a amizade por caráter fica quando você não tem nada pra dar.",
    "destaque": [
     "FICA"
-   ]
+   ],
+   "visual": "two old friends sitting together in silence by a fire",
+   "emocao": "familia"
+  },
+  {
+   "text": "Por isso, não sofra por quem foi embora. Quem saiu na hora difícil já tinha ido faz tempo.",
+   "destaque": [
+    "EMBORA"
+   ],
+   "visual": "a long empty dinner table with one chair left",
+   "emocao": "solidao"
+  },
+  {
+   "text": "Preste atenção em quem fica. Esses você protege. O resto, deixe ir.",
+   "destaque": [
+    "PROTEGE"
+   ],
+   "visual": "a small group of loyal men standing together in the dark",
+   "emocao": "grupo"
   }
- ]
+ ],
+ "personagem": "THE STRATEGIST, hands folded, facing the viewer"
 }

@@ -36,7 +36,27 @@ def source_file(src):
 
 def ease(x): x = max(0, min(1, x)); return 1 - (1 - x) ** 3
 
+PERS = None   # personagem central fixo do vídeo (PNG com transparência), igual aos perfis de "mentalidade"
+
+def prepara_personagem(src, out):
+    """Imagem do personagem em fundo preto -> PNG com o preto transparente."""
+    im = Image.open(source_file(src)).convert('L')
+    rgb = Image.open(source_file(src)).convert('RGB')
+    a = np.asarray(im, np.float32)
+    alpha = np.clip((a - 18) * 4.0, 0, 255).astype(np.uint8)          # preto vira transparente
+    al = Image.fromarray(alpha).filter(ImageFilter.MaxFilter(5)).filter(ImageFilter.GaussianBlur(4))
+    g = rgb.convert('L').convert('RGB'); g.putalpha(al)
+    alvo_h = 1300; s = alvo_h / g.height; g = g.resize((int(g.width * s) // 2 * 2, alvo_h), Image.LANCZOS)
+    o = os.path.join(out, 'personagem.png'); g.save(o); return o
+
+def cena_preta(i, dur, out):
+    o = os.path.join(out, f'part{i:02d}.mp4')
+    run(['ffmpeg', '-y', '-loglevel', 'error', '-f', 'lavfi', '-i', f'color=c=black:s={W}x{H}:r={FPS}', '-t', f'{dur:.3f}',
+         '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '17', '-pix_fmt', 'yuv420p', o])
+    return o
+
 def cena_mp4(i, sc, dur, out):
+    if sc.get('preto') or not sc.get('src'): return cena_preta(i, dur, out)
     p = source_file(sc['src']); im = Image.open(p); iw, ih = im.size
     if iw * 16 >= ih * 9:   # mais larga que 9:16: corta laterais
         cw, ch = int(ih * 9 / 16), ih; x = int((iw - cw) * float(sc.get('focus', 0.5))); y = 0
@@ -50,6 +70,12 @@ def cena_mp4(i, sc, dur, out):
           f"eq=contrast=1.18:brightness=-0.05:saturation=0,"
           f"vignette=PI/3.6,fade=t=in:st=0:d=0.35,setsar=1")
     o = os.path.join(out, f'part{i:02d}.mp4')
+    if PERS and not sc.get('sem_personagem'):   # fundo mais escuro + personagem fixo na frente, centralizado embaixo
+        vf2 = vf.replace('brightness=-0.05', 'brightness=-0.16')
+        fc = (f"[0:v]{vf2}[bg];[1:v]format=rgba[p];[bg][p]overlay=x=(W-w)/2:y=H-h-170,format=yuv420p[v]")
+        run(['ffmpeg', '-y', '-loglevel', 'error', '-loop', '1', '-i', p, '-loop', '1', '-i', PERS, '-t', f'{dur:.3f}', '-an',
+             '-filter_complex', fc, '-map', '[v]', '-r', str(FPS), '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '17', o])
+        return o
     run(['ffmpeg', '-y', '-loglevel', 'error', '-loop', '1', '-i', p, '-t', f'{dur:.3f}', '-an', '-vf', vf,
          '-r', str(FPS), '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '17', '-pix_fmt', 'yuv420p', o])
     return o
@@ -101,6 +127,8 @@ def main():
     T = json.load(open(os.path.join(out, 'timing.json'), encoding='utf-8'))
     DUR, SEGS, WORDS, SC = T['dur'], T['segs'], T['words'], spec['scenes']
     assert len(SC) == len(SEGS), 'número de cenas diferente da narração'
+    global PERS
+    if spec.get('personagem_src'): PERS = prepara_personagem(spec['personagem_src'], out)
     bounds = [0.0] + [SEGS[i][0] - 0.25 for i in range(1, len(SEGS))] + [DUR]
     parts = [cena_mp4(i, sc, bounds[i + 1] - bounds[i], out) for i, sc in enumerate(SC)]
     lst = os.path.join(out, 'parts.txt'); open(lst, 'w').write(''.join(f"file '{os.path.abspath(p)}'\n" for p in parts))

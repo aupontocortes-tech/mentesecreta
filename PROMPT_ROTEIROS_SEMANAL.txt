@@ -12,13 +12,13 @@ NOVO ESTILO DO CANAL (desde 01/11/2026 — o Thiago mudou o canal; o estilo anti
 Canal de PODER, ESTOICISMO e COMO LER AS PESSOAS. Inspiração: perfis de "mentalidade" do TikTok (frase forte + explicação curta + clima escuro). NUNCA copie frases ou títulos de outros canais: crie as suas.
 TEMAS (varie): estoicismo (Sêneca, Marco Aurélio, Epicteto), estratégia (Maquiavel, Sun Tzu, Robert Greene como "um autor diz"), como reconhecer manipulação e falsos amigos, inveja, silêncio e autoridade, disciplina, controle das emoções, como as pessoas te leem, relacionamentos e poder, dinheiro e status. Pode usar psicologia quando reforçar a ideia.
 
-FÓRMULA OBRIGATÓRIA (30 a 38 segundos, 7 a 9 cenas, 70 a 95 palavras, uma frase curta por cena):
-1. FRASE DE PODER (gancho, máx. 8 palavras): uma ordem ou verdade dura. Ex. de estilo: "Pare de explicar sua vida.", "Quem te irrita te controla.", "Nem todo amigo torce por você." É também o TÍTULO.
-2. O porquê, direto: o que acontece com quem não sabe isso.
-3. Cena do dia a dia em que a pessoa se reconhece.
-4. A base: um filósofo (citação REAL, com obra) ou um estudo real.
-5. Virada: o que muda quando você entende isso.
-6. FINAL: a lição em uma frase prática + repete/ecoa a frase de poder. Nada de final poético que ninguém entende.
+FÓRMULA OBRIGATÓRIA (copiada da análise dos vídeos que bombam nesse nicho, 01/11/2026):
+- 60 a 75 segundos, 130 a 170 palavras, 9 a 11 cenas. Cada cena pode ter 1 a 3 frases curtas.
+- Cenas 1 e 2 com "preto": true (TELA PRETA só com a legenda, sem imagem): a frase de poder + uma frase que aprofunda. É o gancho.
+- Monólogo de mentor, frases curtas e ritmadas, com REPETIÇÃO de estrutura (ex.: "Ninguém liga. Ninguém aparece.", "Se tiver que..., eu...", "Por que... Por que... Por que...").
+- Meio: situação do dia a dia + o porquê + um filósofo ou estudo real (opcional, 1 só).
+- Final: a lição prática e a frase de poder de novo, com outra forma.
+- No JSON coloque "personagem": "THE STRATEGIST, hands folded, facing the viewer" (é o personagem fixo do canal, fica na frente de todas as cenas com imagem). Pode variar a pose (ex.: "THE STRATEGIST holding a chess king"), mas sempre THE STRATEGIST.
 Tom: voz de mentor, firme, frio, sem gritaria e sem autoajuda melosa. Nada de "Calma", nada de "Sabia que...".
 
 CREDIBILIDADE (não negociável):
@@ -27,9 +27,9 @@ CREDIBILIDADE (não negociável):
 - Nada de incentivar vingança, violência, humilhar pessoas ou manipular alguém. O foco é se proteger e ter autocontrole.
 - Sem diagnósticos ("narcisista", "psicopata"), sem "todas as pessoas".
 
-IMAGENS: cada cena ganha uma imagem feita por IA em PRETO E BRANCO cinematográfico (o estilo é adicionado sozinho).
+IMAGENS: cada cena (menos as "preto") ganha uma imagem de FUNDO feita por IA em PRETO E BRANCO cinematográfico (o estilo é adicionado sozinho).
 "visual": descrição em INGLÊS, simples e concreta, de UMA cena: 1 ou 2 pessoas, 1 ação. Varie: pessoas comuns em situações do dia a dia, estátuas e filósofos antigos, tabuleiro de xadrez, rei, lobo, leão, cidade à noite, homem de terno de costas.
-Em 2 ou 3 cenas por vídeo use o personagem do canal escrevendo exatamente THE STRATEGIST (vira um homem alto de capa preta com capuz e rosto escondido na sombra). Ex.: "THE STRATEGIST standing alone in a dark corridor".
+O personagem já aparece na frente sozinho; no "visual" descreva só o FUNDO (sem pessoa no centro de preferência): estátuas, cidade, mar, xadrez, multidão, salão escuro.
 Também coloque "emocao" (reserva se a IA falhar): poder | segredo | olhar | medo | solidao | dinheiro | engano | mente | grupo | familia.
 "destaque": a palavra-chave da cena (fica vermelha na legenda).
 

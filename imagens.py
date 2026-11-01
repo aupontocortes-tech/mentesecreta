@@ -130,8 +130,17 @@ def main():
     for sc in spec['scenes']:
         if sc.get('src'): usadas.add(sc['src'])
     reserva = spec.get('busca_reserva', ['dark portrait oil painting', 'renaissance portrait', 'baroque painting shadow'])
+    if spec.get('personagem') and not spec.get('personagem_src'):   # personagem central fixo, em fundo preto
+        os.makedirs(os.path.join(AQUI, 'out'), exist_ok=True); destino = os.path.join(AQUI, 'out', 'personagem.jpg')
+        try:
+            sys.path.insert(0, os.path.join(AQUI, 'veil')); import historia
+            pr = spec['personagem'].replace('THE STRATEGIST', PERSONAGEM)
+            if historia._cloudflare(f'{pr}, full body, standing, centered, isolated on a pure solid black background, '
+                                    'dramatic rim light, black and white, high contrast, cinematic, no text', 0, destino):
+                spec['personagem_src'] = destino; print('personagem: IA')
+        except Exception as e: print('  personagem falhou:', e)
     for i, sc in enumerate(spec['scenes']):
-        if sc.get('src'): continue
+        if sc.get('src') or sc.get('preto'): continue
         if sc.get('visual'):   # 1º: pintura feita por IA para a frase; se falhar, cai no banco das 77
             os.makedirs(os.path.join(AQUI, 'out'), exist_ok=True)
             destino = os.path.join(AQUI, 'out', f'ia{i:02d}.jpg')
