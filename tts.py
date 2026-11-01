@@ -14,8 +14,8 @@ if _extra and os.path.exists(_extra):
 import edge_tts
 
 VOZ = os.environ.get('MS_VOZ', 'pt-BR-AntonioNeural')
-RATE = os.environ.get('MS_RATE', '+6%')
-PITCH = os.environ.get('MS_PITCH', '-14Hz')
+RATE = os.environ.get('MS_RATE', '+0%')
+PITCH = os.environ.get('MS_PITCH', '-22Hz')
 SR = 24000
 PRON = {'Greene': 'Grím', 'Cornell': 'Cornél', 'Stanford': 'Stênford', 'Harvard': 'Rárvard', 'Shorts': 'Xórts'}
 

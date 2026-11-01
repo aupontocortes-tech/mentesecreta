@@ -1,0 +1,83 @@
+{
+ "titulo": "Alguns amigos só existem enquanto você serve. #Shorts",
+ "descricao": "Aristóteles separou as amizades em três tipos. Só uma sobrevive quando a vantagem acaba.\n\nQuantos amigos ainda estariam aqui se você não tivesse nada pra oferecer?\n\nSegue o @mentesecreta. Mentalidade, poder e o lado oculto das pessoas.",
+ "tags": [
+  "estoicismo",
+  "aristóteles",
+  "amizade",
+  "falsos amigos",
+  "mentalidade",
+  "filosofia"
+ ],
+ "hashtags": "#estoicismo #mentalidade #mentesecreta",
+ "fontes": [
+  "Aristóteles, Ética a Nicômaco, Livro VIII, capítulo 3."
+ ],
+ "scenes": [
+  {
+   "text": "Alguns amigos só existem enquanto você serve.",
+   "visual": "THE STRATEGIST standing alone at the end of a long empty dinner table",
+   "emocao": "solidao",
+   "destaque": [
+    "SERVE"
+   ]
+  },
+  {
+   "text": "Repara quem aparece quando você tem carro, dinheiro ou contato.",
+   "visual": "a smiling group of men surrounding a rich man at a bar, one of them looking at his wallet",
+   "emocao": "dinheiro",
+   "destaque": [
+    "APARECE"
+   ]
+  },
+  {
+   "text": "E quem some quando você precisa de uma mão.",
+   "visual": "a man sitting alone on a bench in the rain at night, his phone silent beside him",
+   "emocao": "solidao",
+   "destaque": [
+    "SOME"
+   ]
+  },
+  {
+   "text": "Aristóteles já dizia isso há mais de dois mil anos.",
+   "visual": "ancient marble bust of aristotle in deep shadow",
+   "emocao": "mente",
+   "destaque": [
+    "ARISTÓTELES"
+   ]
+  },
+  {
+   "text": "Pra ele, existem amizades por interesse, por prazer e por caráter.",
+   "visual": "three men standing apart in a dark hall, each lit by a different light",
+   "emocao": "grupo",
+   "destaque": [
+    "CARÁTER"
+   ]
+  },
+  {
+   "text": "As duas primeiras acabam quando acaba a vantagem.",
+   "visual": "two men shaking hands while one of them looks away coldly",
+   "emocao": "engano",
+   "destaque": [
+    "ACABAM"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "Só a última continua quando você não tem nada pra oferecer.",
+   "visual": "two old friends sitting together in silence by a fire",
+   "emocao": "familia",
+   "destaque": [
+    "CONTINUA"
+   ]
+  },
+  {
+   "text": "Então não se assuste com quem vai embora. Observe quem fica.",
+   "visual": "THE STRATEGIST watching a crowd leave a dark room, one person staying behind",
+   "emocao": "olhar",
+   "destaque": [
+    "FICA"
+   ]
+  }
+ ]
+}

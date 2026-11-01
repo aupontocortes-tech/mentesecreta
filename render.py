@@ -47,8 +47,7 @@ def cena_mp4(i, sc, dur, out):
     dx = ['iw/2-(iw/zoom/2)', 'iw/2-(iw/zoom/2)+on*0.4', 'iw/2-(iw/zoom/2)-on*0.4'][i % 3]
     vf = (f"crop={cw}:{ch}:{x}:{y},scale={int(W*1.3)//2*2}:{int(H*1.3)//2*2}:flags=lanczos,"
           f"zoompan=z='1+({z}-1)*on/{n}':x='{dx}':y='ih/2-(ih/zoom/2)':d=1:s={W}x{H}:fps={FPS},"
-          f"eq=contrast=1.14:brightness=-0.07:saturation=0.50,"
-          f"colorbalance=rs=0.05:gs=-0.02:bs=0.01:rm=0.04:gm=-0.02:bm=-0.01,"
+          f"eq=contrast=1.18:brightness=-0.05:saturation=0,"
           f"vignette=PI/3.6,fade=t=in:st=0:d=0.35,setsar=1")
     o = os.path.join(out, f'part{i:02d}.mp4')
     run(['ffmpeg', '-y', '-loglevel', 'error', '-loop', '1', '-i', p, '-t', f'{dur:.3f}', '-an', '-vf', vf,

@@ -1,0 +1,83 @@
+{
+ "titulo": "Pare de explicar sua vida. #Shorts",
+ "descricao": "Marco Aurélio, imperador de Roma, escreveu sobre o tempo que se ganha quando você para de se preocupar com o que os outros dizem.\n\nVocê ainda se explica pra quem não pediu?\n\nSegue o @mentesecreta. Mentalidade, poder e o lado oculto das pessoas.",
+ "tags": [
+  "estoicismo",
+  "marco aurélio",
+  "mentalidade",
+  "opinião dos outros",
+  "autoconfiança",
+  "filosofia"
+ ],
+ "hashtags": "#estoicismo #mentalidade #mentesecreta",
+ "fontes": [
+  "Marco Aurélio, Meditações, Livro IV, 18."
+ ],
+ "scenes": [
+  {
+   "text": "Pare de explicar sua vida.",
+   "visual": "THE STRATEGIST walking away down a dark street at night",
+   "emocao": "poder",
+   "destaque": [
+    "PARE"
+   ]
+  },
+  {
+   "text": "Cada explicação que você dá entrega um pedaço de você.",
+   "visual": "a man talking nervously while two people whisper and judge him",
+   "emocao": "olhar",
+   "destaque": [
+    "ENTREGA"
+   ]
+  },
+  {
+   "text": "Por que mudou de emprego. Por que terminou. Por que sumiu.",
+   "visual": "a young man surrounded by people pointing at him in a dark room",
+   "emocao": "grupo",
+   "destaque": [
+    "SUMIU"
+   ]
+  },
+  {
+   "text": "Quem quer te entender não precisa de discurso. E quem não quer, não vai entender.",
+   "visual": "two men facing each other in silence across a table, one with arms crossed",
+   "emocao": "olhar",
+   "destaque": [
+    "DISCURSO"
+   ]
+  },
+  {
+   "text": "Marco Aurélio, imperador de Roma, escreveu algo assim:",
+   "visual": "ancient marble statue of a roman emperor on horseback in deep shadow",
+   "emocao": "poder",
+   "destaque": [
+    "AURÉLIO"
+   ]
+  },
+  {
+   "text": "quanto tempo ganha quem não olha o que o vizinho disse, fez ou pensou.",
+   "visual": "an old roman man writing alone by candlelight",
+   "emocao": "mente",
+   "destaque": [
+    "TEMPO"
+   ],
+   "pausa": 0.7
+  },
+  {
+   "text": "O silêncio sobre a sua vida não é fraqueza. É proteção.",
+   "visual": "THE STRATEGIST sitting in silence at a chess table, one hand on a king piece",
+   "emocao": "segredo",
+   "destaque": [
+    "PROTEÇÃO"
+   ]
+  },
+  {
+   "text": "Viva. Deixe que eles tentem entender depois.",
+   "visual": "a man in a dark coat standing on a rooftop looking at the city at night",
+   "emocao": "poder",
+   "destaque": [
+    "VIVA"
+   ]
+  }
+ ]
+}

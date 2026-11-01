@@ -107,15 +107,19 @@ def do_banco(emocao, evitar):
     b = random.choice(livres)
     return b['arquivo'], f"{b['titulo']} — {b['autor']} ({b['fonte']})"
 
-ESTILO_IA = ('dark baroque oil painting, Caravaggio chiaroscuro, the main subject clearly lit by warm candlelight, '
-             'deep shadows around, visible brushstrokes, old cracked varnish, muted colors with deep crimson red accents, '
-             'mysterious atmosphere, all people fully clothed, no nudity, painted scene fills the whole image, no frame, no text, no letters')
+# Estilo "poder / estoicismo" (nov/2026): preto e branco, cinematográfico, com um personagem fixo do canal.
+PERSONAGEM = ('a tall mysterious man in a long black hooded cloak, his face completely hidden in deep shadow, '
+              'calm and powerful posture')
+ESTILO_IA = ('dramatic black and white cinematic photograph, high contrast, deep black shadows, single hard light, '
+             'film grain, moody and powerful atmosphere, all people fully clothed, no nudity, '
+             'the scene fills the whole image, no frame, no text, no letters, no logo')
 
 def da_ia(visual, destino):
     """Pintura escura feita na hora pela Cloudflare (FLUX) mostrando exatamente a cena. False se não der."""
     try:
         sys.path.insert(0, os.path.join(AQUI, 'veil'))
         import historia
+        visual = visual.replace('THE STRATEGIST', PERSONAGEM).replace('the strategist', PERSONAGEM)
         return bool(historia._cloudflare(f'{visual}, {ESTILO_IA}', 0, destino))
     except Exception as e:
         print('  IA falhou:', e); return False
