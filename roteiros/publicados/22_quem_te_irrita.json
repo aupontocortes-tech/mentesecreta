@@ -34,7 +34,9 @@
     "ACABOU"
    ],
    "visual": "a group of people laughing at a man in a dark room",
-   "emocao": "grupo"
+   "emocao": "grupo",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "Você explode. Responde na hora. Fala o que não devia. E quem te provocou só observa.",
@@ -42,7 +44,9 @@
     "OBSERVA"
    ],
    "visual": "a man shouting in anger while another man watches him calmly",
-   "emocao": "engano"
+   "emocao": "engano",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "Porque agora ele sabe exatamente qual é o seu botão. E vai apertar de novo quando quiser.",
@@ -50,7 +54,9 @@
     "BOTÃO"
    ],
    "visual": "a hand slowly moving a chess piece on a dark chessboard",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Epicteto, um escravo que virou filósofo, já dizia: não é quem te insulta que te ofende. É o seu julgamento sobre o insulto.",
@@ -59,7 +65,9 @@
    ],
    "visual": "ancient marble statue of a bearded greek philosopher",
    "emocao": "mente",
-   "pausa": 0.6
+   "pausa": 0.6,
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Ou seja, a raiva não vem de fora. Ela é a sua resposta. E a resposta, você escolhe.",
@@ -67,7 +75,9 @@
     "ESCOLHE"
    ],
    "visual": "a stormy sea at night crashing against dark rocks",
-   "emocao": "medo"
+   "emocao": "medo",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quem domina as próprias emoções não precisa vencer discussão. Não precisa provar nada. Só observa.",
@@ -75,7 +85,9 @@
     "DOMINA"
    ],
    "visual": "a lion resting calmly on a rock at night",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Então, da próxima vez, espere. Respire. Responda depois. Ou simplesmente não responda.",
@@ -83,7 +95,9 @@
     "ESPERE"
    ],
    "visual": "a man putting his phone face down on a table in the dark",
-   "emocao": "mente"
+   "emocao": "mente",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   },
   {
    "text": "Porque quem não se irrita, ninguém controla.",
@@ -91,8 +105,12 @@
     "NINGUÉM"
    ],
    "visual": "a dark city skyline at night under heavy clouds",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia09.jpg",
+   "credito": "IA"
   }
  ],
- "personagem": "THE STRATEGIST, hands folded, facing the viewer"
+ "personagem": "THE STRATEGIST, hands folded, facing the viewer",
+ "personagem_src": "/home/runner/work/mentesecreta/mentesecreta/out/personagem.jpg",
+ "video_id": "oGtcluppmQc"
 }
