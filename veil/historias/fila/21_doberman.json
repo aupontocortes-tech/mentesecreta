@@ -1,0 +1,101 @@
+{
+ "titulo": "My Dog Was Choking on Something | Urban Legend #Shorts",
+ "titulo_pt": "Meu cachorro estava engasgado com alguma coisa | Lenda urbana",
+ "resumo_pt": "Lenda urbana \"o doberman engasgado\". Uma mulher chega em casa e encontra o cachorro engasgado. Ela leva ao veterinário, que pede pra ela ir pra casa e esperar a ligação. A virada: o veterinário liga gritando pra ela sair de casa na hora; ele tirou dois dedos humanos da garganta do cachorro, e a polícia acha um homem escondido no armário dela.",
+ "tema": "urban legends",
+ "descricao": "Would you trust your dog?\n\nFollow @VeilFrequency for a new horror story every day. Based on a classic American urban legend. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "choking doberman",
+  "urban legend",
+  "dog"
+ ],
+ "hashtags": "#horror #urbanlegend #scarystories #shorts",
+ "scenes": [
+  {
+   "text": "The vet called me screaming: get out of your house. Now.",
+   "pt": "O veterinário me ligou gritando: sai da sua casa. Agora.",
+   "visual": "phone ringing on a kitchen counter in a dark house",
+   "destaque": [
+    "NOW"
+   ]
+  },
+  {
+   "text": "An hour earlier, I came home and found Duke choking.",
+   "pt": "Uma hora antes, cheguei em casa e achei o Duke engasgado.",
+   "visual": "black doberman coughing on a kitchen floor at night",
+   "destaque": [
+    "DUKE"
+   ]
+  },
+  {
+   "text": "Gagging. Shaking. Something stuck in his throat.",
+   "pt": "Engasgando. Tremendo. Alguma coisa presa na garganta.",
+   "mesma_imagem": true,
+   "destaque": [
+    "THROAT"
+   ]
+  },
+  {
+   "text": "I rushed him to the vet. He said go home, I'll call you.",
+   "pt": "Corri com ele pro veterinário. Ele disse: vai pra casa, eu te ligo.",
+   "visual": "veterinary clinic at night with a doberman on the table",
+   "destaque": [
+    "VET"
+   ]
+  },
+  {
+   "text": "So I went home. Took off my shoes. Made tea.",
+   "pt": "Então fui pra casa. Tirei os sapatos. Fiz um chá.",
+   "visual": "woman alone in a quiet kitchen at night with a cup of tea",
+   "destaque": [
+    "TEA"
+   ]
+  },
+  {
+   "text": "Then the call came.",
+   "pt": "Aí veio a ligação.",
+   "mesma_imagem": true,
+   "destaque": [
+    "CALL"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "Duke had two human fingers in his throat.",
+   "pt": "O Duke tinha dois dedos humanos na garganta.",
+   "visual": "vet holding a small sealed evidence bag under a cold lamp",
+   "destaque": [
+    "FINGERS"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "Not mine.",
+   "pt": "Não eram meus.",
+   "mesma_imagem": true,
+   "destaque": [
+    "MINE"
+   ]
+  },
+  {
+   "text": "The police found a man hiding in my bedroom closet.",
+   "pt": "A polícia achou um homem escondido no armário do meu quarto.",
+   "visual": "police flashlight shining into an open bedroom closet in the dark",
+   "destaque": [
+    "CLOSET"
+   ]
+  },
+  {
+   "text": "He was hiding his right hand. And he was missing two fingers.",
+   "pt": "Ele estava escondendo a mão direita. E faltavam dois dedos.",
+   "visual": "dark closet full of hanging sweaters, a silhouette crouched inside",
+   "destaque": [
+    "MISSING"
+   ]
+  }
+ ]
+}

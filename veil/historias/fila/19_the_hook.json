@@ -1,0 +1,92 @@
+{
+ "titulo": "The Hook on the Car Door | Urban Legend #Shorts",
+ "titulo_pt": "O gancho na porta do carro | Lenda urbana",
+ "resumo_pt": "Lenda urbana \"o gancho\". Um casal estaciona numa estrada escura e o rádio avisa que um homem com um gancho no lugar da mão fugiu do hospício. Ela ouve um arranhão na porta e pede pra ir embora; ele arranca bravo. A virada: em casa, quando ele abre a porta dela, tem um gancho de metal pendurado na maçaneta.",
+ "tema": "urban legends",
+ "descricao": "Would you have stayed in that car?\n\nFollow @VeilFrequency for a new horror story every day. Based on a classic American urban legend. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "the hook",
+  "urban legend"
+ ],
+ "hashtags": "#horror #urbanlegend #scarystories #shorts",
+ "scenes": [
+  {
+   "text": "The radio said a man with a hook for a hand escaped that night.",
+   "pt": "O rádio disse que um homem com um gancho no lugar da mão tinha fugido naquela noite.",
+   "visual": "old car radio glowing in a dark car interior at night",
+   "destaque": [
+    "HOOK"
+   ]
+  },
+  {
+   "text": "We didn't care. We were seventeen, parked on Lookout Road.",
+   "pt": "A gente não ligou. Tínhamos dezessete anos, estacionados na Lookout Road.",
+   "visual": "old car parked alone on a dark hill road overlooking town lights",
+   "destaque": [
+    "SEVENTEEN"
+   ]
+  },
+  {
+   "text": "Then I heard it. Scrape. Scrape. Right outside my door.",
+   "pt": "Aí eu ouvi. Arranha. Arranha. Bem do lado da minha porta.",
+   "visual": "close up of a car door window at night, dark woods outside",
+   "destaque": [
+    "SCRAPE"
+   ]
+  },
+  {
+   "text": "I begged Danny to drive.",
+   "pt": "Implorei pro Danny dirigir.",
+   "visual": "scared teenage girl gripping the passenger seat in a dark car",
+   "destaque": [
+    "DRIVE"
+   ]
+  },
+  {
+   "text": "He rolled his eyes, slammed the gas, and we flew down the hill.",
+   "pt": "Ele revirou os olhos, pisou fundo e a gente desceu o morro voando.",
+   "visual": "car headlights racing down a dark winding road",
+   "destaque": [
+    "GAS"
+   ]
+  },
+  {
+   "text": "At my house, he got out to open my door. Still mad.",
+   "pt": "Na minha casa, ele desceu pra abrir minha porta. Ainda bravo.",
+   "visual": "teenage boy walking around a car under a porch light at night",
+   "destaque": [
+    "MAD"
+   ]
+  },
+  {
+   "text": "Then he just stopped.",
+   "pt": "Aí ele simplesmente parou.",
+   "mesma_imagem": true,
+   "destaque": [
+    "STOPPED"
+   ],
+   "pausa": 0.8
+  },
+  {
+   "text": "Hanging from my door handle was a hook.",
+   "pt": "Pendurado na maçaneta da minha porta tinha um gancho.",
+   "visual": "a rusty metal hook hanging from a car door handle under a porch light",
+   "destaque": [
+    "HOOK"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "If we'd stayed one more minute, he'd have opened it himself.",
+   "pt": "Se a gente tivesse ficado mais um minuto, ele mesmo teria aberto.",
+   "mesma_imagem": true,
+   "destaque": [
+    "MINUTE"
+   ]
+  }
+ ]
+}

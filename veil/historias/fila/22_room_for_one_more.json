@@ -1,0 +1,112 @@
+{
+ "titulo": "Room for One More | Urban Legend #Shorts",
+ "titulo_pt": "Cabe mais um | Lenda urbana",
+ "resumo_pt": "Lenda urbana \"cabe mais um\". Numa visita à casa da avó, uma garota vê da janela uma carruagem fúnebre e o cocheiro sorri: cabe mais um. Anos depois, num prédio, a porta do elevador lotado abre e o ascensorista tem o mesmo rosto e diz a mesma frase. Ela não entra. A virada: o elevador despenca, e ela entende que o aviso salvou a vida dela.",
+ "tema": "urban legends",
+ "descricao": "Would you have gotten in?\n\nFollow @VeilFrequency for a new horror story every day. Based on a classic American urban legend. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "room for one more",
+  "urban legend",
+  "elevator"
+ ],
+ "hashtags": "#horror #urbanlegend #scarystories #shorts",
+ "scenes": [
+  {
+   "text": "When I was nine, a smiling man told me: room for one more.",
+   "pt": "Quando eu tinha nove anos, um homem sorrindo me disse: cabe mais um.",
+   "visual": "little girl looking out an old window at night",
+   "destaque": [
+    "ROOM"
+   ]
+  },
+  {
+   "text": "I couldn't sleep at Grandma's. I looked out the window.",
+   "pt": "Eu não conseguia dormir na casa da vó. Olhei pela janela.",
+   "visual": "old farmhouse bedroom window, moonlight on the yard",
+   "destaque": [
+    "WINDOW"
+   ]
+  },
+  {
+   "text": "An old black hearse sat in her yard. The driver looked up at me.",
+   "pt": "Um carro funerário antigo e preto estava no quintal dela. O motorista olhou pra mim.",
+   "visual": "old black hearse parked in a moonlit farmhouse yard, a pale driver",
+   "destaque": [
+    "HEARSE"
+   ]
+  },
+  {
+   "text": "Room for one more.",
+   "pt": "Cabe mais um.",
+   "mesma_imagem": true,
+   "destaque": [
+    "MORE"
+   ],
+   "voz": "sombrio",
+   "pausa": 0.6
+  },
+  {
+   "text": "In the morning, there were no tire marks. Grandma said I dreamed it.",
+   "pt": "De manhã, não tinha marca de pneu. A vó disse que eu sonhei.",
+   "visual": "empty farmhouse yard in morning light, no tracks",
+   "destaque": [
+    "DREAMED"
+   ]
+  },
+  {
+   "text": "Twenty years later, I was late for a job interview downtown.",
+   "pt": "Vinte anos depois, eu estava atrasada pra uma entrevista de emprego no centro.",
+   "visual": "young woman in a suit hurrying through an old office building lobby",
+   "destaque": [
+    "LATE"
+   ]
+  },
+  {
+   "text": "The elevator opened. Packed. The operator smiled. Same pale face.",
+   "pt": "O elevador abriu. Lotado. O ascensorista sorriu. O mesmo rosto pálido.",
+   "visual": "crowded old elevator, a pale smiling elevator operator in uniform",
+   "destaque": [
+    "FACE"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "Room for one more.",
+   "pt": "Cabe mais um.",
+   "mesma_imagem": true,
+   "destaque": [
+    "MORE"
+   ],
+   "voz": "sombrio"
+  },
+  {
+   "text": "I took the stairs.",
+   "pt": "Eu fui de escada.",
+   "visual": "dark stairwell in an old building",
+   "destaque": [
+    "STAIRS"
+   ]
+  },
+  {
+   "text": "On the third floor, I heard the cable snap.",
+   "pt": "No terceiro andar, ouvi o cabo do elevador arrebentar.",
+   "visual": "snapped elevator cable swinging in a dark shaft",
+   "destaque": [
+    "SNAP"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "Grandma was wrong. It wasn't a dream. It was a warning.",
+   "pt": "A vó estava errada. Não era sonho. Era um aviso.",
+   "visual": "old farmhouse window at night, an empty yard",
+   "destaque": [
+    "WARNING"
+   ]
+  }
+ ]
+}

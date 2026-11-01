@@ -1,0 +1,101 @@
+{
+ "titulo": "Something Was Walking on Our Roof | Urban Legend #Shorts",
+ "titulo_pt": "Alguma coisa andava no nosso telhado | Lenda urbana",
+ "resumo_pt": "Lenda urbana do Diabo de Jersey. Uma família se muda pra uma casa na beira da floresta de pinheiros e o vizinho velho avisa pra não deixar nada de comida fora. Toda noite tem passos no telhado e um grito estranho. A virada: depois de uma nevasca, as marcas no telhado e na neve são de cascos, e elas só seguem em direção à casa, nenhuma voltando pra floresta.",
+ "tema": "urban legends",
+ "descricao": "Have you ever heard something on your roof at night?\n\nFollow @VeilFrequency for a new horror story every day. Based on a classic American urban legend. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "jersey devil",
+  "urban legend",
+  "pine barrens"
+ ],
+ "hashtags": "#horror #urbanlegend #scarystories #shorts",
+ "scenes": [
+  {
+   "text": "Our neighbor had one rule: never leave food outside after dark.",
+   "pt": "Nosso vizinho tinha uma regra: nunca deixar comida do lado de fora depois que escurece.",
+   "visual": "old man on a porch at the edge of a dark pine forest",
+   "destaque": [
+    "FOOD"
+   ]
+  },
+  {
+   "text": "We'd just moved to a house at the edge of the Pine Barrens.",
+   "pt": "A gente tinha acabado de se mudar pra uma casa na beira da floresta de pinheiros.",
+   "visual": "lonely wooden house surrounded by tall pine trees at dusk",
+   "destaque": [
+    "PINE"
+   ]
+  },
+  {
+   "text": "Dad laughed and left the trash out anyway.",
+   "pt": "Meu pai riu e deixou o lixo do lado de fora mesmo assim.",
+   "visual": "trash bags next to a porch at night",
+   "destaque": [
+    "TRASH"
+   ]
+  },
+  {
+   "text": "That night, something walked across our roof. Heavy. Slow.",
+   "pt": "Naquela noite, alguma coisa andou no nosso telhado. Pesada. Lenta.",
+   "visual": "dark bedroom ceiling, a crack of moonlight",
+   "destaque": [
+    "ROOF"
+   ]
+  },
+  {
+   "text": "Then it screamed. Not like any animal I knew.",
+   "pt": "Aí ela gritou. Diferente de qualquer bicho que eu conhecia.",
+   "visual": "dark pine forest at night under the moon",
+   "destaque": [
+    "SCREAMED"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "It happened every night for a week.",
+   "pt": "Aconteceu todas as noites por uma semana.",
+   "visual": "house at night with the porch light flickering",
+   "destaque": [
+    "WEEK"
+   ]
+  },
+  {
+   "text": "Then it snowed.",
+   "pt": "Aí nevou.",
+   "visual": "snow-covered roof and yard at dawn",
+   "destaque": [
+    "SNOWED"
+   ]
+  },
+  {
+   "text": "Dad climbed the ladder to look.",
+   "pt": "Meu pai subiu a escada pra olhar.",
+   "visual": "man climbing a ladder to a snowy roof at dawn",
+   "destaque": [
+    "LADDER"
+   ]
+  },
+  {
+   "text": "Hoofprints. Two legs. Walking from the forest to our chimney.",
+   "pt": "Marcas de casco. Duas patas. Indo da floresta até a nossa chaminé.",
+   "visual": "hoofprints in fresh snow leading to a chimney",
+   "destaque": [
+    "HOOFPRINTS"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "None of them went back.",
+   "pt": "Nenhuma voltava.",
+   "mesma_imagem": true,
+   "destaque": [
+    "BACK"
+   ]
+  }
+ ]
+}

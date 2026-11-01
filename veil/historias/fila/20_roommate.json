@@ -1,0 +1,94 @@
+{
+ "titulo": "Aren't You Glad You Didn't Turn On the Light? | Urban Legend #Shorts",
+ "titulo_pt": "Ainda bem que você não acendeu a luz? | Lenda urbana",
+ "resumo_pt": "Lenda urbana \"a colega de quarto\". Uma universitária volta tarde pro quarto e, pra não acordar a colega, pega o carregador no escuro. Ela ouve uma respiração pesada vindo da cama da colega e acha que ela está dormindo. A virada: de manhã a colega tinha passado a noite na casa do namorado, e no espelho está escrito: ainda bem que você não acendeu a luz?",
+ "tema": "urban legends",
+ "descricao": "Do you turn on the light when you get home?\n\nFollow @VeilFrequency for a new horror story every day. Based on a classic American urban legend. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "roommate",
+  "urban legend",
+  "dorm"
+ ],
+ "hashtags": "#horror #urbanlegend #scarystories #shorts",
+ "scenes": [
+  {
+   "text": "I didn't turn on the light. That's the only reason I'm alive.",
+   "pt": "Eu não acendi a luz. É o único motivo de eu estar viva.",
+   "visual": "dark college dorm room, door slightly open, light from the hallway",
+   "destaque": [
+    "LIGHT"
+   ]
+  },
+  {
+   "text": "It was two a.m. I came back to the dorm for my phone charger.",
+   "pt": "Eram duas da manhã. Voltei pro dormitório pra pegar meu carregador.",
+   "visual": "young woman walking down an empty college dorm hallway at night",
+   "destaque": [
+    "CHARGER"
+   ]
+  },
+  {
+   "text": "My roommate Kate had an exam, so I didn't want to wake her.",
+   "pt": "Minha colega de quarto, Kate, tinha prova, então não quis acordar ela.",
+   "visual": "shape under blankets on a dorm bed in the dark",
+   "destaque": [
+    "KATE"
+   ]
+  },
+  {
+   "text": "I felt around in the dark. Desk. Drawer. Cable.",
+   "pt": "Fui tateando no escuro. Mesa. Gaveta. Cabo.",
+   "visual": "hand searching a desk drawer in a pitch dark room",
+   "destaque": [
+    "DARK"
+   ]
+  },
+  {
+   "text": "From her bed, I heard heavy breathing. Slow. Wet. Awake.",
+   "pt": "Da cama dela, ouvi uma respiração pesada. Lenta. Molhada. Acordada.",
+   "visual": "dark silhouette sitting up in a dorm bed, barely visible",
+   "destaque": [
+    "BREATHING"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "I whispered sorry and left.",
+   "pt": "Sussurrei desculpa e saí.",
+   "visual": "dorm door closing slowly, a thin line of light",
+   "destaque": [
+    "SORRY"
+   ]
+  },
+  {
+   "text": "The next morning, Kate texted me. She'd slept at her boyfriend's.",
+   "pt": "Na manhã seguinte, a Kate me mandou mensagem. Ela tinha dormido na casa do namorado.",
+   "visual": "phone screen glowing in a girl's hand in morning light",
+   "destaque": [
+    "KATE"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "Her bed was empty. The window was open.",
+   "pt": "A cama dela estava vazia. A janela estava aberta.",
+   "visual": "empty messy dorm bed and an open window with curtains blowing",
+   "destaque": [
+    "EMPTY"
+   ]
+  },
+  {
+   "text": "And on the mirror, in her lipstick: aren't you glad you didn't turn on the light?",
+   "pt": "E no espelho, com o batom dela: ainda bem que você não acendeu a luz?",
+   "visual": "bathroom mirror with words written in red lipstick, dim light",
+   "destaque": [
+    "MIRROR"
+   ],
+   "pausa": 0.6
+  }
+ ]
+}

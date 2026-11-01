@@ -1,0 +1,103 @@
+{
+ "titulo": "The Voice in Grandpa's Walls | Urban Legend #Shorts",
+ "titulo_pt": "A voz nas paredes do vovô | Lenda urbana",
+ "resumo_pt": "Lenda urbana da Bruxa Bell, do Tennessee. Uma garota dorme na fazenda antiga do avô, que avisa: se ouvir alguém arranhando a parede, não responda. Uma voz de mulher chama o nome dela de dentro da parede e ela acaba respondendo. A virada: no dia seguinte a voz responde todas as perguntas da família, inclusive coisas que só o avô sabia, e diz que ele vai partir antes do inverno; a família lembra que foi assim com o bisavô.",
+ "tema": "urban legends",
+ "descricao": "Would you answer the voice?\n\nFollow @VeilFrequency for a new horror story every day. Based on a classic American urban legend. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "bell witch",
+  "urban legend",
+  "tennessee"
+ ],
+ "hashtags": "#horror #urbanlegend #scarystories #shorts",
+ "scenes": [
+  {
+   "text": "Grandpa said if the walls ever call your name, don't answer.",
+   "pt": "O vovô disse: se as paredes chamarem seu nome, não responde.",
+   "visual": "old man in a dim farmhouse kitchen, lamp light",
+   "destaque": [
+    "WALLS"
+   ]
+  },
+  {
+   "text": "His farm in Tennessee was older than anyone in our family.",
+   "pt": "A fazenda dele no Tennessee era mais velha que qualquer pessoa da família.",
+   "visual": "old wooden farmhouse at night in rural Tennessee",
+   "destaque": [
+    "FARM"
+   ]
+  },
+  {
+   "text": "My first night there, something scratched inside the wall.",
+   "pt": "Na minha primeira noite lá, alguma coisa arranhou dentro da parede.",
+   "visual": "old bedroom wall with peeling wallpaper, dim light",
+   "destaque": [
+    "SCRATCHED"
+   ]
+  },
+  {
+   "text": "Then a woman's voice. Lucy. Lucy.",
+   "pt": "Aí uma voz de mulher. Lucy. Lucy.",
+   "mesma_imagem": true,
+   "destaque": [
+    "LUCY"
+   ],
+   "voz": "sombria",
+   "pausa": 0.6
+  },
+  {
+   "text": "I was nine. I answered.",
+   "pt": "Eu tinha nove anos. Eu respondi.",
+   "visual": "little girl sitting up in an old bed staring at the wall",
+   "destaque": [
+    "ANSWERED"
+   ]
+  },
+  {
+   "text": "After that, she talked every night. She knew everything.",
+   "pt": "Depois disso, ela falou todas as noites. Ela sabia de tudo.",
+   "visual": "family gathered in a dark farmhouse room by candlelight",
+   "destaque": [
+    "EVERYTHING"
+   ]
+  },
+  {
+   "text": "Where Dad hid money. What Grandma said at her wedding.",
+   "pt": "Onde meu pai escondia dinheiro. O que a vó disse no casamento dela.",
+   "mesma_imagem": true,
+   "destaque": [
+    "MONEY"
+   ]
+  },
+  {
+   "text": "One night, she told Grandpa he wouldn't see the winter.",
+   "pt": "Uma noite, ela disse pro vovô que ele não ia ver o inverno.",
+   "visual": "old man looking at a wall in a dark room, face in shadow",
+   "destaque": [
+    "WINTER"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "He didn't.",
+   "pt": "Ele não viu.",
+   "visual": "empty rocking chair on an old porch in the first snow",
+   "destaque": [
+    "DIDN'T"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "And now, in my house, I hear scratching in the walls.",
+   "pt": "E agora, na minha casa, eu ouço arranhões nas paredes.",
+   "visual": "modern bedroom wall at night, a faint scratch mark",
+   "destaque": [
+    "SCRATCHING"
+   ]
+  }
+ ]
+}

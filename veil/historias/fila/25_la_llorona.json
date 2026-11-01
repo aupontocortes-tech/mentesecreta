@@ -1,0 +1,104 @@
+{
+ "titulo": "Don't Go to the River When You Hear Crying | Urban Legend #Shorts",
+ "titulo_pt": "Não vá ao rio quando ouvir choro | Lenda urbana",
+ "resumo_pt": "Lenda urbana da La Llorona. A mãe de um garoto sempre dizia: se ouvir uma mulher chorando perto do rio, corre pra casa. Uma noite a cama do irmão mais novo está vazia e o garoto segue um choro até o rio, onde uma mulher de branco pergunta dos filhos dela e a voz do irmão chama ele pra dentro da água. A mãe grita de casa e ele corre: o irmão estava na cozinha o tempo todo. A virada: a mulher usa a voz das crianças pra atrair.",
+ "tema": "urban legends",
+ "descricao": "Would you follow the crying?\n\nFollow @VeilFrequency for a new horror story every day. Based on a classic American urban legend. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "la llorona",
+  "urban legend",
+  "the weeping woman"
+ ],
+ "hashtags": "#horror #urbanlegend #scarystories #shorts",
+ "scenes": [
+  {
+   "text": "Mom said: if you hear a woman crying by the river, run home.",
+   "pt": "Minha mãe dizia: se ouvir uma mulher chorando perto do rio, corre pra casa.",
+   "visual": "small house near a dark river at night, mist over the water",
+   "destaque": [
+    "RIVER"
+   ]
+  },
+  {
+   "text": "One night, I woke up and my little brother's bed was empty.",
+   "pt": "Uma noite, acordei e a cama do meu irmão mais novo estava vazia.",
+   "visual": "empty child's bed with tossed blanket, moonlight",
+   "destaque": [
+    "EMPTY"
+   ]
+  },
+  {
+   "text": "The back door was open. Outside, someone was crying.",
+   "pt": "A porta dos fundos estava aberta. Lá fora, alguém estava chorando.",
+   "visual": "back door open to a dark yard, mist rolling in",
+   "destaque": [
+    "CRYING"
+   ]
+  },
+  {
+   "text": "I followed it to the river.",
+   "pt": "Segui até o rio.",
+   "visual": "boy with a flashlight walking toward a misty riverbank",
+   "destaque": [
+    "FOLLOWED"
+   ]
+  },
+  {
+   "text": "A woman in a white dress stood in the water. Her back to me.",
+   "pt": "Uma mulher de vestido branco estava dentro da água. De costas pra mim.",
+   "visual": "woman in a long white dress standing in a dark river, seen from behind",
+   "destaque": [
+    "WHITE"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "Have you seen my children?",
+   "pt": "Você viu os meus filhos?",
+   "mesma_imagem": true,
+   "destaque": [
+    "CHILDREN"
+   ],
+   "voz": "sombria"
+  },
+  {
+   "text": "Then I heard my brother. From the water. Come in. It's warm.",
+   "pt": "Aí ouvi meu irmão. De dentro da água. Entra. Tá quentinha.",
+   "voz": "crianca",
+   "mesma_imagem": true,
+   "destaque": [
+    "WATER"
+   ]
+  },
+  {
+   "text": "My foot was already wet when Mom screamed my name from the house.",
+   "pt": "Meu pé já estava molhado quando minha mãe gritou meu nome lá de casa.",
+   "visual": "boy's sneaker stepping into a dark misty river at night",
+   "destaque": [
+    "SCREAMED"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "I ran. My brother was in the kitchen with Mom. He'd only gone to get water.",
+   "pt": "Eu corri. Meu irmão estava na cozinha com a minha mãe. Ele só tinha ido beber água.",
+   "visual": "mother hugging a small boy in a warm kitchen at night",
+   "destaque": [
+    "KITCHEN"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "Mom locked the door and whispered: she uses their voices.",
+   "pt": "Minha mãe trancou a porta e sussurrou: ela usa a voz deles.",
+   "visual": "hand locking an old back door at night",
+   "destaque": [
+    "VOICES"
+   ]
+  }
+ ]
+}
