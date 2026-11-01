@@ -34,7 +34,9 @@
     "NOME"
    ],
    "visual": "a smiling crowd of men surrounding a rich man at a bar",
-   "emocao": "dinheiro"
+   "emocao": "dinheiro",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "Mas quando a fase ruim chega, o silêncio é imediato. Ninguém liga. Ninguém aparece.",
@@ -42,7 +44,9 @@
     "SILÊNCIO"
    ],
    "visual": "a man sitting alone on a bench in the rain at night",
-   "emocao": "solidao"
+   "emocao": "solidao",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "Aristóteles escreveu sobre isso há mais de dois mil anos. Pra ele, existem amizades por interesse, por prazer e por caráter.",
@@ -51,7 +55,9 @@
    ],
    "visual": "ancient marble bust of aristotle",
    "emocao": "mente",
-   "pausa": 0.6
+   "pausa": 0.6,
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "As duas primeiras acabam quando acaba a vantagem. Não por maldade. É a natureza delas.",
@@ -59,7 +65,9 @@
     "VANTAGEM"
    ],
    "visual": "two men shaking hands while one of them looks away coldly",
-   "emocao": "engano"
+   "emocao": "engano",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Só a amizade por caráter fica quando você não tem nada pra dar.",
@@ -67,7 +75,9 @@
     "FICA"
    ],
    "visual": "two old friends sitting together in silence by a fire",
-   "emocao": "familia"
+   "emocao": "familia",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "Por isso, não sofra por quem foi embora. Quem saiu na hora difícil já tinha ido faz tempo.",
@@ -75,7 +85,9 @@
     "EMBORA"
    ],
    "visual": "a long empty dinner table with one chair left",
-   "emocao": "solidao"
+   "emocao": "solidao",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Preste atenção em quem fica. Esses você protege. O resto, deixe ir.",
@@ -83,8 +95,12 @@
     "PROTEGE"
    ],
    "visual": "a small group of loyal men standing together in the dark",
-   "emocao": "grupo"
+   "emocao": "grupo",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   }
  ],
- "personagem": "THE STRATEGIST, hands folded, facing the viewer"
+ "personagem": "THE STRATEGIST, hands folded, facing the viewer",
+ "personagem_src": "/home/runner/work/mentesecreta/mentesecreta/out/personagem.jpg",
+ "video_id": "1PYm3Woyug4"
 }
