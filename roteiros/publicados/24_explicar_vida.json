@@ -34,7 +34,9 @@
     "SUMIU"
    ],
    "visual": "people pointing and whispering at a man in a dark hall",
-   "emocao": "grupo"
+   "emocao": "grupo",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "Você explica, se justifica, pede desculpa por viver do seu jeito. E mesmo assim não convence ninguém.",
@@ -42,7 +44,9 @@
     "NINGUÉM"
    ],
    "visual": "a man talking nervously while two people judge him",
-   "emocao": "olhar"
+   "emocao": "olhar",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "Porque quem quer te entender não precisa de discurso. E quem não quer, nunca vai entender.",
@@ -50,7 +54,9 @@
     "DISCURSO"
    ],
    "visual": "two men facing each other in silence across a table",
-   "emocao": "olhar"
+   "emocao": "olhar",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Marco Aurélio, imperador de Roma, escreveu algo assim: quanto tempo ganha quem não olha o que o vizinho disse, fez ou pensou.",
@@ -59,7 +65,9 @@
    ],
    "visual": "ancient marble statue of a roman emperor",
    "emocao": "poder",
-   "pausa": 0.6
+   "pausa": 0.6,
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "O silêncio sobre a sua vida não é fraqueza. É proteção. Plano contado vira opinião dos outros.",
@@ -67,7 +75,9 @@
     "PROTEÇÃO"
    ],
    "visual": "a hand resting on a king chess piece in the dark",
-   "emocao": "segredo"
+   "emocao": "segredo",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "Mostre resultado. Não explique o caminho.",
@@ -75,7 +85,9 @@
     "RESULTADO"
    ],
    "visual": "a man on a rooftop looking at the city at dawn",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Viva do seu jeito. Eles que tentem entender depois.",
@@ -83,8 +95,12 @@
     "VIVA"
    ],
    "visual": "a man in a dark coat walking away down an empty street at night",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   }
  ],
- "personagem": "THE STRATEGIST, hands folded, facing the viewer"
+ "personagem": "THE STRATEGIST, hands folded, facing the viewer",
+ "personagem_src": "/home/runner/work/mentesecreta/mentesecreta/out/personagem.jpg",
+ "video_id": "vNBIhnilgw0"
 }
