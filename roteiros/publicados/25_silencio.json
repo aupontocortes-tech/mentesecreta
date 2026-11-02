@@ -34,7 +34,9 @@
     "QUIETO"
    ],
    "visual": "a long dark meeting table with empty chairs and a single lamp",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "O silêncio incomoda. A maioria não aguenta três segundos sem falar.",
@@ -42,7 +44,9 @@
     "SEGUNDOS"
    ],
    "visual": "an empty dark room with a clock on the wall",
-   "emocao": "mente"
+   "emocao": "mente",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "E quando o silêncio pesa, o outro preenche. Fala mais do que devia. Conta o que ia esconder.",
@@ -50,7 +54,9 @@
     "CONTA"
    ],
    "visual": "two chairs facing each other in an empty dim hall",
-   "emocao": "segredo"
+   "emocao": "segredo",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Epicteto, que foi escravo antes de virar mestre, deixou uma regra: que o silêncio seja o normal. Fale só o necessário, e com poucas palavras.",
@@ -59,7 +65,9 @@
    ],
    "visual": "ancient marble bust of a greek philosopher in shadow",
    "emocao": "poder",
-   "pausa": 0.6
+   "pausa": 0.6,
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Não é frieza. É controle. Quem domina a própria boca não vive se explicando, não vive pedindo aprovação.",
@@ -67,7 +75,9 @@
     "CONTROLE"
    ],
    "visual": "a chess board with a single king standing in the dark",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "Então, na próxima pausa, não corra pra preencher. Respire. Escute. Observe.",
@@ -75,7 +85,9 @@
     "ESCUTE"
    ],
    "visual": "rain on a window at night overlooking the city",
-   "emocao": "olhar"
+   "emocao": "olhar",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Fale menos. Escute mais. E quando falar, que cada palavra pese.",
@@ -83,8 +95,12 @@
     "PESE"
    ],
    "visual": "a city skyline at night under heavy clouds",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   }
  ],
- "personagem": "THE STRATEGIST, hands folded, facing the viewer"
+ "personagem": "THE STRATEGIST, hands folded, facing the viewer",
+ "personagem_src": "/home/runner/work/mentesecreta/mentesecreta/out/personagem.jpg",
+ "video_id": "6XzeUFPkLWA"
 }
