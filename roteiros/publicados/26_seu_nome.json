@@ -34,7 +34,9 @@
     "NOME"
    ],
    "visual": "a crowded dark train station seen from above",
-   "emocao": "grupo"
+   "emocao": "grupo",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "Em mil novecentos e cinquenta e nove, o pesquisador Neville Moray testou isso. As pessoas ouviam duas mensagens, uma em cada ouvido, e só prestavam atenção numa.",
@@ -42,7 +44,9 @@
     "MORAY"
    ],
    "visual": "an old radio studio with headphones on a table",
-   "emocao": "mente"
+   "emocao": "mente",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quase nada da outra passava. Mas quando o próprio nome aparecia nela, muita gente percebia na hora.",
@@ -51,7 +55,9 @@
    ],
    "visual": "a single light bulb glowing in a dark corridor",
    "emocao": "mente",
-   "pausa": 0.5
+   "pausa": 0.5,
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Agora pensa. Quem esquece seu nome te diz que você não importou. Quem lembra te diz o contrário.",
@@ -59,7 +65,9 @@
     "IMPORTOU"
    ],
    "visual": "two men shaking hands in a dim elegant hall",
-   "emocao": "olhar"
+   "emocao": "olhar",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Não é truque. É respeito. E respeito é a forma mais rara de atenção.",
@@ -67,7 +75,9 @@
     "RESPEITO"
    ],
    "visual": "a chess queen and king standing side by side",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "Então guarde o nome de quem você conhece. Use com naturalidade, sem exagero. E repare em quem nunca lembra do seu.",
@@ -75,7 +85,9 @@
     "REPARE"
    ],
    "visual": "a man in a suit seen from behind watching a party",
-   "emocao": "olhar"
+   "emocao": "olhar",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quem lembra o seu nome lembrou de você.",
@@ -83,12 +95,16 @@
     "LEMBRA"
    ],
    "visual": "city lights reflected on a wet street at night",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   }
  ],
  "personagem": "THE STRATEGIST, hands folded, facing the viewer",
  "pron": {
   "Neville": "Névil",
   "Moray": "Mórei"
- }
+ },
+ "personagem_src": "/home/runner/work/mentesecreta/mentesecreta/out/personagem.jpg",
+ "video_id": "9ec0N4kM1Ho"
 }
