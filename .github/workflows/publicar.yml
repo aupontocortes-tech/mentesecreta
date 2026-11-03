@@ -1,10 +1,11 @@
 name: Publicar Shorts no YouTube
 
-# Todo dia às 11h (Brasília) monta o próximo roteiro da fila e AGENDA para 12h.
+# Todo dia ~18h20 (Brasília) monta o próximo roteiro da fila e PUBLICA NA HORA (~19h).
+# Minuto quebrado (23) porque o GitHub atrasa muito os horários cheios.
 # Botão manual (painel ou aba Actions): modo "agora" publica na hora.
 on:
   schedule:
-    - cron: '0 14 * * *'
+    - cron: '23 21 * * *'
   workflow_dispatch:
     inputs:
       modo:
@@ -70,7 +71,7 @@ jobs:
         run: |
           set -o pipefail
           R="${{ steps.fila.outputs.roteiro }}"
-          MODO="${{ github.event.inputs.modo || 'agendar' }}"
+          MODO="${{ github.event.inputs.modo || 'agora' }}"
           python3 yt.py up out/final.mp4 "$R" "$MODO" | tee up.log
           ID=$(grep -o 'VIDEO_ID=[A-Za-z0-9_-]*' up.log | cut -d= -f2)
           python3 -c "import json,sys; p=sys.argv[1]; d=json.load(open(p)); d['video_id']=sys.argv[2]; json.dump(d,open(p,'w'),ensure_ascii=False,indent=1)" "$R" "$ID"
