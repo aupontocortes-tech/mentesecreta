@@ -34,7 +34,9 @@
     "EXISTE"
    ],
    "visual": "a luxury yacht far away on a dark sea",
-   "emocao": "dinheiro"
+   "emocao": "dinheiro",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "Mas o colega da mesma sala, o amigo da mesma idade, o vizinho da mesma rua. Esses estão olhando.",
@@ -42,7 +44,9 @@
     "OLHANDO"
    ],
    "visual": "rows of office desks in a dark empty office at night",
-   "emocao": "olhar"
+   "emocao": "olhar",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "Aristóteles escreveu isso há mais de dois mil anos. A gente inveja quem está perto: no tempo, no lugar, na idade, na fama. Oleiro inveja oleiro.",
@@ -51,7 +55,9 @@
    ],
    "visual": "ancient greek pottery on a stone table in shadow",
    "emocao": "mente",
-   "pausa": 0.6
+   "pausa": 0.6,
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Porque a sua vitória vira um espelho. Mostra o que o outro podia ter feito e não fez.",
@@ -59,7 +65,9 @@
     "ESPELHO"
    ],
    "visual": "a cracked mirror in a dark room",
-   "emocao": "engano"
+   "emocao": "engano",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Por isso quem mais deveria comemorar às vezes fica em silêncio. Ou elogia com um sorriso torto.",
@@ -67,7 +75,9 @@
     "SORRISO"
    ],
    "visual": "a group of people raising glasses at a dim dinner table",
-   "emocao": "grupo"
+   "emocao": "grupo",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "Não guarde rancor. Só repare. E conte suas conquistas a quem já provou que torce por você.",
@@ -75,7 +85,9 @@
     "TORCE"
    ],
    "visual": "a lone wolf standing on a hill at night",
-   "emocao": "solidao"
+   "emocao": "solidao",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "O perigo raramente mora longe. Ele senta perto.",
@@ -83,8 +95,12 @@
     "PERTO"
    ],
    "visual": "a chess board where two pawns stand side by side",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   }
  ],
- "personagem": "THE STRATEGIST, hands folded, facing the viewer"
+ "personagem": "THE STRATEGIST, hands folded, facing the viewer",
+ "personagem_src": "/home/runner/work/mentesecreta/mentesecreta/out/personagem.jpg",
+ "video_id": "3tzJB80kuc0"
 }
