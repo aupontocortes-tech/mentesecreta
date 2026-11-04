@@ -68,6 +68,7 @@ jobs:
         env:
           YT_TOKEN_JSON: ${{ secrets.YT_TOKEN_JSON }}
           MS_CHANNEL_ID: ${{ vars.MS_CHANNEL_ID }}
+          GH_TOKEN: ${{ github.token }}
         run: |
           set -o pipefail
           R="${{ steps.fila.outputs.roteiro }}"
@@ -75,6 +76,7 @@ jobs:
           python3 yt.py up out/final.mp4 "$R" "$MODO" | tee up.log
           ID=$(grep -o 'VIDEO_ID=[A-Za-z0-9_-]*' up.log | cut -d= -f2)
           python3 -c "import json,sys; p=sys.argv[1]; d=json.load(open(p)); d['video_id']=sys.argv[2]; json.dump(d,open(p,'w'),ensure_ascii=False,indent=1)" "$R" "$ID"
+          bash tiktok_release.sh out/final.mp4 "$R" "ms_$(date +%Y-%m-%d)_$(basename $R .json)"   # cópia pro TikTok
           mkdir -p roteiros/publicados
           git mv "$R" roteiros/publicados/
           git add -A roteiros
