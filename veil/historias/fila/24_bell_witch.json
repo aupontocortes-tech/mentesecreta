@@ -1,7 +1,7 @@
 {
  "titulo": "The Voice in Grandpa's Walls | Urban Legend #Shorts",
  "titulo_pt": "A voz nas paredes do vovô | Lenda urbana",
- "resumo_pt": "Lenda urbana da Bruxa Bell, do Tennessee. Uma garota dorme na fazenda antiga do avô, que avisa: se ouvir alguém arranhando a parede, não responda. Uma voz de mulher chama o nome dela de dentro da parede e ela acaba respondendo. A virada: no dia seguinte a voz responde todas as perguntas da família, inclusive coisas que só o avô sabia, e diz que ele vai partir antes do inverno; a família lembra que foi assim com o bisavô.",
+ "resumo_pt": "Lenda urbana da Bruxa Bell, do Tennessee. Uma menina passa o verão na fazenda do avô e responde a uma voz de mulher dentro da parede, que sabe todos os segredos da família. A voz diz que o avô não vai ver o inverno; ele ri, porque ela fala isso há sessenta anos e sempre erra. A virada: na primeira neve ele morre na cadeira às 23h59 do dia 20 de dezembro, um minuto antes do inverno começar. Ela nunca errou, só era paciente.",
  "tema": "urban legends",
  "descricao": "Would you answer the voice?\n\nFollow @VeilFrequency for a new horror story every day. Based on a classic American urban legend. Images are AI-generated.",
  "tags": [
@@ -16,11 +16,11 @@
  "hashtags": "#horror #urbanlegend #scarystories #shorts",
  "scenes": [
   {
-   "text": "Grandpa said if the walls ever call your name, don't answer.",
-   "pt": "O vovô disse: se as paredes chamarem seu nome, não responde.",
+   "text": "Grandpa had one rule: if the walls ever call your name, don't answer.",
+   "pt": "O vovô tinha uma regra: se as paredes chamarem seu nome, não responde.",
    "visual": "old man in a dim farmhouse kitchen, lamp light",
    "destaque": [
-    "WALLS"
+    "RULE"
    ]
   },
   {
@@ -32,8 +32,16 @@
    ]
   },
   {
-   "text": "My first night there, something scratched inside the wall.",
-   "pt": "Na minha primeira noite lá, alguma coisa arranhou dentro da parede.",
+   "text": "I was nine the summer I stayed there alone with him.",
+   "pt": "Eu tinha nove anos no verão em que fiquei lá sozinha com ele.",
+   "visual": "little girl with a suitcase on the porch of an old farmhouse at dusk",
+   "destaque": [
+    "NINE"
+   ]
+  },
+  {
+   "text": "My first night, something scratched inside the wall. Slow. Patient.",
+   "pt": "Na primeira noite, alguma coisa arranhou dentro da parede. Devagar. Paciente.",
    "visual": "old bedroom wall with peeling wallpaper, dim light",
    "destaque": [
     "SCRATCHED"
@@ -62,22 +70,22 @@
   {
    "text": "After that, she talked every night. She knew everything.",
    "pt": "Depois disso, ela falou todas as noites. Ela sabia de tudo.",
-   "visual": "family gathered in a dark farmhouse room by candlelight",
+   "visual": "old farmhouse bedroom at night, candle burning low",
    "destaque": [
     "EVERYTHING"
    ]
   },
   {
-   "text": "Where Dad hid money. What Grandma said at her wedding.",
-   "pt": "Onde meu pai escondia dinheiro. O que a vó disse no casamento dela.",
+   "text": "Where Grandpa hid his money. What Grandma said on her wedding day. Things no one alive should know.",
+   "pt": "Onde o vovô escondia o dinheiro. O que a vó disse no dia do casamento. Coisas que ninguém vivo devia saber.",
    "mesma_imagem": true,
    "destaque": [
     "MONEY"
    ]
   },
   {
-   "text": "One night, she told Grandpa he wouldn't see the winter.",
-   "pt": "Uma noite, ela disse pro vovô que ele não ia ver o inverno.",
+   "text": "One night, she said: tell your grandpa he won't see the winter.",
+   "pt": "Uma noite, ela disse: fala pro seu avô que ele não vai ver o inverno.",
    "visual": "old man looking at a wall in a dark room, face in shadow",
    "destaque": [
     "WINTER"
@@ -85,23 +93,70 @@
    "pausa": 0.6
   },
   {
-   "text": "He didn't.",
-   "pt": "Ele não viu.",
-   "visual": "empty rocking chair on an old porch in the first snow",
+   "text": "Grandpa just laughed. She says that every year, he said.",
+   "pt": "O vovô só riu. Ela fala isso todo ano, ele disse.",
+   "visual": "old man laughing softly at a kitchen table by lamplight",
    "destaque": [
-    "DIDN'T"
+    "LAUGHED"
+   ]
+  },
+  {
+   "text": "He was ninety-one. She had promised him that for sixty years. And every year, she was wrong.",
+   "pt": "Ele tinha noventa e um anos. Ela prometia isso pra ele havia sessenta anos. E todo ano, ela errava.",
+   "mesma_imagem": true,
+   "destaque": [
+    "WRONG"
+   ]
+  },
+  {
+   "text": "That December, the first snow came early. Grandpa sat on the porch and smiled at me. Told you.",
+   "pt": "Naquele dezembro, a primeira neve chegou cedo. O vovô sentou na varanda e sorriu pra mim. Eu te disse.",
+   "visual": "old man in a rocking chair on a snowy porch at night",
+   "destaque": [
+    "SNOW"
+   ]
+  },
+  {
+   "text": "That night, the scratching stopped. For good.",
+   "pt": "Naquela noite, os arranhões pararam. Pra sempre.",
+   "visual": "quiet dark bedroom, wall in shadow, no light",
+   "destaque": [
+    "STOPPED"
+   ]
+  },
+  {
+   "text": "In the morning, Grandpa was still in his chair. Cold.",
+   "pt": "De manhã, o vovô ainda estava na cadeira. Gelado.",
+   "visual": "empty rocking chair on a snowy porch at dawn",
+   "destaque": [
+    "CHAIR"
    ],
-   "pausa": 0.6,
+   "pausa": 0.6
+  },
+  {
+   "text": "The doctor said he died at eleven fifty-nine p.m. on December twentieth.",
+   "pt": "O médico disse que ele morreu às onze e cinquenta e nove da noite do dia vinte de dezembro.",
+   "visual": "old pocket watch showing eleven fifty nine on a wooden table",
+   "destaque": [
+    "ELEVEN"
+   ],
    "impacto": true
   },
   {
-   "text": "And now, in my house, I hear scratching in the walls.",
-   "pt": "E agora, na minha casa, eu ouço arranhões nas paredes.",
-   "visual": "modern bedroom wall at night, a faint scratch mark",
+   "text": "One minute before winter.",
+   "pt": "Um minuto antes do inverno.",
+   "mesma_imagem": true,
    "destaque": [
-    "SCRATCHING"
-   ],
-   "efeito": "arranhao"
+    "MINUTE"
+   ]
+  },
+  {
+   "text": "She was never wrong. She was just patient.",
+   "pt": "Ela nunca errou. Ela só era paciente.",
+   "visual": "old farmhouse at night covered in snow, one dark window",
+   "destaque": [
+    "PATIENT"
+   ]
   }
  ],
  "ambiente": "vento"

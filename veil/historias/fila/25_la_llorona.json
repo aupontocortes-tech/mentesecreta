@@ -1,7 +1,7 @@
 {
  "titulo": "Don't Go to the River When You Hear Crying | Urban Legend #Shorts",
  "titulo_pt": "Não vá ao rio quando ouvir choro | Lenda urbana",
- "resumo_pt": "Lenda urbana da La Llorona. A mãe de um garoto sempre dizia: se ouvir uma mulher chorando perto do rio, corre pra casa. Uma noite a cama do irmão mais novo está vazia e o garoto segue um choro até o rio, onde uma mulher de branco pergunta dos filhos dela e a voz do irmão chama ele pra dentro da água. A mãe grita de casa e ele corre: o irmão estava na cozinha o tempo todo. A virada: a mulher usa a voz das crianças pra atrair.",
+ "resumo_pt": "Lenda urbana da La Llorona. A mãe de um garoto sempre dizia: se ouvir uma mulher chorando no rio, corre pra casa. Uma noite a cama do irmão está vazia; ele segue o choro até o rio, onde uma mulher de branco pergunta dos filhos e a voz do irmão chama ele pra água. A mãe grita e ele corre: o irmão estava na cozinha o tempo todo. A mãe conta que o irmão dela, quando criança, seguiu aquele choro e nunca voltou: a mulher usa a voz das crianças.",
  "tema": "urban legends",
  "descricao": "Would you follow the crying?\n\nFollow @VeilFrequency for a new horror story every day. Based on a classic American urban legend. Images are AI-generated.",
  "tags": [
@@ -16,11 +16,27 @@
  "hashtags": "#horror #urbanlegend #scarystories #shorts",
  "scenes": [
   {
-   "text": "Mom said: if you hear a woman crying by the river, run home.",
-   "pt": "Minha mãe dizia: se ouvir uma mulher chorando perto do rio, corre pra casa.",
+   "text": "Mom had one rule: if you hear a woman crying by the river, run home. Don't look.",
+   "pt": "Minha mãe tinha uma regra: se ouvir uma mulher chorando perto do rio, corre pra casa. Não olha.",
    "visual": "small house near a dark river at night, mist over the water",
    "destaque": [
     "RIVER"
+   ]
+  },
+  {
+   "text": "Every kid on our street knew the story. A woman in white, looking for her children.",
+   "pt": "Toda criança da nossa rua conhecia a história. Uma mulher de branco, procurando os filhos.",
+   "visual": "old street of small houses near a river at dusk",
+   "destaque": [
+    "WHITE"
+   ]
+  },
+  {
+   "text": "I was twelve. I thought it was something parents said to keep us inside.",
+   "pt": "Eu tinha doze anos. Achava que era coisa que os pais falavam pra gente ficar dentro de casa.",
+   "visual": "boy rolling his eyes at his mother in a warm kitchen",
+   "destaque": [
+    "TWELVE"
    ]
   },
   {
@@ -32,8 +48,8 @@
    ]
   },
   {
-   "text": "The back door was open. Outside, someone was crying.",
-   "pt": "A porta dos fundos estava aberta. Lá fora, alguém estava chorando.",
+   "text": "The back door was open. And outside, someone was crying.",
+   "pt": "A porta dos fundos estava aberta. E lá fora, alguém estava chorando.",
    "visual": "back door open to a dark yard, mist rolling in",
    "destaque": [
     "CRYING"
@@ -41,16 +57,16 @@
    "efeito": "choro"
   },
   {
-   "text": "I followed it to the river.",
-   "pt": "Segui até o rio.",
+   "text": "I grabbed a flashlight and followed the sound to the river.",
+   "pt": "Peguei uma lanterna e segui o som até o rio.",
    "visual": "boy with a flashlight walking toward a misty riverbank",
    "destaque": [
-    "FOLLOWED"
+    "FLASHLIGHT"
    ]
   },
   {
-   "text": "A woman in a white dress stood in the water. Her back to me.",
-   "pt": "Uma mulher de vestido branco estava dentro da água. De costas pra mim.",
+   "text": "A woman in a long white dress stood in the water. Her back to me.",
+   "pt": "Uma mulher de vestido branco comprido estava dentro da água. De costas pra mim.",
    "visual": "woman in a long white dress standing in a dark river, seen from behind",
    "destaque": [
     "WHITE"
@@ -69,24 +85,39 @@
   {
    "text": "Then I heard my brother. From the water. Come in. It's warm.",
    "pt": "Aí ouvi meu irmão. De dentro da água. Entra. Tá quentinha.",
-   "voz": "crianca",
    "mesma_imagem": true,
    "destaque": [
     "WATER"
+   ],
+   "voz": "crianca"
+  },
+  {
+   "text": "I stepped closer. My sneakers were already wet.",
+   "pt": "Cheguei mais perto. Meu tênis já estava molhado.",
+   "visual": "boy's sneaker stepping into a dark misty river at night",
+   "destaque": [
+    "WET"
    ]
   },
   {
-   "text": "My foot was already wet when Mom screamed my name from the house.",
-   "pt": "Meu pé já estava molhado quando minha mãe gritou meu nome lá de casa.",
-   "visual": "boy's sneaker stepping into a dark misty river at night",
+   "text": "Then Mom screamed my name from the house.",
+   "pt": "Aí minha mãe gritou meu nome lá de casa.",
+   "visual": "woman shouting from a lit back porch at night",
    "destaque": [
     "SCREAMED"
-   ],
-   "pausa": 0.6
+   ]
   },
   {
-   "text": "I ran. My brother was in the kitchen with Mom. He'd only gone to get water.",
-   "pt": "Eu corri. Meu irmão estava na cozinha com a minha mãe. Ele só tinha ido beber água.",
+   "text": "I ran. I didn't look back.",
+   "pt": "Eu corri. Não olhei pra trás.",
+   "visual": "boy running through a dark yard toward a lit house",
+   "destaque": [
+    "RAN"
+   ]
+  },
+  {
+   "text": "My brother was in the kitchen with Mom. He'd only gone downstairs to get water.",
+   "pt": "Meu irmão estava na cozinha com a minha mãe. Ele só tinha descido pra beber água.",
    "visual": "mother hugging a small boy in a warm kitchen at night",
    "destaque": [
     "KITCHEN"
@@ -95,13 +126,37 @@
    "impacto": true
   },
   {
-   "text": "Mom locked the door and whispered: she uses their voices.",
-   "pt": "Minha mãe trancou a porta e sussurrou: ela usa a voz deles.",
+   "text": "He had never left the house.",
+   "pt": "Ele nunca tinha saído de casa.",
+   "mesma_imagem": true,
+   "destaque": [
+    "NEVER"
+   ]
+  },
+  {
+   "text": "Mom locked the door and held us both. Then she whispered why she had that rule.",
+   "pt": "Minha mãe trancou a porta e abraçou nós dois. Aí sussurrou por que tinha aquela regra.",
    "visual": "hand locking an old back door at night",
    "destaque": [
-    "VOICES"
+    "RULE"
    ],
    "efeito": "porta"
+  },
+  {
+   "text": "When she was a girl, her own brother followed that crying. He never came home.",
+   "pt": "Quando ela era menina, o irmão dela seguiu aquele choro. Ele nunca voltou pra casa.",
+   "visual": "old black and white photo of a little boy by a river",
+   "destaque": [
+    "NEVER"
+   ]
+  },
+  {
+   "text": "She uses their voices.",
+   "pt": "Ela usa a voz deles.",
+   "visual": "woman in white standing far away in a misty river at night",
+   "destaque": [
+    "VOICES"
+   ]
   }
  ],
  "ambiente": "rio"

@@ -18,6 +18,7 @@ O FINAL É O MAIS IMPORTANTE (o Thiago reclamou: "começa bom, o meio é bom, o 
 - Escreva o FINAL PRIMEIRO. Só depois escreva a história que leva até ele.
 - A virada tem que mudar o sentido de tudo que veio antes (o narrador era o fantasma, o vídeo é de amanhã, quem contou as crianças estava morto, quem saiu do espelho não era ela).
 - A última frase é um soco curto (3 a 10 palavras), concreta e que arrepia. Ex.: "It's from tomorrow night." / "And it wasn't her." / "I haven't checked my back seat since."
+- FINAL FECHADO: as 2 ou 3 últimas cenas explicam o que aconteceu e o resultado (quem era, por que, o que aconteceu com o narrador). Proibido terminar com ameaça continuando ("ele ainda está aqui", "nenhuma pegada voltava", "agora eu ouço arranhões na minha casa") — parece parte 1 de uma série. Exemplo ruim que já foi ao ar: "Hoofprints... None of them went back." (o público ficou sem entender). Exemplo bom: "She was never wrong. She was just patient." (fecha e arrepia).
 - PROIBIDO final "vai acontecer alguma coisa" (gancho de suspense: "o elevador abriu", "ainda não me virei", "amanhã trabalho sozinho"): o público fica preso até o fim e sai DECEPCIONADO (reclamação do Thiago). O final tem que REVELAR: quem é, o que aconteceu ou por quê, e essa revelação muda o sentido da história.
 - PROIBIDO no final: pergunta ao público ("What would you do?"), explicar o monstro, moral da história, "it was all a dream", final aberto sem virada. A pergunta ao público vai só na descrição.
 - Teste: se você contasse só as 2 últimas frases para alguém, ela sentiria um arrepio? Se não, reescreva o final.
@@ -45,7 +46,8 @@ g) Medo psicológico. Silêncio > grito. Nada de sangue, gore, violência gráfi
 INGLÊS
 - INGLÊS AMERICANO NATURAL: contrações, expressões reais, medidas e datas dos EUA. Nada com cara de tradução.
 - Números e horas por extenso como se fala ("three a.m.").
-- 10 a 14 cenas, 100 a 140 palavras no total (40-55 segundos), UMA frase curta por cena.
+- 14 a 20 cenas, 160 a 220 palavras no total (60 a 85 segundos). Cada cena tem 1 ou 2 frases curtas.
+- O Thiago reclamou (04/11): as histórias acabavam rápido demais e pareciam ter continuação. Use o tempo extra para: apresentar o narrador e o lugar, fazer a tensão subir em 3 ou 4 passos, e FECHAR a história com calma.
 
 IDENTIDADE DO CANAL (modelo: Mr. Nightmare, 7 mi de inscritos)
 - TEMA DA SEMANA: as 7 histórias da semana são do MESMO tema reconhecível do dia a dia americano. Rodízio (siga a ordem, veja o último usado em veil/historias/publicados/ campo "tema"): night shift (turno da noite) -> babysitting (babá) -> road trip / hitchhiking (estrada e carona) -> new house (casa nova) -> camping / woods (acampamento e floresta) -> hospital -> motel / hotel -> small town (cidade pequena) -> technology (celular, câmera, assistente) -> childhood (infância) -> volta ao início.
