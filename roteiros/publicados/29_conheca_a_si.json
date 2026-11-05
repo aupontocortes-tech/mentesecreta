@@ -35,7 +35,9 @@
    ],
    "visual": "an ancient chinese scroll and a sword on a dark table",
    "emocao": "poder",
-   "pausa": 0.5
+   "pausa": 0.5,
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quem conhece só a si, ganha uma e perde outra. E quem não conhece nenhum dos dois perde todas.",
@@ -43,7 +45,9 @@
     "TODAS"
    ],
    "visual": "a chess board with fallen pieces in the dark",
-   "emocao": "medo"
+   "emocao": "medo",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "A maioria estuda os outros. Quem é falso, quem fala demais, quem quer o quê.",
@@ -51,7 +55,9 @@
     "OUTROS"
    ],
    "visual": "a crowd of people walking in the rain at night",
-   "emocao": "grupo"
+   "emocao": "grupo",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Mas esquece de olhar pra dentro. Qual elogio te desarma? Qual crítica te tira do sério? Qual medo decide por você?",
@@ -59,7 +65,9 @@
     "MEDO"
    ],
    "visual": "a dark mirror in an empty room",
-   "emocao": "mente"
+   "emocao": "mente",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Porque o seu ponto fraco, se você não conhece, alguém vai conhecer. E vai usar.",
@@ -67,7 +75,9 @@
     "USAR"
    ],
    "visual": "a wolf watching from the shadows of a forest",
-   "emocao": "engano"
+   "emocao": "engano",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "Então anote. Onde você perde o controle, onde você cede, onde você mente pra si mesmo.",
@@ -75,7 +85,9 @@
     "ANOTE"
    ],
    "visual": "an old notebook and a candle on a wooden desk",
-   "emocao": "segredo"
+   "emocao": "segredo",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Conheça seu ponto fraco antes que alguém conheça por você.",
@@ -83,11 +95,15 @@
     "CONHEÇA"
    ],
    "visual": "a king chess piece standing alone on the board",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   }
  ],
  "personagem": "THE STRATEGIST, hands folded, facing the viewer",
  "pron": {
   "Tzu": "Tsú"
- }
+ },
+ "personagem_src": "/home/runner/work/mentesecreta/mentesecreta/out/personagem.jpg",
+ "video_id": "l0Ub9wCagyk"
 }
