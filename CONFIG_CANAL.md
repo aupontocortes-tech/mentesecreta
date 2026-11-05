@@ -3,6 +3,7 @@
 Arquivo editado pelo painel. Não coloque senhas aqui.
 
 ## SUGESTÕES DE VÍDEO
+- [ ] O dinheiro não compra felicidade… mas compra tranquilidade, liberdade e escolhas. Talvez o problema não seja acreditar que o dinheiro traz felicidade, mas entender o que realmente nos faz felizes. Afinal, como ser feliz quando você vive preocupado com as contas, com o futuro e com a sobrevivência? O | fonte: FONTES DE PESQUISA:  1. Estudo científico sobre dinheiro e felicidade — PNAS:    https://pmc.ncbi.nlm.nih.gov/articles/PMC10013834/  2. Wharton — O dinheiro compra felicidade?    https://knowledge.wharton.upenn.edu/article/does-money-buy-happiness-heres-what-the-research-says/  3. Pesquisa científic (05/11/2026)
 - [x] Nunca fale mal de alguém pra outra pessoa: quem ouve associa o defeito a você (transferência espontânea de traços, Skowronski 1998) (24/10/2026)
 - [x] Por que você não para de pensar em quem te ignorou (reforço intermitente / atenção às vezes prende mais) (24/10/2026)
 - [x] Seu ex parece melhor do que realmente era (retrospecção rosada: o cérebro apaga o ruim) (24/10/2026)
