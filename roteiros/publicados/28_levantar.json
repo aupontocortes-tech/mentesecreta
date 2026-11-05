@@ -34,7 +34,9 @@
     "COBERTOR"
    ],
    "visual": "ancient marble statue of a roman emperor in morning light",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "Ele escreveu algo assim: ao amanhecer, quando custar levantar, lembre que você acordou pra fazer o trabalho de um ser humano.",
@@ -43,7 +45,9 @@
    ],
    "visual": "dawn light over ancient roman ruins",
    "emocao": "poder",
-   "pausa": 0.6
+   "pausa": 0.6,
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "Repara. Ele não esperava motivação. Não esperava vontade. Não esperava o dia perfeito.",
@@ -51,7 +55,9 @@
     "ESPERAVA"
    ],
    "visual": "an empty dark bedroom with light coming through the curtains",
-   "emocao": "mente"
+   "emocao": "mente",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Porque a vontade vem depois. Primeiro vem o pé no chão.",
@@ -59,7 +65,9 @@
     "CHÃO"
    ],
    "visual": "an old alarm clock on a wooden table at dawn",
-   "emocao": "mente"
+   "emocao": "mente",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quem só age quando tem vontade vive na mão do humor. E o humor muda toda hora.",
@@ -67,7 +75,9 @@
     "HUMOR"
    ],
    "visual": "stormy clouds over a dark city",
-   "emocao": "medo"
+   "emocao": "medo",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "Disciplina é fazer mesmo sem plateia, mesmo sem aplauso, mesmo cansado. É cumprir a promessa que você fez pra si mesmo.",
@@ -75,7 +85,9 @@
     "DISCIPLINA"
    ],
    "visual": "an empty gym in the dark with a single light",
-   "emocao": "solidao"
+   "emocao": "solidao",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Se até um imperador lutava contra a cama, você também pode vencer a sua. Levanta.",
@@ -83,8 +95,12 @@
     "LEVANTA"
    ],
    "visual": "a city skyline at sunrise seen from a rooftop",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   }
  ],
- "personagem": "THE STRATEGIST, hands folded, facing the viewer"
+ "personagem": "THE STRATEGIST, hands folded, facing the viewer",
+ "personagem_src": "/home/runner/work/mentesecreta/mentesecreta/out/personagem.jpg",
+ "video_id": "LcQOZHPOLHI"
 }
