@@ -1,0 +1,92 @@
+{
+ "titulo": "Você não tem pouco tempo. Você perde. #Shorts",
+ "descricao": "Sêneca escreveu Sobre a Brevidade da Vida há quase dois mil anos, e ela nunca foi tão atual.\n\nOnde vai a maior parte do seu tempo hoje?\n\nSegue o @mentesecreta. Mentalidade, poder e o lado oculto das pessoas.",
+ "tags": [
+  "sêneca",
+  "estoicismo",
+  "brevidade da vida",
+  "tempo",
+  "disciplina",
+  "mentalidade"
+ ],
+ "hashtags": "#estoicismo #mentalidade #mentesecreta",
+ "fontes": [
+  "Sêneca, Sobre a Brevidade da Vida (De Brevitate Vitae), capítulo I: não temos pouco tempo, mas desperdiçamos muito. https://en.wikisource.org/wiki/On_the_shortness_of_life"
+ ],
+ "personagem": "THE STRATEGIST, hands folded, facing the viewer",
+ "scenes": [
+  {
+   "text": "Você não tem pouco tempo. Você perde o tempo que tem.",
+   "destaque": [
+    "PERDE"
+   ],
+   "visual": "THE STRATEGIST close up, face hidden in deep shadow, staring at the viewer",
+   "emocao": "poder"
+  },
+  {
+   "text": "E perde tão devagar que nem percebe.",
+   "destaque": [
+    "DEVAGAR"
+   ],
+   "visual": "an old hourglass with sand falling under a hard light",
+   "emocao": "mente"
+  },
+  {
+   "text": "Uma hora no celular. Uma hora reclamando. Uma hora esperando a vontade aparecer.",
+   "destaque": [
+    "ESPERANDO"
+   ],
+   "visual": "a man lying on a sofa lit only by a phone screen at night",
+   "emocao": "solidao"
+  },
+  {
+   "text": "Ninguém deixaria um estranho pegar o seu dinheiro. Mas deixa qualquer um pegar o seu tempo.",
+   "destaque": [
+    "DINHEIRO"
+   ],
+   "visual": "coins scattered on a dark wooden table",
+   "emocao": "dinheiro"
+  },
+  {
+   "text": "Sêneca viu isso há quase dois mil anos.",
+   "destaque": [
+    "SÊNECA"
+   ],
+   "visual": "a marble statue of a roman philosopher in a dim gallery",
+   "emocao": "mente"
+  },
+  {
+   "text": "Ele escreveu algo assim: a vida não é curta. Nós é que desperdiçamos boa parte dela.",
+   "destaque": [
+    "DESPERDIÇAMOS"
+   ],
+   "visual": "an ancient roman library with scrolls in candle light",
+   "emocao": "mente",
+   "pausa": 0.6
+  },
+  {
+   "text": "O tempo é a única coisa que você nunca recupera. Dinheiro volta. Tempo não.",
+   "destaque": [
+    "NUNCA"
+   ],
+   "visual": "a broken clock lying on a stone floor",
+   "emocao": "medo"
+  },
+  {
+   "text": "Então proteja suas horas como protege seu dinheiro. Diga não. Corte o que te prende. Comece hoje.",
+   "destaque": [
+    "HOJE"
+   ],
+   "visual": "a lone man in a suit walking up a long staircase toward light",
+   "emocao": "poder"
+  },
+  {
+   "text": "Quem é dono do próprio tempo é dono da própria vida.",
+   "destaque": [
+    "DONO"
+   ],
+   "visual": "a city skyline at dawn seen from a rooftop",
+   "emocao": "poder"
+  }
+ ]
+}

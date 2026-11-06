@@ -56,7 +56,7 @@ def cena_preta(i, dur, out):
     return o
 
 def cena_mp4(i, sc, dur, out):
-    if sc.get('preto') or not sc.get('src'): return cena_preta(i, dur, out)
+    if not sc.get('src'): return cena_preta(i, dur, out)   # só por segurança (main() preenche src antes)
     p = source_file(sc['src']); im = Image.open(p); iw, ih = im.size
     if iw * 16 >= ih * 9:   # mais larga que 9:16: corta laterais
         cw, ch = int(ih * 9 / 16), ih; x = int((iw - cw) * float(sc.get('focus', 0.5))); y = 0
@@ -128,6 +128,12 @@ def main():
     DUR, SEGS, WORDS, SC = T['dur'], T['segs'], T['words'], spec['scenes']
     assert len(SC) == len(SEGS), 'número de cenas diferente da narração'
     global PERS
+    srcs = [sc.get('src') for sc in spec['scenes']]   # nunca começar com tela preta: cena sem imagem usa a da vizinha
+    for k, sc in enumerate(spec['scenes']):
+        sc.pop('preto', None)
+        if not sc.get('src'):
+            viz = [x for x in srcs[k + 1:] + srcs[:k][::-1] if x]
+            if viz: sc['src'] = viz[0]
     if spec.get('personagem_src'): PERS = prepara_personagem(spec['personagem_src'], out)
     bounds = [0.0] + [SEGS[i][0] - 0.25 for i in range(1, len(SEGS))] + [DUR]
     parts = [cena_mp4(i, sc, bounds[i + 1] - bounds[i], out) for i, sc in enumerate(SC)]

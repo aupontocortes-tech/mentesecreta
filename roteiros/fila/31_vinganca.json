@@ -1,0 +1,100 @@
+{
+ "titulo": "A melhor resposta para quem te fez mal. #Shorts",
+ "descricao": "Marco Aurélio escreveu nas Meditações qual é a melhor forma de se vingar de alguém.\n\nVocê já devolveu na mesma moeda e se arrependeu?\n\nSegue o @mentesecreta. Mentalidade, poder e o lado oculto das pessoas.",
+ "tags": [
+  "marco aurélio",
+  "estoicismo",
+  "meditações",
+  "autocontrole",
+  "mentalidade",
+  "poder"
+ ],
+ "hashtags": "#estoicismo #mentalidade #mentesecreta",
+ "fontes": [
+  "Marco Aurélio, Meditações, livro VI, 6: 'A melhor vingança é não se tornar igual a quem te fez mal.' https://www.gutenberg.org/ebooks/2680"
+ ],
+ "personagem": "THE STRATEGIST holding a chess king",
+ "scenes": [
+  {
+   "text": "Alguém te fez mal. E você quer devolver.",
+   "destaque": [
+    "DEVOLVER"
+   ],
+   "visual": "THE STRATEGIST close up, face hidden in deep shadow, staring at the viewer",
+   "emocao": "poder"
+  },
+  {
+   "text": "Mas presta atenção. É exatamente isso que essa pessoa espera de você.",
+   "destaque": [
+    "ESPERA"
+   ],
+   "visual": "a chess board with a fallen king under a single hard light",
+   "emocao": "poder"
+  },
+  {
+   "text": "Ela te provoca. Você reage. Ela grita. Você grita mais alto.",
+   "destaque": [
+    "REAGE"
+   ],
+   "visual": "two men arguing in a dark street at night",
+   "emocao": "grupo"
+  },
+  {
+   "text": "E no final, quem olha de fora não vê mais diferença entre vocês dois.",
+   "destaque": [
+    "DIFERENÇA"
+   ],
+   "visual": "two identical marble statues facing each other in a dim gallery",
+   "emocao": "engano"
+  },
+  {
+   "text": "Marco Aurélio era o homem mais poderoso de Roma. Podia destruir quem quisesse.",
+   "destaque": [
+    "ROMA"
+   ],
+   "visual": "a roman emperor marble bust in shadow",
+   "emocao": "poder"
+  },
+  {
+   "text": "E mesmo assim escreveu algo assim: a melhor vingança é não se tornar igual a quem te fez mal.",
+   "destaque": [
+    "VINGANÇA"
+   ],
+   "visual": "an ancient roman hall with tall columns at night",
+   "emocao": "mente",
+   "pausa": 0.6
+  },
+  {
+   "text": "Porque quem te ofende quer te puxar pro nível dele. Se você desce, ele ganha.",
+   "destaque": [
+    "DESCE"
+   ],
+   "visual": "a staircase descending into darkness",
+   "emocao": "medo"
+  },
+  {
+   "text": "Então não responda no calor. Não se explique pra quem não quer entender. Só siga em frente.",
+   "destaque": [
+    "FRENTE"
+   ],
+   "visual": "a lone man in a suit walking away down an empty road",
+   "emocao": "solidao"
+  },
+  {
+   "text": "Continue crescendo. Continue melhor. Esse é o golpe que ninguém consegue devolver.",
+   "destaque": [
+    "CRESCENDO"
+   ],
+   "visual": "a lion standing on a rock looking over a city at night",
+   "emocao": "poder"
+  },
+  {
+   "text": "Não seja igual a quem te machucou. Seja tudo o que ele nunca vai ser.",
+   "destaque": [
+    "NUNCA"
+   ],
+   "visual": "a city skyline at night under a full moon",
+   "emocao": "poder"
+  }
+ ]
+}

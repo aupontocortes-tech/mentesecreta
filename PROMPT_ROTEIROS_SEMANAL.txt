@@ -14,7 +14,7 @@ TEMAS (varie): estoicismo (Sêneca, Marco Aurélio, Epicteto), estratégia (Maqu
 
 FÓRMULA OBRIGATÓRIA (copiada da análise dos vídeos que bombam nesse nicho, 01/11/2026):
 - 60 a 75 segundos, 130 a 170 palavras, 9 a 11 cenas. Cada cena pode ter 1 a 3 frases curtas.
-- Cenas 1 e 2 com "preto": true (TELA PRETA só com a legenda, sem imagem): a frase de poder + uma frase que aprofunda. É o gancho.
+- PROIBIDO tela preta (o Thiago pediu em 06/11: o público sai). Cena 1 = a IMAGEM MAIS FORTE do vídeo desde o primeiro quadro (ex.: "THE STRATEGIST close up, face hidden in deep shadow, staring at the viewer") + a frase de poder. Cena 2 = outra imagem forte + uma frase que aprofunda. É o gancho.
 - Monólogo de mentor, frases curtas e ritmadas, com REPETIÇÃO de estrutura (ex.: "Ninguém liga. Ninguém aparece.", "Se tiver que..., eu...", "Por que... Por que... Por que...").
 - Meio: situação do dia a dia + o porquê + um filósofo ou estudo real (opcional, 1 só).
 - Final: a lição prática e a frase de poder de novo, com outra forma.
@@ -27,7 +27,7 @@ CREDIBILIDADE (não negociável):
 - Nada de incentivar vingança, violência, humilhar pessoas ou manipular alguém. O foco é se proteger e ter autocontrole.
 - Sem diagnósticos ("narcisista", "psicopata"), sem "todas as pessoas".
 
-IMAGENS: cada cena (menos as "preto") ganha uma imagem de FUNDO feita por IA em PRETO E BRANCO cinematográfico (o estilo é adicionado sozinho).
+IMAGENS: TODA cena ganha uma imagem de FUNDO feita por IA em PRETO E BRANCO cinematográfico (o estilo é adicionado sozinho).
 "visual": descrição em INGLÊS, simples e concreta, de UMA cena: 1 ou 2 pessoas, 1 ação. Varie: pessoas comuns em situações do dia a dia, estátuas e filósofos antigos, tabuleiro de xadrez, rei, lobo, leão, cidade à noite, homem de terno de costas.
 O personagem já aparece na frente sozinho; no "visual" descreva só o FUNDO (sem pessoa no centro de preferência): estátuas, cidade, mar, xadrez, multidão, salão escuro.
 Também coloque "emocao" (reserva se a IA falhar): poder | segredo | olhar | medo | solidao | dinheiro | engano | mente | grupo | familia.

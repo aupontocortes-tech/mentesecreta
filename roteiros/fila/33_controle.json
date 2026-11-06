@@ -1,0 +1,95 @@
+{
+ "titulo": "Pare de sofrer pelo que não depende de você. #Shorts",
+ "descricao": "Epicteto abre o Manual com a regra mais importante do estoicismo: separar o que depende de você do que não depende.\n\nO que está tirando sua paz hoje e não depende de você?\n\nSegue o @mentesecreta. Mentalidade, poder e o lado oculto das pessoas.",
+ "tags": [
+  "epicteto",
+  "estoicismo",
+  "manual de epicteto",
+  "controle",
+  "ansiedade",
+  "mentalidade"
+ ],
+ "hashtags": "#estoicismo #mentalidade #mentesecreta",
+ "fontes": [
+  "Epicteto, Manual (Enchiridion), capítulo 1: algumas coisas dependem de nós, outras não. https://www.gutenberg.org/ebooks/45109"
+ ],
+ "personagem": "THE STRATEGIST holding a chess king",
+ "pron": {
+  "Epicteto": "Epictéto"
+ },
+ "scenes": [
+  {
+   "text": "Metade do que te tira o sono não depende de você.",
+   "destaque": [
+    "SONO"
+   ],
+   "visual": "THE STRATEGIST close up, face hidden in deep shadow, staring at the viewer",
+   "emocao": "poder"
+  },
+  {
+   "text": "E mesmo assim você gasta toda a sua energia nisso.",
+   "destaque": [
+    "ENERGIA"
+   ],
+   "visual": "a chess board in the dark with only the king standing",
+   "emocao": "poder"
+  },
+  {
+   "text": "O que os outros pensam. Se vão te responder. Se vai chover no dia que você planejou.",
+   "destaque": [
+    "PENSAM"
+   ],
+   "visual": "a crowd of people walking in the rain at night",
+   "emocao": "grupo"
+  },
+  {
+   "text": "Epicteto nasceu escravo. Não escolhia nada da própria vida.",
+   "destaque": [
+    "ESCRAVO"
+   ],
+   "visual": "broken iron chains on an old stone floor",
+   "emocao": "medo"
+  },
+  {
+   "text": "E escreveu algo assim: algumas coisas dependem de nós. Outras não.",
+   "destaque": [
+    "DEPENDEM"
+   ],
+   "visual": "a marble statue of a greek philosopher in a dim gallery",
+   "emocao": "mente",
+   "pausa": 0.6
+  },
+  {
+   "text": "Depende de você o que você faz, o que você pensa e como você reage. O resto não.",
+   "destaque": [
+    "REAGE"
+   ],
+   "visual": "a man standing calmly in a storm at the edge of the sea",
+   "emocao": "poder"
+  },
+  {
+   "text": "Quem luta contra o que não controla vive cansado. Quem cuida do que controla vive forte.",
+   "destaque": [
+    "FORTE"
+   ],
+   "visual": "a lighthouse standing firm against huge waves at night",
+   "emocao": "poder"
+  },
+  {
+   "text": "Então antes de se preocupar, pergunte: isso depende de mim? Se depende, aja. Se não depende, solte.",
+   "destaque": [
+    "SOLTE"
+   ],
+   "visual": "a hand opening and letting sand fall in the wind",
+   "emocao": "mente"
+  },
+  {
+   "text": "Não controle o mundo. Controle você. Isso já é poder demais.",
+   "destaque": [
+    "PODER"
+   ],
+   "visual": "a city skyline at night under a full moon",
+   "emocao": "poder"
+  }
+ ]
+}

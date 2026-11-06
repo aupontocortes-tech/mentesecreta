@@ -139,8 +139,12 @@ def main():
                                     'dramatic rim light, black and white, high contrast, cinematic, no text', 0, destino):
                 spec['personagem_src'] = destino; print('personagem: IA')
         except Exception as e: print('  personagem falhou:', e)
-    for i, sc in enumerate(spec['scenes']):
-        if sc.get('src') or sc.get('preto'): continue
+    for i, sc in enumerate(spec['scenes']):   # (06/11) nada de tela preta: cena "preto" vira imagem forte do personagem
+        if sc.pop('preto', None) and not sc.get('visual'):
+            sc['visual'] = ('THE STRATEGIST close up, face hidden in deep shadow, staring at the viewer' if i == 0
+                            else 'THE STRATEGIST walking alone through a dark marble hall')
+            sc.setdefault('emocao', 'poder')
+        if sc.get('src'): continue
         if sc.get('visual'):   # 1º: pintura feita por IA para a frase; se falhar, cai no banco das 77
             os.makedirs(os.path.join(AQUI, 'out'), exist_ok=True)
             destino = os.path.join(AQUI, 'out', f'ia{i:02d}.jpg')
