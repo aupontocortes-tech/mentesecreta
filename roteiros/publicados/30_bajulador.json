@@ -34,7 +34,9 @@
     "GENIAL"
    ],
    "visual": "a group of men applauding in a dark theater",
-   "emocao": "grupo"
+   "emocao": "grupo",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "É gostoso. E é exatamente por isso que é perigoso.",
@@ -42,7 +44,9 @@
     "PERIGOSO"
    ],
    "visual": "a golden crown on a velvet cushion in shadow",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "Maquiavel escreveu um capítulo inteiro sobre isso. Pra ele, as cortes viviam cheias de bajuladores.",
@@ -50,7 +54,9 @@
     "CORTES"
    ],
    "visual": "a grand renaissance hall with empty thrones",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "E disse algo assim: o único jeito de se proteger da bajulação é as pessoas saberem que dizer a verdade não te ofende.",
@@ -59,7 +65,9 @@
    ],
    "visual": "a renaissance marble statue of a thinker in a dim gallery",
    "emocao": "mente",
-   "pausa": 0.6
+   "pausa": 0.6,
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Ou seja, a culpa não é só de quem bajula. É de quem pune quem fala a verdade.",
@@ -67,7 +75,9 @@
     "PUNE"
    ],
    "visual": "an empty chair at the head of a long dark table",
-   "emocao": "solidao"
+   "emocao": "solidao",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "Então valorize quem te contraria com respeito. Agradeça a crítica que dói. Desconfie do aplauso que nunca para.",
@@ -75,7 +85,9 @@
     "DESCONFIE"
    ],
    "visual": "a lion resting alone on a rock at night",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quem só te elogia te deixa cego. Quem te diz a verdade te deixa forte.",
@@ -83,8 +95,12 @@
     "FORTE"
    ],
    "visual": "a city skyline at night under a full moon",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   }
  ],
- "personagem": "THE STRATEGIST, hands folded, facing the viewer"
+ "personagem": "THE STRATEGIST, hands folded, facing the viewer",
+ "personagem_src": "/home/runner/work/mentesecreta/mentesecreta/out/personagem.jpg",
+ "video_id": "lCmQWXPuaLI"
 }
