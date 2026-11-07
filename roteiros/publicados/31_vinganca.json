@@ -21,7 +21,9 @@
     "DEVOLVER"
    ],
    "visual": "THE STRATEGIST close up, face hidden in deep shadow, staring at the viewer",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia00.jpg",
+   "credito": "IA"
   },
   {
    "text": "Mas presta atenção. É exatamente isso que essa pessoa espera de você.",
@@ -29,7 +31,9 @@
     "ESPERA"
    ],
    "visual": "a chess board with a fallen king under a single hard light",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia01.jpg",
+   "credito": "IA"
   },
   {
    "text": "Ela te provoca. Você reage. Ela grita. Você grita mais alto.",
@@ -37,7 +41,9 @@
     "REAGE"
    ],
    "visual": "two men arguing in a dark street at night",
-   "emocao": "grupo"
+   "emocao": "grupo",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "E no final, quem olha de fora não vê mais diferença entre vocês dois.",
@@ -45,7 +51,9 @@
     "DIFERENÇA"
    ],
    "visual": "two identical marble statues facing each other in a dim gallery",
-   "emocao": "engano"
+   "emocao": "engano",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "Marco Aurélio era o homem mais poderoso de Roma. Podia destruir quem quisesse.",
@@ -53,7 +61,9 @@
     "ROMA"
    ],
    "visual": "a roman emperor marble bust in shadow",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "E mesmo assim escreveu algo assim: a melhor vingança é não se tornar igual a quem te fez mal.",
@@ -62,7 +72,9 @@
    ],
    "visual": "an ancient roman hall with tall columns at night",
    "emocao": "mente",
-   "pausa": 0.6
+   "pausa": 0.6,
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Porque quem te ofende quer te puxar pro nível dele. Se você desce, ele ganha.",
@@ -70,7 +82,9 @@
     "DESCE"
    ],
    "visual": "a staircase descending into darkness",
-   "emocao": "medo"
+   "emocao": "medo",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "Então não responda no calor. Não se explique pra quem não quer entender. Só siga em frente.",
@@ -78,7 +92,9 @@
     "FRENTE"
    ],
    "visual": "a lone man in a suit walking away down an empty road",
-   "emocao": "solidao"
+   "emocao": "solidao",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Continue crescendo. Continue melhor. Esse é o golpe que ninguém consegue devolver.",
@@ -86,7 +102,9 @@
     "CRESCENDO"
    ],
    "visual": "a lion standing on a rock looking over a city at night",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   },
   {
    "text": "Não seja igual a quem te machucou. Seja tudo o que ele nunca vai ser.",
@@ -94,7 +112,11 @@
     "NUNCA"
    ],
    "visual": "a city skyline at night under a full moon",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia09.jpg",
+   "credito": "IA"
   }
- ]
+ ],
+ "personagem_src": "/home/runner/work/mentesecreta/mentesecreta/out/personagem.jpg",
+ "video_id": "FdTC_m5nKqA"
 }
