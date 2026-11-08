@@ -1,0 +1,102 @@
+{
+ "titulo": "Todos veem o que você parece. Poucos sabem quem é #Shorts",
+ "descricao": "No capítulo dezoito de O Príncipe, Maquiavel escreveu que todos veem o que você parece, mas poucos sabem o que você é. Uma lição sobre como as pessoas te leem.\n\nVocê mostra tudo de você ou guarda uma parte?\n\nSegue o @mentesecreta. Mentalidade, poder e o lado oculto das pessoas.",
+ "tags": [
+  "maquiavel",
+  "o príncipe",
+  "estratégia",
+  "reputação",
+  "mentalidade",
+  "poder"
+ ],
+ "hashtags": "#estoicismo #mentalidade #mentesecreta",
+ "fontes": [
+  "Nicolau Maquiavel, O Príncipe (1532), capítulo XVIII: 'men judge generally more by the eye than by the hand... Every one sees what you appear to be, few really know what you are'. Trad. W. K. Marriott: https://standardebooks.org/ebooks/niccolo-machiavelli/the-prince/w-k-marriott/text/chapter-18"
+ ],
+ "personagem": "THE STRATEGIST standing in shadow, half of the face hidden",
+ "pron": {
+  "Maquiavel": "Maquiavél"
+ },
+ "scenes": [
+  {
+   "text": "Todos veem o que você parece. Poucos sabem quem você é.",
+   "visual": "THE STRATEGIST close up, half of the face hidden in deep shadow, staring at the viewer",
+   "emocao": "segredo",
+   "destaque": [
+    "PARECE"
+   ]
+  },
+  {
+   "text": "E é pelo que parece que você vai ser julgado. No trabalho. Na família. No primeiro encontro.",
+   "visual": "a marble mask lying on a dark velvet table",
+   "emocao": "engano",
+   "destaque": [
+    "JULGADO"
+   ]
+  },
+  {
+   "text": "Maquiavel escreveu que as pessoas julgam mais pelos olhos do que pelas mãos.",
+   "visual": "an old renaissance palace in Florence at night",
+   "emocao": "mente",
+   "destaque": [
+    "OLHOS"
+   ]
+  },
+  {
+   "text": "Porque ver, todo mundo vê. Conhecer de perto, quase ninguém.",
+   "visual": "a crowd walking past a lone man in a suit standing still",
+   "emocao": "grupo",
+   "destaque": [
+    "CONHECER"
+   ]
+  },
+  {
+   "text": "O jeito que você reage. O que você posta. Como você fala quando perde.",
+   "visual": "a smartphone screen glowing in a dark room",
+   "emocao": "olhar",
+   "destaque": [
+    "REAGE"
+   ]
+  },
+  {
+   "text": "Cada detalhe vira uma ideia sobre você na cabeça dos outros.",
+   "visual": "a chess board seen from above with pieces in shadow",
+   "emocao": "mente",
+   "destaque": [
+    "DETALHE"
+   ]
+  },
+  {
+   "text": "Não é sobre fingir ser quem você não é. É sobre não entregar tudo para quem só olha de longe.",
+   "visual": "a heavy door half closed with light behind it",
+   "emocao": "segredo",
+   "destaque": [
+    "ENTREGAR"
+   ]
+  },
+  {
+   "text": "Sua essência é para quem chegou perto e provou que merece.",
+   "visual": "two old friends sitting in silence by a fireplace",
+   "emocao": "familia",
+   "destaque": [
+    "MERECE"
+   ]
+  },
+  {
+   "text": "E o resto? O resto vê sua postura, sua calma, sua palavra cumprida.",
+   "visual": "a lion standing calmly on a rock at dusk",
+   "emocao": "poder",
+   "destaque": [
+    "POSTURA"
+   ]
+  },
+  {
+   "text": "Cuide do que mostra. Proteja o que é. Quem te vê de longe não precisa te conhecer por inteiro.",
+   "visual": "a lone tower lit at night above a dark city",
+   "emocao": "poder",
+   "destaque": [
+    "PROTEJA"
+   ]
+  }
+ ]
+}
