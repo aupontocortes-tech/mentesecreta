@@ -4,7 +4,7 @@ name: Veil Frequency - publicar Short
 # Botão manual (painel ou aba Actions): modo "agora" publica na hora.
 on:
   schedule:
-    - cron: '0 19 * * *'
+    - cron: '13 19 * * *'
   workflow_dispatch:
     inputs:
       modo:
