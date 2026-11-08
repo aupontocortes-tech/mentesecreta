@@ -1,7 +1,7 @@
 {
  "titulo": "He Stole Something From His Wife's Grave | Urban Legend #Shorts",
  "titulo_pt": "Ele roubou uma coisa do túmulo da esposa | Lenda urbana",
- "resumo_pt": "Lenda clássica americana do braço de ouro. A esposa de um homem ganancioso tinha um braço de ouro e pediu pra ser enterrada com ele. Na noite do enterro, ele desenterra e rouba o braço. Durante a noite, uma voz chega cada vez mais perto da casa perguntando: 'Quem pegou meu braço de ouro?'. Ela entra no quarto, chega ao pé da cama e grita: 'Foi você!'. De manhã, o braço e o homem tinham sumido, e o túmulo dela estava cavado de novo, mais fundo, grande o bastante pra dois.",
+ "resumo_pt": "Lenda clássica americana do braço de ouro. Um homem ganancioso casa com uma mulher que tem um braço de ouro; ela pede pra ser enterrada com ele. Na noite do enterro, ele desenterra e rouba o braço. A noite toda, a voz dela chega cada vez mais perto perguntando quem pegou o braço, até que ela entra no quarto e grita: 'Foi você!'. De manhã ele sumiu. No túmulo, ela está com o braço de volta, e o marido está morto ao lado dela, segurando a mão dela.",
  "descricao": "She only asked for one thing.\n\nWould you have kept it?\n\nFollow @VeilFrequency for a new horror story every day. Based on a classic American urban legend. Images are AI-generated.",
  "tags": [
   "horror story",
@@ -145,6 +145,14 @@
    "voz": "sombria"
   },
   {
+   "text": "Then his dead wife leaned over the bed and screamed.",
+   "pt": "Aí a esposa morta se inclinou sobre a cama e gritou.",
+   "mesma_imagem": true,
+   "destaque": [
+    "SCREAMED"
+   ]
+  },
+  {
    "text": "You've got it!",
    "pt": "Foi você!",
    "mesma_imagem": true,
@@ -156,29 +164,46 @@
    "efeito": "grito"
   },
   {
-   "text": "In the morning, the bed was empty. The arm was gone. And so was he.",
-   "pt": "De manhã, a cama estava vazia. O braço tinha sumido. E ele também.",
+   "text": "In the morning, his bed was empty. The golden arm was gone. And so was he.",
+   "pt": "De manhã, a cama dele estava vazia. O braço de ouro tinha sumido. E ele também.",
    "visual": "empty unmade bed in a cold cabin, morning light, open door",
    "destaque": [
     "GONE"
    ]
   },
   {
-   "text": "The next day, they checked his wife's grave. It had been dug up again.",
-   "pt": "No dia seguinte, foram ver o túmulo da esposa. Tinha sido cavado de novo.",
-   "visual": "dug up grave in a snowy cemetery at dawn, a shovel lying beside it",
+   "text": "The town went to check his wife's grave.",
+   "pt": "O pessoal da cidade foi ver o túmulo da esposa.",
+   "visual": "townspeople in old coats walking into a snowy cemetery at dawn",
    "destaque": [
     "GRAVE"
    ]
   },
   {
-   "text": "Deeper this time. Big enough for two.",
-   "pt": "Mais fundo dessa vez. Grande o bastante pra dois.",
-   "mesma_imagem": true,
+   "text": "Inside the coffin, she had her golden arm back.",
+   "pt": "Dentro do caixão, ela estava com o braço de ouro de volta.",
+   "visual": "golden glow coming from an open grave in a snowy cemetery",
    "destaque": [
-    "TWO"
+    "GOLDEN"
    ],
+   "impacto": true,
    "pausa": 0.6
+  },
+  {
+   "text": "And lying dead next to her, holding her hand, was her husband.",
+   "pt": "E deitado ao lado dela, morto, segurando a mão dela, estava o marido.",
+   "visual": "two hands, one golden, one pale, holding each other on old coffin satin",
+   "destaque": [
+    "HUSBAND"
+   ]
+  },
+  {
+   "text": "He wanted to keep that gold forever. Now he does.",
+   "pt": "Ele queria ficar com aquele ouro pra sempre. Agora ele fica.",
+   "visual": "snowy cemetery at dawn, one grave with fresh dirt",
+   "destaque": [
+    "FOREVER"
+   ]
   }
  ],
  "tema": "urban legends",
