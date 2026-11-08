@@ -21,7 +21,9 @@
     "PERDE"
    ],
    "visual": "THE STRATEGIST close up, face hidden in deep shadow, staring at the viewer",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia00.jpg",
+   "credito": "IA"
   },
   {
    "text": "E perde tão devagar que nem percebe.",
@@ -29,7 +31,9 @@
     "DEVAGAR"
    ],
    "visual": "an old hourglass with sand falling under a hard light",
-   "emocao": "mente"
+   "emocao": "mente",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia01.jpg",
+   "credito": "IA"
   },
   {
    "text": "Uma hora no celular. Uma hora reclamando. Uma hora esperando a vontade aparecer.",
@@ -37,7 +41,9 @@
     "ESPERANDO"
    ],
    "visual": "a man lying on a sofa lit only by a phone screen at night",
-   "emocao": "solidao"
+   "emocao": "solidao",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "Ninguém deixaria um estranho pegar o seu dinheiro. Mas deixa qualquer um pegar o seu tempo.",
@@ -45,7 +51,9 @@
     "DINHEIRO"
    ],
    "visual": "coins scattered on a dark wooden table",
-   "emocao": "dinheiro"
+   "emocao": "dinheiro",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "Sêneca viu isso há quase dois mil anos.",
@@ -53,7 +61,9 @@
     "SÊNECA"
    ],
    "visual": "a marble statue of a roman philosopher in a dim gallery",
-   "emocao": "mente"
+   "emocao": "mente",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Ele escreveu algo assim: a vida não é curta. Nós é que desperdiçamos boa parte dela.",
@@ -62,7 +72,9 @@
    ],
    "visual": "an ancient roman library with scrolls in candle light",
    "emocao": "mente",
-   "pausa": 0.6
+   "pausa": 0.6,
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "O tempo é a única coisa que você nunca recupera. Dinheiro volta. Tempo não.",
@@ -70,7 +82,9 @@
     "NUNCA"
    ],
    "visual": "a broken clock lying on a stone floor",
-   "emocao": "medo"
+   "emocao": "medo",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "Então proteja suas horas como protege seu dinheiro. Diga não. Corte o que te prende. Comece hoje.",
@@ -78,7 +92,9 @@
     "HOJE"
    ],
    "visual": "a lone man in a suit walking up a long staircase toward light",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quem é dono do próprio tempo é dono da própria vida.",
@@ -86,7 +102,11 @@
     "DONO"
    ],
    "visual": "a city skyline at dawn seen from a rooftop",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   }
- ]
+ ],
+ "personagem_src": "/home/runner/work/mentesecreta/mentesecreta/out/personagem.jpg",
+ "video_id": "1RpQvFPC84c"
 }
