@@ -1,0 +1,186 @@
+{
+ "titulo": "He Stole Something From His Wife's Grave | Urban Legend #Shorts",
+ "titulo_pt": "Ele roubou uma coisa do túmulo da esposa | Lenda urbana",
+ "resumo_pt": "Lenda clássica americana do braço de ouro. A esposa de um homem ganancioso tinha um braço de ouro e pediu pra ser enterrada com ele. Na noite do enterro, ele desenterra e rouba o braço. Durante a noite, uma voz chega cada vez mais perto da casa perguntando: 'Quem pegou meu braço de ouro?'. Ela entra no quarto, chega ao pé da cama e grita: 'Foi você!'. De manhã, o braço e o homem tinham sumido, e o túmulo dela estava cavado de novo, mais fundo, grande o bastante pra dois.",
+ "descricao": "She only asked for one thing.\n\nWould you have kept it?\n\nFollow @VeilFrequency for a new horror story every day. Based on a classic American urban legend. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "urban legend",
+  "golden arm",
+  "folk tale"
+ ],
+ "ambiente": "vento",
+ "scenes": [
+  {
+   "text": "My great-grandpa told this story every Halloween. He swore it happened in his town.",
+   "pt": "Meu bisavô contava essa história todo Halloween. Jurava que tinha acontecido na cidade dele.",
+   "visual": "old man telling a story by a fireplace to children at night",
+   "destaque": [
+    "HALLOWEEN"
+   ]
+  },
+  {
+   "text": "There was a man there who loved money more than anything.",
+   "pt": "Tinha um homem lá que amava dinheiro mais que tudo.",
+   "visual": "greedy man counting coins by candlelight in an old cabin",
+   "destaque": [
+    "MONEY"
+   ]
+  },
+  {
+   "text": "He married a woman because of one thing. Her arm was made of solid gold.",
+   "pt": "Ele casou com uma mulher por causa de uma coisa só. O braço dela era de ouro maciço.",
+   "visual": "woman in an old dress with a shining golden arm, candlelight",
+   "destaque": [
+    "GOLD"
+   ]
+  },
+  {
+   "text": "When she got sick, she made him promise. Bury me with my golden arm.",
+   "pt": "Quando ela ficou doente, fez ele prometer. Me enterra com o meu braço de ouro.",
+   "mesma_imagem": true,
+   "destaque": [
+    "PROMISE"
+   ],
+   "voz": "mulher"
+  },
+  {
+   "text": "He promised. And he buried her with it.",
+   "pt": "Ele prometeu. E enterrou ela com ele.",
+   "visual": "fresh grave in a small cemetery at dusk",
+   "destaque": [
+    "BURIED"
+   ]
+  },
+  {
+   "text": "But that same night, he went back with a shovel.",
+   "pt": "Mas naquela mesma noite, ele voltou com uma pá.",
+   "visual": "man with a shovel walking into a cemetery at night",
+   "destaque": [
+    "SHOVEL"
+   ],
+   "efeito": "passos"
+  },
+  {
+   "text": "He dug her up, took the arm, and ran home in the snow.",
+   "pt": "Ele desenterrou ela, pegou o braço e voltou correndo pra casa na neve.",
+   "visual": "man running through snow at night clutching something golden",
+   "destaque": [
+    "ARM"
+   ]
+  },
+  {
+   "text": "He hid it under his bed and blew out the candle.",
+   "pt": "Escondeu debaixo da cama e apagou a vela.",
+   "visual": "golden glow under an old bed in a dark cabin",
+   "destaque": [
+    "BED"
+   ]
+  },
+  {
+   "text": "Then, far away in the wind, he heard a voice.",
+   "pt": "Aí, longe, no vento, ele ouviu uma voz.",
+   "visual": "dark snowy woods outside a cabin window at night",
+   "destaque": [
+    "VOICE"
+   ],
+   "efeito": "sussurro"
+  },
+  {
+   "text": "Who's got my golden arm?",
+   "pt": "Quem pegou meu braço de ouro?",
+   "mesma_imagem": true,
+   "destaque": [
+    "GOLDEN"
+   ],
+   "voz": "sombria",
+   "pausa": 0.6
+  },
+  {
+   "text": "It was closer now. Right outside the door.",
+   "pt": "Agora estava mais perto. Bem do lado de fora da porta.",
+   "visual": "old wooden cabin door at night, snow blowing under it",
+   "destaque": [
+    "DOOR"
+   ]
+  },
+  {
+   "text": "Who's got my golden arm?",
+   "pt": "Quem pegou meu braço de ouro?",
+   "mesma_imagem": true,
+   "destaque": [
+    "ARM"
+   ],
+   "voz": "sombria",
+   "efeito": "rangido"
+  },
+  {
+   "text": "The door creaked open. Footsteps crossed the room.",
+   "pt": "A porta rangeu e abriu. Passos atravessaram o quarto.",
+   "visual": "cabin door slowly opening into a dark room, snow outside",
+   "destaque": [
+    "FOOTSTEPS"
+   ],
+   "efeito": "passos"
+  },
+  {
+   "text": "He pulled the blanket over his head. The steps stopped at the foot of his bed.",
+   "pt": "Ele puxou o cobertor por cima da cabeça. Os passos pararam no pé da cama.",
+   "visual": "man hiding under a blanket in a dark cabin, shadow at the foot of the bed",
+   "destaque": [
+    "BED"
+   ],
+   "pausa": 0.8
+  },
+  {
+   "text": "Who's got my golden arm?",
+   "pt": "Quem pegou meu braço de ouro?",
+   "mesma_imagem": true,
+   "destaque": [
+    "GOLDEN"
+   ],
+   "voz": "sombria"
+  },
+  {
+   "text": "You've got it!",
+   "pt": "Foi você!",
+   "mesma_imagem": true,
+   "destaque": [
+    "YOU"
+   ],
+   "voz": "sombria",
+   "impacto": true,
+   "efeito": "grito"
+  },
+  {
+   "text": "In the morning, the bed was empty. The arm was gone. And so was he.",
+   "pt": "De manhã, a cama estava vazia. O braço tinha sumido. E ele também.",
+   "visual": "empty unmade bed in a cold cabin, morning light, open door",
+   "destaque": [
+    "GONE"
+   ]
+  },
+  {
+   "text": "The next day, they checked his wife's grave. It had been dug up again.",
+   "pt": "No dia seguinte, foram ver o túmulo da esposa. Tinha sido cavado de novo.",
+   "visual": "dug up grave in a snowy cemetery at dawn, a shovel lying beside it",
+   "destaque": [
+    "GRAVE"
+   ]
+  },
+  {
+   "text": "Deeper this time. Big enough for two.",
+   "pt": "Mais fundo dessa vez. Grande o bastante pra dois.",
+   "mesma_imagem": true,
+   "destaque": [
+    "TWO"
+   ],
+   "pausa": 0.6
+  }
+ ],
+ "tema": "urban legends",
+ "hashtags": "#horror #urbanlegend #scarystories #shorts"
+}

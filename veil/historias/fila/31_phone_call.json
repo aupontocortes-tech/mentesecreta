@@ -1,0 +1,155 @@
+{
+ "titulo": "My Grandpa Called Me. Three Days After His Funeral | Urban Legend #Shorts",
+ "titulo_pt": "Meu avô me ligou. Três dias depois do enterro | Lenda urbana",
+ "resumo_pt": "Lenda das ligações dos mortos. Três dias depois do enterro do avô, o telefone fixo da casa dele toca de madrugada enquanto a narradora arruma as coisas. É a voz dele: 'Sai de casa agora. Não acende nada.' Ela sai, e os bombeiros acham um vazamento de gás na cozinha. A companhia telefônica confirma: aquela linha estava cortada desde o dia do enterro.",
+ "descricao": "The phone line had been dead for days.\n\nWould you have answered?\n\nFollow @VeilFrequency for a new horror story every day. Based on a classic American urban legend. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "urban legend",
+  "phone call",
+  "ghost call"
+ ],
+ "ambiente": "vento",
+ "scenes": [
+  {
+   "text": "My grandpa died in October. I was the one who stayed to clean out his house.",
+   "pt": "Meu avô morreu em outubro. Fui eu que fiquei pra esvaziar a casa dele.",
+   "visual": "old farmhouse at dusk, cardboard boxes on the porch",
+   "destaque": [
+    "HOUSE"
+   ]
+  },
+  {
+   "text": "He still had an old phone on the kitchen wall. The kind with a curly cord.",
+   "pt": "Ele ainda tinha um telefone velho na parede da cozinha. Daqueles de fio enrolado.",
+   "visual": "old rotary wall phone with a curly cord in a dim kitchen",
+   "destaque": [
+    "PHONE"
+   ]
+  },
+  {
+   "text": "On the third night, I fell asleep on his couch.",
+   "pt": "Na terceira noite, dormi no sofá dele.",
+   "visual": "woman asleep on an old couch under a knitted blanket, lamp off",
+   "destaque": [
+    "COUCH"
+   ]
+  },
+  {
+   "text": "At two a.m., that phone started ringing.",
+   "pt": "Às duas da manhã, aquele telefone começou a tocar.",
+   "mesma_imagem": true,
+   "destaque": [
+    "RINGING"
+   ],
+   "efeito": "telefone"
+  },
+  {
+   "text": "I picked it up half asleep. Hello?",
+   "pt": "Atendi meio dormindo. Alô?",
+   "visual": "woman holding an old phone receiver to her ear in a dark kitchen",
+   "destaque": [
+    "HELLO"
+   ]
+  },
+  {
+   "text": "Sweetheart. It's Grandpa.",
+   "pt": "Querida. É o vovô.",
+   "mesma_imagem": true,
+   "destaque": [
+    "GRANDPA"
+   ],
+   "voz": "idoso",
+   "pausa": 0.6
+  },
+  {
+   "text": "I couldn't breathe. It was his voice. The cough. The way he said sweetheart.",
+   "pt": "Eu não conseguia respirar. Era a voz dele. A tosse. O jeito que ele falava querida.",
+   "visual": "close up of a trembling hand gripping a phone cord",
+   "destaque": [
+    "VOICE"
+   ]
+  },
+  {
+   "text": "Get out of the house. Right now. Don't turn on any lights.",
+   "pt": "Sai de casa. Agora. Não acende nenhuma luz.",
+   "mesma_imagem": true,
+   "destaque": [
+    "OUT"
+   ],
+   "voz": "idoso"
+  },
+  {
+   "text": "Then the line went dead.",
+   "pt": "Aí a linha ficou muda.",
+   "visual": "phone receiver hanging by its cord in a dark kitchen",
+   "destaque": [
+    "DEAD"
+   ],
+   "efeito": "chiado"
+  },
+  {
+   "text": "I didn't think. I ran outside barefoot in the dark.",
+   "pt": "Não pensei. Corri pra fora descalça, no escuro.",
+   "visual": "barefoot woman running out of a farmhouse door at night",
+   "destaque": [
+    "RAN"
+   ]
+  },
+  {
+   "text": "From the yard, I called nine-one-one.",
+   "pt": "Do quintal, liguei pro nove-um-um.",
+   "visual": "woman standing in a dark yard holding a glowing cell phone",
+   "destaque": [
+    "CALLED"
+   ]
+  },
+  {
+   "text": "The firefighters found a gas leak in the kitchen. The whole house was full of it.",
+   "pt": "Os bombeiros acharam um vazamento de gás na cozinha. A casa inteira estava cheia.",
+   "visual": "firefighters with flashlights inside an old kitchen at night",
+   "destaque": [
+    "GAS"
+   ],
+   "impacto": true
+  },
+  {
+   "text": "One light switch, and it would've exploded.",
+   "pt": "Um interruptor, e tudo teria explodido.",
+   "visual": "close up of an old light switch on a kitchen wall",
+   "destaque": [
+    "SWITCH"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "The next morning, I called the phone company to ask who called me.",
+   "pt": "Na manhã seguinte, liguei pra companhia telefônica pra perguntar quem tinha me ligado.",
+   "visual": "woman at a kitchen table with coffee and a cell phone, morning light",
+   "destaque": [
+    "ASK"
+   ]
+  },
+  {
+   "text": "Nobody did. That line was disconnected the day of his funeral.",
+   "pt": "Ninguém. Aquela linha foi cortada no dia do enterro dele.",
+   "visual": "old wall phone with its cord unplugged, morning light",
+   "destaque": [
+    "DISCONNECTED"
+   ]
+  },
+  {
+   "text": "I kept that phone. It's on my kitchen wall now. Just in case.",
+   "pt": "Eu fiquei com aquele telefone. Agora ele está na parede da minha cozinha. Só por garantia.",
+   "visual": "old rotary phone hanging on a modern kitchen wall",
+   "destaque": [
+    "CASE"
+   ]
+  }
+ ],
+ "tema": "urban legends",
+ "hashtags": "#horror #urbanlegend #scarystories #shorts"
+}

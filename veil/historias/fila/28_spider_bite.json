@@ -1,8 +1,8 @@
 {
- "titulo": "She Came Home From Vacation With a Bump on Her Cheek | Urban Legend #Shorts",
- "titulo_pt": "Ela voltou das férias com um caroço na bochecha | Lenda urbana",
- "resumo_pt": "Lenda urbana da picada de aranha. A irmã do narrador volta de uma viagem com um caroço vermelho na bochecha que não para de crescer e coçar. Uma noite, no banheiro, o caroço se abre e dezenas de aranhas minúsculas saem. Uma aranha tinha posto ovos debaixo da pele dela enquanto ela dormia na praia.",
- "descricao": "It started as a tiny red bump.\n\nWould you have gone to the doctor sooner?\n\nFollow @VeilFrequency for a new horror story every day. Based on a classic American urban legend. Images are AI-generated.",
+ "titulo": "She Said Something Was Moving Under Her Skin | Urban Legend #Shorts",
+ "titulo_pt": "Ela dizia que tinha algo se mexendo debaixo da pele | Lenda urbana",
+ "resumo_pt": "Lenda urbana da picada de aranha. Depois de uma viagem à praia, a irmã do narrador fica com um caroço na bochecha que cresce e faz barulho à noite. A mãe insiste que é só infecção. Numa madrugada o caroço se abre e saem dezenas de aranhas. No hospital, o médico pergunta quem mais deitou naquela toalha: a mãe. Ela vinha escondendo um caroço igual debaixo da maquiagem.",
+ "descricao": "It started as a tiny red bump.\n\nWould you have noticed sooner?\n\nFollow @VeilFrequency for a new horror story every day. Based on a classic American urban legend. Images are AI-generated.",
  "tags": [
   "horror story",
   "scary story",
@@ -15,137 +15,147 @@
  "ambiente": "vento",
  "scenes": [
   {
-   "text": "My sister came home from Mexico with a tan, a suitcase full of gifts, and a tiny red bump on her cheek.",
-   "pt": "Minha irmã voltou do México bronzeada, com uma mala cheia de presentes e um caroço vermelho minúsculo na bochecha.",
-   "visual": "young woman with a suitcase smiling at a front door, a small red bump on her cheek",
+   "text": "My sister came back from our beach trip with a tiny red bump on her cheek.",
+   "pt": "Minha irmã voltou da nossa viagem pra praia com um caroço vermelho minúsculo na bochecha.",
+   "visual": "teenage girl in a car looking at a small red bump on her cheek in the sun visor mirror",
    "destaque": [
     "BUMP"
    ]
   },
   {
-   "text": "She said a bug bit her while she napped on the beach.",
-   "pt": "Ela disse que um inseto picou ela enquanto cochilava na praia.",
-   "visual": "woman asleep on a beach towel under a palm tree at sunset",
+   "text": "She'd fallen asleep on the beach. On the towel she shared with Mom.",
+   "pt": "Ela tinha dormido na praia. Na toalha que ela dividia com a minha mãe.",
+   "visual": "striped beach towel on the sand at sunset, two pairs of sandals beside it",
    "destaque": [
-    "BEACH"
+    "TOWEL"
    ]
   },
   {
-   "text": "By the next week, the bump was the size of a grape.",
-   "pt": "Na semana seguinte, o caroço estava do tamanho de uma uva.",
-   "visual": "close up of a woman's hand touching a swollen red bump on her cheek in a bathroom mirror",
+   "text": "A week later, the bump was the size of a grape. And it was warm.",
+   "pt": "Uma semana depois, o caroço estava do tamanho de uma uva. E estava quente.",
+   "visual": "close up of a swollen red bump on a girl's cheek in a bathroom mirror",
    "destaque": [
     "GRAPE"
    ]
   },
   {
-   "text": "It itched all the time. She kept saying it felt like it was moving.",
-   "pt": "Coçava o tempo todo. Ela vivia dizendo que parecia que aquilo se mexia.",
-   "visual": "woman scratching her cheek at a kitchen table at night",
+   "text": "At night, through our bedroom wall, I heard her scratching.",
+   "pt": "À noite, pela parede do nosso quarto, eu ouvia ela coçando.",
+   "visual": "dark bedroom wall with a thin line of light under the door",
    "destaque": [
-    "MOVING"
+    "SCRATCHING"
+   ],
+   "efeito": "arranhao"
+  },
+  {
+   "text": "Then she told me something I'll never forget.",
+   "pt": "Aí ela me falou uma coisa que eu nunca vou esquecer.",
+   "visual": "girl sitting on her bed in the dark holding her cheek",
+   "destaque": [
+    "FORGET"
    ]
   },
   {
-   "text": "Mom told her it was just an infection. Put ice on it. Stop touching it.",
-   "pt": "Minha mãe disse que era só uma infecção. Põe gelo. Para de mexer.",
-   "visual": "mother handing an ice pack to her daughter in a warm kitchen",
+   "text": "When it's quiet, I can hear it clicking. Inside my face.",
+   "pt": "Quando fica silêncio, eu ouço estalando. Dentro do meu rosto.",
+   "mesma_imagem": true,
+   "destaque": [
+    "CLICKING"
+   ],
+   "voz": "mulher"
+  },
+  {
+   "text": "Mom wouldn't take her to a doctor. She kept saying it's just an infection.",
+   "pt": "Minha mãe não levava ela no médico. Só repetia que era só uma infecção.",
+   "visual": "mother with heavy makeup turning away in a dim kitchen",
    "destaque": [
     "INFECTION"
    ]
   },
   {
-   "text": "Then one night, around two a.m., I heard the bathroom faucet running.",
-   "pt": "Aí uma noite, lá pelas duas da manhã, ouvi a torneira do banheiro aberta.",
-   "visual": "light under a closed bathroom door in a dark hallway",
+   "text": "At three a.m., I woke up to a scream from the bathroom.",
+   "pt": "Às três da manhã, acordei com um grito vindo do banheiro.",
+   "visual": "bathroom door half open, harsh light spilling into a dark hallway",
    "destaque": [
-    "FAUCET"
+    "SCREAM"
    ],
-   "efeito": "pingo"
+   "efeito": "grito"
   },
   {
-   "text": "My sister was standing at the mirror. Very still.",
-   "pt": "Minha irmã estava parada na frente do espelho. Imóvel.",
-   "visual": "woman standing frozen in front of a bathroom mirror, seen from behind",
-   "destaque": [
-    "MIRROR"
-   ],
-   "pausa": 0.6
-  },
-  {
-   "text": "Something is coming out.",
-   "pt": "Tem alguma coisa saindo.",
-   "mesma_imagem": true,
-   "destaque": [
-    "OUT"
-   ],
-   "voz": "mulher"
-  },
-  {
-   "text": "I stepped closer. The bump had split open.",
-   "pt": "Cheguei mais perto. O caroço tinha se aberto.",
-   "visual": "girl's face in a dim bathroom mirror, staring at her own cheek in horror",
+   "text": "My sister was gripping the sink. The bump had split open.",
+   "pt": "Minha irmã estava agarrada na pia. O caroço tinha se aberto.",
+   "visual": "girl gripping a bathroom sink, face hidden, harsh light",
    "destaque": [
     "OPEN"
    ],
-   "impacto": true
-  },
-  {
-   "text": "And out of it came spiders. Dozens of them. Tiny and pale.",
-   "pt": "E de dentro saíram aranhas. Dezenas. Minúsculas e claras.",
-   "visual": "dozens of tiny pale spiders crawling across a white bathroom sink",
-   "destaque": [
-    "SPIDERS"
-   ],
-   "efeito": "arranhao"
-  },
-  {
-   "text": "They poured down her neck and into the sink.",
-   "pt": "Elas desceram pelo pescoço dela até a pia.",
-   "mesma_imagem": true,
-   "destaque": [
-    "SINK"
-   ]
-  },
-  {
-   "text": "She didn't scream. She just kept whispering that she knew. She always knew.",
-   "pt": "Ela não gritou. Só ficava sussurrando que sabia. Ela sempre soube.",
-   "visual": "woman sitting on a bathroom floor hugging her knees, dim light",
-   "destaque": [
-    "KNEW"
-   ]
-  },
-  {
-   "text": "At the hospital, the doctor explained it in one sentence.",
-   "pt": "No hospital, o médico explicou numa frase só.",
-   "visual": "empty hospital corridor at night",
-   "destaque": [
-    "DOCTOR"
-   ]
-  },
-  {
-   "text": "While she slept on that beach, a spider laid its eggs under her skin.",
-   "pt": "Enquanto ela dormia naquela praia, uma aranha botou os ovos debaixo da pele dela.",
-   "visual": "a single spider on a beach towel in the sand at dusk",
-   "destaque": [
-    "EGGS"
-   ],
+   "impacto": true,
    "pausa": 0.6
   },
   {
-   "text": "She's fine now. But she still feels her cheek every morning.",
-   "pt": "Ela está bem agora. Mas até hoje apalpa a bochecha toda manhã.",
-   "visual": "woman touching her cheek in a sunny bathroom mirror",
+   "text": "And spiders were pouring out of it. Dozens of them. Tiny and pale.",
+   "pt": "E aranhas estavam saindo dele. Dezenas. Minúsculas e claras.",
+   "visual": "dozens of tiny pale spiders crawling across a white bathroom sink",
    "destaque": [
-    "MORNING"
+    "SPIDERS"
    ]
   },
   {
-   "text": "Just to make sure nothing is moving.",
-   "pt": "Só pra ter certeza de que nada está se mexendo.",
-   "visual": "close up of a fingertip resting on a cheek, soft morning light",
+   "text": "At the hospital, the doctor said a spider had laid its eggs under her skin.",
+   "pt": "No hospital, o médico disse que uma aranha tinha botado os ovos debaixo da pele dela.",
+   "visual": "empty hospital corridor at night",
    "destaque": [
-    "MOVING"
+    "EGGS"
+   ]
+  },
+  {
+   "text": "Then he asked one question. Did anyone else sleep on that towel?",
+   "pt": "Aí ele fez uma pergunta só. Mais alguém dormiu naquela toalha?",
+   "mesma_imagem": true,
+   "destaque": [
+    "TOWEL"
+   ],
+   "voz": "homem",
+   "pausa": 0.6
+  },
+  {
+   "text": "We all looked at Mom.",
+   "pt": "Todo mundo olhou pra minha mãe.",
+   "visual": "mother sitting in a hospital waiting room, face turned away",
+   "destaque": [
+    "MOM"
+   ]
+  },
+  {
+   "text": "She was crying. Slowly, she wiped the makeup off her cheek.",
+   "pt": "Ela estava chorando. Devagar, tirou a maquiagem da bochecha.",
+   "visual": "woman's hand wiping thick makeup off her cheek with a tissue",
+   "destaque": [
+    "MAKEUP"
+   ],
+   "efeito": "coracao"
+  },
+  {
+   "text": "Under it was a bump. Bigger than my sister's.",
+   "pt": "Debaixo tinha um caroço. Maior que o da minha irmã.",
+   "visual": "close up of a large red bump on a woman's cheek under hospital light",
+   "destaque": [
+    "BIGGER"
+   ]
+  },
+  {
+   "text": "That's why she kept saying it was just an infection. She was too scared to find out.",
+   "pt": "Por isso ela repetia que era só uma infecção. Ela tinha medo demais de descobrir.",
+   "visual": "mother and daughter holding hands in a hospital room at night",
+   "destaque": [
+    "SCARED"
+   ]
+  },
+  {
+   "text": "The doctors got them out just in time. Mom hasn't been to the beach since.",
+   "pt": "Os médicos tiraram a tempo. Minha mãe nunca mais foi à praia.",
+   "visual": "empty beach at dusk, a single striped towel left on the sand",
+   "destaque": [
+    "BEACH"
    ]
   }
  ],
