@@ -1,0 +1,155 @@
+{
+ "titulo": "I Gave an Old Lady a Ride. Then I Saw Her Arms | Urban Legend #Shorts",
+ "titulo_pt": "Dei carona pra uma velhinha. Aí vi os braços dela | Lenda urbana",
+ "resumo_pt": "Lenda urbana do carona de braços peludos. A narradora encontra uma senhora pedindo carona na saída do shopping e deixa ela entrar. No sinal, percebe que a senhora tem braços grossos e peludos de homem. Ela inventa que o farol queimou e pede pra 'velhinha' sair e conferir, e arranca com o carro. Na bolsa esquecida no banco havia um machado.",
+ "descricao": "She looked like someone's grandma.\n\nWould you have noticed?\n\nFollow @VeilFrequency for a new horror story every day. Based on a classic American urban legend. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "urban legend",
+  "hitchhiker",
+  "hairy armed hitchhiker"
+ ],
+ "ambiente": "chuva",
+ "scenes": [
+  {
+   "text": "It was raining when I left the mall. Almost closing time. The parking lot was nearly empty.",
+   "pt": "Estava chovendo quando saí do shopping. Quase na hora de fechar. O estacionamento estava quase vazio.",
+   "visual": "nearly empty mall parking lot at night in the rain, one car under a lamp",
+   "destaque": [
+    "RAINING"
+   ]
+  },
+  {
+   "text": "An old lady was standing next to my car. Gray hair, long coat, a big leather handbag.",
+   "pt": "Uma senhora estava parada do lado do meu carro. Cabelo grisalho, casaco comprido, uma bolsa grande de couro.",
+   "visual": "elderly woman in a long coat with a large handbag standing by a car in the rain at night",
+   "destaque": [
+    "HANDBAG"
+   ]
+  },
+  {
+   "text": "Sweetie, my son forgot to pick me up. Could you drive me home?",
+   "pt": "Querida, meu filho esqueceu de me buscar. Você me leva pra casa?",
+   "mesma_imagem": true,
+   "destaque": [
+    "HOME"
+   ],
+   "voz": "idosa"
+  },
+  {
+   "text": "She looked tired and soaked. So I said yes.",
+   "pt": "Ela parecia cansada e encharcada. Então eu disse que sim.",
+   "visual": "woman opening the passenger door of her car for an old lady in the rain",
+   "destaque": [
+    "YES"
+   ]
+  },
+  {
+   "text": "She sat down, put the bag on her lap, and didn't say another word.",
+   "pt": "Ela sentou, pôs a bolsa no colo e não falou mais nada.",
+   "visual": "old lady sitting in a car passenger seat holding a big handbag, face in shadow",
+   "destaque": [
+    "WORD"
+   ]
+  },
+  {
+   "text": "At the first red light, she reached up to fix her hood.",
+   "pt": "No primeiro sinal vermelho, ela levantou a mão pra arrumar o capuz.",
+   "visual": "red traffic light reflected on a wet windshield at night",
+   "destaque": [
+    "LIGHT"
+   ]
+  },
+  {
+   "text": "And her sleeve slid down.",
+   "pt": "E a manga escorregou.",
+   "mesma_imagem": true,
+   "destaque": [
+    "SLEEVE"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "Her arm was thick. Covered in dark hair. A man's arm.",
+   "pt": "O braço era grosso. Coberto de pelo escuro. Um braço de homem.",
+   "visual": "close up of a thick hairy arm under the sleeve of a woman's coat in a dark car",
+   "destaque": [
+    "HAIR"
+   ],
+   "impacto": true,
+   "efeito": "coracao"
+  },
+  {
+   "text": "I kept my eyes on the road. My hands were shaking on the wheel.",
+   "pt": "Mantive os olhos na estrada. Minhas mãos tremiam no volante.",
+   "visual": "woman's hands gripping a steering wheel at night, rain on the windshield",
+   "destaque": [
+    "SHAKING"
+   ]
+  },
+  {
+   "text": "I said, I think my headlight is out. Could you check it for me, ma'am?",
+   "pt": "Eu disse: acho que meu farol queimou. A senhora pode dar uma olhada pra mim?",
+   "visual": "car stopped on the side of a dark rainy road, headlights on",
+   "destaque": [
+    "HEADLIGHT"
+   ]
+  },
+  {
+   "text": "She opened the door and stepped out into the rain.",
+   "pt": "Ela abriu a porta e saiu na chuva.",
+   "visual": "figure in a long coat walking toward the front of a car in the rain",
+   "destaque": [
+    "RAIN"
+   ],
+   "efeito": "porta"
+  },
+  {
+   "text": "I hit the gas and didn't stop until I reached the police station.",
+   "pt": "Pisei no acelerador e só parei na delegacia.",
+   "visual": "car speeding away on a wet road at night, red taillights",
+   "destaque": [
+    "GAS"
+   ],
+   "efeito": "freada"
+  },
+  {
+   "text": "She had left her handbag on the seat.",
+   "pt": "Ela tinha deixado a bolsa no banco.",
+   "visual": "leather handbag left on an empty car passenger seat",
+   "destaque": [
+    "HANDBAG"
+   ]
+  },
+  {
+   "text": "The officer opened it slowly.",
+   "pt": "O policial abriu devagar.",
+   "visual": "police officer's hands opening a leather handbag under a desk lamp",
+   "destaque": [
+    "OPENED"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "Inside was a wig. A pair of gloves. And an axe.",
+   "pt": "Dentro tinha uma peruca. Um par de luvas. E um machado.",
+   "visual": "a gray wig, gloves and a small axe inside an open handbag on a desk",
+   "destaque": [
+    "AXE"
+   ]
+  },
+  {
+   "text": "He wasn't waiting for his son. He was waiting for the last car in the lot.",
+   "pt": "Ele não estava esperando o filho. Estava esperando o último carro do estacionamento.",
+   "visual": "empty mall parking lot at night in the rain",
+   "destaque": [
+    "LAST"
+   ]
+  }
+ ],
+ "tema": "urban legends",
+ "hashtags": "#horror #urbanlegend #scarystories #shorts"
+}
