@@ -62,7 +62,7 @@ VOZES (escolha você, pelo que a história pede)
 
 IMAGENS (geradas por IA automaticamente)
 - Cada cena com imagem nova tem "visual": descrição em inglês, concreta e filmável, do que aparece na tela (lugar, objeto, pessoa, luz). Ex.: "old wooden basement door slightly open in a dark farmhouse hallway, faint light under the door".
-- O estilo (filme de terror, escuro, granulado) é adicionado sozinho: não repita "cinematic", "horror" etc.
+- O estilo (desenho de HQ de terror, traço preto forte, rostos com medo exagerado, noite azulada; desde 08/11) é adicionado sozinho: não repita "cinematic", "horror" etc.
 - Nada de sangue, ferimento, cadáver, nudez, marca, texto, celebridade. Rostos: ok, mas prefira silhuetas, mãos, portas, corredores, objetos — assusta mais e a IA erra menos.
 
 EFEITOS SONOROS (gerados sozinhos pelo robô)

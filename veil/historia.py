@@ -12,8 +12,9 @@ import numpy as np
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 RAIZ = os.path.dirname(AQUI)
-ESTILO = ('cinematic horror film still, 35mm photo, dim moody low-key lighting, desaturated cold tones, '
-          'film grain, shallow depth of field, photorealistic, unsettling atmosphere, vertical composition, '
+ESTILO = ('dark horror comic book illustration, hand-drawn graphic novel style, bold black ink outlines, '
+          'cel shading, exaggerated scared facial expressions with wide eyes, moody blue night palette with warm accent lights, '
+          'detailed creepy atmosphere, clear readable scene, vertical composition, '
           'no text, no watermark, no blood, no gore')
 # Vozes (Edge TTS, grátis). O narrador é FIXO (voz do canal); 'voz' na cena = fala de personagem
 # e cada fala pode ter a sua ("voz": "idosa", "crianca", "sombria"...).
