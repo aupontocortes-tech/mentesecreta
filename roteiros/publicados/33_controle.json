@@ -24,7 +24,9 @@
     "SONO"
    ],
    "visual": "THE STRATEGIST close up, face hidden in deep shadow, staring at the viewer",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia00.jpg",
+   "credito": "IA"
   },
   {
    "text": "E mesmo assim você gasta toda a sua energia nisso.",
@@ -32,7 +34,9 @@
     "ENERGIA"
    ],
    "visual": "a chess board in the dark with only the king standing",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia01.jpg",
+   "credito": "IA"
   },
   {
    "text": "O que os outros pensam. Se vão te responder. Se vai chover no dia que você planejou.",
@@ -40,7 +44,9 @@
     "PENSAM"
    ],
    "visual": "a crowd of people walking in the rain at night",
-   "emocao": "grupo"
+   "emocao": "grupo",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "Epicteto nasceu escravo. Não escolhia nada da própria vida.",
@@ -48,7 +54,9 @@
     "ESCRAVO"
    ],
    "visual": "broken iron chains on an old stone floor",
-   "emocao": "medo"
+   "emocao": "medo",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "E escreveu algo assim: algumas coisas dependem de nós. Outras não.",
@@ -57,7 +65,9 @@
    ],
    "visual": "a marble statue of a greek philosopher in a dim gallery",
    "emocao": "mente",
-   "pausa": 0.6
+   "pausa": 0.6,
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Depende de você o que você faz, o que você pensa e como você reage. O resto não.",
@@ -65,7 +75,9 @@
     "REAGE"
    ],
    "visual": "a man standing calmly in a storm at the edge of the sea",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quem luta contra o que não controla vive cansado. Quem cuida do que controla vive forte.",
@@ -73,7 +85,9 @@
     "FORTE"
    ],
    "visual": "a lighthouse standing firm against huge waves at night",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "Então antes de se preocupar, pergunte: isso depende de mim? Se depende, aja. Se não depende, solte.",
@@ -81,7 +95,9 @@
     "SOLTE"
    ],
    "visual": "a hand opening and letting sand fall in the wind",
-   "emocao": "mente"
+   "emocao": "mente",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Não controle o mundo. Controle você. Isso já é poder demais.",
@@ -89,7 +105,11 @@
     "PODER"
    ],
    "visual": "a city skyline at night under a full moon",
-   "emocao": "poder"
+   "emocao": "poder",
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   }
- ]
+ ],
+ "personagem_src": "/home/runner/work/mentesecreta/mentesecreta/out/personagem.jpg",
+ "video_id": "svJ_Or7DKa0"
 }
