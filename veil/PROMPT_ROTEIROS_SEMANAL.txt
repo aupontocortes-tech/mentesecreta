@@ -34,9 +34,14 @@ Releia a história inteira como um espectador que nunca viu nada e responda, uma
 6. Leia só o "pt" de todas as cenas em sequência: em português a história faz sentido do começo ao fim?
 Se qualquer resposta for "não" ou "talvez", corrija e revise de novo. No relatório, diga "coerência revisada" para cada história.
 
+PERSONAGENS IGUAIS EM TODAS AS CENAS (09/11/2026, o Thiago reclamou que as figuras não combinavam): todo roteiro tem o campo "personagens" (inglês) descrevendo cada personagem com cabelo, idade, roupa e cor fixos (e a criatura). O robô coloca isso em TODA imagem. Nos "visual" das cenas, chame os personagens pelo mesmo papel ("the narrator", "Jenny", "the old lady").
+
+ORDEM DA FILA: histórias novas SEMPRE entram DEPOIS das que já estão na fila (numeração maior). Nunca passe na frente das que o Thiago aprovou.
+
 FORMATO "WHO WON?" (desde 08/11/2026, inspirado no formato que mais viraliza em canais de terror desenhado)
 - Das 7 histórias da semana, 2 são BATALHAS entre duas criaturas famosas do folclore americano (Mothman, Jersey Devil, Bigfoot, Goatman, Wendigo NÃO (cultura indígena, evite), Bell Witch, Flatwoods Monster, Dover Demon, Lizard Man of Scape Ore, Pope Lick Monster, Bunnyman NÃO).
 - MAIS CURTAS: 35 a 45 segundos, 90 a 120 palavras, 9 a 12 cenas. As outras histórias continuam com 60-85s.
+- A LUTA TEM QUE APARECER NAS IMAGENS: as duas criaturas juntas na mesma imagem em pelo menos 4 cenas (encarando, atacando, golpe, vencedor de pé e perdedor fugindo). Descreva as DUAS no "personagens".
 - Estrutura: cena 1 apresenta as duas ('Mothman versus the Jersey Devil. Who wins?'), uma testemunha conta ("I") o encontro numa noite, a luta tem 2 ou 3 golpes/virada, e o final diz CLARO quem venceu e por quê (com um detalhe que arrepia). Sem sangue, sem gore.
 - Título: "<Criatura A> vs <Criatura B>: Who Won? 😰 #Shorts". "tema": "who won".
 

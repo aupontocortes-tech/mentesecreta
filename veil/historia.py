@@ -132,7 +132,9 @@ def main(caminho, out, lingua='en'):
             img = os.path.abspath(f'{imgs}/cena{i:02d}.jpg')
         if not os.path.exists(img):
             print(f'cena {i}: gerando imagem')
-            fonte = gerar_imagem(sc['visual'], base + i, img)
+            elenco = hist.get('personagens', '')   # mesma descrição dos personagens em TODA cena (rostos e roupas iguais)
+            prompt = f"{sc['visual']}. Same characters in every panel: {elenco}" if elenco else sc['visual']
+            fonte = gerar_imagem(prompt, base, img)   # mesma seed na história inteira = mesmo traço
             if not fonte:
                 sys.exit(f'ERRO: não consegui gerar a imagem da cena {i}')
             if fonte != 'cf':
