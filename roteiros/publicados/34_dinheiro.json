@@ -22,7 +22,9 @@
    "emocao": "dinheiro",
    "destaque": [
     "PAZ"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia00.jpg",
+   "credito": "IA"
   },
   {
    "text": "Compra o direito de dizer não. Compra tempo. Compra escolha. E quem tem escolha dorme melhor.",
@@ -30,7 +32,9 @@
    "emocao": "dinheiro",
    "destaque": [
     "ESCOLHA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia01.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quem vive contando moeda no fim do mês não pensa em sentido da vida. Pensa em sobreviver.",
@@ -38,7 +42,9 @@
    "emocao": "medo",
    "destaque": [
     "SOBREVIVER"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "Um pesquisador da Pensilvânia acompanhou mais de trinta mil pessoas pelo celular.",
@@ -46,7 +52,9 @@
    "emocao": "grupo",
    "destaque": [
     "TRINTA MIL"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quanto maior a renda, melhor elas se sentiam no dia a dia. Mesmo acima do que se achava ser o limite.",
@@ -54,7 +62,9 @@
    "emocao": "dinheiro",
    "destaque": [
     "RENDA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Mas o motivo principal não era luxo. Era sentir que mandavam na própria vida.",
@@ -62,7 +72,9 @@
    "emocao": "poder",
    "destaque": [
     "MANDAVAM"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Setenta e quatro por cento da ligação vinha disso. Controle.",
@@ -70,7 +82,9 @@
    "emocao": "poder",
    "destaque": [
     "CONTROLE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "Então não junte dinheiro para impressionar ninguém. Carro, roupa, aparência. Isso compra plateia.",
@@ -78,7 +92,9 @@
    "emocao": "engano",
    "destaque": [
     "PLATEIA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Junte dinheiro para comprar liberdade. Para não depender de quem te humilha. Para poder ir embora quando precisar.",
@@ -86,7 +102,9 @@
    "emocao": "solidao",
    "destaque": [
     "LIBERDADE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   },
   {
    "text": "O dinheiro não te faz feliz. Ele te tira da mão dos outros. E isso já é paz.",
@@ -94,7 +112,11 @@
    "emocao": "poder",
    "destaque": [
     "PAZ"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia09.jpg",
+   "credito": "IA"
   }
- ]
+ ],
+ "personagem_src": "/home/runner/work/mentesecreta/mentesecreta/out/personagem.jpg",
+ "video_id": "jufOPLb7OZQ"
 }
