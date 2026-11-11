@@ -91,30 +91,29 @@ def _cloudflare(texto, seed, destino):
 
 
 
-PESSOA = ('girl', 'woman', 'boy', 'man', 'men', 'women', 'teen', 'kid', 'child', 'children', 'people', 'person', 'friend', 'narrator',
-          'mother', 'father', 'grandma', 'grandpa', 'old lady', 'old man', 'driver', 'hitchhiker', 'nurse', 'soldier', 'figure', 'creature', 'monster', 'husband', 'wife', 'bride')
+PESSOA = r"\b(girls?|wom[ae]n|boys?|m[ae]n|teens?|teenagers?|kids?|child(ren)?|people|person|friends?|narrator|mother|father|mom|dad|grandma|grandpa|lady|driver|hitchhiker|nurse|soldiers?|figure|creature|monster|husband|wife|bride|firefighters?|police|officer|townspeople|crowd|hands?|feet|face|eyes|arm|dress|shadow|silhouette)\b"
 def elenco_da_cena(hist, visual):
     """Só descreve os personagens que APARECEM nesta cena (antes ia o elenco inteiro em toda imagem
     e a IA desenhava os amigos junto com a Jenny quando ela estava sozinha no cemitério)."""
-    v = ' ' + visual.lower() + ' '
+    import re
+    v = visual.lower()
+    tem = lambda pal, txt: re.search(r'\b' + re.escape(pal) + r'\b', txt) is not None
     pers = hist.get('personagens', '')
-    partes = list(pers.items()) if isinstance(pers, dict) else [(x.strip().split(' is ')[0].split(' are ')[0], x.strip()) for x in pers.split(';') if x.strip()]
-    sozinho = any(w in v for w in (' alone', ' nobody', ' no one', ' empty', ' by herself', ' by himself'))
+    partes = list(pers.items()) if isinstance(pers, dict) else [(x.strip().split(' is ')[0].split(' are ')[0].split(' has ')[0], x.strip()) for x in pers.split(';') if x.strip()]
+    sozinho = any(tem(w, v) for w in ('alone', 'nobody', 'no one', 'by herself', 'by himself'))
     escolhidas = []
     for nome, desc in partes:
-        chaves = [w.lower().strip(",.'") for w in nome.replace('her ', '').replace('his ', '').replace('the ', '').split() if len(w) > 2]
-        cl = desc.lower()
-        if any(k in ('girl', 'woman', 'teenage girl') for k in cl.split(' is ')[-1].split()[:4]) or ' girl' in cl[:60] or ' woman' in cl[:60]:
-            chaves += ['girl', 'woman', 'she ', 'her ']
-        if any(w in cl[:80] for w in (' boys', ' men', ' friends', ' teenagers')):
-            chaves += ['boys', 'men ', 'friends', 'teenagers', 'teens']
-        if any(k and k in v for k in chaves):
+        cl = desc.lower()[:90]
+        chaves = [w.strip(",.'") for w in nome.lower().split() if len(w) > 2 and w not in ('the', 'her', 'his', 'old', 'young', 'little')]
+        if re.search(r'\b(woman|girl|lady|wife|bride|mother|grandma)\b', cl): chaves += ['woman', 'girl', 'lady']
+        elif re.search(r'\b(man|boy|husband|father|grandpa|guy)\b', cl): chaves += ['man', 'boy', 'guy']
+        if re.search(r'\b(boys|men|friends|teenagers)\b', cl): chaves += ['boys', 'men', 'friends', 'teenagers', 'teens']
+        if any(tem(k, v) for k in chaves):
             escolhidas.append(desc)
     if sozinho and len(escolhidas) > 1:
         escolhidas = escolhidas[:1]
-    tem_gente = any(w in v for w in PESSOA + ('dress', 'hand', 'hands', 'feet', 'face', 'eyes', 'arm', 'shadow', 'silhouette'))
     extra = ''
-    if not tem_gente and not escolhidas:
+    if not re.search(PESSOA, v) and not escolhidas:
         extra = 'no people in the scene'
     elif sozinho:
         extra = 'only ONE person in the scene, nobody else around'
