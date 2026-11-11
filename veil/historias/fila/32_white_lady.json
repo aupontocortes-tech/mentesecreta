@@ -1,156 +1,98 @@
 {
- "titulo": "A Woman in White Stood in the Middle of the Road | Urban Legend #Shorts",
- "titulo_pt": "Uma mulher de branco parada no meio da estrada | Lenda urbana",
- "resumo_pt": "Lenda da Dama de Branco. Numa noite de tempestade, o narrador quase atropela uma mulher de vestido branco parada no meio da estrada. Ele freia, ela some. Ele desce pra procurar e vê que, logo depois da curva, a ponte tinha sido levada pela enchente. No dia seguinte, um velho da cidade conta que uma noiva morreu naquela ponte em outra enchente, e desde então ela aparece pra parar os carros.",
- "descricao": "He thought he was going to hit her.\n\nWould you have stopped?\n\nFollow @VeilFrequency for a new horror story every day. Based on a classic American urban legend. Images are AI-generated.",
- "tags": [
-  "horror story",
-  "scary story",
-  "creepy",
-  "horror shorts",
-  "urban legend",
-  "lady in white",
-  "ghost road"
- ],
- "ambiente": "chuva",
- "scenes": [
-  {
-   "text": "I was driving home through the worst storm I'd ever seen.",
-   "pt": "Eu estava voltando pra casa na pior tempestade que eu já tinha visto.",
-   "visual": "car headlights on a dark country road in heavy rain",
-   "destaque": [
-    "STORM"
-   ],
-   "efeito": "trovao"
-  },
-  {
-   "text": "Old country road. No lights. Just my headlights and the rain.",
-   "pt": "Estrada de terra velha. Sem luz nenhuma. Só meus faróis e a chuva.",
-   "visual": "rain hitting a windshield, wipers moving, dark road ahead",
-   "destaque": [
-    "RAIN"
-   ]
-  },
-  {
-   "text": "I came around a curve, and there she was.",
-   "pt": "Eu fiz uma curva e lá estava ela.",
-   "visual": "road curve in the rain lit by headlights",
-   "destaque": [
-    "CURVE"
-   ]
-  },
-  {
-   "text": "A woman in a long white dress. Standing in the middle of the road.",
-   "pt": "Uma mulher de vestido branco comprido. Parada no meio da estrada.",
-   "visual": "woman in a long white dress standing in the middle of a rainy road, lit by headlights",
-   "destaque": [
-    "WHITE"
-   ],
-   "pausa": 0.6
-  },
-  {
-   "text": "She wasn't wet. The rain was pouring, and she wasn't wet.",
-   "pt": "Ela não estava molhada. Chovia muito, e ela não estava molhada.",
-   "mesma_imagem": true,
-   "destaque": [
-    "WET"
-   ]
-  },
-  {
-   "text": "I slammed the brakes. The car slid and stopped inches from her.",
-   "pt": "Pisei no freio. O carro derrapou e parou a centímetros dela.",
-   "visual": "car skidding on a wet road at night, headlights blurred",
-   "destaque": [
-    "BRAKES"
-   ],
-   "efeito": "freada"
-  },
-  {
-   "text": "I blinked. And she was gone.",
-   "pt": "Pisquei. E ela tinha sumido.",
-   "visual": "empty rainy road lit by headlights, nobody there",
-   "destaque": [
-    "GONE"
-   ]
-  },
-  {
-   "text": "I got out with my flashlight. I was sure I'd hit her.",
-   "pt": "Desci com a lanterna. Eu tinha certeza que tinha atropelado ela.",
-   "visual": "man with a flashlight searching in front of a car in the rain at night",
-   "destaque": [
-    "FLASHLIGHT"
-   ]
-  },
-  {
-   "text": "No one. But I heard water. A lot of water.",
-   "pt": "Ninguém. Mas eu ouvi água. Muita água.",
-   "visual": "flashlight beam on a muddy road in the rain",
-   "destaque": [
-    "WATER"
-   ],
-   "efeito": "pingo"
-  },
-  {
-   "text": "Twenty feet ahead, the bridge was gone. The flood had swept it away.",
-   "pt": "Seis metros à frente, a ponte tinha sumido. A enchente tinha levado ela.",
-   "visual": "broken bridge over a raging flooded river at night, flashlight beam",
-   "destaque": [
-    "BRIDGE"
-   ],
-   "impacto": true
-  },
-  {
-   "text": "If I hadn't stopped, I would've driven straight into the river.",
-   "pt": "Se eu não tivesse parado, teria caído direto no rio.",
-   "visual": "dark raging river below a broken road edge at night",
-   "destaque": [
-    "RIVER"
-   ],
-   "pausa": 0.6
-  },
-  {
-   "text": "The next day, I told the story at the gas station in town.",
-   "pt": "No dia seguinte, contei a história no posto da cidade.",
-   "visual": "small town gas station on a gray morning",
-   "destaque": [
-    "TOWN"
-   ]
-  },
-  {
-   "text": "An old man just nodded. Like he'd heard it before.",
-   "pt": "Um senhor só balançou a cabeça. Como se já tivesse ouvido aquilo antes.",
-   "visual": "old man in a cap nodding slowly inside a small gas station",
-   "destaque": [
-    "NODDED"
-   ]
-  },
-  {
-   "text": "Fifty years ago, a bride drowned at that bridge. In a flood just like this one.",
-   "pt": "Cinquenta anos atrás, uma noiva se afogou naquela ponte. Numa enchente igual a essa.",
-   "mesma_imagem": true,
-   "destaque": [
-    "BRIDE"
-   ],
-   "voz": "idoso"
-  },
-  {
-   "text": "She was on her way to her wedding. Since then, every flood, she stops the cars.",
-   "pt": "Ela estava indo pro casamento. Desde então, toda enchente, ela para os carros.",
-   "visual": "old black and white photo of a bride in a white dress",
-   "destaque": [
-    "WEDDING"
-   ]
-  },
-  {
-   "text": "She couldn't save herself. So she saves everyone else.",
-   "pt": "Ela não conseguiu se salvar. Então ela salva todo mundo.",
-   "visual": "woman in white standing far away on a misty riverbank at dawn",
-   "destaque": [
-    "SAVES"
-   ]
-  }
- ],
- "tema": "urban legends",
- "hashtags": "#horror #urbanlegend #scarystories #shorts",
- "personagens": "the narrator is a bearded man in his forties with a denim jacket and a cap; the ghost is a pale woman with long black hair in a white wedding dress; the old man at the gas station has a gray mustache and overalls"
+  "titulo": "A Woman in White Stood in the Middle of the Road | Urban Legend #Shorts",
+  "titulo_pt": "Uma mulher de branco parada no meio da estrada | Lenda urbana",
+  "resumo_pt": "Lenda da Dama de Branco. Numa noite de tempestade, o narrador quase atropela uma mulher de vestido branco parada no meio da estrada. Ele freia, ela some. Ele desce pra procurar e vê que, logo depois da curva, a ponte tinha sido levada pela enchente. No dia seguinte, um velho da cidade conta que uma noiva morreu naquela ponte em outra enchente, e desde então ela aparece pra parar os carros.",
+  "descricao": "He thought he was going to hit her.\n\nWould you have stopped?\n\nFollow @VeilFrequency for a new horror story every day. Based on a classic American urban legend. Images are AI-generated.",
+  "tags": [
+    "horror story",
+    "scary story",
+    "creepy",
+    "horror shorts",
+    "urban legend",
+    "lady in white",
+    "ghost road"
+  ],
+  "ambiente": "chuva",
+  "scenes": [
+    {
+      "text": "I was driving home through the worst storm I'd ever seen.",
+      "pt": "Eu estava voltando pra casa na pior tempestade que eu já tinha visto.",
+      "visual": "car headlights on a dark country road in heavy rain",
+      "destaque": [
+        "STORM"
+      ],
+      "efeito": "trovao"
+    },
+    {
+      "text": "A woman in a long white dress. Standing in the middle of the road.",
+      "pt": "Uma mulher de vestido branco comprido. Parada no meio da estrada.",
+      "visual": "woman in a long white dress standing in the middle of a rainy road, lit by headlights",
+      "destaque": [
+        "WHITE"
+      ],
+      "pausa": 0.6
+    },
+    {
+      "text": "She wasn't wet. The rain was pouring, and she wasn't wet.",
+      "pt": "Ela não estava molhada. Chovia muito, e ela não estava molhada.",
+      "mesma_imagem": true,
+      "destaque": [
+        "WET"
+      ]
+    },
+    {
+      "text": "I slammed the brakes. The car slid and stopped inches from her.",
+      "pt": "Pisei no freio. O carro derrapou e parou a centímetros dela.",
+      "visual": "car skidding on a wet road at night, headlights blurred",
+      "destaque": [
+        "BRAKES"
+      ],
+      "efeito": "freada"
+    },
+    {
+      "text": "I blinked. And she was gone.",
+      "pt": "Pisquei. E ela tinha sumido.",
+      "visual": "empty rainy road lit by headlights, nobody there",
+      "destaque": [
+        "GONE"
+      ]
+    },
+    {
+      "text": "Twenty feet ahead, the bridge was gone. The flood had swept it away.",
+      "pt": "Seis metros à frente, a ponte tinha sumido. A enchente tinha levado ela.",
+      "visual": "broken bridge over a raging flooded river at night, flashlight beam",
+      "destaque": [
+        "BRIDGE"
+      ],
+      "impacto": true
+    },
+    {
+      "text": "If I hadn't stopped, I would've driven straight into the river.",
+      "pt": "Se eu não tivesse parado, teria caído direto no rio.",
+      "visual": "dark raging river below a broken road edge at night",
+      "destaque": [
+        "RIVER"
+      ],
+      "pausa": 0.6
+    },
+    {
+      "text": "An old man in town told me. Fifty years ago, a bride drowned at that bridge.",
+      "pt": "Um senhor da cidade me contou. Cinquenta anos atrás, uma noiva se afogou naquela ponte.",
+      "destaque": [
+        "BRIDE"
+      ],
+      "visual": "old man in a cap nodding slowly inside a small gas station"
+    },
+    {
+      "text": "She couldn't save herself. So she saves everyone else.",
+      "pt": "Ela não conseguiu se salvar. Então ela salva todo mundo.",
+      "visual": "woman in white standing far away on a misty riverbank at dawn",
+      "destaque": [
+        "SAVES"
+      ]
+    }
+  ],
+  "tema": "urban legends",
+  "hashtags": "#horror #urbanlegend #scarystories #shorts",
+  "personagens": "the narrator is a bearded man in his forties with a denim jacket and a cap; the ghost is a pale woman with long black hair in a white wedding dress; the old man at the gas station has a gray mustache and overalls"
 }

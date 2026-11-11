@@ -12,9 +12,10 @@ import numpy as np
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 RAIZ = os.path.dirname(AQUI)
-ESTILO = ('dark horror comic book illustration, hand-drawn graphic novel style, bold black ink outlines, '
-          'cel shading, exaggerated scared facial expressions with wide eyes, moody blue night palette with warm accent lights, '
-          'detailed creepy atmosphere, clear readable scene, vertical composition, '
+ESTILO = ('dark colorful horror illustration, digital painting in the style of Brazilian folk horror art, '
+          'rich saturated colors emerging from deep black shadows, eerie green, crimson and amber light sources, '
+          'dramatic chiaroscuro, painterly brush texture, sinister atmosphere, expressive frightened faces, '
+          'clear readable scene, vertical composition, '
           'no text, no watermark, no blood, no gore')
 # Vozes (Edge TTS, grátis). O narrador é FIXO (voz do canal); 'voz' na cena = fala de personagem
 # e cada fala pode ter a sua ("voz": "idosa", "crianca", "sombria"...).
