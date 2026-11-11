@@ -22,7 +22,9 @@
    "emocao": "olhar",
    "destaque": [
     "OLHOS"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia00.jpg",
+   "credito": "IA"
   },
   {
    "text": "Você ainda nem falou. E a pessoa já sabe onde está a sua atenção, se você está nervoso, se você quer alguma coisa.",
@@ -30,7 +32,9 @@
    "emocao": "olhar",
    "destaque": [
     "ATENÇÃO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia01.jpg",
+   "credito": "IA"
   },
   {
    "text": "Já sentiu que alguém estava te olhando? Não é à toa.",
@@ -38,7 +42,9 @@
    "emocao": "segredo",
    "destaque": [
     "OLHANDO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "O olho humano tem a parte branca mais exposta entre os primatas. Ele foi feito para ser lido.",
@@ -46,7 +52,9 @@
    "emocao": "mente",
    "destaque": [
     "LIDO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "E um estudo mostrou: quando não temos certeza, o cérebro assume que o olhar é para nós.",
@@ -54,7 +62,9 @@
    "emocao": "olhar",
    "destaque": [
     "CÉREBRO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Ou seja, todo mundo está lendo olhos. O tempo todo.",
@@ -62,7 +72,9 @@
    "emocao": "grupo",
    "destaque": [
     "LENDO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quem desvia rápido parece inseguro. Quem encara demais parece ameaça.",
@@ -70,7 +82,9 @@
    "emocao": "poder",
    "destaque": [
     "AMEAÇA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quem olha com calma, e só desvia quando quer, parece dono de si.",
@@ -78,7 +92,9 @@
    "emocao": "poder",
    "destaque": [
     "CALMA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Então treine. Sustente o olhar até terminar a frase. Depois descanse. Sem pressa. Sem medo. Sem fuga.",
@@ -86,7 +102,9 @@
    "emocao": "mente",
    "destaque": [
     "SUSTENTE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   },
   {
    "text": "Antes de dominar as palavras, domine os olhos. Eles falam primeiro.",
@@ -94,7 +112,11 @@
    "emocao": "poder",
    "destaque": [
     "PRIMEIRO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia09.jpg",
+   "credito": "IA"
   }
- ]
+ ],
+ "personagem_src": "/home/runner/work/mentesecreta/mentesecreta/out/personagem.jpg",
+ "video_id": "pJX0nG_otdo"
 }
