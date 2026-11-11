@@ -45,6 +45,10 @@ Releia a história inteira como um espectador que nunca viu nada e responda, uma
 6. Leia só o "pt" de todas as cenas em sequência: em português a história faz sentido do começo ao fim?
 Se qualquer resposta for "não" ou "talvez", corrija e revise de novo. No relatório, diga "coerência revisada" para cada história.
 
+IMAGEM TEM QUE BATER COM O TEXTO (11/11/2026 — o Thiago reclamou: a Jenny ia SOZINHA ao cemitério e a imagem mostrava os amigos junto)
+- No "visual", diga QUEM aparece pelo nome/papel do "personagens" ("Jenny alone", "Jenny and the boys", "the creature"). Se a pessoa está sozinha, escreva "alone". Se não tem ninguém, não cite pessoa nenhuma.
+- O robô só desenha os personagens citados no "visual" daquela cena; os outros ficam de fora.
+- Antes de salvar, confira cena por cena: o texto diz sozinho/acompanhado/noite/dia/lugar e a descrição da imagem diz a MESMA coisa? A aparência do personagem muda na história (ex.: cabelo branco no final)? Então escreva isso no "visual" daquela cena.
 PERSONAGENS IGUAIS EM TODAS AS CENAS (09/11/2026, o Thiago reclamou que as figuras não combinavam): todo roteiro tem o campo "personagens" (inglês) descrevendo cada personagem com cabelo, idade, roupa e cor fixos (e a criatura). O robô coloca isso em TODA imagem. Nos "visual" das cenas, chame os personagens pelo mesmo papel ("the narrator", "Jenny", "the old lady").
 
 ORDEM DA FILA: histórias novas SEMPRE entram DEPOIS das que já estão na fila (numeração maior). Nunca passe na frente das que o Thiago aprovou.

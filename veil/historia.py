@@ -90,6 +90,37 @@ def _cloudflare(texto, seed, destino):
     return False
 
 
+
+PESSOA = ('girl', 'woman', 'boy', 'man', 'men', 'women', 'teen', 'kid', 'child', 'children', 'people', 'person', 'friend', 'narrator',
+          'mother', 'father', 'grandma', 'grandpa', 'old lady', 'old man', 'driver', 'hitchhiker', 'nurse', 'soldier', 'figure', 'creature', 'monster', 'husband', 'wife', 'bride')
+def elenco_da_cena(hist, visual):
+    """Só descreve os personagens que APARECEM nesta cena (antes ia o elenco inteiro em toda imagem
+    e a IA desenhava os amigos junto com a Jenny quando ela estava sozinha no cemitério)."""
+    v = ' ' + visual.lower() + ' '
+    pers = hist.get('personagens', '')
+    partes = list(pers.items()) if isinstance(pers, dict) else [(x.strip().split(' is ')[0].split(' are ')[0], x.strip()) for x in pers.split(';') if x.strip()]
+    sozinho = any(w in v for w in (' alone', ' nobody', ' no one', ' empty', ' by herself', ' by himself'))
+    escolhidas = []
+    for nome, desc in partes:
+        chaves = [w.lower().strip(",.'") for w in nome.replace('her ', '').replace('his ', '').replace('the ', '').split() if len(w) > 2]
+        cl = desc.lower()
+        if any(k in ('girl', 'woman', 'teenage girl') for k in cl.split(' is ')[-1].split()[:4]) or ' girl' in cl[:60] or ' woman' in cl[:60]:
+            chaves += ['girl', 'woman', 'she ', 'her ']
+        if any(w in cl[:80] for w in (' boys', ' men', ' friends', ' teenagers')):
+            chaves += ['boys', 'men ', 'friends', 'teenagers', 'teens']
+        if any(k and k in v for k in chaves):
+            escolhidas.append(desc)
+    if sozinho and len(escolhidas) > 1:
+        escolhidas = escolhidas[:1]
+    tem_gente = any(w in v for w in PESSOA + ('dress', 'hand', 'hands', 'feet', 'face', 'eyes', 'arm', 'shadow', 'silhouette'))
+    extra = ''
+    if not tem_gente and not escolhidas:
+        extra = 'no people in the scene'
+    elif sozinho:
+        extra = 'only ONE person in the scene, nobody else around'
+    txt = '; '.join(escolhidas)
+    return ', '.join(x for x in ((f'Characters (same look in every image): {txt}' if txt else ''), extra) if x)
+
 def gerar_imagem(prompt, seed, destino):
     """1º Cloudflare (melhor qualidade); se não tiver chave ou falhar, Pollinations (grátis, sem conta)."""
     texto = f'{prompt}, {ESTILO}'
@@ -133,8 +164,8 @@ def main(caminho, out, lingua='en'):
             img = os.path.abspath(f'{imgs}/cena{i:02d}.jpg')
         if not os.path.exists(img):
             print(f'cena {i}: gerando imagem')
-            elenco = hist.get('personagens', '')   # mesma descrição dos personagens em TODA cena (rostos e roupas iguais)
-            prompt = f"{sc['visual']}. Same characters in every panel: {elenco}" if elenco else sc['visual']
+            elenco = elenco_da_cena(hist, sc['visual'])   # só quem aparece nesta cena, com a mesma descrição em toda a história
+            prompt = f"{sc['visual']}. {elenco}" if elenco else sc['visual']
             fonte = gerar_imagem(prompt, base, img)   # mesma seed na história inteira = mesmo traço
             if not fonte:
                 sys.exit(f'ERRO: não consegui gerar a imagem da cena {i}')
