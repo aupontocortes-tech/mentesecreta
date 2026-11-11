@@ -8,6 +8,17 @@ PREPARO
 - Leia os títulos de veil/historias/publicados/ e veil/historias/fila/. Proibido repetir premissa, monstro, virada ou gancho.
 - Conte os arquivos em veil/historias/fila/. Crie só o que falta para chegar a 7. Numere continuando (ex.: 08_slug.json). O robô publica em ordem alfabética, 1 por dia.
 
+=== FORMATO NOVO (11/11/2026) — VALE MAIS QUE QUALQUER REGRA ANTIGA ABAIXO ===
+Modelo: canal brasileiro de terror desenhado que viraliza com "O Chupacabra Voltou" (34 s, 17 imagens). No Veil, os 2 vídeos com mais views foram de CRIATURA (Jersey Devil 1.312, Mothman 1.208); lendas sem monstro e histórias longas deram 4 a 60 views.
+1. CRIATURAS FAMOSAS: das 7 da semana, 5 são histórias de UMA criatura famosa do folclore dos EUA/México (Chupacabra, Mothman, Jersey Devil, Bigfoot, Goatman, Dogman, Bell Witch, Flatwoods Monster, Dover Demon, Lizard Man, Pope Lick Monster, Fresno Nightcrawlers, El Cucuy, La Lechuza, Thunderbird, Snallygaster, Beast of Bray Road...) + 2 batalhas "Who Won?". Wendigo e Skinwalker NÃO (culturas indígenas). Não repetir criatura de veil/historias/publicados nem da fila (exceto em batalha).
+2. TÍTULO com o NOME da criatura (é o que o gringo pesquisa): "The Chupacabra Came Back for My Goats | Cryptid Horror #Shorts". "tema": nome da criatura em minúsculas. (Substitui o "TEMA DA SEMANA"/"Night Shift Horror Story #N" abaixo.)
+3. O MONSTRO APARECE CEDO: na cena 2 (até ~3 s) tem imagem do monstro bem visível (close de olhos vermelhos, dentes, silhueta assustadora). Depois ele volta em pelo menos mais 3 cenas.
+4. MUITAS IMAGENS: 15 a 18 cenas, TODAS com imagem nova ("mesma_imagem" só em fala de 1-3 palavras). 1 frase curta por cena (5 a 9 palavras). Total 100 a 120 palavras (40 a 48 s).
+5. PROTAGONISTA FIXO: um personagem principal (ex.: fazendeiro de bigode, camisa verde) descrito em "personagens" e presente na maioria das cenas, com cara de medo bem expressiva. Descreva também a criatura em "personagens" (cor, olhos, dentes, tamanho) para ela sair igual em todas as imagens.
+6. COMEÇO, MEIO E FIM com coerência (faça a REVISÃO DE COERÊNCIA abaixo): começo = onde/quem + primeiro sinal; meio = o encontro com o monstro, tensão subindo; fim = VIRADA que transforma o sentido de tudo e FECHA a história.
+7. FINAL COM TRANSFORMAÇÃO (o Thiago achou perfeito o final do Chupacabra: as cabras sumidas voltam... e eram o monstro disfarçado / o vulto era outra coisa). A última cena revela algo concreto que muda tudo, com imagem forte. Proibido final besta, explicado demais, aberto ou "vai acontecer alguma coisa".
+=== FIM DO FORMATO NOVO ===
+
 O QUE FAZ A HISTÓRIA VIRALIZAR
 a) GANCHO na 1ª frase: uma regra estranha, um fato impossível ou uma ameaça. Ex.: "My grandma had one rule: never answer if someone calls your name from the basement." Nunca "Hello", "This is a story about".
 b) Primeira pessoa ("I"), cotidiano americano reconhecível (casa, carro, babá, motel, estrada, celular, trabalho noturno).
@@ -40,7 +51,7 @@ ORDEM DA FILA: histórias novas SEMPRE entram DEPOIS das que já estão na fila 
 
 FORMATO "WHO WON?" (desde 08/11/2026, inspirado no formato que mais viraliza em canais de terror desenhado)
 - Das 7 histórias da semana, 2 são BATALHAS entre duas criaturas famosas do folclore americano (Mothman, Jersey Devil, Bigfoot, Goatman, Wendigo NÃO (cultura indígena, evite), Bell Witch, Flatwoods Monster, Dover Demon, Lizard Man of Scape Ore, Pope Lick Monster, Bunnyman NÃO).
-- MAIS CURTAS: 30 a 40 segundos, 70 a 90 palavras, 8 a 10 cenas.
+- MAIS CURTAS: 30 a 40 segundos, 70 a 90 palavras, 12 a 14 cenas (todas com imagem nova).
 - A LUTA TEM QUE APARECER NAS IMAGENS: as duas criaturas juntas na mesma imagem em pelo menos 4 cenas (encarando, atacando, golpe, vencedor de pé e perdedor fugindo). Descreva as DUAS no "personagens".
 - Estrutura: cena 1 apresenta as duas ('Mothman versus the Jersey Devil. Who wins?'), uma testemunha conta ("I") o encontro numa noite, a luta tem 2 ou 3 golpes/virada, e o final diz CLARO quem venceu e por quê (com um detalhe que arrepia). Sem sangue, sem gore.
 - Título: "<Criatura A> vs <Criatura B>: Who Won? 😰 #Shorts". "tema": "who won".
@@ -58,9 +69,8 @@ g) Medo psicológico. Silêncio > grito. Nada de sangue, gore, violência gráfi
 INGLÊS
 - INGLÊS AMERICANO NATURAL: contrações, expressões reais, medidas e datas dos EUA. Nada com cara de tradução.
 - Números e horas por extenso como se fala ("three a.m.").
-- 9 a 12 cenas, 90 a 115 palavras no total (40 a 50 segundos). NUNCA passe de 120 palavras. Cada cena tem 1 ou 2 frases curtas.
+- 15 a 18 cenas, 100 a 120 palavras no total (40 a 48 segundos). NUNCA passe de 120 palavras. 1 frase curta por cena.
 - POR QUÊ (11/11/2026): no canal, as histórias até ~120 palavras deram 400 a 1.300 views; TODAS as de 137 palavras ou mais deram 4 a 60 views. Curta não é rasa: corte a enrolação (preparação, explicações repetidas, cenas de transição) e mantenha o gancho, o momento do susto, a revelação e o final fechado.
-- O Thiago reclamou (04/11): as histórias acabavam rápido demais e pareciam ter continuação. Use o tempo extra para: apresentar o narrador e o lugar, fazer a tensão subir em 3 ou 4 passos, e FECHAR a história com calma.
 
 IDENTIDADE DO CANAL (modelo: Mr. Nightmare, 7 mi de inscritos)
 - TEMA DA SEMANA: as 7 histórias da semana são do MESMO tema reconhecível do dia a dia americano. Rodízio (siga a ordem, veja o último usado em veil/historias/publicados/ campo "tema"): night shift (turno da noite) -> babysitting (babá) -> road trip / hitchhiking (estrada e carona) -> new house (casa nova) -> camping / woods (acampamento e floresta) -> hospital -> motel / hotel -> small town (cidade pequena) -> technology (celular, câmera, assistente) -> childhood (infância) -> volta ao início.
@@ -74,8 +84,8 @@ VOZES (escolha você, pelo que a história pede)
 
 IMAGENS (geradas por IA automaticamente)
 - Cada cena com imagem nova tem "visual": descrição em inglês, concreta e filmável, do que aparece na tela (lugar, objeto, pessoa, luz). Ex.: "old wooden basement door slightly open in a dark farmhouse hallway, faint light under the door".
-- O estilo (desenho de HQ de terror, traço preto forte, rostos com medo exagerado, noite azulada; desde 08/11) é adicionado sozinho: não repita "cinematic", "horror" etc.
-- Nada de sangue, ferimento, cadáver, nudez, marca, texto, celebridade. Rostos: ok, mas prefira silhuetas, mãos, portas, corredores, objetos — assusta mais e a IA erra menos.
+- O estilo (pintura de terror colorida e sombria, estilo folclore brasileiro; desde 11/11) é adicionado sozinho: não repita "cinematic", "horror" etc.
+- Nada de sangue, ferimento, cadáver, nudez, marca, texto, celebridade. MOSTRE o monstro (olhos, dentes, corpo) e o rosto com medo do protagonista: é isso que segura o público.
 
 EFEITOS SONOROS (gerados sozinhos pelo robô)
 - No JSON da história: "ambiente": "vento" | "chuva" | "grilos" | "rio" | "floresta" (opcional, som baixinho o vídeo todo).

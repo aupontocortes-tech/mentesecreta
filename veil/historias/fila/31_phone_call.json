@@ -42,21 +42,21 @@
     {
       "text": "Sweetheart. It's Grandpa.",
       "pt": "Querida. É o vovô.",
-      "mesma_imagem": true,
       "destaque": [
         "GRANDPA"
       ],
       "voz": "idoso",
-      "pausa": 0.6
+      "pausa": 0.6,
+      "visual": "close up of the old wall phone receiver against the narrator's ear, a faint ghostly silhouette of an old man reflected in the dark kitchen window"
     },
     {
       "text": "Get out of the house. Right now. Don't turn on any lights.",
       "pt": "Sai de casa. Agora. Não acende nenhuma luz.",
-      "mesma_imagem": true,
       "destaque": [
         "OUT"
       ],
-      "voz": "idoso"
+      "voz": "idoso",
+      "visual": "ghostly pale face of the grandpa glowing faintly in the dark kitchen window, urgent expression"
     },
     {
       "text": "Then the line went dead.",
@@ -76,11 +76,19 @@
       ]
     },
     {
-      "text": "The firefighters found a gas leak in the kitchen. The whole house was full of it.",
-      "pt": "Os bombeiros acharam um vazamento de gás na cozinha. A casa inteira estava cheia.",
+      "text": "The firefighters found a gas leak in the kitchen.",
+      "pt": "Os bombeiros acharam um vazamento de gás na cozinha.",
       "visual": "firefighters with flashlights inside an old kitchen at night",
       "destaque": [
         "GAS"
+      ]
+    },
+    {
+      "text": "The whole house was full of it.",
+      "pt": "A casa inteira tava cheia.",
+      "visual": "firefighter holding a gas detector glowing red in the dark kitchen",
+      "destaque": [
+        "WHOLE"
       ],
       "impacto": true
     },

@@ -25,11 +25,11 @@
     {
       "text": "When she got sick, she made him promise. Bury me with my golden arm.",
       "pt": "Quando ela ficou doente, fez ele prometer. Me enterra com o meu braço de ouro.",
-      "mesma_imagem": true,
       "destaque": [
         "PROMISE"
       ],
-      "voz": "mulher"
+      "voz": "mulher",
+      "visual": "pale sick woman in bed holding her husband's hand, her shining golden arm on the blanket, candlelight"
     },
     {
       "text": "He promised. But the night he buried her, he dug her up and took the arm.",
@@ -69,30 +69,30 @@
     {
       "text": "Who's got my golden arm?",
       "pt": "Quem pegou meu braço de ouro?",
-      "mesma_imagem": true,
       "destaque": [
         "GOLDEN"
       ],
-      "voz": "sombria"
+      "voz": "sombria",
+      "visual": "shadowy figure of a dead woman in a burial dress standing outside the snowy cabin window, glowing golden light"
     },
     {
       "text": "Then his dead wife leaned over the bed and screamed.",
       "pt": "Aí a esposa morta se inclinou sobre a cama e gritou.",
-      "mesma_imagem": true,
       "destaque": [
         "SCREAMED"
-      ]
+      ],
+      "visual": "dead wife with hollow glowing eyes leaning over the bed toward the hiding man, dark cabin"
     },
     {
       "text": "You've got it!",
       "pt": "Foi você!",
-      "mesma_imagem": true,
       "destaque": [
         "YOU"
       ],
       "voz": "sombria",
       "impacto": true,
-      "efeito": "grito"
+      "efeito": "grito",
+      "visual": "extreme close up of the dead wife's screaming face, one golden arm reaching out"
     },
     {
       "text": "In the morning, the town found her coffin open. She had her golden arm back.",

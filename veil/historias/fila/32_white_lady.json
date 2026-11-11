@@ -35,10 +35,10 @@
     {
       "text": "She wasn't wet. The rain was pouring, and she wasn't wet.",
       "pt": "Ela não estava molhada. Chovia muito, e ela não estava molhada.",
-      "mesma_imagem": true,
       "destaque": [
         "WET"
-      ]
+      ],
+      "visual": "close up of the woman in the white dress in the rain, raindrops passing through her, perfectly dry hair, pale glowing face"
     },
     {
       "text": "I slammed the brakes. The car slid and stopped inches from her.",
@@ -50,28 +50,52 @@
       "efeito": "freada"
     },
     {
-      "text": "I blinked. And she was gone.",
-      "pt": "Pisquei. E ela tinha sumido.",
-      "visual": "empty rainy road lit by headlights, nobody there",
+      "text": "I slammed the brakes.",
+      "pt": "Pisei no freio.",
+      "visual": "close up of a foot slamming the brake pedal, dark car interior",
       "destaque": [
-        "GONE"
+        "SLAMMED"
       ]
     },
     {
-      "text": "Twenty feet ahead, the bridge was gone. The flood had swept it away.",
-      "pt": "Seis metros à frente, a ponte tinha sumido. A enchente tinha levado ela.",
-      "visual": "broken bridge over a raging flooded river at night, flashlight beam",
+      "text": "The car slid and stopped inches from her.",
+      "pt": "O carro deslizou e parou a centímetros dela.",
+      "visual": "car skidding on a wet road at night, headlights blurred",
       "destaque": [
-        "BRIDGE"
+        "STOPPED"
+      ]
+    },
+    {
+      "text": "I blinked.",
+      "pt": "Pisquei.",
+      "visual": "close up of the narrator's terrified wide eyes behind a rainy windshield",
+      "destaque": [
+        "BLINKED"
+      ]
+    },
+    {
+      "text": "And she was gone.",
+      "pt": "E ela tinha sumido.",
+      "visual": "empty rainy road lit by headlights, nobody there",
+      "destaque": [
+        "GONE"
       ],
       "impacto": true
     },
     {
-      "text": "If I hadn't stopped, I would've driven straight into the river.",
-      "pt": "Se eu não tivesse parado, teria caído direto no rio.",
-      "visual": "dark raging river below a broken road edge at night",
+      "text": "Twenty feet ahead, the bridge was gone.",
+      "pt": "Seis metros à frente, a ponte tinha sumido.",
+      "visual": "broken bridge over a raging flooded river at night, flashlight beam",
       "destaque": [
-        "RIVER"
+        "TWENTY"
+      ]
+    },
+    {
+      "text": "The flood had swept it away.",
+      "pt": "A enchente tinha levado ela.",
+      "visual": "raging brown flood water rushing through broken bridge pillars at night",
+      "destaque": [
+        "FLOOD"
       ],
       "pausa": 0.6
     },
