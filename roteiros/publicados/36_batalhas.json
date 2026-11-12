@@ -24,7 +24,9 @@
    "emocao": "poder",
    "destaque": [
     "GUERRA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia00.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quem briga com todo mundo não é forte. É fácil de provocar. E quem é fácil de provocar é fácil de controlar.",
@@ -32,7 +34,9 @@
    "emocao": "poder",
    "destaque": [
     "PROVOCAR"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia01.jpg",
+   "credito": "IA"
   },
   {
    "text": "O comentário no grupo. A indireta no trabalho. A discussão que não leva a nada.",
@@ -40,7 +44,9 @@
    "emocao": "grupo",
    "destaque": [
     "INDIRETA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "Você responde. Se irrita. Perde a noite. Perde o foco. E o outro dorme tranquilo.",
@@ -48,7 +54,9 @@
    "emocao": "solidao",
    "destaque": [
     "NOITE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "Sun Tzu escreveu que a maior habilidade é vencer sem precisar lutar.",
@@ -56,7 +64,9 @@
    "emocao": "mente",
    "destaque": [
     "SEM LUTAR"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Não por medo. Por estratégia. Cada batalha custa energia, tempo e paz.",
@@ -64,7 +74,9 @@
    "emocao": "poder",
    "destaque": [
     "CUSTA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Antes de entrar numa briga, pergunte: o que eu ganho? Se a resposta é nada, saia.",
@@ -72,7 +84,9 @@
    "emocao": "poder",
    "destaque": [
     "SAIA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "Silêncio não é derrota. É você escolhendo onde gastar sua força.",
@@ -80,7 +94,9 @@
    "emocao": "poder",
    "destaque": [
     "FORÇA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Guarde sua energia para o que constrói a sua vida. Seu trabalho. Sua saúde. As pessoas que importam.",
@@ -88,7 +104,9 @@
    "emocao": "mente",
    "destaque": [
     "ENERGIA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quem escolhe as batalhas vence a guerra. Quem aceita todas, perde a si mesmo.",
@@ -96,7 +114,11 @@
    "emocao": "poder",
    "destaque": [
     "ESCOLHE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia09.jpg",
+   "credito": "IA"
   }
- ]
+ ],
+ "personagem_src": "/home/runner/work/mentesecreta/mentesecreta/out/personagem.jpg",
+ "video_id": "3qwXpz49hY0"
 }
