@@ -24,7 +24,9 @@
    "emocao": "poder",
    "destaque": [
     "TESTAR"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia00.jpg",
+   "credito": "IA"
   },
   {
    "text": "Não é pessimismo. É estratégia. Quem sai preparado não é pego de surpresa.",
@@ -32,7 +34,9 @@
    "emocao": "poder",
    "destaque": [
     "ESTRATÉGIA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia01.jpg",
+   "credito": "IA"
   },
   {
    "text": "O homem mais poderoso de Roma fazia isso toda manhã.",
@@ -40,7 +44,9 @@
    "emocao": "poder",
    "destaque": [
     "ROMA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "Marco Aurélio escreveu algo assim: hoje vou encontrar gente intrometida, ingrata, arrogante, falsa, invejosa.",
@@ -48,7 +54,9 @@
    "emocao": "mente",
    "destaque": [
     "INGRATA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "Ele não se surpreendia. Ele já esperava. E por isso ninguém conseguia tirar ele do eixo.",
@@ -56,7 +64,9 @@
    "emocao": "mente",
    "destaque": [
     "ESPERAVA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Porque quem se surpreende com o ataque, reage no impulso. Fala o que não devia. Se arrepende depois.",
@@ -64,7 +74,9 @@
    "emocao": "medo",
    "destaque": [
     "IMPULSO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "E quem já esperava, responde com calma.",
@@ -72,7 +84,9 @@
    "emocao": "poder",
    "destaque": [
     "CALMA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "O colega que te diminui. O cliente grosso. O parente que critica tudo.",
@@ -80,7 +94,9 @@
    "emocao": "grupo",
    "destaque": [
     "CRITICA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Eles vão aparecer. Isso não depende de você. Mas a sua reação, essa sim, depende só de você.",
@@ -88,7 +104,9 @@
    "emocao": "poder",
    "destaque": [
     "REAÇÃO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   },
   {
    "text": "Então antes de abrir a porta de manhã, diga: hoje alguém vai me testar. E eu não vou cair.",
@@ -96,7 +114,11 @@
    "emocao": "poder",
    "destaque": [
     "CAIR"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia09.jpg",
+   "credito": "IA"
   }
- ]
+ ],
+ "personagem_src": "/home/runner/work/mentesecreta/mentesecreta/out/personagem.jpg",
+ "video_id": "dk4WDt_IS38"
 }
