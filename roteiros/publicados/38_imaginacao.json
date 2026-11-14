@@ -25,7 +25,9 @@
    "emocao": "mente",
    "destaque": [
     "CABEÇA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia00.jpg",
+   "credito": "IA"
   },
   {
    "text": "A conversa difícil ainda nem aconteceu. E você já perdeu três noites de sono imaginando cada palavra.",
@@ -33,7 +35,9 @@
    "emocao": "solidao",
    "destaque": [
     "NOITES"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia01.jpg",
+   "credito": "IA"
   },
   {
    "text": "E se ele disser não? E se eu for demitido? E se der tudo errado?",
@@ -41,7 +45,9 @@
    "emocao": "medo",
    "destaque": [
     "E SE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "Sêneca escreveu a um amigo: há mais coisas que nos assustam do que coisas que nos esmagam.",
@@ -49,7 +55,9 @@
    "emocao": "mente",
    "destaque": [
     "ESMAGAM"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "E completou: sofremos mais na imaginação do que na realidade.",
@@ -57,7 +65,9 @@
    "emocao": "mente",
    "destaque": [
     "IMAGINAÇÃO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "A mente adora ensaiar desgraça. Ela vive o pior antes do pior chegar.",
@@ -65,7 +75,9 @@
    "emocao": "medo",
    "destaque": [
     "ENSAIAR"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "E na maioria das vezes, o pior nem chega. E quando chega, é menor do que você pintou.",
@@ -73,7 +85,9 @@
    "emocao": "poder",
    "destaque": [
     "NEM CHEGA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "Então quando o medo vier, pergunte: isso está acontecendo agora, ou só na minha cabeça?",
@@ -81,7 +95,9 @@
    "emocao": "mente",
    "destaque": [
     "AGORA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Se está acontecendo, resolva. Se não está, não sofra adiantado.",
@@ -89,7 +105,9 @@
    "emocao": "poder",
    "destaque": [
     "ADIANTADO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   },
   {
    "text": "Viva o problema quando ele chegar. Não antes. Quem sofre antes, sofre duas vezes.",
@@ -97,7 +115,11 @@
    "emocao": "poder",
    "destaque": [
     "DUAS VEZES"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia09.jpg",
+   "credito": "IA"
   }
- ]
+ ],
+ "personagem_src": "/home/runner/work/mentesecreta/mentesecreta/out/personagem.jpg",
+ "video_id": "DwXdpi2DHL4"
 }
