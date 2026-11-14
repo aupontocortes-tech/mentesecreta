@@ -1,0 +1,122 @@
+{
+ "titulo": "Park on These Tracks and Something Pushes Your Car | Urban Legend #Shorts",
+ "titulo_pt": "Para o carro nesses trilhos e algo empurra ele | Lenda urbana",
+ "resumo_pt": "Lenda dos trilhos fantasmas. Na cidade do narrador dizem que, se você para o carro em ponto morto em cima de um trilho velho, ele é empurrado pra fora. O narrador testa com talco no porta-malas pra ver as marcas. O carro anda sozinho morro acima e sai dos trilhos segundos antes do trem passar. Atrás, no talco, aparecem dezenas de mãozinhas de criança: as crianças do ônibus escolar que morreram ali há muitos anos.",
+ "descricao": "They say the tracks are haunted. But not the way you think.\n\nWould you try it?\n\nFollow @VeilFrequency for a new horror story every day. Based on a classic American urban legend. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "urban legend",
+  "ghost tracks",
+  "haunted railroad"
+ ],
+ "ambiente": "grilos",
+ "scenes": [
+  {
+   "text": "Every kid in my town knew about the old railroad crossing.",
+   "pt": "Toda criança da minha cidade conhecia a passagem de trem velha.",
+   "visual": "old railroad crossing on a country road at night, one dim streetlight",
+   "destaque": [
+    "CROSSING"
+   ]
+  },
+  {
+   "text": "Stop your car on the tracks. Put it in neutral. And wait.",
+   "pt": "Para o carro em cima dos trilhos. Põe em ponto morto. E espera.",
+   "visual": "car stopped on railroad tracks at night, headlights on",
+   "destaque": [
+    "NEUTRAL"
+   ]
+  },
+  {
+   "text": "They said the car would start moving on its own. Uphill.",
+   "pt": "Diziam que o carro começava a andar sozinho. Morro acima.",
+   "visual": "railroad tracks crossing a small hill road at night",
+   "destaque": [
+    "UPHILL"
+   ]
+  },
+  {
+   "text": "So I covered my trunk in baby powder, parked on the tracks, and waited.",
+   "pt": "Então cobri o porta-malas de talco, parei nos trilhos e esperei.",
+   "visual": "white baby powder spread over the trunk of a dark car",
+   "destaque": [
+    "POWDER"
+   ]
+  },
+  {
+   "text": "Then, in the distance, I heard a train horn.",
+   "pt": "Aí, ao longe, ouvi a buzina de um trem.",
+   "visual": "single train headlight far away on dark tracks",
+   "destaque": [
+    "TRAIN"
+   ]
+  },
+  {
+   "text": "I grabbed the key. The car wouldn't start.",
+   "pt": "Peguei a chave. O carro não pegava.",
+   "visual": "hand turning a car key, dashboard lights flickering",
+   "destaque": [
+    "START"
+   ],
+   "efeito": "coracao"
+  },
+  {
+   "text": "Then the car started rolling. Slowly. Uphill. Off the tracks.",
+   "pt": "Aí o carro começou a andar. Devagar. Morro acima. Pra fora dos trilhos.",
+   "visual": "car rolling slowly off railroad tracks at night, nobody pushing",
+   "destaque": [
+    "ROLLING"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "One second later, the train roared past right behind me.",
+   "pt": "Um segundo depois, o trem passou rugindo logo atrás de mim.",
+   "visual": "freight train rushing past a railroad crossing at night, motion blur",
+   "destaque": [
+    "ROARED"
+   ]
+  },
+  {
+   "text": "The baby powder was covered in handprints.",
+   "pt": "O talco estava coberto de marcas de mão.",
+   "visual": "dozens of small handprints in white powder on the trunk of a car",
+   "destaque": [
+    "HANDPRINTS"
+   ],
+   "impacto": true
+  },
+  {
+   "text": "Small ones. Dozens of them. Children's hands.",
+   "pt": "Pequenas. Dezenas. Mãos de criança.",
+   "destaque": [
+    "CHILDREN"
+   ],
+   "visual": "extreme close up of tiny children's handprints in white powder on the dark car trunk, flashlight beam"
+  },
+  {
+   "text": "Years ago, a school bus stalled on those tracks.",
+   "pt": "Anos atrás, um ônibus escolar morreu naqueles trilhos.",
+   "visual": "old black and white photo of a yellow school bus on a country road",
+   "destaque": [
+    "BUS"
+   ]
+  },
+  {
+   "text": "Nobody pushed them off. So now, they push everyone else.",
+   "pt": "Ninguém empurrou eles pra fora. Então agora, eles empurram todo mundo.",
+   "visual": "railroad crossing at dawn, small handprints in powder on a car",
+   "destaque": [
+    "PUSH"
+   ]
+  }
+ ],
+ "tema": "urban legends",
+ "hashtags": "#horror #urbanlegend #scarystories #shorts",
+ "personagens": "the narrator is a young man with a buzz cut and a black hoodie driving an old blue sedan; his dad has a gray mustache; the ghosts are small children seen only as tiny handprints",
+ "video_id": "Evjw9kut0BI",
+ "video_id_pt": "ajG8hjomuGU"
+}
