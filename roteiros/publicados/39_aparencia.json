@@ -24,7 +24,9 @@
    "emocao": "segredo",
    "destaque": [
     "PARECE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia00.jpg",
+   "credito": "IA"
   },
   {
    "text": "E é pelo que parece que você vai ser julgado. No trabalho. Na família. No primeiro encontro.",
@@ -32,7 +34,9 @@
    "emocao": "engano",
    "destaque": [
     "JULGADO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia01.jpg",
+   "credito": "IA"
   },
   {
    "text": "Maquiavel escreveu que as pessoas julgam mais pelos olhos do que pelas mãos.",
@@ -40,7 +44,9 @@
    "emocao": "mente",
    "destaque": [
     "OLHOS"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "Porque ver, todo mundo vê. Conhecer de perto, quase ninguém.",
@@ -48,7 +54,9 @@
    "emocao": "grupo",
    "destaque": [
     "CONHECER"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "O jeito que você reage. O que você posta. Como você fala quando perde.",
@@ -56,7 +64,9 @@
    "emocao": "olhar",
    "destaque": [
     "REAGE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Cada detalhe vira uma ideia sobre você na cabeça dos outros.",
@@ -64,7 +74,9 @@
    "emocao": "mente",
    "destaque": [
     "DETALHE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Não é sobre fingir ser quem você não é. É sobre não entregar tudo para quem só olha de longe.",
@@ -72,7 +84,9 @@
    "emocao": "segredo",
    "destaque": [
     "ENTREGAR"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "Sua essência é para quem chegou perto e provou que merece.",
@@ -80,7 +94,9 @@
    "emocao": "familia",
    "destaque": [
     "MERECE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "E o resto? O resto vê sua postura, sua calma, sua palavra cumprida.",
@@ -88,7 +104,9 @@
    "emocao": "poder",
    "destaque": [
     "POSTURA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   },
   {
    "text": "Cuide do que mostra. Proteja o que é. Quem te vê de longe não precisa te conhecer por inteiro.",
@@ -96,7 +114,11 @@
    "emocao": "poder",
    "destaque": [
     "PROTEJA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia09.jpg",
+   "credito": "IA"
   }
- ]
+ ],
+ "personagem_src": "/home/runner/work/mentesecreta/mentesecreta/out/personagem.jpg",
+ "video_id": "FHLYeElXxf8"
 }
