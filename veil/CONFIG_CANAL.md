@@ -10,3 +10,4 @@ Arquivo editado pelo painel. Não coloque senhas aqui.
 - Repetir o formato de transmissão dos 2 últimos episódios
 
 ## PAUSAS
+- 18h
