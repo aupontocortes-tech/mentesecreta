@@ -1,0 +1,31 @@
+{
+ "titulo": "The Flatwoods Monster Hissed at My Door All Night | Cryptid Horror #Shorts",
+ "titulo_pt": "O Monstro de Flatwoods chiou na minha porta a noite toda",
+ "resumo_pt": "Em 1952, uma luz vermelha cai no morro de um fazendeiro. Ele sobe com o cachorro Rusty, encontra um monstro de três metros com capuz em forma de pá e olhos vermelhos, e foge, deixando o cachorro para trás. A criatura chia na porta a noite inteira; de manhã, Rusty está dormindo são e salvo na varanda: o monstro não estava caçando o fazendeiro, estava devolvendo o cachorro.",
+ "tema": "flatwoods monster",
+ "descricao": "Something crashed on his hill in 1952. Then it followed him home.\n\nWould you have opened the door?\n\nFollow @VeilFrequency for a new horror story every day. Based on American folklore. Images are AI-generated.",
+ "tags": ["horror story","scary story","creepy","horror shorts","cryptid","flatwoods monster","west virginia"],
+ "hashtags": "#horror #cryptid #flatwoodsmonster #shorts",
+ "ambiente": "grilos",
+ "personagens": "the narrator is a farmer in his forties with a thick brown mustache, a green work shirt, faded denim overalls and a straw hat, always with a wide-eyed terrified face; Rusty is a red-brown floppy-eared hound dog; the Flatwoods Monster is a ten-foot-tall floating creature with a huge dark spade-shaped hood, a round dark-red face with two big glowing red eyes, a pleated dark-green skirt-like body and thin claw-like hands, surrounded by a faint red glow and grey mist",
+ "scenes": [
+  {"text": "The thing that crashed on my hill wasn't a meteor.", "pt": "A coisa que caiu no meu morro não era um meteoro.", "visual": "the narrator alone on his farm porch at night staring at a burning red light falling onto a wooded hill", "destaque": ["CRASHED"]},
+  {"text": "It was the Flatwoods Monster.", "pt": "Era o Monstro de Flatwoods.", "visual": "close up of the Flatwoods Monster, huge spade-shaped hood, two glowing red eyes, red glow in the dark woods", "destaque": ["MONSTER"]},
+  {"text": "West Virginia, September, 1952.", "pt": "Virgínia Ocidental, setembro de 1952.", "visual": "small wooden farmhouse at the foot of a dark wooded hill under a starry sky, a red glow on the hilltop", "destaque": ["1952"]},
+  {"text": "I grabbed my flashlight and my dog, Rusty.", "pt": "Peguei minha lanterna e meu cachorro, o Rusty.", "visual": "the narrator and Rusty climbing a dark grassy hill, flashlight beam cutting through the night", "destaque": ["RUSTY"]},
+  {"text": "The air smelled like burning metal.", "pt": "O ar cheirava a metal queimado.", "visual": "the narrator and Rusty near the hilltop, grey smoke drifting through the trees, the narrator covering his nose", "destaque": ["METAL"]},
+  {"text": "Rusty froze, then bolted into the dark.", "pt": "O Rusty congelou, depois disparou para o escuro.", "visual": "Rusty running away into the dark trees, the narrator alone turning to look, scared", "destaque": ["BOLTED"], "efeito": "passos"},
+  {"text": "My light hit a face ten feet up.", "pt": "Minha lanterna bateu num rosto a três metros de altura.", "visual": "the narrator alone pointing his flashlight up at the towering Flatwoods Monster between the trees, his face frozen in terror", "destaque": ["FACE"], "pausa": 0.6},
+  {"text": "Glowing red eyes. A hood shaped like a spade.", "pt": "Olhos vermelhos brilhando. Um capuz em forma de pá.", "visual": "extreme close up of the Flatwoods Monster's round dark-red face, two huge glowing red eyes, giant spade-shaped hood", "destaque": ["RED"]},
+  {"text": "It hissed and floated toward me.", "pt": "Ele chiou e flutuou na minha direção.", "visual": "the Flatwoods Monster floating above the grass toward the narrator, claw-like hands reaching, red glow", "destaque": ["HISSED"], "efeito": "chiado"},
+  {"text": "A sour mist burned my throat.", "pt": "Uma névoa azeda queimou minha garganta.", "visual": "the narrator alone coughing in thick grey mist, eyes watering, flashlight shaking", "destaque": ["MIST"]},
+  {"text": "I ran home and left Rusty behind.", "pt": "Corri pra casa e deixei o Rusty pra trás.", "visual": "the narrator alone running down the dark hill toward his farmhouse, red glow behind him", "destaque": ["BEHIND"]},
+  {"text": "All night, something hissed outside my door.", "pt": "A noite toda, algo chiou do lado de fora da porta.", "visual": "the narrator alone inside his dark kitchen gripping a shotgun, staring at the shaking front door", "destaque": ["DOOR"], "efeito": "chiado"},
+  {"text": "Red eyes glowed through the kitchen window.", "pt": "Olhos vermelhos brilhavam pela janela da cozinha.", "visual": "the Flatwoods Monster's glowing red eyes and spade hood pressed against a farmhouse kitchen window at night", "destaque": ["WINDOW"]},
+  {"text": "I didn't open it. Not once.", "pt": "Eu não abri. Nem uma vez.", "visual": "the narrator alone hiding under the kitchen table with the shotgun, sweating, terrified", "destaque": ["OPEN"]},
+  {"text": "At dawn, the hissing stopped.", "pt": "Ao amanhecer, o chiado parou.", "visual": "pale morning light through the farmhouse window, quiet empty kitchen, the narrator slowly standing up", "destaque": ["DAWN"], "pausa": 0.8},
+  {"text": "Rusty was asleep on the porch, safe.", "pt": "O Rusty estava dormindo na varanda, são e salvo.", "visual": "the narrator opening the front door at dawn, Rusty curled up asleep on the wooden porch, a ring of scorched grass around the steps", "destaque": ["SAFE"], "impacto": true},
+  {"text": "That thing wasn't hunting me.", "pt": "Aquela coisa não estava me caçando.", "visual": "the narrator kneeling and hugging Rusty on the porch, shocked face looking up at the hill", "destaque": ["HUNTING"]},
+  {"text": "It was bringing my dog home.", "pt": "Estava trazendo meu cachorro pra casa.", "visual": "the Flatwoods Monster on the misty hilltop at dawn, red eyes dimming, turning away toward a glowing crater", "destaque": ["HOME"]}
+ ]
+}
