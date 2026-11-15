@@ -1,0 +1,143 @@
+{
+ "titulo": "The Thing on the Trestle Bridge Looked Like Me | Cryptid Horror #Shorts",
+ "titulo_pt": "A coisa na ponte da ferrovia era igualzinha a mim",
+ "resumo_pt": "Um jovem de Louisville caminha na ponte ferroviária e ouve um trem que nunca passa. Uma criatura com cara humana e pernas de bode o segue desde os dez anos. Ao se virar, ela tem o seu rosto.",
+ "descricao": "A train that never comes. A creature that's been following you since you were ten.\n\nFollow @VeilFrequency for a new horror story every day. Based on American folklore. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "cryptid",
+  "pope lick monster"
+ ],
+ "ambiente": "ambiente_ponte_trem",
+ "scenes": [
+  {
+   "text": "I walked the old railroad trestle in Louisville at night.",
+   "pt": "Caminhei pela ponte ferroviária antiga de Louisville à noite.",
+   "visual": "old iron railroad trestle over a river at night, Louisville skyline in the distance",
+   "destaque": [
+    "TRESTLE"
+   ]
+  },
+  {
+   "text": "I heard a train. But there were no tracks left.",
+   "pt": "Ouvi um trem. Mas não tinha mais trilhos.",
+   "visual": "empty railroad trestle with rusted rails and a dim lantern",
+   "destaque": [
+    "TRAIN"
+   ]
+  },
+  {
+   "text": "Then I saw something behind me on the ties.",
+   "pt": "Aí vi uma coisa atrás de mim, sobre os dormentes.",
+   "visual": "tall figure with goat legs standing on the railroad ties behind a young man",
+   "destaque": [
+    "BEHIND"
+   ]
+  },
+  {
+   "text": "Human face. Goat legs. Hooves clicking on iron.",
+   "pt": "Rosto humano. Pernas de bode. Cascos batendo no ferro.",
+   "visual": "close up of goat legs and hooves on iron trestle beams",
+   "destaque": [
+    "HOOVES"
+   ],
+   "efeito": "passos"
+  },
+  {
+   "text": "It was there when I was ten.",
+   "pt": "Ela já estava lá quando eu tinha dez anos.",
+   "visual": "young boy on a bike near a railroad track at dusk, figure behind a tree",
+   "destaque": [
+    "TEN"
+   ]
+  },
+  {
+   "text": "I never saw its face.",
+   "pt": "Nunca vi o rosto dele.",
+   "visual": "shadowy figure with goat legs at the edge of a railroad platform, face hidden",
+   "destaque": [
+    "NEVER"
+   ]
+  },
+  {
+   "text": "It was there on my first job.",
+   "pt": "Estava lá no meu primeiro emprego.",
+   "visual": "young man at a diner counter, a thin figure seen through the window",
+   "destaque": [
+    "JOB"
+   ]
+  },
+  {
+   "text": "It was there every time I crossed a bridge.",
+   "pt": "Estava lá toda vez que eu atravessava uma ponte.",
+   "visual": "young man on a bridge at night with a tall pale figure in the background",
+   "destaque": [
+    "BRIDGE"
+   ]
+  },
+  {
+   "text": "Tonight I finally turned around.",
+   "pt": "Hoje à noite finalmente me virei.",
+   "visual": "young man turning around on the trestle, face tense",
+   "destaque": [
+    "TURNED"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "I kept walking. I kept my eyes forward.",
+   "pt": "Eu seguia andando. Olhos sempre pra frente.",
+   "visual": "young man walking fast along railroad ties, eyes forward, shadow following",
+   "destaque": [
+    "WALKING"
+   ]
+  },
+  {
+   "text": "It was smiling.",
+   "pt": "Ele estava sorrindo.",
+   "visual": "creature's pale grin close up in the dark, glowing eyes",
+   "destaque": [
+    "SMILING"
+   ]
+  },
+  {
+   "text": "And it had my face.",
+   "pt": "E tinha o meu rosto.",
+   "visual": "creature with the young man's exact face on goat legs, lit by a lantern",
+   "destaque": [
+    "FACE"
+   ],
+   "impacto": true
+  },
+  {
+   "text": "It's been following me my whole life.",
+   "pt": "Ele vem me seguindo a vida inteira.",
+   "visual": "creature standing on the trestle in fog, staring at the young man",
+   "destaque": [
+    "LIFE"
+   ]
+  },
+  {
+   "text": "Every single time.",
+   "pt": "Todas as vezes.",
+   "visual": "a row of railroad ties with a goat-legged shadow standing at the end",
+   "destaque": [
+    "SINGLE"
+   ]
+  },
+  {
+   "text": "I'm the one it was waiting for.",
+   "pt": "Eu era quem ele estava esperando.",
+   "visual": "young man standing still on the trestle, the creature close behind him",
+   "destaque": [
+    "WAITING"
+   ]
+  }
+ ],
+ "tema": "cryptid",
+ "hashtags": "#horror #cryptid #popelickmonster #shorts",
+ "personagens": "the narrator is a young man in a dark jacket with brown hair; the creature has a human face and goat legs with hooves, a long thin body and a pale grin; it looks exactly like the narrator in the last scene"
+}

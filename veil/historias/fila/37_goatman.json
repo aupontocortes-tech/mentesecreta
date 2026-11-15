@@ -1,0 +1,144 @@
+{
+ "titulo": "The Goatman Stood in My Headlights on Goat Hill Road | Cryptid Horror #Shorts",
+ "titulo_pt": "O homem-bode ficou na frente dos meus faróis na estrada",
+ "resumo_pt": "Um motorista de Maryland quebra numa estrada escura e um homem com pernas de bode e machado aparece. Anos depois ele acha um jornal de 1962 com a foto do mesmo homem, que nunca envelheceu.",
+ "descricao": "A man with goat legs, an axe, and headlights that never fade.\n\nFollow @VeilFrequency for a new horror story every day. Based on American folklore. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "cryptid",
+  "goatman"
+ ],
+ "ambiente": "ambiente_estrada",
+ "scenes": [
+  {
+   "text": "My car died on a dark road in Maryland.",
+   "pt": "Meu carro morreu numa estrada escura em Maryland.",
+   "visual": "old blue sedan stalled on a dark country road at night, headlights on",
+   "destaque": [
+    "DIED"
+   ]
+  },
+  {
+   "text": "Then a man walked into the headlights.",
+   "pt": "Aí um homem entrou na luz dos faróis.",
+   "visual": "tall figure with goat legs and an axe stepping into headlight beams",
+   "destaque": [
+    "MAN"
+   ]
+  },
+  {
+   "text": "Goat legs. Hooves. An axe in one hand.",
+   "pt": "Pernas de bode. Cascos. Um machado numa das mãos.",
+   "visual": "close up of goat legs, hooves and an axe on a dark country road",
+   "destaque": [
+    "AXE"
+   ]
+  },
+  {
+   "text": "Its face was pale, almost human.",
+   "pt": "O rosto era pálido, quase humano.",
+   "visual": "close up of a pale almost human face with yellow eyes in the headlights",
+   "destaque": [
+    "ALMOST"
+   ]
+  },
+  {
+   "text": "He didn't run at me. He just stared.",
+   "pt": "Ele não veio pra cima de mim. Só ficou olhando.",
+   "visual": "goatman standing still in headlights, pale face, yellow eyes staring",
+   "destaque": [
+    "STARED"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "Then he slammed the hood with the axe handle.",
+   "pt": "Aí bateu no capô com o cabo do machado.",
+   "visual": "axe handle slamming down on a car hood, dents forming, a frightened driver inside",
+   "destaque": [
+    "HOOD"
+   ],
+   "efeito": "impacto"
+  },
+  {
+   "text": "I locked the doors and didn't breathe.",
+   "pt": "Tranquei as portas e não respirei.",
+   "visual": "young driver gripping a steering wheel, eyes wide in the dark car",
+   "destaque": [
+    "BREATHE"
+   ]
+  },
+  {
+   "text": "When I looked again, he was gone.",
+   "pt": "Quando olhei de novo, ele tinha sumido.",
+   "visual": "empty dark road with headlights shining on the asphalt",
+   "destaque": [
+    "GONE"
+   ]
+  },
+  {
+   "text": "I got home. Forgot all about it.",
+   "pt": "Cheguei em casa. Esqueci tudo.",
+   "visual": "young man at a kitchen table, relaxed, a cup of coffee",
+   "destaque": [
+    "FORGOT"
+   ]
+  },
+  {
+   "text": "Years later, I found a newspaper from 1962.",
+   "pt": "Anos depois, achei um jornal de 1962.",
+   "visual": "yellowed newspaper page on a wooden table under a lamp",
+   "destaque": [
+    "NEWSPAPER"
+   ]
+  },
+  {
+   "text": "The headline was about a farmer hit on Goat Hill Road.",
+   "pt": "A manchete falava de um fazendeiro atropelado na Goat Hill Road.",
+   "visual": "old newspaper headline close up with a black and white photo of a farm road",
+   "destaque": [
+    "HIT"
+   ]
+  },
+  {
+   "text": "The photo was of a man with goat legs.",
+   "pt": "A foto mostrava um homem com pernas de bode.",
+   "visual": "black and white photo of a goat-legged man holding an axe on a country road",
+   "destaque": [
+    "PHOTO"
+   ],
+   "efeito": "estalo"
+  },
+  {
+   "text": "Same axe. Same yellow eyes.",
+   "pt": "Mesmo machado. Mesmos olhos amarelos.",
+   "visual": "close up of the photo's yellowed face and axe",
+   "destaque": [
+    "SAME"
+   ]
+  },
+  {
+   "text": "He hasn't aged a day.",
+   "pt": "Ele não envelheceu um dia.",
+   "visual": "goatman standing in headlights on a dark road, unchanged after decades",
+   "destaque": [
+    "AGED"
+   ],
+   "impacto": true
+  },
+  {
+   "text": "He's still waiting for the driver who hit him.",
+   "pt": "Ele ainda está esperando o motorista que o atropelou.",
+   "visual": "goatman staring into headlights on the road, one hand gripping the axe",
+   "destaque": [
+    "WAITING"
+   ]
+  }
+ ],
+ "tema": "cryptid",
+ "hashtags": "#horror #cryptid #goatman #shorts",
+ "personagens": "the narrator is a young man in a dented blue sedan; the goatman is tall and thin, a human torso with shaggy goat legs and hooves, an axe in one hand, pale face and yellow eyes"
+}

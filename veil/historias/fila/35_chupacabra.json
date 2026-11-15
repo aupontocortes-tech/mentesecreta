@@ -1,0 +1,159 @@
+{
+ "titulo": "The Chupacabra Came Back for My Goats | Cryptid Horror #Shorts",
+ "titulo_pt": "O chupacabra voltou pelas minhas cabras",
+ "resumo_pt": "Um fazendeiro do Texas perde cabras, encontradas sem sangue. Ele filma o chupacabra no celeiro. Na manhã seguinte conta oito cabras: a oitava era o próprio monstro disfarçado.",
+ "descricao": "Seven goats. Then eight. Only one of them was real.\n\nFollow @VeilFrequency for a new horror story every day. Based on American folklore. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "creepy",
+  "horror shorts",
+  "cryptid",
+  "chupacabra"
+ ],
+ "ambiente": "ambiente_fazenda",
+ "scenes": [
+  {
+   "text": "My goats vanished on our Texas farm.",
+   "pt": "Minhas cabras sumiram na fazenda do Texas.",
+   "visual": "small Texas farm at dusk, goat pen with a lantern, dark fields, the farmer at the fence",
+   "destaque": [
+    "GOATS"
+   ]
+  },
+  {
+   "text": "Then I saw it. Red eyes. Spines down its back.",
+   "pt": "Aí eu vi. Olhos vermelhos. Espinhos nas costas.",
+   "visual": "chupacabra with spines down its back and glowing red eyes standing in a goat pen at night",
+   "destaque": [
+    "RED"
+   ]
+  },
+  {
+   "text": "It walked like a man.",
+   "pt": "Andava como um homem.",
+   "visual": "hunched gray-green creature walking upright across a farmyard at night",
+   "destaque": [
+    "MAN"
+   ]
+  },
+  {
+   "text": "Next morning, a goat lay in the grass.",
+   "pt": "Na manhã seguinte, uma cabra estava caída no capim.",
+   "visual": "still goat lying in tall grass at dawn, farmer standing over it",
+   "destaque": [
+    "GRASS"
+   ]
+  },
+  {
+   "text": "Pale. Empty.",
+   "pt": "Pálida. Vazia.",
+   "visual": "close up of a pale goat in cold morning light, no blood",
+   "destaque": [
+    "EMPTY"
+   ]
+  },
+  {
+   "text": "The vet said something sucked it dry.",
+   "pt": "O veterinário disse que algo a sugou.",
+   "visual": "veterinarian in a barn kneeling beside a pale goat, serious face",
+   "destaque": [
+    "DRY"
+   ]
+  },
+  {
+   "text": "So I set a camera in the barn.",
+   "pt": "Então instalei uma câmera no celeiro.",
+   "visual": "farmer setting a camera on a barn beam, dim lantern light",
+   "destaque": [
+    "CAMERA"
+   ]
+  },
+  {
+   "text": "I stayed up all night.",
+   "pt": "Fiquei acordado a noite toda.",
+   "visual": "farmer alone in a dark barn watching a monitor with a dim glow",
+   "destaque": [
+    "NIGHT"
+   ]
+  },
+  {
+   "text": "At three a.m., the goats started screaming.",
+   "pt": "Às três da manhã, as cabras começaram a gritar.",
+   "visual": "goats in a pen panicking under moonlight, one raising its head",
+   "destaque": [
+    "SCREAMING"
+   ],
+   "efeito": "grito"
+  },
+  {
+   "text": "I ran outside.",
+   "pt": "Corri pra fora.",
+   "visual": "farmer running out of a barn door with a flashlight",
+   "destaque": [
+    "RAN"
+   ]
+  },
+  {
+   "text": "It was crouched over the last one.",
+   "pt": "Estava agachado sobre a última.",
+   "visual": "chupacabra crouched over a goat in a pen under a barn light, red eyes",
+   "destaque": [
+    "LAST"
+   ]
+  },
+  {
+   "text": "Its eyes locked on mine.",
+   "pt": "Os olhos dele prenderam os meus.",
+   "visual": "chupacabra turning its head, glowing red eyes staring at a farmer with a flashlight",
+   "destaque": [
+    "EYES"
+   ],
+   "pausa": 0.6
+  },
+  {
+   "text": "Then it ran into the dark.",
+   "pt": "Aí correu pro escuro.",
+   "visual": "dark empty pen with spilled feed and a fleeing shadow at the edge",
+   "destaque": [
+    "DARK"
+   ]
+  },
+  {
+   "text": "Morning. I counted my goats. Seven.",
+   "pt": "De manhã, contei as cabras. Sete.",
+   "visual": "farmer at a fence counting goats in bright morning light",
+   "destaque": [
+    "SEVEN"
+   ]
+  },
+  {
+   "text": "I counted again. Eight.",
+   "pt": "Contei de novo. Oito.",
+   "visual": "an extra goat in the herd with glowing red eyes, the others stepping away",
+   "destaque": [
+    "EIGHT"
+   ],
+   "impacto": true
+  },
+  {
+   "text": "The eighth goat was the chupacabra all along.",
+   "pt": "A oitava cabra era o chupacabra o tempo todo.",
+   "visual": "red-eyed creature wearing goat fur among the goats, spines hidden under the fur",
+   "destaque": [
+    "ALONG"
+   ]
+  },
+  {
+   "text": "It's still in my pen. Waiting for me to miscount.",
+   "pt": "Ainda está no meu cercado. Esperando eu contar errado.",
+   "visual": "eighth goat staring at the farmer through the fence at night",
+   "destaque": [
+    "MISCOUNT"
+   ]
+  }
+ ],
+ "tema": "cryptid",
+ "hashtags": "#horror #cryptid #chupacabra #shorts",
+ "personagens": "the narrator is a Texas farmer in his fifties with a straw hat and a flannel shirt; the chupacabra is hunched, gray-green, with spines down its back and glowing red eyes; the goats are white and brown"
+}
