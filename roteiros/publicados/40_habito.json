@@ -24,7 +24,9 @@
    "emocao": "poder",
    "destaque": [
     "REPETE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia00.jpg",
+   "credito": "IA"
   },
   {
    "text": "Cada vez que você adia, você treina o adiamento. Cada vez que você cede, você treina a fraqueza. E o que você treina, você vira.",
@@ -32,7 +34,9 @@
    "emocao": "mente",
    "destaque": [
     "TREINA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia01.jpg",
+   "credito": "IA"
   },
   {
    "text": "Epicteto ensinava isso há quase dois mil anos.",
@@ -40,7 +44,9 @@
    "emocao": "mente",
    "destaque": [
     "EPICTETO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "Todo hábito fica mais forte com a ação que o alimenta. Quem anda, anda melhor. Quem corre, corre melhor.",
@@ -48,7 +54,9 @@
    "emocao": "poder",
    "destaque": [
     "HÁBITO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "E quem explode, explode mais fácil da próxima vez.",
@@ -56,7 +64,9 @@
    "emocao": "medo",
    "destaque": [
     "EXPLODE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Ninguém vê isso acontecendo. Nem você.",
@@ -64,7 +74,9 @@
    "emocao": "segredo",
    "destaque": [
     "NINGUÉM"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Um dia de preguiça não te define. Um ano de preguiça, sim. Porque o hábito não grita. Ele se instala em silêncio, um dia de cada vez.",
@@ -72,7 +84,9 @@
    "emocao": "solidao",
    "destaque": [
     "ANO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "Por isso o forte não espera vontade. Ele cumpre. Mesmo cansado. Mesmo sozinho.",
@@ -80,7 +94,9 @@
    "emocao": "poder",
    "destaque": [
     "CUMPRE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quer mudar? Não mude a vida inteira. Mude a próxima ação.",
@@ -88,7 +104,9 @@
    "emocao": "mente",
    "destaque": [
     "PRÓXIMA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   },
   {
    "text": "Porque no fim, você não vira o que promete. Você vira o que repete.",
@@ -96,7 +114,11 @@
    "emocao": "poder",
    "destaque": [
     "VIRA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia09.jpg",
+   "credito": "IA"
   }
- ]
+ ],
+ "personagem_src": "/home/runner/work/mentesecreta/mentesecreta/out/personagem.jpg",
+ "video_id": "i8ESc1TlvaM"
 }
