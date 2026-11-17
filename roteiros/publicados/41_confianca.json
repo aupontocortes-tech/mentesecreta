@@ -24,7 +24,9 @@
    "emocao": "segredo",
    "destaque": [
     "CONFIANÇA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia00.jpg",
+   "credito": "IA"
   },
   {
    "text": "Mas você entrega. Entrega o segredo. Entrega o plano. Entrega a fraqueza. Tudo isso para alguém que só sorriu bonito.",
@@ -32,7 +34,9 @@
    "emocao": "engano",
    "destaque": [
     "ENTREGA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia01.jpg",
+   "credito": "IA"
   },
   {
    "text": "E depois se pergunta por que todo mundo sabe.",
@@ -40,7 +44,9 @@
    "emocao": "grupo",
    "destaque": [
     "SABE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "Sêneca escreveu algo assim: antes da amizade, você julga. Depois dela, você confia.",
@@ -48,7 +54,9 @@
    "emocao": "mente",
    "destaque": [
     "JULGA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "O erro é inverter a ordem. Confiar primeiro e julgar quando já é tarde. Primeiro vem a pressa. Depois vem a decepção.",
@@ -56,7 +64,9 @@
    "emocao": "medo",
    "destaque": [
     "ORDEM"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Observe como a pessoa fala dos ausentes. Como reage quando perde. O que faz quando ninguém está olhando.",
@@ -64,7 +74,9 @@
    "emocao": "olhar",
    "destaque": [
     "OBSERVE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "O tempo mostra o que a simpatia esconde. E a pressa da pessoa em ganhar sua confiança também diz muito.",
@@ -72,7 +84,9 @@
    "emocao": "segredo",
    "destaque": [
     "TEMPO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "Não é desconfiar de todos. É deixar cada um provar quem é.",
@@ -80,7 +94,9 @@
    "emocao": "mente",
    "destaque": [
     "PROVAR"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quando provar, confie por inteiro. Sem metade. E se não provar, você não perdeu nada. Só ganhou clareza.",
@@ -88,7 +104,9 @@
    "emocao": "familia",
    "destaque": [
     "INTEIRO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   },
   {
    "text": "Até lá, observe. Confiança não se dá. Se conquista.",
@@ -96,7 +114,11 @@
    "emocao": "poder",
    "destaque": [
     "CONQUISTA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia09.jpg",
+   "credito": "IA"
   }
- ]
+ ],
+ "personagem_src": "/home/runner/work/mentesecreta/mentesecreta/out/personagem.jpg",
+ "video_id": "yP0N0rARdGQ"
 }
