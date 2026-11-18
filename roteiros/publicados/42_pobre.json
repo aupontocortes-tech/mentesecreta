@@ -21,7 +21,9 @@
    "emocao": "dinheiro",
    "destaque": [
     "BASTANTE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia00.jpg",
+   "credito": "IA"
   },
   {
    "text": "Você ganha mais. E quer mais. Compra mais. E quer mais.",
@@ -29,7 +31,9 @@
    "emocao": "dinheiro",
    "destaque": [
     "MAIS"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia01.jpg",
+   "credito": "IA"
   },
   {
    "text": "Sêneca era um dos homens mais ricos de Roma. E, no meio do luxo, ele avisou:",
@@ -37,7 +41,9 @@
    "emocao": "poder",
    "destaque": [
     "RICOS"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "Pobre não é quem tem pouco, mas quem deseja mais.",
@@ -45,7 +51,9 @@
    "emocao": "mente",
    "destaque": [
     "DESEJA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "Porque o desejo sem fim transforma tudo o que você tem em pouco. Você nunca chega. Porque o alvo sempre anda.",
@@ -53,7 +61,9 @@
    "emocao": "solidao",
    "destaque": [
     "SEM FIM"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "O carro novo vira normal. O salário novo vira normal. A casa nova vira normal.",
@@ -61,7 +71,9 @@
    "emocao": "dinheiro",
    "destaque": [
     "NORMAL"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "E você continua correndo atrás de uma linha que anda junto com você.",
@@ -69,7 +81,9 @@
    "emocao": "mente",
    "destaque": [
     "LINHA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "Não é proibido querer crescer. É perigoso nunca saber onde parar.",
@@ -77,7 +91,9 @@
    "emocao": "poder",
    "destaque": [
     "PARAR"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Decida o que é suficiente. Antes que o mundo decida por você. Sem isso, nenhum salário vai te dar paz.",
@@ -85,7 +101,9 @@
    "emocao": "poder",
    "destaque": [
     "SUFICIENTE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quem sabe o que basta, é rico com pouco. Quem não sabe, é pobre com tudo.",
@@ -93,7 +111,11 @@
    "emocao": "poder",
    "destaque": [
     "BASTA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia09.jpg",
+   "credito": "IA"
   }
- ]
+ ],
+ "personagem_src": "/home/runner/work/mentesecreta/mentesecreta/out/personagem.jpg",
+ "video_id": "cx3dXAvaKr0"
 }
