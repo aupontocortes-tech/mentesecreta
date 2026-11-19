@@ -24,7 +24,9 @@
    "emocao": "mente",
    "destaque": [
     "OBEDECE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia00.jpg",
+   "credito": "IA"
   },
   {
    "text": "Um imperador de Roma percebeu isso e ficou intrigado.",
@@ -32,7 +34,9 @@
    "emocao": "poder",
    "destaque": [
     "IMPERADOR"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia01.jpg",
+   "credito": "IA"
   },
   {
    "text": "Marco Aurélio escreveu: cada um se ama mais que todos, mas dá menos valor ao que pensa de si do que ao que os outros pensam.",
@@ -40,7 +44,9 @@
    "emocao": "mente",
    "destaque": [
     "VALOR"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "Por isso você muda a roupa. Muda o plano. Muda até o sonho. Por causa de quem nem te conhece.",
@@ -48,7 +54,9 @@
    "emocao": "grupo",
    "destaque": [
     "MUDA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "Por isso você trava. Por isso você não começa. Por isso você vive uma vida desenhada para agradar plateia.",
@@ -56,7 +64,9 @@
    "emocao": "medo",
    "destaque": [
     "TRAVA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "A opinião deles muda toda semana. A sua vida, não.",
@@ -64,7 +74,9 @@
    "emocao": "engano",
    "destaque": [
     "MUDA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Ouça quem você respeita. Ignore quem só assiste.",
@@ -72,7 +84,9 @@
    "emocao": "poder",
    "destaque": [
     "IGNORE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "E antes de perguntar o que vão pensar, pergunte o que você pensa. Você é quem vai viver com a escolha. Eles só vão comentar.",
@@ -80,7 +94,9 @@
    "emocao": "segredo",
    "destaque": [
     "VOCÊ"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quem se respeita não terceiriza o próprio valor. E quem terceiriza o valor vive refém de quem nem lembra o seu nome.",
@@ -88,7 +104,11 @@
    "emocao": "poder",
    "destaque": [
     "VALOR"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   }
- ]
+ ],
+ "personagem_src": "/home/runner/work/mentesecreta/mentesecreta/out/personagem.jpg",
+ "video_id": "mxGm3lkJj1Q"
 }
