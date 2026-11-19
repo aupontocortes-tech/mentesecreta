@@ -24,10 +24,10 @@ VOZES = {   # vozes naturais: sem mexer muito no tom (tom forçado deixa a voz c
     'homem':   ('en-US-AndrewMultilingualNeural', '-2%', '+0Hz'),
     'mulher':  ('en-US-AvaMultilingualNeural', '-2%', '+0Hz'),
     'crianca': ('en-US-AnaNeural', '-4%', '+0Hz'),
-    'idosa':   ('en-US-JennyNeural', '-8%', '-6Hz'),
-    'idoso':   ('en-US-GuyNeural', '-8%', '-6Hz'),
-    'sombria': ('en-US-JennyNeural', '-18%', '-20Hz'),
-    'sombrio': ('en-US-GuyNeural', '-18%', '-20Hz'),
+    'idosa':   ('en-US-EmmaMultilingualNeural', '-8%', '-6Hz'),
+    'idoso':   ('en-US-BrianMultilingualNeural', '-8%', '-6Hz'),
+    'sombria': ('en-US-EmmaMultilingualNeural', '-12%', '-8Hz'),
+    'sombrio': ('en-US-BrianMultilingualNeural', '-12%', '-8Hz'),
 }
 VOZES['narrador'] = ('en-US-AndrewMultilingualNeural', '-7%', '-3Hz')   # voz fixa do canal: calma e lenta
 
@@ -38,8 +38,8 @@ VOZES_PT = {   # versão dublada em português (vídeo não listado, só para o 
     'crianca': ('pt-BR-FranciscaNeural', '-2%', '+12Hz'),
     'idosa':   ('pt-BR-FranciscaNeural', '-8%', '-6Hz'),
     'idoso':   ('pt-BR-AntonioNeural', '-8%', '-8Hz'),
-    'sombria': ('pt-BR-FranciscaNeural', '-16%', '-18Hz'),
-    'sombrio': ('pt-BR-AntonioNeural', '-16%', '-18Hz'),
+    'sombria': ('pt-BR-FranciscaNeural', '-12%', '-8Hz'),
+    'sombrio': ('pt-BR-AntonioNeural', '-12%', '-8Hz'),
 }
 UA = 'Mozilla/5.0 (VeilFrequencyBot/1.0; github.com/aupontocortes-tech)'
 

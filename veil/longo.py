@@ -16,29 +16,29 @@ import historia   # gera imagem (Cloudflare FLUX, reserva Pollinations)
 W, H, FPS = 1920, 1080, 30
 VOZES = {
     'narrador': ('en-US-AndrewMultilingualNeural', '-10%', '-3Hz'),
-    'dan':      ('en-US-GuyNeural', '-2%', '+0Hz'),
-    'eco':      ('en-US-GuyNeural', '-14%', '-10Hz'),
+    'dan':      ('en-US-BrianMultilingualNeural', '-2%', '+0Hz'),
+    'eco':      ('en-US-BrianMultilingualNeural', '-12%', '-8Hz'),
     'mulher':   ('en-US-AvaMultilingualNeural', '-4%', '+0Hz'),
-    'sussurro': ('en-US-AvaMultilingualNeural', '-14%', '-6Hz'),
-    'homem':    ('en-US-GuyNeural', '-2%', '+0Hz'),
-    'idosa':    ('en-US-JennyNeural', '-12%', '-6Hz'),
-    'idoso':    ('en-US-GuyNeural', '-12%', '-8Hz'),
+    'sussurro': ('en-US-AvaMultilingualNeural', '-12%', '-6Hz'),
+    'homem':    ('en-US-BrianMultilingualNeural', '-2%', '+0Hz'),
+    'idosa':    ('en-US-EmmaMultilingualNeural', '-12%', '-6Hz'),
+    'idoso':    ('en-US-BrianMultilingualNeural', '-12%', '-8Hz'),
     'crianca':  ('en-US-AnaNeural', '-6%', '+0Hz'),
-    'sombria':  ('en-US-JennyNeural', '-20%', '-20Hz'),
-    'sombrio':  ('en-US-GuyNeural', '-20%', '-20Hz'),
+    'sombria':  ('en-US-EmmaMultilingualNeural', '-12%', '-8Hz'),
+    'sombrio':  ('en-US-BrianMultilingualNeural', '-12%', '-8Hz'),
 }
 VOZES_PT = {   # versão dublada (não listada) para o Thiago conferir
     'narrador': ('pt-BR-AntonioNeural', '-8%', '-4Hz'),
     'dan':      ('pt-BR-AntonioNeural', '+4%', '+8Hz'),
-    'eco':      ('pt-BR-AntonioNeural', '-14%', '-12Hz'),
+    'eco':      ('pt-BR-AntonioNeural', '-12%', '-8Hz'),
     'homem':    ('pt-BR-AntonioNeural', '+2%', '+6Hz'),
     'mulher':   ('pt-BR-ThalitaMultilingualNeural', '-2%', '+0Hz'),
-    'sussurro': ('pt-BR-FranciscaNeural', '-14%', '-6Hz'),
+    'sussurro': ('pt-BR-FranciscaNeural', '-12%', '-6Hz'),
     'idosa':    ('pt-BR-FranciscaNeural', '-12%', '-6Hz'),
-    'idoso':    ('pt-BR-AntonioNeural', '-12%', '-10Hz'),
+    'idoso':    ('pt-BR-AntonioNeural', '-12%', '-8Hz'),
     'crianca':  ('pt-BR-FranciscaNeural', '-4%', '+12Hz'),
-    'sombria':  ('pt-BR-FranciscaNeural', '-20%', '-18Hz'),
-    'sombrio':  ('pt-BR-AntonioNeural', '-20%', '-18Hz'),
+    'sombria':  ('pt-BR-FranciscaNeural', '-12%', '-8Hz'),
+    'sombrio':  ('pt-BR-AntonioNeural', '-12%', '-8Hz'),
 }
 ESTILO = ('cinematic horror film still, wide 16:9 composition, moody lighting with the main subject clearly visible, desaturated cold tones, film grain, '
           'photorealistic, unsettling atmosphere, no text, no watermark, no blood, no gore')
