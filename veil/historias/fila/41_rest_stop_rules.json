@@ -1,0 +1,153 @@
+{
+ "titulo": "I Found Rules Taped Inside the Rest Stop Booth 😰 #Shorts",
+ "titulo_pt": "Achei regras coladas dentro da cabine do posto de parada",
+ "resumo_pt": "Um rapaz começa o turno da noite num posto de beira de estrada com uma lista de regras. Alguém bate de dentro do banheiro trancado, e uma família sem carro pede direção. Na lista aparece uma quarta regra que não estava lá antes.",
+ "descricao": "The night shift came with rules. I should have read them twice.\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
+ "tags": [
+  "horror story",
+  "scary story",
+  "rules horror",
+  "night shift",
+  "creepy",
+  "horror shorts",
+  "rest stop",
+  "liminal"
+ ],
+ "ambiente": "ambiente_estrada_noite",
+ "tema": "rules horror",
+ "hashtags": "#horror #scarystory #ruleshorror #shorts",
+ "personagens": "the narrator is a young man in his twenties with a gray hoodie and a name tag; the family is pale, dressed in old 1970s clothes, with blank polite smiles",
+ "scenes": [
+  {
+   "text": "The night shift at the Mile 47 rest stop came with a list of rules.",
+   "pt": "O turno da noite no posto do quilômetro 47 vinha com uma lista de regras.",
+   "visual": "a handwritten list of rules taped inside a small lit booth at an empty highway rest stop at night",
+   "destaque": [
+    "RULES"
+   ]
+  },
+  {
+   "text": "Rule one: lock the restrooms at 2 a.m. Even if someone's inside.",
+   "pt": "Regra um: tranque os banheiros às 2 da manhã. Mesmo se tiver alguém dentro.",
+   "visual": "close up of the first rule on the yellowed paper, a ring of keys beside it",
+   "destaque": [
+    "LOCK"
+   ]
+  },
+  {
+   "text": "Rule two: if the vending machine hums a song, don't hum along.",
+   "pt": "Regra dois: se a máquina de lanches cantarolar, não cantarole junto.",
+   "visual": "an old vending machine glowing in the dark hallway",
+   "destaque": [
+    "HUM"
+   ]
+  },
+  {
+   "text": "Rule three: if a family asks for directions, give them. Never ask where they're from.",
+   "pt": "Regra três: se uma família pedir direção, explique. Nunca pergunte de onde eles são.",
+   "visual": "the third rule underlined twice in red ink",
+   "destaque": [
+    "NEVER"
+   ]
+  },
+  {
+   "text": "2 a.m. I locked the doors.",
+   "pt": "2 da manhã. Tranquei as portas.",
+   "visual": "the young man turning a key in a restroom door under a flickering light",
+   "destaque": [
+    "LOCKED"
+   ]
+  },
+  {
+   "text": "Then, from inside the men's room, three slow knocks.",
+   "pt": "Aí, de dentro do banheiro masculino, três batidas lentas.",
+   "visual": "the locked restroom door in the dark, a shadow under the gap",
+   "destaque": [
+    "KNOCKS"
+   ],
+   "pausa": 0.5
+  },
+  {
+   "text": "Hey, buddy. I think the lock's stuck.",
+   "pt": "Ei, amigo. Acho que a tranca emperrou.",
+   "visual": "the locked restroom door in the dark, a shadow under the gap",
+   "destaque": [
+    "STUCK"
+   ],
+   "voz": "homem",
+   "mesma_imagem": true,
+   "pausa": 0.6
+  },
+  {
+   "text": "I didn't answer. Rule one.",
+   "pt": "Não respondi. Regra um.",
+   "visual": "the young man backing away slowly, holding his breath",
+   "destaque": [
+    "ONE"
+   ]
+  },
+  {
+   "text": "At three, a family walked up. Mom, dad, two kids. No car in the lot.",
+   "pt": "Às três, chegou uma família. Mãe, pai, duas crianças. Nenhum carro no estacionamento.",
+   "visual": "a pale family in 1970s clothes standing at the booth window, empty parking lot behind them",
+   "destaque": [
+    "NO CAR"
+   ]
+  },
+  {
+   "text": "Which way to Harmony?",
+   "pt": "Pra que lado fica Harmony?",
+   "visual": "the mother smiling too wide at the booth window",
+   "destaque": [
+    "HARMONY"
+   ],
+   "voz": "mulher",
+   "mesma_imagem": true,
+   "pausa": 0.6
+  },
+  {
+   "text": "I pointed east. I didn't ask.",
+   "pt": "Apontei para o leste. Não perguntei.",
+   "visual": "the young man pointing down the dark highway",
+   "destaque": [
+    "EAST"
+   ]
+  },
+  {
+   "text": "When they left, I checked the list. There was a rule four I swear wasn't there before.",
+   "pt": "Quando foram embora, olhei a lista. Tinha uma regra quatro que eu juro que não estava lá antes.",
+   "visual": "the list of rules with a fourth line in fresh wet ink",
+   "destaque": [
+    "FOUR"
+   ]
+  },
+  {
+   "text": "Rule four: if they thank you, you're the one who's lost.",
+   "pt": "Regra quatro: se eles te agradecerem, quem está perdido é você.",
+   "visual": "close up of rule four, the ink still dripping",
+   "destaque": [
+    "LOST"
+   ]
+  },
+  {
+   "text": "Thank you, mister.",
+   "pt": "Obrigado, moço.",
+   "visual": "a small pale child standing alone at the booth window",
+   "destaque": [
+    "THANK YOU"
+   ],
+   "voz": "crianca",
+   "mesma_imagem": false,
+   "pausa": 0.8
+  },
+  {
+   "text": "Behind me, the restroom door clicked open.",
+   "pt": "Atrás de mim, a porta do banheiro destrancou.",
+   "visual": "the restroom door slowly opening into darkness behind the young man",
+   "destaque": [
+    "OPEN"
+   ],
+   "pausa": 1.0
+  }
+ ]
+}
