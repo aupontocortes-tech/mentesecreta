@@ -21,7 +21,9 @@
    "emocao": "grupo",
    "destaque": [
     "1951"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia00.jpg",
+   "credito": "IA"
   },
   {
    "text": "A tarefa era boba: dizer qual linha tinha o mesmo tamanho de outra.",
@@ -29,7 +31,9 @@
    "emocao": "mente",
    "destaque": [
     "BOBA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia01.jpg",
+   "credito": "IA"
   },
   {
    "text": "Só que os outros sete eram atores. E, de propósito, todos davam a resposta errada.",
@@ -37,7 +41,9 @@
    "emocao": "engano",
    "destaque": [
     "ATORES"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "O jovem via a resposta certa. Estava na cara.",
@@ -45,7 +51,9 @@
    "emocao": "mente",
    "destaque": [
     "CERTA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "Mesmo assim… muita gente ia junto com o grupo.",
@@ -53,7 +61,9 @@
    "emocao": "grupo",
    "destaque": [
     "GRUPO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Três em cada quatro pessoas cederam pelo menos uma vez.",
@@ -61,7 +71,9 @@
    "emocao": "poder",
    "destaque": [
     "3 EM 4"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Não era burrice. Muitos disseram depois que duvidaram dos próprios olhos… ou só não quiseram parecer o esquisito.",
@@ -69,7 +81,9 @@
    "emocao": "mente",
    "destaque": [
     "ESQUISITO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "Agora pensa no grupo da família. Na reunião do trabalho. Quantas vezes você concordou só pra não ficar sozinho?",
@@ -77,7 +91,9 @@
    "emocao": "grupo",
    "destaque": [
     "SOZINHO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "O detalhe que quase ninguém conta: quando UMA pessoa discordava, quase todo mundo voltava a falar a verdade.",
@@ -85,7 +101,9 @@
    "emocao": "segredo",
    "destaque": [
     "UMA PESSOA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   },
   {
    "text": "Às vezes, essa pessoa precisa ser você.",
@@ -93,7 +111,11 @@
    "emocao": "poder",
    "destaque": [
     "VOCÊ"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia09.jpg",
+   "credito": "IA"
   }
- ]
+ ],
+ "personagem_src": "/home/runner/work/mentesecreta/mentesecreta/out/personagem.jpg",
+ "video_id": "JDjCE2CKrdc"
 }
