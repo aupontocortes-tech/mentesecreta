@@ -38,3 +38,4 @@ Motivo: os vídeos 38-43 saíram todos no MESMO molde ("Você..." → citação 
 - Estudo inventado ou número sem fonte
 
 ## PAUSAS
+- 19h
