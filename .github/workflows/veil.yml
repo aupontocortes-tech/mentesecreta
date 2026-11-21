@@ -75,6 +75,7 @@ jobs:
           VF_VOZ_CHAVE: ${{ secrets.VF_VOZ_CHAVE }}
         run: |
           python3 veil/historia.py "${{ steps.fila.outputs.ep }}" out
+          python3 capa.py "${{ steps.fila.outputs.ep }}" out/capa.jpg $(ls out/cena0[0-3].jpg 2>/dev/null) || echo "AVISO: capa não gerada"
           ls -la out/final.mp4
 
       - name: Enviar para o YouTube
@@ -86,7 +87,7 @@ jobs:
           set -o pipefail
           E="${{ steps.fila.outputs.ep }}"
           MODO="${{ github.event.inputs.modo || 'agendar' }}"
-          python3 veil/yt.py up out/final.mp4 "$E" "$MODO" | tee up.log
+          python3 veil/yt.py up out/final.mp4 "$E" "$MODO" out/capa.jpg | tee up.log
           ID=$(grep -o 'VIDEO_ID=[A-Za-z0-9_-]*' up.log | cut -d= -f2)
           python3 -c "import json,sys; p=sys.argv[1]; d=json.load(open(p)); d['video_id']=sys.argv[2]; json.dump(d,open(p,'w'),ensure_ascii=False,indent=1)" "$E" "$ID"
           # versão dublada em português (não listada) para o Thiago conferir no painel; se falhar, o inglês segue normal

@@ -40,3 +40,9 @@ body = {'snippet': {'title': r['titulo'][:100], 'description': desc[:4900], 'tag
                     'defaultLanguage': 'pt-BR', 'defaultAudioLanguage': 'pt-BR'}, 'status': status}
 v = yt.videos().insert(part='snippet,status', body=body, media_body=MediaFileUpload(sys.argv[2], chunksize=-1, resumable=True)).execute()
 print('VIDEO_ID=' + v['id'], status.get('publishAt', 'publicado agora'))
+capa = os.path.join(os.path.dirname(os.path.abspath(sys.argv[2])), 'capa.jpg')
+if os.path.exists(capa):
+    try:
+        yt.thumbnails().set(videoId=v['id'], media_body=MediaFileUpload(capa, mimetype='image/jpeg')).execute(); print('capa ok')
+    except Exception as e:
+        print('AVISO: capa não enviada (o canal precisa de verificação por telefone):', str(e)[:200])

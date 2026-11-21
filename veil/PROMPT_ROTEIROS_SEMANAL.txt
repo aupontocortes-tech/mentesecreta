@@ -100,6 +100,7 @@ FORMATO DO ARQUIVO veil/historias/fila/NN_slug.json
 {
  "titulo": "Night Shift Horror Story #1 | gancho curto em inglês #Shorts",
  "titulo_pt": "tradução para o Thiago",
+ "capa": ["LINE 1", "LINE 2"],
  "resumo_pt": "a história inteira em 2-3 frases em português",
  "tema": "night shift",
  "descricao": "1-2 frases intrigantes.\n\n<pergunta para comentar>\n\nFollow @VeilFrequency for a new horror story every day. Fictional story. Images are AI-generated.",
@@ -118,3 +119,7 @@ FINAL
 - git add veil/historias veil/CONFIG_CANAL.md && git commit -m "Veil Frequency: histórias da semana" && git pull --rebase && git push origin main
 - Só faça commit de veil/historias e veil/CONFIG_CANAL.md. Nunca escreva chaves ou senhas.
 - RELATÓRIO CURTO em português: quantas histórias criou, títulos (inglês + tradução) e o resumo de cada uma, problemas.
+
+COVER AND TITLE (21/11/2026 — drives clicks; notes in Portuguese for Thiago):
+- "capa": ["LINE 1", "LINE 2"] in EVERY story: max 3 words per line, the scariest hook (ex.: ["DON'T OPEN", "THE DOOR"], ["RULE 4", "CHANGED EVERYTHING"]). Giant letters on the thumbnail, last line in red.
+- "titulo": short scary hook (max ~60 chars + emoji + #Shorts) that makes people NEED to know what happened. Vary the shape (warning, question, rule, quote). Never promise what the story doesn't deliver.

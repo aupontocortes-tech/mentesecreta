@@ -36,6 +36,7 @@ Também coloque "emocao" (reserva se a IA falhar): poder | segredo | olhar | med
 FORMATO de cada arquivo roteiros/fila/NN_tema.json:
 {
  "titulo": "frase curta e curiosa, sem mentir (até ~60 caracteres) #Shorts",
+ "capa": ["LINHA 1", "LINHA 2"],
  "descricao": "1-2 frases sobre o tema.\n\n<pergunta para comentar>\n\nSegue o @mentesecreta. Mentalidade, poder e o lado oculto das pessoas.",
  "tags": ["psicologia", "...5 a 8 tags"],
  "hashtags": "#estoicismo #mentalidade #mentesecreta",
@@ -50,3 +51,7 @@ FINAL:
 - REVISÃO DE COERÊNCIA antes de salvar cada roteiro: a frase final fecha a ideia do gancho? cada frase leva à próxima? nada fica solto ou confuso? Se não, reescreva.
 - Só faça commit de roteiros/fila e CONFIG_CANAL.md. Nunca escreva chaves ou senhas.
 - RELATÓRIO CURTO: quantos roteiros criou, os títulos, e qualquer problema.
+
+CAPA E TÍTULO (21/11/2026 — puxam o clique):
+- "capa": ["LINHA 1", "LINHA 2"] em TODO roteiro: no máximo 3 palavras por linha, a ideia mais forte do vídeo (ex.: ["O TRUQUE", "QUE USAM COM VOCÊ"], ["75% MENTIRAM", "PRA NÃO FICAR DE FORA"]). Vai em letras gigantes na capa, a última linha em amarelo.
+- "titulo": gancho curto (até 60 caracteres) que cria curiosidade e é VERDADE: número, segredo, "usam isso com você", "você faz isso sem perceber". Nada de título genérico ("A importância de..."). Nunca prometa o que o vídeo não entrega.

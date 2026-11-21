@@ -61,6 +61,7 @@ jobs:
           python3 tts.py "$R" out
           python3 musica.py out
           python3 render.py "$R" out
+          python3 capa.py "$R" out/capa.jpg || echo "AVISO: capa não gerada"
           ls -la out/final.mp4
 
       - name: Enviar para o YouTube
