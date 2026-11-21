@@ -21,7 +21,9 @@
    "emocao": "segredo",
    "destaque": [
     "MUITO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia00.jpg",
+   "credito": "IA"
   },
   {
    "text": "Começa pedindo quase nada.",
@@ -29,7 +31,9 @@
    "emocao": "engano",
    "destaque": [
     "QUASE NADA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia01.jpg",
+   "credito": "IA"
   },
   {
    "text": "Em 1966, dois pesquisadores de Stanford bateram de porta em porta na Califórnia.",
@@ -37,7 +41,9 @@
    "emocao": "grupo",
    "destaque": [
     "1966"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "Pediram para os moradores colocarem uma placa enorme e feia no jardim: dirija com cuidado.",
@@ -45,7 +51,9 @@
    "emocao": "dinheiro",
    "destaque": [
     "ENORME"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quase ninguém aceitou. Menos de duas em cada dez casas.",
@@ -53,7 +61,9 @@
    "emocao": "grupo",
    "destaque": [
     "2 EM 10"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Em outro bairro, eles começaram diferente: pediram só um adesivo pequenininho.",
@@ -61,7 +71,9 @@
    "emocao": "engano",
    "destaque": [
     "PEQUENININHO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Semanas depois, voltaram com a placa enorme. E cerca de três em cada quatro aceitaram.",
@@ -69,7 +81,9 @@
    "emocao": "poder",
    "destaque": [
     "3 EM 4"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "Isso tem nome: pé na porta. Um sim pequeno faz você se ver como alguém que diz sim.",
@@ -77,7 +91,9 @@
    "emocao": "mente",
    "destaque": [
     "PÉ NA PORTA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "É o colega que pede só uma ajudinha. O parente que pede só um pouquinho. Depois vem o grande.",
@@ -85,7 +101,9 @@
    "emocao": "familia",
    "destaque": [
     "DEPOIS"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   },
   {
    "text": "Antes de responder, se pergunta: se esse fosse o primeiro pedido, eu aceitaria?",
@@ -93,7 +111,11 @@
    "emocao": "poder",
    "destaque": [
     "PRIMEIRO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia09.jpg",
+   "credito": "IA"
   }
- ]
+ ],
+ "personagem_src": "/home/runner/work/mentesecreta/mentesecreta/out/personagem.jpg",
+ "video_id": "2W8TM8CRoA0"
 }
