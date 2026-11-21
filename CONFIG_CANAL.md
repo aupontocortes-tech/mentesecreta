@@ -2,6 +2,11 @@
 
 Arquivo editado pelo painel. Não coloque senhas aqui.
 
+## IMAGENS ATUAIS (21/11/2026 — pedido do Thiago)
+- Toda cena é FOTO REALISTA, COLORIDA e de HOJE: pessoas atuais, roupa atual, celular, escritório, carro, apartamento, rua. Mostra exatamente o que a frase diz.
+- Proibido: pintura antiga, estátua, homem de capuz (THE STRATEGIST), preto e branco, cara de "canal de psicologia dark" — parecia cópia.
+- Em caso real/histórico (ex.: experimento de 1951), pode mostrar a época, mas como FOTO realista, não pintura.
+
 ## VARIEDADE E QUALIDADE DO ROTEIRO (19/11/2026 — VALE MAIS que qualquer modelo do prompt)
 Motivo: os vídeos 38-43 saíram todos no MESMO molde ("Você..." → citação de filósofo → frase-espelho "Quem X, Y. Quem não, Z."). O YouTube entrega menos conteúdo repetitivo/automatizado.
 - Rodízio OBRIGATÓRIO de formato (nunca o mesmo formato 2 vezes seguidas; na semana de 7, use pelo menos 5 formatos diferentes):

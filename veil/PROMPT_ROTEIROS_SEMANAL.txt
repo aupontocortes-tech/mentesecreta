@@ -88,7 +88,7 @@ VOZES (escolha você, pelo que a história pede)
 
 IMAGENS (geradas por IA automaticamente)
 - Cada cena com imagem nova tem "visual": descrição em inglês, concreta e filmável, do que aparece na tela (lugar, objeto, pessoa, luz). Ex.: "old wooden basement door slightly open in a dark farmhouse hallway, faint light under the door".
-- O estilo (HQ de terror COLORIDA e dark: contorno de tinta + cores vivas, roxo, verde e vermelho; desde 17/11) é adicionado sozinho: não repita "cinematic", "horror" etc.
+- O estilo (FOTO REALISTA de filme de terror, pessoas reais; desde 21/11 — o desenho/HQ foi abandonado porque não atraía views) é adicionado sozinho: não repita "cinematic", "horror", "photo" etc. Descreva pessoas reais, roupas e lugares atuais.
 - Nada de sangue, ferimento, cadáver, nudez, marca, texto, celebridade. MOSTRE o monstro (olhos, dentes, corpo) e o rosto com medo do protagonista: é isso que segura o público.
 
 EFEITOS SONOROS (gerados sozinhos pelo robô)

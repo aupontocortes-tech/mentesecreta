@@ -75,7 +75,7 @@ def pexels(q):
         if url not in usadas: return url, f"Foto: {ph.get('photographer','')} (Pexels)"
 
 FONTES_TODAS = {'aic': aic, 'met': met, 'smk': smk, 'commons': commons, 'pexels': pexels}
-FONTES = [FONTES_TODAS[f] for f in os.environ.get('MS_FONTES', 'aic,met,smk,commons,pexels').split(',')]
+FONTES = [FONTES_TODAS[f] for f in os.environ.get('MS_FONTES', 'pexels').split(',')]   # 21/11: só fotos atuais (sem pintura de museu)
 
 def achar(buscas):
     for q in buscas:
@@ -107,12 +107,14 @@ def do_banco(emocao, evitar):
     b = random.choice(livres)
     return b['arquivo'], f"{b['titulo']} — {b['autor']} ({b['fonte']})"
 
-# Estilo "poder / estoicismo" (nov/2026): preto e branco, cinematográfico, com um personagem fixo do canal.
-PERSONAGEM = ('a tall mysterious man in a long black hooded cloak, his face completely hidden in deep shadow, '
-              'calm and powerful posture')
-ESTILO_IA = ('dramatic black and white cinematic photograph, high contrast, deep black shadows, single hard light, '
-             'film grain, moody and powerful atmosphere, all people fully clothed, no nudity, '
-             'the scene fills the whole image, no frame, no text, no letters, no logo')
+# Estilo ATUAL (21/11/2026): foto moderna colorida, gente de hoje, cenário de hoje. Sem capuz, sem pintura antiga
+# (o Thiago achou que parecia cópia de outros canais).
+PERSONAGEM = 'a man in his thirties in modern casual dark clothes'
+ESTILO_IA = ('realistic modern color photograph taken today, present-day 2020s setting, contemporary people and clothes, '
+             'smartphones, offices, apartments, cars and city streets as the scene needs, natural cinematic lighting, '
+             'candid documentary style, shallow depth of field, sharp detail, all people fully clothed, no nudity, '
+             'the scene fills the whole image, no frame, no text, no letters, no logo, '
+             'not a painting, not black and white, not vintage, no cloak, no hood')
 
 def da_ia(visual, destino):
     """Pintura escura feita na hora pela Cloudflare (FLUX) mostrando exatamente a cena. False se não der."""
@@ -130,7 +132,8 @@ def main():
     for sc in spec['scenes']:
         if sc.get('src'): usadas.add(sc['src'])
     reserva = spec.get('busca_reserva', ['dark portrait oil painting', 'renaissance portrait', 'baroque painting shadow'])
-    if spec.get('personagem') and not spec.get('personagem_src'):   # personagem central fixo, em fundo preto
+    spec.pop('personagem', None)   # 21/11: sem personagem fixo de capuz na frente das cenas (parecia cópia)
+    if spec.get('personagem') and not spec.get('personagem_src'):   # (desativado)
         os.makedirs(os.path.join(AQUI, 'out'), exist_ok=True); destino = os.path.join(AQUI, 'out', 'personagem.jpg')
         try:
             sys.path.insert(0, os.path.join(AQUI, 'veil')); import historia
@@ -150,7 +153,12 @@ def main():
             destino = os.path.join(AQUI, 'out', f'ia{i:02d}.jpg')
             if da_ia(sc['visual'], destino):
                 sc['src'], sc['credito'] = destino, 'IA'; print(f'cena {i}: IA'); continue
-        if sc.get('emocao') or not sc.get('busca'):   # padrão: banco de pinturas escolhidas a dedo
+        q = sc.get('busca') or ([' '.join(sc['visual'].replace('THE STRATEGIST', 'man').split()[:7])] if sc.get('visual') else [])
+        if isinstance(q, str): q = [q]
+        r = achar(q) if q else None   # reserva 1: foto atual (Pexels) com o que a cena descreve
+        if r:
+            sc['src'], sc['credito'] = r; usadas.add(r[0]); print(f'cena {i}: {r[1]}'); continue
+        if sc.get('emocao') or not sc.get('busca'):   # última reserva: banco antigo
             sc['src'], sc['credito'] = do_banco(sc.get('emocao', 'olhar'), evitar); usadas.add(sc['src'])
             print(f'cena {i}: [{sc.get("emocao")}] {sc["credito"]}'); continue
         b = sc.get('busca') or []

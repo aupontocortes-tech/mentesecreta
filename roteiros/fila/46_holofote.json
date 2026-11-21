@@ -13,7 +13,6 @@
  "fontes": [
   "Gilovich, T., Medvec, V. H., & Savitsky, K. (2000). The spotlight effect in social judgment. Journal of Personality and Social Psychology, 78(2), 211–222."
  ],
- "personagem": "THE STRATEGIST, standing in a single spotlight on a dark stage",
  "scenes": [
   {
    "text": "Aquela mancha na camisa. Aquela palavra errada na reunião. Você acha que todo mundo reparou.",
@@ -89,7 +88,7 @@
   },
   {
    "text": "A plateia que você teme está ocupada demais olhando pra si mesma.",
-   "visual": "THE STRATEGIST walking off the stage as the spotlight fades",
+   "visual": "a man in his thirties in modern casual clothes walking off the stage as the spotlight fades",
    "emocao": "segredo",
    "destaque": [
     "SI MESMA"

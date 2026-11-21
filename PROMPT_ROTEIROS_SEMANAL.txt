@@ -14,11 +14,11 @@ TEMAS (varie): estoicismo (Sêneca, Marco Aurélio, Epicteto), estratégia (Maqu
 
 FÓRMULA OBRIGATÓRIA (copiada da análise dos vídeos que bombam nesse nicho, 01/11/2026):
 - 60 a 75 segundos, 130 a 170 palavras, 9 a 11 cenas. Cada cena pode ter 1 a 3 frases curtas.
-- PROIBIDO tela preta (o Thiago pediu em 06/11: o público sai). Cena 1 = a IMAGEM MAIS FORTE do vídeo desde o primeiro quadro (ex.: "THE STRATEGIST close up, face hidden in deep shadow, staring at the viewer") + a frase de poder. Cena 2 = outra imagem forte + uma frase que aprofunda. É o gancho.
+- PROIBIDO tela preta (o Thiago pediu em 06/11: o público sai). Cena 1 = a IMAGEM MAIS FORTE do vídeo desde o primeiro quadro (ex.: "close up of a woman in an office reading a message on her phone, shocked") + a frase de poder. Cena 2 = outra imagem forte + uma frase que aprofunda. É o gancho.
 - Monólogo de mentor, frases curtas e ritmadas, com REPETIÇÃO de estrutura (ex.: "Ninguém liga. Ninguém aparece.", "Se tiver que..., eu...", "Por que... Por que... Por que...").
 - Meio: situação do dia a dia + o porquê + um filósofo ou estudo real (opcional, 1 só).
 - Final: a lição prática e a frase de poder de novo, com outra forma.
-- No JSON coloque "personagem": "THE STRATEGIST, hands folded, facing the viewer" (é o personagem fixo do canal, fica na frente de todas as cenas com imagem). Pode variar a pose (ex.: "THE STRATEGIST holding a chess king"), mas sempre THE STRATEGIST.
+- NÃO use mais "personagem" nem THE STRATEGIST (desde 21/11). Cada cena é uma FOTO ATUAL e COLORIDA de gente de hoje, no cenário que a frase fala (escritório, celular, grupo da família, carro, bar, academia, rua). Nada de pintura antiga, capuz, preto e branco ou estátua: parecia cópia de outros canais.
 Tom: voz de mentor, firme, frio, sem gritaria e sem autoajuda melosa. Nada de "Calma", nada de "Sabia que...".
 
 CREDIBILIDADE (não negociável):
@@ -40,7 +40,7 @@ FORMATO de cada arquivo roteiros/fila/NN_tema.json:
  "tags": ["psicologia", "...5 a 8 tags"],
  "hashtags": "#estoicismo #mentalidade #mentesecreta",
  "fontes": ["Autor (ano), título, revista. link/DOI"],
- "scenes": [ {"text": "frase narrada", "visual": "descrição da pintura em inglês", "emocao": "segredo", "destaque": ["PALAVRA"]}, ... ]
+ "scenes": [ {"text": "frase narrada", "visual": "descrição em inglês da FOTO atual que mostra a frase (pessoas, lugar, ação)", "emocao": "segredo", "destaque": ["PALAVRA"]}, ... ]
 }
 Escreva números por extenso quando forem falados ("vinte por cento"). Pronúncias especiais em "pron": {"Greene": "Grím"}.
 
