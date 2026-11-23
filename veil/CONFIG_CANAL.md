@@ -26,4 +26,3 @@ Motivo: as histórias 34-42 saíram todas no MESMO molde (criptídeo americano, 
 - Repetir o formato de transmissão dos 2 últimos episódios
 
 ## PAUSAS
-- 18h
