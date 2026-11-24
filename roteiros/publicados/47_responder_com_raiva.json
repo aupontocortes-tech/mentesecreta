@@ -25,7 +25,9 @@
    "emocao": "medo",
    "destaque": [
     "FERVEU"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia00.jpg",
+   "credito": "IA"
   },
   {
    "text": "Para. Essa resposta não é sua. É da raiva.",
@@ -33,7 +35,9 @@
    "emocao": "mente",
    "destaque": [
     "RAIVA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia01.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quem responde com raiva fala o que não pensa. Promete o que não cumpre. Perde o que não queria perder.",
@@ -41,7 +45,9 @@
    "emocao": "familia",
    "destaque": [
     "PERDE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "E quem te provocou sabe disso. Ele só espera você explodir.",
@@ -49,7 +55,9 @@
    "emocao": "engano",
    "destaque": [
     "EXPLODIR"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "Porque quem perde a cabeça primeiro perde a discussão.",
@@ -57,7 +65,9 @@
    "emocao": "poder",
    "destaque": [
     "PRIMEIRO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Sêneca escreveu algo assim: o maior remédio para a raiva é a demora.",
@@ -65,7 +75,9 @@
    "emocao": "mente",
    "destaque": [
     "DEMORA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Não porque a raiva some. Mas porque ela perde a força.",
@@ -73,7 +85,9 @@
    "emocao": "segredo",
    "destaque": [
     "FORÇA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "A primeira onda passa. A cabeça volta. E você enxerga o que antes não via.",
@@ -81,7 +95,9 @@
    "emocao": "mente",
    "destaque": [
     "ENXERGA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Então crie uma regra. Recebeu algo que te tirou do sério? Não responde agora.",
@@ -89,7 +105,9 @@
    "emocao": "poder",
    "destaque": [
     "REGRA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   },
   {
    "text": "Dá uma volta. Dorme. Responde amanhã, se ainda fizer sentido.",
@@ -97,7 +115,9 @@
    "emocao": "solidao",
    "destaque": [
     "AMANHÃ"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia09.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quem responde na hora obedece à raiva. Quem espera, manda nela.",
@@ -105,7 +125,10 @@
    "emocao": "poder",
    "destaque": [
     "MANDA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia10.jpg",
+   "credito": "IA"
   }
- ]
+ ],
+ "video_id": "VvtOBgVcdyo"
 }
