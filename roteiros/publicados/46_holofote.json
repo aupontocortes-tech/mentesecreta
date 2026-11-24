@@ -20,7 +20,9 @@
    "emocao": "olhar",
    "destaque": [
     "TODO MUNDO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia00.jpg",
+   "credito": "IA"
   },
   {
    "text": "Em 2000, pesquisadores da Universidade Cornell fizeram um teste constrangedor.",
@@ -28,7 +30,9 @@
    "emocao": "mente",
    "destaque": [
     "CORNELL"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia01.jpg",
+   "credito": "IA"
   },
   {
    "text": "Mandaram estudantes entrarem numa sala vestindo uma camiseta com a cara de um cantor que eles achavam brega.",
@@ -36,7 +40,9 @@
    "emocao": "olhar",
    "destaque": [
     "BREGA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "Depois perguntaram: quantas pessoas na sala você acha que repararam?",
@@ -44,7 +50,9 @@
    "emocao": "mente",
    "destaque": [
     "QUANTAS"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "Eles chutaram metade.",
@@ -52,7 +60,9 @@
    "emocao": "olhar",
    "destaque": [
     "METADE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Na verdade, só uma em cada quatro tinha reparado.",
@@ -60,7 +70,9 @@
    "emocao": "segredo",
    "destaque": [
     "1 EM 4"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Isso se chama efeito holofote. Você vive no centro do seu palco… mas cada um está no centro do próprio.",
@@ -68,7 +80,9 @@
    "emocao": "poder",
    "destaque": [
     "HOLOFOTE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "Enquanto você revive o seu tropeço, a pessoa do lado está pensando no tropeço dela.",
@@ -76,7 +90,9 @@
    "emocao": "mente",
    "destaque": [
     "DELA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Então pergunta o que quer perguntar. Tenta o que quer tentar.",
@@ -84,7 +100,9 @@
    "emocao": "poder",
    "destaque": [
     "TENTA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   },
   {
    "text": "A plateia que você teme está ocupada demais olhando pra si mesma.",
@@ -92,11 +110,14 @@
    "emocao": "segredo",
    "destaque": [
     "SI MESMA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia09.jpg",
+   "credito": "IA"
   }
  ],
  "capa": [
   "NINGUÉM",
   "ESTÁ TE OLHANDO"
- ]
+ ],
+ "video_id": "3XO_Tx-uC-Q"
 }
