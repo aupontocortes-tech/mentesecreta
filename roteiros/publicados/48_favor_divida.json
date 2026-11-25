@@ -24,7 +24,9 @@
    "emocao": "engano",
    "destaque": [
     "NÃO PEDIU"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia00.jpg",
+   "credito": "IA"
   },
   {
    "text": "Às vezes ele não é presente. É uma dívida.",
@@ -32,7 +34,9 @@
    "emocao": "segredo",
    "destaque": [
     "DÍVIDA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia01.jpg",
+   "credito": "IA"
   },
   {
    "text": "Em 1971, o psicólogo Dennis Regan colocou estudantes de Stanford num teste de arte, ao lado de um ajudante disfarçado.",
@@ -40,7 +44,9 @@
    "emocao": "mente",
    "destaque": [
     "DISFARÇADO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "No intervalo, o ajudante saía e voltava com dois refrigerantes. Um era para o estudante.",
@@ -48,7 +54,9 @@
    "emocao": "grupo",
    "destaque": [
     "REFRIGERANTE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "No fim, ele pedia: compra umas rifas de mim?",
@@ -56,7 +64,9 @@
    "emocao": "dinheiro",
    "destaque": [
     "RIFAS"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quem tinha ganhado o refrigerante comprou quase o dobro de rifas.",
@@ -64,7 +74,9 @@
    "emocao": "dinheiro",
    "destaque": [
     "DOBRO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Gostar dele ou não fez pouca diferença. O que pesou foi a sensação de dever.",
@@ -72,7 +84,9 @@
    "emocao": "engano",
    "destaque": [
     "DEVER"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "É o almoço pago antes do pedido. O favor que chega uma semana antes do me ajuda numa coisa.",
@@ -80,7 +94,9 @@
    "emocao": "dinheiro",
    "destaque": [
     "ANTES"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quem quer algo de você pode pagar primeiro. Um elogio. Um café. Uma carona.",
@@ -88,7 +104,9 @@
    "emocao": "engano",
    "destaque": [
     "PRIMEIRO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   },
   {
    "text": "Agradecer é educação. Pagar com o que você não quer dar é armadilha.",
@@ -96,7 +114,9 @@
    "emocao": "poder",
    "destaque": [
     "ARMADILHA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia09.jpg",
+   "credito": "IA"
   },
   {
    "text": "Recebeu um favor? Agradeça. Mas o seu sim continua sendo seu.",
@@ -104,10 +124,13 @@
    "emocao": "poder",
    "destaque": [
     "SEU"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia10.jpg",
+   "credito": "IA"
   }
  ],
  "pron": {
   "Regan": "Rígan"
- }
+ },
+ "video_id": "Acr5qUE03zw"
 }
