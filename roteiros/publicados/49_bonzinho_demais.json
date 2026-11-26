@@ -24,7 +24,9 @@
    "emocao": "engano",
    "destaque": [
     "ALVO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia00.jpg",
+   "credito": "IA"
   },
   {
    "text": "Sempre cobre o colega. Sempre empresta. Sempre diz sim. Um dia percebe: ninguém mais pergunta. Só pede.",
@@ -32,7 +34,9 @@
    "emocao": "solidao",
    "destaque": [
     "SÓ PEDE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia01.jpg",
+   "credito": "IA"
   },
   {
    "text": "Maquiavel escreveu, há mais de quinhentos anos,",
@@ -40,7 +44,9 @@
    "emocao": "mente",
    "destaque": [
     "MAQUIAVEL"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "que quem quer ser bom em tudo, no meio de tanta gente que não é, acaba se destruindo.",
@@ -48,7 +54,9 @@
    "emocao": "medo",
    "destaque": [
     "DESTRUINDO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "Ele não mandou ser mau. Ele mandou parar de ser ingênuo. Ver as pessoas como elas são, não como você gostaria.",
@@ -56,7 +64,9 @@
    "emocao": "olhar",
    "destaque": [
     "INGÊNUO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Bondade sem limite não é virtude. É convite.",
@@ -64,7 +74,9 @@
    "emocao": "segredo",
    "destaque": [
     "CONVITE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quem se aproveita não procura o mais forte. Procura quem nunca diz não.",
@@ -72,7 +84,9 @@
    "emocao": "grupo",
    "destaque": [
     "NUNCA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "E quanto mais você cede, menos vale o seu sim.",
@@ -80,7 +94,9 @@
    "emocao": "dinheiro",
    "destaque": [
     "VALE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Então continue bom. Mas não com qualquer um.",
@@ -88,7 +104,9 @@
    "emocao": "familia",
    "destaque": [
     "QUALQUER UM"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   },
   {
    "text": "Diga não sem pedir desculpa. Sem inventar motivo.",
@@ -96,7 +114,9 @@
    "emocao": "poder",
    "destaque": [
     "NÃO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia09.jpg",
+   "credito": "IA"
   },
   {
    "text": "Bondade sem limite vira alvo. Bondade com limite vira respeito.",
@@ -104,10 +124,13 @@
    "emocao": "poder",
    "destaque": [
     "RESPEITO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia10.jpg",
+   "credito": "IA"
   }
  ],
  "pron": {
   "Maquiavel": "Maquiavél"
- }
+ },
+ "video_id": "06S9e3yid1Y"
 }
