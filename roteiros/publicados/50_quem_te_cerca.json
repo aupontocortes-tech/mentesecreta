@@ -24,7 +24,9 @@
    "emocao": "grupo",
    "destaque": [
     "VIRANDO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia00.jpg",
+   "credito": "IA"
   },
   {
    "text": "Sem perceber. Sem decidir. Um pouco por dia.",
@@ -32,7 +34,9 @@
    "emocao": "grupo",
    "destaque": [
     "SEM PERCEBER"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia01.jpg",
+   "credito": "IA"
   },
   {
    "text": "Sêneca, um dos homens mais ricos de Roma, escreveu algo assim numa carta:",
@@ -40,7 +44,9 @@
    "emocao": "mente",
    "destaque": [
     "SÊNECA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "toda vez que eu me misturo com a multidão, volto pra casa mais ganancioso, mais ambicioso e até mais cruel.",
@@ -48,7 +54,9 @@
    "emocao": "solidao",
    "destaque": [
     "PIOR"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "Se até ele sentia isso, imagina você. Horas por dia ouvindo reclamação. Fofoca. Desculpa.",
@@ -56,7 +64,9 @@
    "emocao": "engano",
    "destaque": [
     "RECLAMAÇÃO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quem só reclama te ensina a reclamar. Quem só gasta te ensina a gastar.",
@@ -64,7 +74,9 @@
    "emocao": "dinheiro",
    "destaque": [
     "ENSINA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Ninguém te avisa. Você só percebe quando já fala igual, gasta igual, desiste igual.",
@@ -72,7 +84,9 @@
    "emocao": "mente",
    "destaque": [
     "IGUAL"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "O conselho dele foi direto: ande com quem te faz melhor. E receba quem você pode ajudar a melhorar.",
@@ -80,7 +94,9 @@
    "emocao": "poder",
    "destaque": [
     "MELHOR"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Porque quem ensina também aprende.",
@@ -88,7 +104,9 @@
    "emocao": "mente",
    "destaque": [
     "APRENDE"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   },
   {
    "text": "Não precisa largar todo mundo. Mas precisa escolher quanto tempo cada um recebe.",
@@ -96,7 +114,9 @@
    "emocao": "segredo",
    "destaque": [
     "TEMPO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia09.jpg",
+   "credito": "IA"
   },
   {
    "text": "Você vai virar alguém de qualquer jeito. Escolha com quem.",
@@ -104,7 +124,10 @@
    "emocao": "poder",
    "destaque": [
     "ESCOLHA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia10.jpg",
+   "credito": "IA"
   }
- ]
+ ],
+ "video_id": "X7mcpIVH4Gg"
 }
