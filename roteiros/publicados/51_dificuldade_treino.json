@@ -24,7 +24,9 @@
    "emocao": "medo",
    "destaque": [
     "MOSTRAR"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia00.jpg",
+   "credito": "IA"
   },
   {
    "text": "Mostrar quem você é quando ninguém vem te ajudar.",
@@ -32,7 +34,9 @@
    "emocao": "solidao",
    "destaque": [
     "QUEM VOCÊ É"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia01.jpg",
+   "credito": "IA"
   },
   {
    "text": "Epicteto nasceu escravo. E virou um dos filósofos mais respeitados do Império Romano.",
@@ -40,7 +44,9 @@
    "emocao": "mente",
    "destaque": [
     "ESCRAVO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia02.jpg",
+   "credito": "IA"
   },
   {
    "text": "Ele ensinava: são as dificuldades que mostram quem as pessoas são.",
@@ -48,7 +54,9 @@
    "emocao": "olhar",
    "destaque": [
     "DIFICULDADES"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia03.jpg",
+   "credito": "IA"
   },
   {
    "text": "Quando uma chegar, lembre: é como um treinador que te coloca pra lutar com um adversário mais duro.",
@@ -56,7 +64,9 @@
    "emocao": "poder",
    "destaque": [
     "TREINADOR"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia04.jpg",
+   "credito": "IA"
   },
   {
    "text": "Ninguém fica forte lutando com quem não oferece resistência.",
@@ -64,7 +74,9 @@
    "emocao": "poder",
    "destaque": [
     "RESISTÊNCIA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia05.jpg",
+   "credito": "IA"
   },
   {
    "text": "Todo mundo quer ser testado só quando já está pronto. Mas é o teste que te deixa pronto.",
@@ -72,7 +84,9 @@
    "emocao": "poder",
    "destaque": [
     "PRONTO"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia06.jpg",
+   "credito": "IA"
   },
   {
    "text": "A demissão. O fim do namoro. A conta que não fecha.",
@@ -80,7 +94,9 @@
    "emocao": "solidao",
    "destaque": [
     "FIM"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia07.jpg",
+   "credito": "IA"
   },
   {
    "text": "Você pode reclamar dela. Ou pode usar ela.",
@@ -88,7 +104,9 @@
    "emocao": "dinheiro",
    "destaque": [
     "USAR"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia08.jpg",
+   "credito": "IA"
   },
   {
    "text": "Pergunta: o que esse problema está me obrigando a aprender?",
@@ -96,7 +114,9 @@
    "emocao": "mente",
    "destaque": [
     "APRENDER"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia09.jpg",
+   "credito": "IA"
   },
   {
    "text": "O problema não vai dizer quem você é. A sua resposta vai.",
@@ -104,10 +124,13 @@
    "emocao": "poder",
    "destaque": [
     "RESPOSTA"
-   ]
+   ],
+   "src": "/home/runner/work/mentesecreta/mentesecreta/out/ia10.jpg",
+   "credito": "IA"
   }
  ],
  "pron": {
   "Epicteto": "Epictéto"
- }
+ },
+ "video_id": "azgtiDgMrDw"
 }
